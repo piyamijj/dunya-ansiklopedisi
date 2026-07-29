@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Compass, Globe, Handshake, AlertTriangle, FileText, HelpCircle, Landmark } from "lucide-react";
+import { Compass, Globe, HeartHandshake, AlertTriangle, FileText, HelpCircle, Landmark } from "lucide-react";
 import { CountryData, InternationalRelation, Treaty, OrganizationMembership } from "../../../lib/types";
 
 interface RelationsSectionProps {
@@ -47,7 +47,7 @@ export default function RelationsSection({ data, countryFlag = "🌍" }: Relatio
         {/* Bölüm Başlığı */}
         <div className="space-y-4 text-center md:text-left">
           <div className="flex items-center justify-center md:justify-start gap-2.5">
-            <Handshake className="h-6 w-6 text-atlas-gold" />
+            <HeartHandshake className="h-6 w-6 text-atlas-gold" />
             <h2 className="atlas-section-title text-2xl md:text-3xl">
               Uluslararası İlişkiler
             </h2>
