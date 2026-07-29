@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "code": "id",
+    "iso3": "IDN",
+    "name_tr": "Endonezya",
+    "name_en": "Indonesia",
+    "region": "Asya",
+    "capital_tr": "Cakarta",
+    "flag_emoji": "🇮🇩"
+  },
+  "overview": "Endonezya, Güneydoğu Asya ile Okyanusya arasında yer alan ve 17.000'den fazla adadan oluşan dünyanın en büyük takımada devletidir. Dünyanın en kalabalık dördüncü ülkesi ve en yüksek Müslüman nüfusuna sahip devleti olan ülke, jeopolitik olarak Hint ve Büyük okyanusları birleştiren stratejik deniz yollarını kontrol etmektedir. Zengin biyolojik çeşitliliği, gelişmekte olan büyük ekonomisi ve Güneydoğu Asya Ulusları Birliği'ndeki (ASEAN) öncü rolü ile hem bölgesel hem de küresel siyasette kritik bir konuma sahiptir.",
+  "history": {
+    "summary": "Endonezya tarihi, Hint ve Çin deniz ticaret rotalarının kesişim noktasında gelişen antik Hindu-Budist krallıklardan İslam'ın yayılışına, yüzyıllar süren Hollanda sömürge yönetiminden II. Dünya Savaşı'ndaki Japon işgaline ve ardından kazanılan bağımsızlığa uzanan köklü bir geçmişe sahiptir. Bağımsızlık sonrası Sukarno ve Suharto dönemlerinde yaşanan siyasi çalkantılar, 1998 sonrasında yerini modern, demokratik ve desentralize bir devlet yapısına bırakmıştır.",
+    "timeline": [
+      {
+        "year": "7. - 13. Yüzyıl",
+        "title": "Srivijaya İmparatorluğunun Yükselişi",
+        "description": "Sumatra merkezli Srivijaya İmparatorluğu, Malakka Boğazı üzerindeki deniz ticaretini kontrol ederek bölgede Budist kültürün ve maritime ticaretin altın çağını başlattı.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1293-1527",
+        "title": "Majapahit İmparatorluğu Dönemi",
+        "description": "Doğu Cava merkezli Majapahit İmparatorluğu, günümüz Endonezya takımadalarının büyük bölümünü nüfuzu altına alarak bölgedeki en güçlü Hindu-Budist devlet haline geldi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1300-1600",
+        "title": "İslamiyet'in Yayılması",
+        "description": "Açe ve Cava liman kentleri başta olmak üzere Arap ve Hintli tüccarların etkisiyle İslamiyet takımadalar genelinde baskın din haline gelmeye başladı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1602",
+        "title": "Hollanda Doğu Hindistan Şirketi'nin (VOC) Kurulması",
+        "description": "Hollandalılar baharat ticaretini tekel altına almak amacıyla VOC'yi kurdu ve takımadalar üzerinde kademeli sömürge kontrolünü başlattı.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1800",
+        "title": "Hollanda Doğu Hindistanı Kolonisinin Resmi İlanı",
+        "description": "VOC'nin iflas etmesinin ardından bölge yönetimi doğrudan Hollanda Krallığı'na devredildi ve sömürge idaresi merkezileştirildi.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1928",
+        "title": "Gençlik Yemini (Sumpah Pemuda)",
+        "description": "Farklı etnik gruplardan gençlik örgütleri tek vatan, tek millet ve tek dil (Endonezce) ilkeleri etrafında birleşerek ulusal bilinci ilan etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1942-1945",
+        "title": "Japon İşgali",
+        "description": "II. Dünya Savaşı sırasında Japonya takımadaları işgal ederek Hollanda egemenliğine son verdi; bu durum anti-sömürgeci bağımsızlık hareketlerini hızlandırdı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1945",
+        "title": "Bağımsızlık İlanı",
+        "description": "Sukarno ve Mohammad Hatta, 17 Ağustos 1945'te Endonezya'nın bağımsızlığını resmen ilan etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1945-1949",
+        "title": "Ulusal Bağımsızlık Savaşı",
+        "description": "Hollanda'nın sömürge yönetimi yeniden kurma çabalarına karşı yürütülen askeri ve diplomatik mücadele sonucunda Hollanda egemenliği resmen tanıdı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1965-1966",
+        "title": "Siyasi Kriz ve Yeni Düzen'in Başlangıcı",
+        "description": "Başarısız darbe girişimi ve izleyen kitlesel olayların ardından General Suharto yönetimi ele geçirdi ve otoriter 'Yeni Düzen' rejimini başlattı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1998",
+        "title": "Reformasi Süreci ve Suharto'nun İstifası",
+        "description": "1997 Asya Finansal Krizi ve kitlesel öğrenci protestoları sonucunda Suharto istifa etti; ülkede demokratikleşme dönemi başladı.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2004",
+        "title": "İlk Doğrudan Cumhurbaşkanlığı Seçimi",
+        "description": "Endonezya tarihinde ilk kez halk doğrudan cumhurbaşkanını seçti ve Susilo Bambang Yudhoyono göreve geldi.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2019-2024",
+        "title": "Yeni Başkent Projesi (Nusantara)",
+        "description": "Cakarta'daki altyapı ve çevre yükünü azaltmak amacıyla başkentin Doğu Kalimantan'daki Nusantara kentine taşınması kararlaştırıldı ve inşaatı başlatıldı.",
+        "era": "Günümüz"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Endonezya, Güneydoğu Asya'nın en büyük ekonomisi ve G20 üyesidir. Zengin maden kaynakları, geniş tarım alanları, genç nüfusu ve büyüyen dijital pazarı ile dikkat çekmektedir. Son yıllarda ham madde ihracatından ziyade yerel katma değerli sanayileşmeye (downstreaming) odaklanan ülke, özellikle nikel işleme ve elektrikli araç batarya üretiminde küresel bir merkez olmayı hedeflemektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "1.48 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "5,270",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.6",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Endonezya Rupisi (IDR)",
+        "unit": "IDR",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "4.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "275 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Doğrudan Yabancı Yatırım",
+        "value": "47.2 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Palmiye Yağı ve Tarımsal İmalat",
+      "Madencilik (Nikel, Kömür, Boksit, Bakır)",
+      "Otomotiv ve Montaj Sanayii",
+      "Tekstil ve Konfeksiyon",
+      "Kimya ve Petrol Ürünleri",
+      "Bilgi Teknolojileri ve Dijital Hizmetler",
+      "Turizm ve Otelcilik"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 5.17
+          },
+          {
+            "year": "2019",
+            "value": 5.02
+          },
+          {
+            "year": "2020",
+            "value": -2.07
+          },
+          {
+            "year": "2021",
+            "value": 3.7
+          },
+          {
+            "year": "2022",
+            "value": 5.31
+          },
+          {
+            "year": "2023",
+            "value": 5.05
+          },
+          {
+            "year": "2024",
+            "value": 5.08
+          },
+          {
+            "year": "2025",
+            "value": 5.15
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1967",
+        "title": "Yabancı Sermaye Kanunu ve Dışa Açılma",
+        "description": "Yeni Düzen hükümeti, yabancı yatırımları teşvik eden kanunu çıkararak ulusal ekonomiyi Batılı sermayeye ve madencilik yatırımlarına açtı.",
+        "era": "Yeni Düzen Dönemi"
+      },
+      {
+        "year": "1997-1998",
+        "title": "Asya Finansal Krizi",
+        "description": "Rupideki aşırı değer kaybı ve bankacılık çöküşü büyük bir ekonomik krize yol açarak geniş kapsamlı IMF yapısal uyum programını zorunlu kıldı.",
+        "era": "Kriz Dönemi"
+      },
+      {
+        "year": "2020",
+        "title": "Ham Nikel İhracat Yasağı",
+        "description": "Hükümet, ham nikel cevheri ihracatını yasaklayarak ülke içinde eritme ve batarya üretimi tesislerinin kurulmasını zorunlu kılan sanayi hamlesini başlattı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2020",
+        "title": "Omnibus İstihdam Yasası",
+        "description": "İş gücü piyasasını esnekleştirmeyi ve bürokrasiyi azaltarak doğrudan yabancı yatırımları artırmayı hedefleyen kapsamlı yasal reform kabul edildi.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Endonezya, bağımsızlık döneminden bu yana 'özgür ve aktif' (Bebas-Aktif) olarak tanımlanan tarafsız bir dış politika izlemektedir. Ülke, büyük güç bloku çatışmalarına taraf olmayı reddederek bölgesel istikrarı, ASEAN merkezliliği ve çok taraflı diplomasiyi savunur. İslam dünyası ile güçlü bağlara sahip olmakla birlikte Batılı ülkeler, Çin ve bölgesel komşularıyla dengeli ilişkiler yürütür.",
+    "alliances": [
+      {
+        "partner": "ASEAN",
+        "relationType": "Bölgesel Kurucu Üyelik",
+        "description": "Endonezya, ASEAN'ın en büyük üyesi ve fiili lideri olarak örgütün güvenlik, ekonomi ve diplomasi mimarisinde ana direk işlevi görür.",
+        "since": "1967"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Çin, Endonezya'nın en büyük ticaret ortağı ve altyapı ile madencilik projelerindeki temel yatırımcılarından biridir.",
+        "since": "2013"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Güvenlik, savunma, ticaret ve eğitim alanlarında çok yönlü işbirliğini içeren stratejik ortaklık seviyesindedir.",
+        "since": "2015"
+      },
+      {
+        "partner": "Avustralya",
+        "relationType": "Kapsamlı Stratejik Ortaklık ve Güvenlik İşbirliği",
+        "description": "Terörle mücadele, sınır güvenliği, ticaret ve bölgesel istikrar alanlarında komşuluk esasına dayalı sıkı ilişkiler sürdürülmektedir.",
+        "since": "2006"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "1955 Bandung Konferansı Bildirgesi",
+        "year": "1955",
+        "description": "Asya ve Afrika ülkelerini bir araya getirerek Bağlantısızlar Hareketi'nin temellerini atan tarihi konferansa ev sahipliği yapmıştır."
+      },
+      {
+        "name": "ASEAN Dostluk ve İşbirliği Antlaşması (TAC)",
+        "year": "1976",
+        "description": "Güneydoğu Asya'da barışçıl bir arada yaşama, egemenliğe saygı ve uyuşmazlıkların barışçıl çözümü ilkelerini kurala bağlamıştır."
+      },
+      {
+        "name": "Bölgesel Kapsamlı Ekonomik Ortaklık (RCEP)",
+        "year": "2020",
+        "description": "Endonezya'nın dahil olduğu, dünyanın en büyük serbest ticaret bloğunu oluşturan bölgesel ekonomik anlaşmadır."
+      },
+      {
+        "name": "Lombok Antlaşması",
+        "year": "2006",
+        "description": "Endonezya ile Avustralya arasında ikili güvenlik ve savunma işbirliği çerçevesini belirleyen stratejik belgedir."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Çin Halk Cumhuriyeti (Güney Çin Denizi / Natuna Adaları)",
+        "relationType": "Anlaşmazlık",
+        "description": "Endonezya, Natuna Adaları etrafındaki Münhasır Ekonomik Bölgesinin Çin'in dokuz çizgi iddiası ile çakışmasını reddetmekte, egemenlik haklarını donanma devriyeleri ile korumaktadır.",
+        "since": "2010"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ASEAN",
+        "role": "Kurucu Üye",
+        "joinedYear": "1967"
+      },
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1950"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "BRICS",
+        "role": "Ortak Ülke / Davetli",
+        "joinedYear": "2024"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Endonezya, 'Pancasila' olarak bilinen beş ulusal ilkeye (Tek Tanrı'ya inanç, adil insanlık, birlik, demokrasi ve sosyal adalet) dayalı üniter ve başkanlık sistemli bir cumhuriyettir. 1998 Reformasi hareketinin ardından merkezi otoritenin güçleri eyalet ve ilçelere (regency) devredilerek kapsamlı bir desentralizasyon sağlanmıştır. Çok partili yapı ve canlı sivil toplum söylemi siyasi hayatın temel niteliklerindendir.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemi ile Yönetilen Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erkinin başında aynı zamanda devlet başkanı olan Cumhurbaşkanı yer alır. Yasama organı, Halk Temsilciler Meclisi (DPR) ve Bölgesel Temsilciler Meclisi'nden (DPD) oluşan iki kamaralı Halk Danışma Meclisi'dir (MPR). Yargı erki ise Yüksek Mahkeme ve Anayasa Mahkemesi bağımsızlığında yürütülür.",
+    "timeline": [
+      {
+        "year": "1945",
+        "title": "1945 Anayasası'nın Kabulü",
+        "description": "Bağımsızlığın ilanıyla birlikte Pancasila felsefesini içeren ilk anayasa kabul edildi.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1950-1957",
+        "title": "Parlamenter Demokrasi Denemesi",
+        "description": "Kısa süreli parlamenter sistem deneyimi, sık hükümet değişiklikleri ve siyasi istikrarsızlıkla sonuçlandı.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1959",
+        "title": "Güdümlü Demokrasiye Geçiş",
+        "description": "Başkan Sukarno, 1945 Anayasası'na geri döndüğünü ilan ederek ordu ve komünist partinin dengelendiği kişisel yönetimini kurdu.",
+        "era": "Sukarno Dönemi"
+      },
+      {
+        "year": "1967",
+        "title": "Yeni Düzen Rejiminin Resmileşmesi",
+        "description": "Suharto cumhurbaşkanı seçilerek ordunun siyasetteki rolünü (Dwifungsi) ve merkezi otoriteyi pekiştirdi.",
+        "era": "Suharto Dönemi"
+      },
+      {
+        "year": "1998",
+        "title": "Suharto'nun İstifası ve Demokratik Dönüşüm",
+        "description": "Büyük halk gösterileri sonucu 32 yıllık Suharto rejimi sona erdi ve Reformasi süreci başladı.",
+        "era": "Reformasi Dönemi"
+      },
+      {
+        "year": "1999-2002",
+        "title": "Anayasa Değişiklikleri ve Adem-i Merkeziyetçilik",
+        "description": "Dört aşamalı anayasa reformu ile cumhurbaşkanının yetkileri sınırlandı, insan hakları güvenceye alındı ve yetkiler yerel yönetimlere devredildi.",
+        "era": "Demokratikleşme Dönemi"
+      },
+      {
+        "year": "2003",
+        "title": "Anayasa Mahkemesi'nin Kurulması",
+        "description": "Yasal denetim ve anayasal hakların korunması amacıyla bağımsız Anayasa Mahkemesi faaliyete geçti.",
+        "era": "Demokratikleşme Dönemi"
+      },
+      {
+        "year": "2014",
+        "title": "Joko Widodo'nun Seçilmesi",
+        "description": "Siyasi veya askeri elit kökenden gelmeyen ilk lider olarak Joko Widodo (Jokowi) cumhurbaşkanı seçildi.",
+        "era": "Modern Siyasi Dönem"
+      },
+      {
+        "year": "2024",
+        "title": "2024 Genel Seçimleri",
+        "description": "Prabowo Subianto cumhurbaşkanı seçilerek yönetimin barışçıl ve demokratik devrini sürdürdü.",
+        "era": "Günümüz"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Endonezya, araştırma ve geliştirme kapasitesini artırmak amacıyla 2021 yılında tüm devlet araştırma kurumlarını Ulusal Araştırma ve İnovasyon Ajansı (BRIN) çatısı altında birleştirmiştir. Ülke özellikle biyolojik çeşitlilik, jeotermal enerji, aviasyon, biyoyakıt teknolojileri, yer bilimleri ve nikel odaklı batarya teknolojilerinde önemli akademik ve teknolojik çalışmalara imza atmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.31",
+        "unit": "%",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "14,200",
+        "unit": "Adet",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "125,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 60
+      },
+      {
+        "label": "Yüksek Teknoloji İhratının İmalat Sanayiindeki Payı",
+        "value": "8.8",
+        "unit": "%",
+        "scoreOutOf100": 45
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "48,500",
+        "unit": "Adet",
+        "scoreOutOf100": 64
+      }
+    ],
+    "notableAchievements": [
+      "N-250 ve N-219 Yerli Bölgesel Yolcu Uçağı Tasarım ve Üretimi",
+      "Palapa Uydu İletişim Sistemi ile Takımadalar Arası İletişim Altyapısının Kurulması",
+      "B35 ve B40 Palmiye Yağı Bazlı Biyoyakıt Karışım Teknolojilerinin Geliştirilmesi",
+      "Jeotermal Enerji Üretim ve Arama Teknolojilerinde Bölgesel Liderlik",
+      "Sıtma ve Dang Hummasına Karşı Biyolojik Vektör Kontrol Araştırmaları"
+    ],
+    "institutions": [
+      {
+        "name": "BRIN (Badan Riset dan Inovasi Nasional)",
+        "type": "Ulusal Araştırma Kurumu",
+        "description": "Ülkedeki tüm bilimsel, teknolojik ve nükleer araştırma enstitülerini tek çatı altında toplayan merkezi idari kurumdur."
+      },
+      {
+        "name": "Bandung Teknoloji Enstitüsü (ITB)",
+        "type": "Universite",
+        "description": "Mühendislik, havacılık, yer bilimleri ve mimarlık alanında Güneydoğu Asya'nın en köklü ve saygın teknik üniversitelerinden biridir."
+      },
+      {
+        "name": "Endonezya Üniversitesi (UI)",
+        "type": "Universite",
+        "description": "Tıp, sosyal bilimler, hukuk ve temel bilimler alanlarında ülkenin önde gelen akademik araştırma merkezidir."
+      },
+      {
+        "name": "Gadjah Mada Üniversitesi (UGM)",
+        "type": "Universite",
+        "description": "Yogyakarta'da yer alan, tarım, biyoteknoloji, ormancılık ve kamu yönetimi araştırmalarıyla tanınan prestijli kurumdur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:49:08.578Z"
+}

@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "code": "et",
+    "iso3": "ETH",
+    "name_tr": "Etiyopya",
+    "name_en": "Ethiopia",
+    "region": "Afrika",
+    "capital_tr": "Addis Ababa",
+    "flag_emoji": "🇪🇹"
+  },
+  "overview": "Etiyopya veya resmî adıyla Etiyopya Federal Demokratik Cumhuriyeti, Doğu Afrika'nın Afrika Boynuzu olarak adlandırılan stratejik bölgesinde yer alan denize kıyısı olmayan bir Afrika ülkesidir. Nüfus bakımından kıtanın en kalabalık ikinci ülkesi olan Etiyopya, Afrika tarihinde Avrupa sömürgeciliğine karşı bağımsızlığını koruyabilmiş nadir uluslardan biri olma simgesel önemine sahiptir. Başkenti Addis Ababa, Afrika Birliği ve Birleşmiş Milletler Afrika Ekonomik Komisyonu gibi küresel ve bölgesel kuruluşların genel merkezlerine ev sahipliği yapması sebebiyle diplomatik açıdan Afrika'nın merkezi konumundadır.",
+  "history": {
+    "summary": "Etiyopya tarihi, insanlığın ilk yerleşim izlerinden itibaren devam eden ve antik uygarlıklara uzanan köklü bir geçmişe sahiptir. Aksum Krallığı ile M.S. 4. yüzyılda Hristiyanlığı devlet dini olarak benimseyen en eski ülkelerden biri olan Etiyopya, orta çağ boyunca Süleyman Hanedanı altında varlığını sürdürmüştür. 19. yüzyılın sonunda Adwa Muharebesi ile İtalyan işgaline başarılı bir şekilde direnen ülke, 20. yüzyılda monarşinin devrilmesi, askerî cunta (Derg) dönemi ve sonrasında federal yapıya geçiş gibi önemli siyasi dönüşümler yaşamıştır.",
+    "timeline": [
+      {
+        "year": "M.Ö. 1000",
+        "title": "D'mt Krallığı'nın Kurulması",
+        "description": "Etiyopya coğrafyasında bilinen ilk karmaşık devlet yapısı kurulmuş, Güney Arabistan kültürleriyle ticari ve kültürel etkileşim başlamıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.S. 100",
+        "title": "Aksum Krallığı'nın Yükselişi",
+        "description": "Kızıldeniz ticaret rotalarını kontrol eden Aksum Krallığı, antik dünyanın dördüncü büyük gücü haline gelmiş ve kendi parasını basmıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.S. 330",
+        "title": "Hristiyanlığın Devlet Dini Kabul Edilmesi",
+        "description": "Kral Ezana yönetiminde Aksum Krallığı, Hristiyanlığı resmî din olarak benimseyen dünyadaki ilk devletlerden biri olmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1270",
+        "title": "Süleyman Hanedanı'nın Restorasyonu",
+        "description": "Yekuno Amlak'ın tahta geçmesiyle Kral Kral Süleyman ve Saba Melikesi soyuna dayandırılan meşruiyet anlayışı yeniden tesis edilmiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1896",
+        "title": "Adwa Muharebesi Zaferi",
+        "description": "İmparator II. Menelik komutasındaki Etiyopya ordusu, işgalci İtalyan kuvvetlerini mağlup ederek ülkenin bağımsızlığını uluslararası alanda tescillemiştir.",
+        "era": "Modern Öncesi Dönem"
+      },
+      {
+        "year": "1935-1941",
+        "title": "İtalyan İşgali ve İkinci İtalya-Etiyopya Savaşı",
+        "description": "Faşist İtalya ülkeyi işgal etmiş, İmparator Haile Selassie sürgüne gitmiş ancak vatansever direniş ve müttefik desteğiyle işgal sonlandırılmıştır.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1974",
+        "title": "Monarşinin Yıkılışı ve Derg Rejimi",
+        "description": "İmparator Haile Selassie Marxist-Leninist askerî cunta (Derg) tarafından devrilmiş, Mengistu Haile Mariam liderliğinde baskıcı bir rejim kurulmuştur.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1991",
+        "title": "Derg Rejiminin Devrilmesi ve EPRDF Dönemi",
+        "description": "Etiyopya Halkları Devrimci Demokratik Cephesi (EPRDF) Addis Ababa'yı ele geçirerek iç savaşı bitirmiş ve etnik federalizme dayalı yeni bir dönem başlatmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "Abiy Ahmed'in Başbakanlığı ve Reform Süreci",
+        "description": "Siyasi af çıkartılmış, Eritre ile 20 yıllık husumete son veren barış anlaşması imzalanmış ve Başbakan Abiy Ahmed Nobel Barış Ödülü'ne layık görülmüştür.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Etiyopya ekonomisi tarihsel olarak tarıma dayalı bir yapı sergilemekle birlikte, son yirmi yılda altyapı yatırımları ve sanayileşme hamleleriyle Afrika'nın en hızlı büyüyen ekonomilerinden biri olmuştur. Tarım sektörü istihdamın büyük bölümünü sağlarken, kahve ihracatı döviz girdisinin temel direğidir. Son yıllarda hizmet sektörü, havacılık, telekomünikasyon ve yenilenebilir enerji alanlarında ciddi özelleştirme ve modernizasyon adımları atılmaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "205.0",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "1,620",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "22.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Etiyopya Birri",
+        "unit": "ETB",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "7.9",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "4.15",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Doğrudan Yabancı Yatırım Girişi",
+        "value": "3.8",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Tarım ve Kahve Yetiştiriciliği",
+      "Tekstil ve Hazır Giyim",
+      "İnşaat ve Altyapı",
+      "Çiçekçilik ve Bahçecilik",
+      "Havacılık ve Lojistik Hizmetleri",
+      "Yenilenebilir Enerji (Hidroelektrik)"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 6.8
+          },
+          {
+            "year": "2019",
+            "value": 8.4
+          },
+          {
+            "year": "2020",
+            "value": 6.1
+          },
+          {
+            "year": "2021",
+            "value": 5.6
+          },
+          {
+            "year": "2022",
+            "value": 6.4
+          },
+          {
+            "year": "2023",
+            "value": 7.2
+          },
+          {
+            "year": "2024",
+            "value": 6.7
+          },
+          {
+            "year": "2025",
+            "value": 6.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1945",
+        "title": "Etiyopya Havayolları'nın Kurulması",
+        "description": "Devlet destekli hava yolu şirketinin kurulması, ülkenin Afrika'nın uluslararası havacılık ve lojistik merkezine dönüşmesinin temellerini atmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2011",
+        "title": "Büyük Etiyopya Rönesans Barajı Projesinin Başlaması",
+        "description": "Nil nehri üzerinde Afrika'nın en büyük hidroelektrik santralinin inşasına başlanarak ülkenin enerji ihracatçısı olma vizyonu hayata geçirilmiştir.",
+        "era": "21. Yüzyıl"
+      },
+      {
+        "year": "2017",
+        "title": "Addis Ababa - Cibuti Demiryolu Hattının Açılışı",
+        "description": "Çin ortaklığıyla inşa edilen elektrikli demiryolu hattı, denize kıyısı olmayan ülkenin küresel pazarlara erişim maliyetini önemli ölçüde düşürmüştür.",
+        "era": "Modernleşme Dönemi"
+      },
+      {
+        "year": "2019",
+        "title": "Yerli Ekonomik Reform Programı",
+        "description": "Telekomünikasyon ve finans sektörlerinin kademeli olarak yabancı yatırıma açılması ve makroekonomik dengesizliklerin giderilmesi hedeflenmiştir.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Etiyopya, Afrika Boynuzu'nda bölgesel denge kurucu ve lider bir devlet olarak hareket etmektedir. Dış politikasında egemenlik hakkının korunması, bölgesel entegrasyon, ekonomik diplomasinin geliştirilmesi ve Afrika Birliği çerçevesinde çok taraflılığın desteklenmesi ilkesini benimser. Son yıllarda BRICS üyeliği ve Doğu-Batı güç odaklarıyla dengeli ilişki yürütme stratejisi öne çıkmaktadır.",
+    "alliances": [
+      {
+        "partner": "Afrika Birliği",
+        "relationType": "Kurucu Ev Sahibi",
+        "description": "Etiyopya, Afrika Birliği'nin genel merkezine ev sahipliği yaparak kıta diplomasisinin merkezinde yer alır ve barış misyonlarına asker katkısı sağlar.",
+        "since": "1963"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Stratejik Ekonomik Ortak",
+        "description": "Altyapı, demiryolları, sanayi parkları ve finansman alanında en büyük ticari ve yatırım ortağı konumundadır.",
+        "since": "1970"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Güvenlik ve İnsani Yardım Ortağı",
+        "description": "Terörle mücadele, insani yardım ve sağlık projelerinde köklü bir iş birliği sürdürülmektedir.",
+        "since": "1903"
+      },
+      {
+        "partner": "Birleşik Arap Emirlikleri",
+        "relationType": "Yatırım ve Finansal Ortak",
+        "description": "Doğrudan sermaye yatırımları, liman erişim projeleri ve döviz desteği alanlarında stratejik bağlar güçlenmiştir.",
+        "since": "1973"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Addis Ababa Anlaşması",
+        "year": "1896",
+        "description": "İtalya'nın Etiyopya'nın tam bağımsızlığını ve Adwa savaşı sonrası sınır tanıma şartlarını kabul ettiği uluslararası antlaşma."
+      },
+      {
+        "name": "Cezayir Anlaşması",
+        "year": "2000",
+        "description": "Etiyopya ile Eritre arasındaki sınır savaşını resmi olarak sonlandıran ve bağımsız sınır komisyonu kuran barış antlaşması."
+      },
+      {
+        "name": "Cibuti Liman Kullanım ve Transit Anlaşması",
+        "year": "2002",
+        "description": "Etiyopya'nın dış ticaretinin büyük kısmını Cibuti limanları üzerinden yürütmesini güvence altına alan stratejik protokol."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Mısır ve Sudan (Nil Suları ve GERD Anlaşmazlığı)",
+        "relationType": "Anlaşmazlık",
+        "description": "Mavi Nil üzerinde inşa edilen Büyük Etiyopya Rönesans Barajı'nın su dolum hızı ve kuraklık dönemlerindeki su paylaşımı konusunda Mısır ve Sudan ile hukuki bağlayıcılığı olan bir anlaşmaya varılması hususundaki müzakereler devam etmektedir.",
+        "since": "2011"
+      },
+      {
+        "partner": "Sudan (Al-Fashaga Sınır Anlaşmazlığı)",
+        "relationType": "Anlaşmazlık",
+        "description": "Etiyopya-Sudan sınırındaki verimli Al-Fashaga bölgesinin mülkiyeti ve sınır çizimi konusunda iki ülke arasında zaman zaman askeri gerilimler yaşanmaktadır.",
+        "since": "1902"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Afrika Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "1963"
+      },
+      {
+        "name": "BRICS",
+        "role": "Tam Üye",
+        "joinedYear": "2024"
+      },
+      {
+        "name": "Hükümetlerarası Kalkınma Otoritesi (IGAD)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1986"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Etiyopya, etnik temel üzerine kurgulanmış federalizme dayalı bir cumhuriyet sistemine sahiptir. 1995 Anayasası ile ülkenin farklı etnik gruplarına özerklik ve kendi kaderini tayin hakkı tanınmıştır. Çok partili sistem yürürlükte olmakla birlikte siyasi alan güç birikimi, etnik gerilimler ve merkez ile eyaletler arasındaki yetki paylaşımı çekişmeleriyle şekillenmektedir.",
+    "governmentForm": "Federal Demokratik Cumhuriyet",
+    "currentStructure": "Yürütme erki Başbakan ve Bakanlar Kurulu tarafından idare edilir. Yasama organı iki kamaralı meclistir: Halk Temsilcileri Meclisi (nüfusa göre doğrudan seçilir) ve Federasyon Meclisi (eyalet temsilcilerinden oluşur). Yargı bağımsızlığı anayasal olarak güvence altına alınmıştır.",
+    "timeline": [
+      {
+        "year": "1931",
+        "title": "İlk Anayasanın İlanı",
+        "description": "İmparator Haile Selassie ülkenin ilk yazılı anayasasını ilan ederek mutlak monarşiyi merkezi bürokratik bir yapıya kavuşturmuştur.",
+        "era": "Monarşi Dönemi"
+      },
+      {
+        "year": "1974",
+        "title": "Askerî Cunta Dönemi (Derg)",
+        "description": "Monarşi devrilmiş, Sosyalist Etiyopya Geçici Askeri Hükümeti kurularak toprak reformu ve kamu kamulaştırmaları yapılmıştır.",
+        "era": "Askerî Rejim"
+      },
+      {
+        "year": "1987",
+        "title": "Etiyopya Halk Demokratik Cumhuriyeti",
+        "description": "Yeni anayasa ile tek partili sivil-asker kanatlı bir sosyalist cumhuriyet yapısı ilan edilmiştir.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1995",
+        "title": "Federal Anayasanın Kabulü",
+        "description": "Bugünkü Etiyopya Federal Demokratik Cumhuriyeti'ni oluşturan etnik bazlı federal anayasa yürürlüğe girmiştir.",
+        "era": "Federal Dönem"
+      },
+      {
+        "year": "2005",
+        "title": "Tartışmalı Genel Seçimler",
+        "description": "Siyasi katılımın yüksek olduğu seçimler sonrası protestolar yaşanmış, muhalefet üzerindeki baskılar artmıştır.",
+        "era": "Çağdaş Siyasi Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "Prosperity Party (Refah Partisi) İttifakı",
+        "description": "Eski EPRDF koalisyonu feshedilerek ulusal düzeyde birleşmiş tek bir parti yapısına geçilmiştir.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "2020-2022",
+        "title": "Tigray Çatışması ve Pretoria Barış Anlaşması",
+        "description": "Federal hükümet ile TPLF arasındaki şiddetli çatışmalar Güney Afrika'da imzalanan barış antlaşması ile sona erdirilmiştir.",
+        "era": "Güncel Siyasi Dönem"
+      },
+      {
+        "year": "2023",
+        "title": "Ulusal Diyalog Komisyonu Çalışmaları",
+        "description": "Ülkedeki etnik ve siyasi bölünmeleri aşmak amacıyla kapsamlı bir ulusal uzlaşı süreci başlatılmıştır.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Etiyopya, insanlığın kökenine ışık tutan paleoantropolojik keşifleriyle dünya bilimine eşsiz katkılar sağlamıştır. Son yıllarda hükümet, uzay bilimleri, tarımsal biyoteknoloji, yenilenebilir enerji teknolojileri ve dijital dönüşüm alanlarına Ar-Ge yatırımlarını artırmaktadır. Başkent Addis Ababa, Doğu Afrika'nın akademik ve bilimsel araştırma odak noktalarından biri haline gelmiştir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.27",
+        "unit": "%",
+        "scoreOutOf100": 32
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "16,800",
+        "unit": "Kişi",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "210",
+        "unit": "Adet",
+        "scoreOutOf100": 25
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "14.2",
+        "unit": "%",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Yörüngedeki Uydu Sayısı",
+        "value": "2",
+        "unit": "Adet",
+        "scoreOutOf100": 48
+      }
+    ],
+    "notableAchievements": [
+      "Dünyaca ünlü 3.2 milyon yıllık hominid fosili 'Lucy'nin (Australopithecus afarensis) Afar bölgesinde keşfi",
+      "Etiyopya'nın ilk gözlem uydusu olan ET-RSS1'in 2019 yılında başarıyla fırlatılması",
+      "Kuraklığa dayanıklı yerel tahıl türlerinin (özellikle Teff) genetik ve biyoteknolojik ıslah çalışmaları",
+      "Afrika'nın en büyük mühendislik ve su yapıları projelerinden biri olan GERD'in yerli mühendislik kapasitesiyle yürütülmesi"
+    ],
+    "institutions": [
+      {
+        "name": "Addis Ababa Üniversitesi",
+        "type": "Universite",
+        "description": "Doğu Afrika'nın en köklü ve prestijli yükseköğretim kurumu olup sosyal bilimler, tıp ve insani fosil araştırmalarında uzmandır."
+      },
+      {
+        "name": "Etiyopya Ulaşım ve Uzay Bilimi Enstitüsü (ESSTI)",
+        "type": "Uzay Ajansi",
+        "description": "Entoto Rasathanesi ile uydu geliştirme ve astronomi alanlarında Doğu Afrika'nın uzay çalışmalarına öncülük eden devlet kurumudur."
+      },
+      {
+        "name": "Etiyopya Tarımsal Araştırma Enstitüsü (EIAR)",
+        "type": "Arastirma Enstitusu",
+        "description": "Tarım verimliliği, tohum ıslahı ve iklim değişikliğiyle mücadele üzerine odaklanan ulusal tarım Ar-Ge merkezi."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:24:37.587Z"
+}

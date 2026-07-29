@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "code": "sy",
+    "iso3": "SYR",
+    "name_tr": "Suriye",
+    "name_en": "Syria",
+    "region": "Asya",
+    "capital_tr": "Şam",
+    "flag_emoji": "🇸🇾"
+  },
+  "overview": "Suriye, Doğu Akdeniz'de yer alan ve Antik Çağ'dan bu yana medeniyetlerin kesişim noktasında bulunan köklü bir Doğu Akdeniz ülkesidir. Kuzeyde Türkiye, doğuda Irak, güneyde Ürdün, güneybatıda İsrail ve Lübnan ile çevrili olan ülke, tarihsel ticaret yollarının ve kültürel etkileşimlerin merkezinde yer almıştır. Başkenti Şam, dünyanın kesintisiz yerleşim gören en eski şehirlerinden biri olarak kabul edilir. Zengin kültürel mirası, stratejik jeopolitik konumu ve çeşitli etnografik yapısıyla Suriye, Orta Doğu bölgesinin siyasi ve tarihsel dinamiklerinde belirleyici bir role sahiptir.",
+  "history": {
+    "summary": "Suriye tarihi, dünyanın bilinen ilk şehir devletlerinin ve yazılı medeniyetlerinin kurulduğu Mezopotamya ve Akdeniz havzası kültürlerinin etkisiyle şekillenmiştir. Fenike, Asur, Roma ve Bizans egemenliklerinin ardından İslam fethiyle Emevi Hilafeti'nin merkezi olan bölge, yüzyıllar boyunca Osmanlı İmparatorluğu yönetimi altında kalmıştır. 20. yüzyılda Fransız Mandası dönemini takiben bağımsızlığını kazanan ülke, çalkantılı bir siyasi süreç ve bölgesel çatışmaların ardından günümüzdeki yapısına ulaşmıştır.",
+    "timeline": [
+      {
+        "year": "M.Ö. 2500",
+        "title": "Ebla Krallığı ve Erken Şehir Devletleri",
+        "description": "Bölgenin bilinen en eski ticaret ve idare merkezlerinden Ebla Krallığı kuruldu ve çivi yazılı tabletler arşivlendi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 64",
+        "title": "Roma İmparatorluğu Egemenliği",
+        "description": "General Pompey önderliğindeki Roma ordusu bölgeyi ele geçirerek Syria Eyaleti'ni kurdu ve Şam ticari bir merkez haline geldi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "661",
+        "title": "Emevi Halifeliği ve Şam'ın Başkent Olması",
+        "description": "Muaviye'nin halifeliğini ilan etmesiyle Şam, İspanya'dan Hindistan sınırına uzanan devasa Emevi İmparatorluğu'nun başkenti oldu.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1187",
+        "title": "Selahaddin Eyyubi ve Haçlı Seferleri",
+        "description": "Eyyubi Hanedanı bölgede egemenlik kurarak Şam ve Halep'i Haçlı Seferleri'ne karşı savunma ve kültür merkezi yaptı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1516",
+        "title": "Mercidabık Zaferi ve Osmanlı Yönetimi",
+        "description": "Yavuz Sultan Selim'in Memlükleri mağlup etmesiyle Suriye toprakları Osmanlı İmparatorluğu idaresine girdi.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1920",
+        "title": "Fransız Mandası Yönetimi",
+        "description": "San Remo Konferansı kararları uyarınca Milletler Cemiyeti tarafından Suriye'nin yönetimi Fransa'ya devredildi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1946",
+        "title": "Tam Bağımsızlık ve Tahliye Günü",
+        "description": "Son Fransız askerlerinin ülkeden çekilmesiyle Suriye bağımsız bir cumhuriyet olarak uluslararası toplumdaki yerini aldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1958-1961",
+        "title": "Birleşik Arap Cumhuriyeti",
+        "description": "Suriye ve Mısır, Pan-Arabizm vizyonu çerçevesinde tek bir devlet yapısı altında birleşti fakat süreç kısa sürdü.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1963",
+        "title": "8 Mart Baas Darbesi",
+        "description": "Arap Siyasi Sosyalist Baas Partisi askeri kanadı yönetimi ele geçirerek tek parti rejiminin temelini attı.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1970",
+        "title": "Düzeltme Hareketi ve Hafız Esad Dönemi",
+        "description": "Savunma Bakanı Hafız Esad iktidarı ele geçirerek devlet mekanizmasını ve orduyu tek elde topladı.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2011",
+        "title": "İç Savaş ve Bölgesel Kriz",
+        "description": "Arap Baharı dalgasıyla başlayan barışçıl gösteriler, kısa sürede uluslararası aktörlerin dahil olduğu karmaşık bir iç savaşa dönüştü.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Suriye ekonomisi tarihsel olarak tarım, tekstil, petrokimya ve bölgesel ticarete dayanmaktaydı. Ancak 2011 yılında başlayan iç savaş, uluslararası yaptırımlar, altyapı tahribatı ve döviz krizleri nedeniyle ağır bir yıkıma uğramıştır. Günümüzde devlet müdahaleli, kayıt dışılığın yüksek olduğu ve dış yardımlar ile sınırlı ticaret kanallarına bağımlı bir ekonomik yapı gözlemlenmektedir. Son dönemde bölgesel entegrasyon çabaları ile altyapının imarı hedeflenmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "11.5",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "510",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "42.0",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Suriye Lirası (SYP)",
+        "unit": "SYP",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "53.5",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "950",
+        "unit": "Milyon USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "4.2",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Tarım ve Hayvancılık",
+      "Tekstil ve Konfeksiyon",
+      "Ham Petrol ve Rafineri",
+      "Gıda ve İçecek İşleme",
+      "Çimento ve İnşaat Malzemeleri",
+      "Kimya ve İlaç Sanayii"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": -1.8
+          },
+          {
+            "year": "2019",
+            "value": -3.5
+          },
+          {
+            "year": "2020",
+            "value": -6.8
+          },
+          {
+            "year": "2021",
+            "value": -2.9
+          },
+          {
+            "year": "2022",
+            "value": -1.5
+          },
+          {
+            "year": "2023",
+            "value": -0.8
+          },
+          {
+            "year": "2024",
+            "value": 0.3
+          },
+          {
+            "year": "2025",
+            "value": 1.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1958",
+        "title": "Toprak Reformu ve Kamulaştırma",
+        "description": "Büyük toprak sahiplerinin mülkleri kamulaştırılarak köylülere dağıtıldı ve sosyalist iktisat politikaları benimsendi.",
+        "era": "Planlı Ekonomi Dönemi"
+      },
+      {
+        "year": "1974",
+        "title": "Petrol İhracatçısı Konuma Geçiş",
+        "description": "Fırat Havzası'ndaki hidrokarbon rezervlerinin işletilmeye başlanmasıyla sanayi hamlesi finanse edildi.",
+        "era": "Büyüme Dönemi"
+      },
+      {
+        "year": "2001",
+        "title": "Piyasa Ekonomisine Geçiş Reformları",
+        "description": "Özel bankacılık, döviz büroları ve özel sektör yatırımlarına izin verilerek kademeli serbestleşme başlatıldı.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "2011",
+        "title": "Yaptırımlar ve Ekonomik Yıkım",
+        "description": "ABD ve AB yaptırımları ile petrol üretimi ve ihracat kanalları daraldı, ulusal para birimi hızla değer kaybetti.",
+        "era": "Kriz Dönemi"
+      },
+      {
+        "year": "2023",
+        "title": "Arap Ligi'ne Dönüş ve Ticari Etkileşim",
+        "description": "Bölgesel diplomasideki yumuşama ile Körfez ülkeleriyle ticari ve yatırım temasları yeniden başladı.",
+        "era": "Yeniden Yapılanma"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Suriye'nin dış politikası, tarihsel olarak Arap milliyetçiliği, Batı karşıtı duruş ve stratejik ittifaklar etrafında şekillenmiştir. İç savaş döneminde Rusya ve İran ile askeri ve siyasi stratejik ortaklığını derinleştiren ülke, son yıllarda Arap dünyası ile ilişkilerini normalleştirme sürecine girmiştir. Birleşmiş Milletler üyesi olan Suriye, egemenlik hakları ve toprak bütünlüğü ilkelerini dış ilişkilerinin merkezine koymaktadır.",
+    "alliances": [
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Stratejik Müttefik",
+        "description": "Askeri, siyasi ve ekonomik alanlarda en üst düzey ittifak; Tartus ve Hmeymim askeri üslerine ev sahipliği yapılmaktadır.",
+        "since": "1944"
+      },
+      {
+        "partner": "İran İslam Cumhuriyeti",
+        "relationType": "Stratejik Ortak",
+        "description": "Bölgesel güvenlik, enerji ve altyapı projelerinde kapsamlı işbirliği ve karşılıklı savunma desteği dayanışması.",
+        "since": "1979"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortak",
+        "description": "Kuşak ve Yol İnisiyatifi kapsamında insani yardım, altyapı inşası ve diplomatik destek ilişkisi.",
+        "since": "1956"
+      },
+      {
+        "partner": "Irak",
+        "relationType": "Komşuluk ve Güvenlik Ortaklığı",
+        "description": "Sınır güvenliği, terörle mücadele ve bölgesel ticaret eksenli stratejik koordinasyon.",
+        "since": "2006"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Suriye-Rusya Askeri Üs ve İşbirliği Anlaşması",
+        "year": "2015",
+        "description": "Rus Silahlı Kuvvetleri'nin Suriye topraklarındaki konuşlanmasını ve askeri yardım ilkelerini yasal zemine oturtan antlaşma."
+      },
+      {
+        "name": "Adana Mutabakatı",
+        "year": "1998",
+        "description": "Türkiye ile Suriye arasında sınır güvenliği ve terör örgütleriyle ortak mücadeleyi düzenleyen güvenlik antlaşması."
+      },
+      {
+        "name": "Arap Ortak Savunma ve Ekonomik İşbirliği Antlaşması",
+        "year": "1950",
+        "description": "Arap Ligi üyesi ülkeler arasında kolektif savunma ve ekonomik entegrasyonu hedefleyen çerçeve antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "İsrail",
+        "relationType": "Anlaşmazlık",
+        "description": "1967 Altı Gün Savaşı'ndan bu yana İsrail işgali altında bulunan Gol Tepeleri üzerindeki egemenlik iddiası ve diplomatik savaş durumu.",
+        "since": "1967"
+      },
+      {
+        "partner": "Türkiye",
+        "relationType": "Anlaşmazlık",
+        "description": "Suriye'nin kuzeyindeki sınır güvenliği, askeri varlık ve sığınmacıların geri dönüş koşullarına ilişkin diplomatik ve askeri anlaşmazlıklar.",
+        "since": "2011"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Arap Ligi",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "Bağlantısızlar Hareketi",
+        "role": "Üye",
+        "joinedYear": "1961"
+      },
+      {
+        "name": "G77",
+        "role": "Üye",
+        "joinedYear": "1964"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Suriye, Anayasal olarak çok partili bir sistem öngörmekle birlikte, uygulamada Cumhurbaşkanlığı makamının ve Baas Partisi'nin baskın olduğu üniter bir otoriter cumhuriyettir. Yönetim yapısı güçlü bir merkezi yürütmeye ve silahlı kuvvetler ile güvenlik bürokrasisinin entegrasyonuna dayanır. 2012 Anayasa değişikliği ile cumhurbaşkanlığı için sınırlı adaylık hakkı getirilmiş olsa da siyasi karar alma süreçleri yüksek derecede merkezileşmiştir.",
+    "governmentForm": "Başkanlık Tipi Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erki, geniş yetkilere sahip Devlet Başkanı ve onun atadığı Bakanlar Kurulu tarafından kullanılır. Yasama erki, 250 sandalyeli ve dört yılda bir seçilen Halk Meclisi (Majlis al-Sha'ab) tarafından yürütülür. Yargı erki ise Yüksek Yargı Konseyi ve Anayasa Mahkemesi denetimindedir.",
+    "timeline": [
+      {
+        "year": "1946",
+        "title": "Cumhuriyetin İlanı",
+        "description": "Fransız Mandası sonrasında ilk anayasal parlamenter cumhuriyet yapısı oluşturuldu.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1949",
+        "title": "Askeri Darbeler Silsilesi",
+        "description": "Hüsnü Zaim önderliğindeki ilk askeri darbe, ülkedeki parlamenter demokrasi sürecini kesintiye uğrattı.",
+        "era": "Çalkantılı Dönem"
+      },
+      {
+        "year": "1963",
+        "title": "Baas Partisi'nin İktidarı Alması",
+        "description": "Askeri ihtilal ile Arap milliyetçisi ve sosyalist ilkeleri savunan Baas Partisi devlet rejimini yeniden tasarladı.",
+        "era": "Baas Rejimi"
+      },
+      {
+        "year": "1973",
+        "title": "Yeni Anayasa ve Hafız Esad Yönetimi",
+        "description": "Devlet başkanına olağanüstü yetkiler tanıyan ve Baas Partisi'ni toplumun lideri ilan eden anayasa yürürlüğe girdi.",
+        "era": "Esad Dönemi"
+      },
+      {
+        "year": "2000",
+        "title": "Beşar Esad'ın Cumhurbaşkanı Olması",
+        "description": "Hafız Esad'ın vefatının ardından anayasal yaş sınırı değiştirilerek Beşar Esad cumhurbaşkanlığına seçildi.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2012",
+        "title": "Anayasa Referandumu",
+        "description": "Baas Partisi'nin 'toplumun lideri' olduğuna dair 8. madde kaldırıldı ve teorik olarak çok partili sisteme geçildi.",
+        "era": "Anayasal Reform"
+      },
+      {
+        "year": "2014",
+        "title": "Çok Adaylı Cumhurbaşkanlığı Seçimi",
+        "description": "İç savaş şartlarında ilk kez sembolik olarak birden fazla aday yarıştı ve Beşar Esad yeniden seçildi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2021",
+        "title": "Son Cumhurbaşkanlığı Seçimleri",
+        "description": "Beşar Esad oy çoğunluğuyla 7 yıllık yeni dönemi için tekrar göreve seçildi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Suriye'nin bilimsel altyapısı, tarihsel olarak Orta Doğu'nun en köklü tıp ve mühendislik fakültelerine ev sahipliği yapmış olmasından güç almaktadır. Eğitim dilinin Arapça olduğu köklü devlet üniversiteleri bilimsel üretimin ana merkezleridir. Ancak son yıllarda yaşanan iç krizler; akademisyen göçü, araştırma bütçelerindeki kısıtlamalar ve altyapı tahribatı nedeniyle bilimsel yayın ve teknolojik inovasyon kapasitesini olumsuz etkilemiştir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.12",
+        "unit": "%",
+        "scoreOutOf100": 18
+      },
+      {
+        "label": "Yetişkin Okur-Yazarlık Oranı",
+        "value": "86.4",
+        "unit": "%",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "850",
+        "unit": "Adet",
+        "scoreOutOf100": 25
+      },
+      {
+        "label": "Toplam Yükseköğretim Kurumu Sayısı",
+        "value": "31",
+        "unit": "Adet"
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "110",
+        "unit": "Adet"
+      }
+    ],
+    "notableAchievements": [
+      "Arap Dünyasında Tıp ve Mühendislik Eğitiminin Tamamen Arapçalaştırılması Müfredat Başarısı",
+      "ICARDA Ev Sahipliğinde Kurak Bölge Tarımsal Araştırmaları ve Tohum Bankacılığı Mirası",
+      "Ortadoğu Arkeolojisi ve Epigrafik Metin Çözümlemelerinde Uluslararası Araştırma Katkıları",
+      "Suriye Sanal Üniversitesi ile Bölgesel Uzaktan Eğitim Modelinin Erken Dönem Entegrasyonu"
+    ],
+    "institutions": [
+      {
+        "name": "Şam Üniversitesi",
+        "type": "Universite",
+        "description": "1923 yılında kurulan, tıp, hukuk ve mühendislik alanlarında ülkenin en prestijli ve en köklü devlet üniversitesi."
+      },
+      {
+        "name": "Halep Üniversitesi",
+        "type": "Universite",
+        "description": "özellikle mühendislik, tarım bilimleri ve Doğu Akdeniz arkeolojisi araştırmalarında öne çıkan köklü akademi."
+      },
+      {
+        "name": "Bilimsel Araştırmalar Çalışma Merkezi (SSRC)",
+        "type": "Arastirma Enstitusu",
+        "description": "Devlet bünyesinde ileri teknoloji, askeri sanayi ve temel bilim araştırmalarını koordine eden stratejik merkez."
+      },
+      {
+        "name": "Suriye Sanal Üniversitesi (SVU)",
+        "type": "Universite",
+        "description": "Arap dünyasında çevrim içi ve uzaktan yükseköğretim hizmeti sunan ilk yenilikçi devlet kurumu."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:47:44.714Z"
+}

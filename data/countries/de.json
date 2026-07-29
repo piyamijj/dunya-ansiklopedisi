@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "code": "de",
+    "iso3": "DEU",
+    "name_tr": "Almanya",
+    "name_en": "Germany",
+    "region": "Avrupa",
+    "capital_tr": "Berlin",
+    "flag_emoji": "🇩🇪"
+  },
+  "overview": "Almanya Federal Cumhuriyeti, Orta Avrupa'da yer alan, kuzeyde Kuzey Denizi ve Baltık Denizi'ne, güneyde ise Alpler'e kadar uzanan bir federal devlettir. Avrupa Birliği'nin en kalabalık nüfusa sahip üyesi ve kıtanın en büyük ekonomisi olan ülke, gelişmiş sanayi altyapısı ve yüksek yaşam standartlarıyla öne çıkar. Başkenti Berlin olan Almanya, 16 eyaletten oluşan federal bir yönetim yapısına sahiptir. Birleşmiş Milletler, NATO, G7 ve G20 gibi küresel kuruluşların önde gelen üyelerinden biri olarak uluslararası siyasette kilit bir rol oynamaktadır.",
+  "history": {
+    "summary": "Cermen kabilelerinin antik dönemdeki varlığından Kutsal Roma Cermen İmparatorluğu'na, 19. yüzyıldaki ulusal birlik sürecinden 20. yüzyılın iki büyük dünya savaşına kadar karmaşık bir tarihsel süreçten geçen Almanya, II. Dünya Savaşı sonrasında Doğu ve Batı olarak ikiye bölünmüş, 1990 yılında Berlin Duvarı'nın yıkılmasının ardından yeniden birleşmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 9",
+        "title": "Teutoburg Ormanı Muharebesi",
+        "description": "Arminius komutasındaki Cermen kabileleri, Roma lejyonlarını mağlup ederek Roma İmparatorluğu'nun Ren Nehrı'nin doğusuna doğru genişlemesini durdurmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "800",
+        "title": "Şarlman'ın İmparatorluk Tacı Giymesi",
+        "description": "Frank Kralı Şarlman'ın Papa tarafından Roma İmparatoru taçlandırılması, ileride Kutsal Roma Cermen İmparatorluğu'na dönüşecek yapının temellerini atmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1517",
+        "title": "Protestan Reformu",
+        "description": "Martin Luther'in 95 Tez'i Wittenberg'de yayımlamasıyla başlayan Reform hareketi, Avrupa'da dini ve siyasi dengeleri kökten değiştirmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1618-1648",
+        "title": "Otuz Yıl Savaşları ve Vestfalya Barışı",
+        "description": "Kutsal Roma Cermen İmparatorluğu topraklarında yıkıcı etki yaratan savaş, Vestfalya Antlaşması ile sona ermiş ve modern egemen devletler sisteminin temelini atmıştır.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1871",
+        "title": "Alman İmparatorluğu'nun Kuruluşu",
+        "description": "Prusya Şansölyesi Otto von Bismarck'ın diplomasisi ve Fransa-Prusya Savaşı sonrasında Alman devletleri birleşmiş ve II. Reich ilan edilmiştir.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1914-1918",
+        "title": "I. Dünya Savaşı ve Weimar Cumhuriyeti",
+        "description": "I. Dünya Savaşı'ndaki yenilginin ardından Monarşi yıkılmış ve Almanya'nın ilk demokratik deneyimi olan Weimar Cumhuriyeti kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1933-1945",
+        "title": "Ulusal Sosyalist Dönem ve II. Dünya Savaşı",
+        "description": "Adolf Hitler liderliğindeki Nasyonal Sosyalist Alman İşçi Partisi'nin iktidara gelmesi, II. Dünya Savaşı'na ve Holokost trajedisine yol açmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1949",
+        "title": "Almanya'nın Bölünmesi",
+        "description": "Savaş sonrası müttefik işgal bölgelerinde Almanya Federal Cumhuriyeti (Batı) ve Almanya Demokratik Cumhuriyeti (Doğu) kurulmuştur.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1961",
+        "title": "Berlin Duvarı'nın İnşası",
+        "description": "Doğu Almanya yönetimi, Batı'ya kitlesel kaçışları engellemek amacıyla Berlin'i fiziksel olarak ikiye bölen duvarı inşa etmiştir.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1989",
+        "title": "Berlin Duvarı'nın Yıkılışı",
+        "description": "Doğu Bloku'ndaki çözülme ve halk protestoları sonucunda Berlin Duvarı yıkılmış, Soğuk Savaş'ın simgesel sonu yaşanmıştır.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1990",
+        "title": "Almanya'nın Yeniden Birleşmesi",
+        "description": "3 Ekim 1990 tarihinde Doğu Almanya eyaletlerinin Federal Cumhuriyet'e katılmasıyla resmi birleşme tamamlanmıştır.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2002",
+        "title": "Euro Banknot ve Madeni Paralarının Kullanıma Girmesi",
+        "description": "Alman Markı tedavülden kaldırılarak Avrupa tek para birimi olan Euro ortak para birimi olarak benimsennmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Almanya, yüksek nitelikli iş gücü, gelişmiş altyapısı ve Ar-Ge odaklı sanayisiyle Avrupa'nın en büyük, dünyanın ise dördüncü büyük nominal ekonomisidir. 'Sosyal Piyasa Ekonomisi' modelini uygulayan ülke, serbest piyasa serbestisini sosyal dengelerle birleştirmeyi hedefler. İhracata dayalı büyüme modeli ve otomotiv, makine, kimya sektörlerindeki küresel pazar liderliği ekonomisinin temel direkleridir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "4.73 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "55,400",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "3.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "1.68 Trilyon",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      },
+      {
+        "label": "Cari Denge / GSYİH Oranı",
+        "value": "6.1",
+        "unit": "%",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Otomotiv ve Yan Sanayi",
+      "Makine ve Ekipman İmalatı",
+      "Kimya ve İlaç Sanayii",
+      "Elektrik ve Elektronik Mühendisliği",
+      "Yenilenebilir Enerji ve Çevre Teknolojileri",
+      "Finansal Hizmetler ve Lojistik"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1
+          },
+          {
+            "year": "2019",
+            "value": 1.1
+          },
+          {
+            "year": "2020",
+            "value": -3.8
+          },
+          {
+            "year": "2021",
+            "value": 3.2
+          },
+          {
+            "year": "2022",
+            "value": 1.8
+          },
+          {
+            "year": "2023",
+            "value": -0.3
+          },
+          {
+            "year": "2024",
+            "value": 0.2
+          },
+          {
+            "year": "2025",
+            "value": 1.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1948",
+        "title": "Para Reformu ve Sosyal Piyasa Ekonomisi",
+        "description": "Deutsche Mark'ın tedavüle sokulması ve Ludwig Erhard öncülüğünde Sosyal Piyasa Ekonomisi modeline geçilmesi.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1950-1960",
+        "title": "Wirtschaftswunder (Ekonomik Mucize)",
+        "description": "Marshall Planı desteği ve hızlı sanayileşme ile Batı Almanya'nın mucizevi ekonomik büyüme yakalaması.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1990",
+        "title": "Ekonomik ve Parasal Birlik",
+        "description": "Doğu ve Batı Almanya ekonomilerinin birleştirilmesi ve Treuhandanstalt aracılığıyla devlet işletmelerinin özelleştirilmesi.",
+        "era": "Birleşme Dönemi"
+      },
+      {
+        "year": "2003",
+        "title": "Agenda 2010 Reformları",
+        "description": "Şansölye Gerhard Schröder döneminde iş gücü piyasasını esnekleştiren ve sosyal güvenlik sistemini rekor düzeyde reforme eden paket.",
+        "era": "2000'ler"
+      },
+      {
+        "year": "2011",
+        "title": "Energiewende (Enerji Dönüşümü) Kararı",
+        "description": "Nükleer enerjiden kademeli çıkış ve yenilenebilir enerji kaynaklarına kitlesel geçiş hedefine dayalı stratejik karar.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Almanya dış politikasında çok taraflılık, Avrupa entegrasyonu, transatlantik müttefiklik ve uluslararası hukukun üstünlüğü ilkesini benimser. Avrupa Birliği'nin kurucu ve en nüfuzlu üyelerinden biri olan ülke, barışçıl diplomasi, ekonomik iş birliği ve iklim değişikliği ile mücadelede küresel aktör konumundadır.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Kurucu Üye ve Lider Aktör",
+        "description": "Almanya, AB'nin siyasi ve ekonomik motoru işlevini görür; ortak pazar ve para biriminin en büyük destekçisidir.",
+        "since": "1957"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Askeri Müttefik",
+        "description": "Kolektif savunma ve Transatlantik güvenliğin temel taşı olarak kabul edilen örgütte önemli bir sorumluluk üstlenmektedir.",
+        "since": "1955"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Ortak",
+        "description": "Güvenlik, ticaret, teknoloji ve küresel diplomasi alanlarında köklü ve stratejik bir iş birliği sürdürülmektedir.",
+        "since": "1949"
+      },
+      {
+        "partner": "Fransa",
+        "relationType": "Stratejik İkili İttifak",
+        "description": "'Fransa-Almanya Motoru', Avrupa entegrasyonunun ve AB politikalarının şekillenmesinde ana yönlendirici eksendir.",
+        "since": "1963"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Élysée Antlaşması",
+        "year": "1963",
+        "description": "Fransa ve Almanya arasında tarihsel düşmanlığa son veren ve ikili ilişkileri kurumsallaştıran dostluk antlaşması."
+      },
+      {
+        "name": "İki Artı Dört Anlaşması",
+        "year": "1990",
+        "description": "Dört işgalci güç ile iki Alman devletinin imzaladığı ve birleşik Almanya'ya tam egemenlik kazandıran anlaşma."
+      },
+      {
+        "name": "Maastricht Antlaşması",
+        "year": "1992",
+        "description": "Avrupa Birliği'ni kuran ve Euro'ya giden yolu açan temel kurucu anlaşmalardan biri."
+      },
+      {
+        "name": "Aachen Antlaşması",
+        "year": "2019",
+        "description": "Élysée Antlaşması'nı güncelleyen, Fransa-Almanya savunma ve ekonomi entegrasyonunu derinleştiren belge."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Anlaşmazlık ve Diplomatik Kriz",
+        "description": "Ukrayna savaşı sonrası enerji bağımlılığının sonlandırılması, yaptırımlar ve bölgesel güvenlik mimarisine dair derin diplomatik ve ekonomik görüş ayrılıkları.",
+        "since": "2022"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1973"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "1957"
+      },
+      {
+        "name": "NATO",
+        "role": "Aktif Üye",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "G7",
+        "role": "Aktif Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Almanya, 1949 Anayasası (Grundgesetz) ile teminat altına alınan temsilî, federal ve parlamenter bir cumhuriyettir. Demokrasinin korunması, insan hakları ve yetkilerin federal hükümet ile 16 eyalet (Länder) arasında dengeli paylaşımı siyasi mimarinin temel unsurudur.",
+    "governmentForm": "Federal Parlamenter Anayasal Cumhuriyet",
+    "currentStructure": "Yürütme erki, Hükümet Başkanı olan Federal Şansölye (Bundeskanzler) ve Bakanlar Kurulu ile devletin başı konumundaki Federal Cumhurbaşkanı (Bundespräsident) tarafından yürütülür. Yasama organı doğrudan halk tarafından seçilen Federal Meclis (Bundestag) ve eyalet hükümetlerinin temsil edildiği Eyalet Temsilciler Meclisi'nden (Bundesrat) oluşur. Yargı denetimi bağımsız Federal Anayasa Mahkemesi (Bundesverfassungsgericht) tarafından sağlanır.",
+    "timeline": [
+      {
+        "year": "1949",
+        "title": "Federal Anayasa'nın Kabulü",
+        "description": "Batı Almanya için hazırlanan Grundgesetz (Temel Kanun) yürürlüğe girerek federal demokratik yapıyı kurmuştur.",
+        "era": "Anayasal Kuruluş"
+      },
+      {
+        "year": "1955",
+        "title": "Paris Antlaşmaları",
+        "description": "Batı Almanya üzerindeki işgal rejiminin resmi olarak son bulması ve ülkenin egemenliğine kavuşması.",
+        "era": "Soğuk Savaş"
+      },
+      {
+        "year": "1969",
+        "title": "Willy Brandt ve Ostpolitik",
+        "description": "Doğu Bloku ülkeleri ve Doğu Almanya ile ilişkileri yumuşatmayı hedefleyen Doğu Politikası'nın başlatılması.",
+        "era": "Diplomatik Dönüşüm"
+      },
+      {
+        "year": "1990",
+        "title": "Anayasanın Tüm Almanya'ya Yayılması",
+        "description": "Grundgesetz'in 23. maddesi uyarınca yeni Doğu eyaletlerinin katılımıyla anayasanın kapsayıcılığı tamamlanmıştır.",
+        "era": "Birleşme Dönemi"
+      },
+      {
+        "year": "1994",
+        "title": "Silahlı Kuvvetlerin Yurt Dışı Görev Kararı",
+        "description": "Anayasa Mahkemesi, Alman ordusunun (Bundeswehr) NATO ve BM çerçevesinde yurt dışı operasyonlara katılabileceğine hükmetmiştir.",
+        "era": "Güvenlik Politikası"
+      },
+      {
+        "year": "2005",
+        "title": "İlk Kadın Şansölye Dönemi",
+        "description": "Angela Merkel'in göreve gelmesiyle Almanya siyasetinde 16 yıl sürecek kesintisiz bir istikrar dönemi başlamıştır.",
+        "era": "Modern Politika"
+      },
+      {
+        "year": "2021",
+        "title": "Üçlü Koalisyon Hükümeti (Trafik Işığı Koalisyonu)",
+        "description": "SPD, Yeşiller ve FDP ortaklığında Almanya tarihinde ilk kez üç partili bir federal hükümet kurulmuştur.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Zeitenwende (Dönüm Noktası) İlanı",
+        "description": "Şansölye Olaf Scholz tarafından duyurulan, savunma harcamalarını rekor düzeyde artıran stratejik politika değişimi.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Almanya, fizik, kimya, tıp ve mühendislik alanlarında zengin bir bilimsel mirasa sahip, Ar-Ge yatırımları ve inovasyon kapasitesiyle küresel lider konumunda bir ülkedir. Devlet desteği, akademi ve sanayi iş birliği modeli, ulusal araştırma ekosisteminin başarısının anahtarıdır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "3.14",
+        "unit": "%",
+        "scoreOutOf100": 92
+      },
+      {
+        "label": "Yıllık Patent Başvurusu (DPMA)",
+        "value": "58,600",
+        "unit": "Adet",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "460,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 86
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "8",
+        "unit": "Sıra",
+        "scoreOutOf100": 90
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "112,000",
+        "unit": "Makale",
+        "scoreOutOf100": 85
+      }
+    ],
+    "notableAchievements": [
+      "Kuantum Mekaniği ve Görelilik Kuramı'nın Tarihsel Gelişimi (Planck, Einstein, Heisenberg)",
+      "Sanayi 4.0 (Industry 4.0) Dijital Üretim Standartlarının Kavramsallaştırılması",
+      "COVID-19 İçi mRNA Aşı Teknolojisinin Başarıyla Geliştirilmesi (BioNTech)",
+      "Wendelstein 7-X Nükleer Füzyon Stelleratör Araştırma Projesi",
+      "Otomobilin İcadı (Karl Benz ve Gottlieb Daimler)"
+    ],
+    "institutions": [
+      {
+        "name": "Max Planck Topluluğu",
+        "type": "Arastirma Enstitusu",
+        "description": "Temel bilimler alanında dünya çapında önde gelen, çok sayıda Nobel ödüllü bilim insanı yetiştirmiş özerk araştırma kurumu."
+      },
+      {
+        "name": "Fraunhofer Derneği",
+        "type": "Arastirma Enstitusu",
+        "description": "Uygulamalı bilimler ve sanayi odaklı Ar-Ge projelerinde Avrupa'nın en büyük organizasyonu."
+      },
+      {
+        "name": "Münih Teknik Üniversitesi (TUM)",
+        "type": "Universite",
+        "description": "Mühendislik, doğa bilimleri ve teknoloji alanında dünyanın en saygın teknik üniversitelerinden biri."
+      },
+      {
+        "name": "Heidelberg Üniversitesi",
+        "type": "Universite",
+        "description": "1386 yılında kurulan, tıp ve doğa bilimlerinde köklü geleneneğe sahip Almanya'nın en eski üniversitesi."
+      },
+      {
+        "name": "Helmholtz Alman Araştırma Merkezleri Birliği",
+        "type": "Arastirma Enstitusu",
+        "description": "Enerji, yer bilimleri, havacılık ve uzay alanlarında büyük ölçekli bilimsel altyapıları işleten araştırma ağı."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:16:08.757Z"
+}

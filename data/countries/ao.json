@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "code": "ao",
+    "iso3": "AGO",
+    "name_tr": "Angola",
+    "name_en": "Angola",
+    "region": "Afrika",
+    "capital_tr": "Luanda",
+    "flag_emoji": "🇦🇴"
+  },
+  "overview": "Angola, Güneybatı Afrika'da Atlas Okyanusu kıyısında yer alan, zengin doğal kaynakları ve stratejik konumuyla Afrika kıtasının önemli ülkelerinden biridir. Kuzeyde Demokratik Kongo Cumhuriyeti, doğuda Zambiya ve güneyde Namibya ile komşu olan ülkenin başkenti ve en büyük metropolü Luanda'dır. Yüzyıllar süren Portekiz sömürge yönetiminin ardından 1975 yılında bağımsızlığını kazanan Angola, uzun süren bir iç savaş dönemini atlatarak bölgesel istikrar ve ekonomik kalkınmaya odaklanmıştır. Günümüzde zengin petrol ve elmas rezervleri sayesinde sahra altı Afrika'nın önde gelen ekonomileri arasında yer almaktadır.",
+  "history": {
+    "summary": "Angola tarihi, Khoisan halklarının ilk yerleşimlerinden Bantu topluluklarının bölgeye göçüne, Orta Çağ'ın güçlü Kongo ve Ndongo krallıklarından Portekiz sömürgeciliğine uzanan köklü bir geçmişe sahiptir. 20. yüzyılda başlayan bağımsızlık mücadelesi 1975'te zaferle sonuçlanmış, ancak ülke hemen ardından Soğuk Savaş dinamiklerinin de beslediği yıkıcı bir iç savaşa sürüklenmiştir. 2002 yılında sağlanan nihai barışın ardından Angola, ulusal uzlaşı ve altyapı merkezli yeniden yapılanma sürecine girmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 1000",
+        "title": "Bantu Göçleri ve İlk Yerleşimler",
+        "description": "Orta Afrika'dan güneye doğru ilerleyen Bantu toplulukları bölgeye yerleşerek tarım, demircilik ve toplumsal örgütlenme modellerini getirdi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1390",
+        "title": "Kongo Krallığı'nın Kuruluşu",
+        "description": "Bölgenin en nüfuzlu devlet yapılarından biri olan Kongo Krallığı kuruldu ve günümüz kuzey Angola topraklarında hakimiyet sağladı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1482",
+        "title": "Diogo Cão ve İlk Portekiz Teması",
+        "description": "Portekizli denizci Diogo Cão, Kongo Nehrinin ağzına ulaşarak avrupalıların bölgeyle ilk doğrudan temasını başlattı.",
+        "era": "Keşifler Çağı"
+      },
+      {
+        "year": "1575",
+        "title": "Luanda'nın Kuruluşu ve Sömürge Yönetimi",
+        "description": "Portekizli kâşif Paulo Dias de Novais tarafından Luanda şehri kuruldu ve atlantik ötesi köle ticaretinin merkezi haline getirildi.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1631-1663",
+        "title": "Kraliçe Nzinga'nın Direnişi",
+        "description": "Ndongo ve Matamba Krallıklarının yöneticisi Kraliçe Nzinga, Portekiz genişlemesine karşı onlarca yıl süren askeri ve diplomatik bir direniş yönetti.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1961",
+        "title": "Bağımsızlık Savaşı'nın Başlaması",
+        "description": "MPLA, UNITA ve FNLA gibi antikolonyalist hareketlerin Portekiz yönetimine karşı başlattığı silahlı ayaklanmayla bağımsızlık savaşı patlak verdi.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1975",
+        "title": "Bağımsızlık İlanı ve İç Savaşın Başlangıcı",
+        "description": "Portekiz'in çekilmesiyle 11 Kasım'da bağımsızlık ilan edildi; ancak rakip kurtuluş hareketleri arasında Soğuk Savaş aktörlerinin müdahil olduğu iç savaş başladı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1991",
+        "title": "Bicesse Anlaşmaları",
+        "description": "Hükümet ile UNITA arasında imzalanan anlaşmayla çok partili sisteme geçiş ve barışçıl seçimlerin yapılması hedeflendi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2002",
+        "title": "Luena Protokolü ve Barışın Tescili",
+        "description": "UNITA lideri Jonas Savimbi'nin ölümünün ardından imzalanan protokol ile 27 yıl süren iç savaş resmi olarak sona erdi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Siyasi Liderlik Değişimi",
+        "description": "38 yıl ülkeyi yöneten José Eduardo dos Santos'un ardından João Lourenço cumhurbaşkanı seçilerek yeni bir reform dönemi başlattı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Angola ekonomisi, büyük ölçüde hidrokarbon üretimine ve ihracatına dayalı bir yapı sergilemektedir. Afrika'nın en büyük ikinci petrol üreticisi konumunda olan ülke, küresel emtia fiyatlarındaki dalgalanmalara karşı hassas bir durumdadır. Hükümet son yıllarda tarım, sanayi, madencilik ve turizm alanlarını teşvik ederek ekonomiyi çeşitlendirme ve yabancı yatırımları çekme yönünde yapısal reformlar yürütmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "106.7",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "2,850",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "18.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Angola Kwanzası (AOA)",
+        "unit": "AOA",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "29.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "38.2",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kamu Borcu / GSYİH",
+        "value": "62.0",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Ham Petrol Üretimi ve Rafinerisi",
+      "Elmas Madenciliği",
+      "Sıvılaştırılmış Doğal Gaz (LNG)",
+      "İnşaat ve Altyapı",
+      "Tarım ve Kahve Üretimi",
+      "Ticari Balıkçılık"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": -1.3
+          },
+          {
+            "year": "2019",
+            "value": -0.7
+          },
+          {
+            "year": "2020",
+            "value": -5.6
+          },
+          {
+            "year": "2021",
+            "value": 1.1
+          },
+          {
+            "year": "2022",
+            "value": 3
+          },
+          {
+            "year": "2023",
+            "value": 0.9
+          },
+          {
+            "year": "2024",
+            "value": 2.6
+          },
+          {
+            "year": "2025",
+            "value": 3.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1955",
+        "title": "İlk Petrol Keşfi",
+        "description": "Cuanza Havzası'nda ticari anlamda çıkarılabilir ilk hidrokarbon rezervlerinin bulunması ülkenin ekonomik kaderini değiştirdi.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "2002",
+        "title": "Savaş Sonrası İmar ve Çin Kredileri",
+        "description": "Savaşın bitimiyle petrol kaynakları ipotek gösterilerek Çin'den sağlanan milyarlarca dolarlık altyapı kredileri hamlesi başlatıldı.",
+        "era": "2000'ler"
+      },
+      {
+        "year": "2007",
+        "title": "OPEC Üyeliği",
+        "description": "Angola, küresel petrol piyasasındaki konumunu güçlendirmek amacıyla Petrol İhraç Eden Ülkeler Örgütü'ne katıldı.",
+        "era": "2000'ler"
+      },
+      {
+        "year": "2023",
+        "title": "OPEC'ten Ayrılma Kararı",
+        "description": "Üretim kotaları hususunda yaşanan anlaşmazlıklar neticesinde ulusal üretim hedeflerini korumak için OPEC üyeliğinden çekilme kararı alındı.",
+        "era": "Günümüz"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Angola, uluslararası ilişkilerinde egemenliğe saygı, müdahalesizlik ve çok yönlü diplomasi ilkelerini benimsemektedir. Soğuk Savaş dönemindeki doğu bloku yakınlığından sonra, günümüzde hem Doğu hem de Batı dünyasıyla güçlü ticari ve diplomatik ortaklıklar kurmuştur. Afrika Birliği ve SADC bünyesinde bölgesel arabuluculuk rolü üstlenmektedir.",
+    "alliances": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Stratejik Ticaret ve Finans Ortağı",
+        "description": "Altyapı yatırımları, borç yapılandırması ve petrol ihracatı ekseninde oldukça derinleşmiş ikili ekonomik ilişkiler yürütülmektedir.",
+        "since": "1983"
+      },
+      {
+        "partner": "Portekiz",
+        "relationType": "Tarihi ve Özel Ortak",
+        "description": "Sömürge geçmişine dayanan dilsel ve kültürel bağlar, ortak yatırımlar ve yüksek düzeyli diplomatik temaslarla sürdürülmektedir.",
+        "since": "1975"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Güvenlik ve Enerji Ortağı",
+        "description": "Deniz güvenliği, bölgesel istikrar ve Lobito Koridoru gibi dev altyapı projelerinde kapsamlı işbirliği yapılmaktadır.",
+        "since": "1993"
+      },
+      {
+        "partner": "Güney Afrika Cumhuriyeti",
+        "relationType": "Bölgesel Müttefik",
+        "description": "Güney Afrika Kalkınma Topluluğu (SADC) çatısı altında bölgesel ticaret, güvenlik ve siyasi entegrasyonda kilit stratejik müttefiktir.",
+        "since": "1994"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Luena Protokolü",
+        "year": "2002",
+        "description": "Ülke içinde çeyrek asırdan fazla süren iç savaşı sonlandıran ve UNITA'nın siyasi partiye dönüşmesini sağlayan barış antlaşması."
+      },
+      {
+        "name": "Portekizce Konuşan Ülkeler Topluluğu (CPLP) Tüzüğü",
+        "year": "1996",
+        "description": "Lusofon ülkeler arasında diplomatik, ekonomik ve kültürel işbirliğini kurumsallaştıran uluslararası antlaşma."
+      },
+      {
+        "name": "Lobito Koridoru Üçlü Demiryolu Anlaşması",
+        "year": "2023",
+        "description": "Angola, Kongo DC ve Zambiya arasında mineral zenginliklerinin atlantik limanlarına taşınmasını kolaylaştıran transit ulaşım antlaşması."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Demokratik Kongo Cumhuriyeti (DKC)",
+        "relationType": "Anlaşmazlık",
+        "description": "Deniz yetki alanlarının sınırlandırılması ve açık deniz petrol sahalarının paylaşımı konusunda zaman zaman teknik müzakereleri gerektiren sınır odaklı görüşmeler mevcuttur.",
+        "since": "2003"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1976"
+      },
+      {
+        "name": "Afrika Birliği",
+        "role": "Aktif Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "Portekizce Konuşan Ülkeler Topluluğu",
+        "role": "Kurucu Üye",
+        "joinedYear": "1996"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Angola siyaseti, bağımsızlık mücadelesini yürüten Angola'nın Kurtuluşu İçin Halk Hareketi (MPLA) partisi tarafından uzun yıllar domine edilmiştir. İç savaşın sona ermesinden bu yana benimsenen çok partili anayasal düzen, yürütme erkinin oldukça güçlü olduğu bir cumhurbaşkanlığı sistemine dayanır. Son dönemde şeffaflık, yargı bağımsızlığı ve yolsuzlukla mücadele alanlarında kurumsal reformlar öne çıkmaktadır.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemi ile Yönetilen Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erki, aynı zamanda hükümetin başı ve başkomutan olan Cumhurbaşkanı tarafından idare edilir. Yasama görevi 220 sandalyeli nispi temsil esasına dayalı tek kamaralı Ulusal Meclis'e aittir. Yargı mekanizması Anayasa Mahkemesi, Yüksek Mahkeme ve Askeri Yargıtay'dan oluşur.",
+    "timeline": [
+      {
+        "year": "1975",
+        "title": "Tek Parti Rejiminin İlanı",
+        "description": "MPLA liderliğinde Marksist-Leninist ilkelere dayanan tek partili halk cumhuriyeti kuruldu.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1992",
+        "title": "İlk Çok Partili Seçimler",
+        "description": "Yeni anayasa uyarınca ilk genel seçimler düzenlendi ancak sonuçlar üzerindeki anlaşmazlık iç savaşı yeniden tırmandırdı.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2010",
+        "title": "Yeni Anayasanın Kabulü",
+        "description": "Cumhurbaşkanının doğrudan halk tarafından değil, genel seçimlerde en çok oyu alan partinin liste başı adayı olarak seçilmesi kuralı getirildi.",
+        "era": "Anayasal Reform"
+      },
+      {
+        "year": "2017",
+        "title": "İktidar Devri ve Reform Hamlesi",
+        "description": "João Lourenço'nun cumhurbaşkanlığına gelmesiyle devlet kurumlarında kapsamlı yolsuzluk soruşturmaları ve tasfiyeler başlatıldı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "Sermaye Geri Kazanım Yasası",
+        "description": "Yurt dışına kaçırılan kamu fonlarının devlete iadesini hedefleyen hukuki düzenlemeler yürürlüğe girdi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2020",
+        "title": "Yerel Yönetim Reformu Adımları",
+        "description": "Ülke tarihinde ilk kez merkezden yerele yetki devrini öngören idari yapılanma yasaları parlamentoya sunuldu.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Rekabetçi Genel Seçimler",
+        "description": "Ülke tarihinin en yüksek muhalefet katılımıyla gerçekleşen seçimlerde MPLA çoğunluğu koruyarak iktidarını sürdürdü.",
+        "era": "Günümüz"
+      },
+      {
+        "year": "2024",
+        "title": "Yeni İdari Bölünme Tasarısı",
+        "description": "Hizmet sunumunu iyileştirmek amacıyla eyalet ve belediye sınırlarının yeniden düzenlenmesine ilişkin karar yürürlüğe sokuldu.",
+        "era": "Günümüz"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Angola'da bilim ve teknoloji altyapısı, iç savaş sonrası dönemde üniversitelerin yeniden kurulması ve uzay teknolojilerine yapılan yatırımlarla ivme kazanmıştır. Yerbilimleri, hidrokarbon araştırmaları, tropikal tıp ve uydu haberleşmesi ülkenin bilimsel odağını oluşturmaktadır. Kamu harcamalarında araştırma ve geliştirmeye ayrılan pay kademeli olarak artırılmaya çalışılmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.12",
+        "unit": "%",
+        "scoreOutOf100": 22
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "680",
+        "unit": "Adet",
+        "scoreOutOf100": 32
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "13.2",
+        "unit": "%",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "2,600",
+        "unit": "Kişi",
+        "scoreOutOf100": 28
+      },
+      {
+        "label": "Ulusal Patent Başvurusu",
+        "value": "52",
+        "unit": "Adet",
+        "scoreOutOf100": 18
+      }
+    ],
+    "notableAchievements": [
+      "AngoSat-2 İletişim Uydusunun Yörüngeye Yerleştirilmesi ve Operasyonel Hale Getirilmesi",
+      "Okavango Havzası Uluslararası Biyoçeşitlilik ve Ekosistem Haritalandırması",
+      "Derin Deniz Hidrokarbon Arama Teknolojilerinde Bölgesel Araştırma Merkezlerinin Kurulması",
+      "Bulaşıcı Tropikal Hastalıklar ve Sıtma İle Mücadelede Saha Epidemiyolojisi Çalışmaları"
+    ],
+    "institutions": [
+      {
+        "name": "Agostinho Neto Üniversitesi",
+        "type": "Universite",
+        "description": "Angola'nın en büyük ve prestijli devlet üniversitesi olup fen bilimleri, tıp ve mühendislik alanında ülkenin akademik lideridir."
+      },
+      {
+        "name": "Ulusal Uzay Programı Yönetim Ofisi (GGPEN)",
+        "type": "Uzay Ajansi",
+        "description": "Ülkenin telekomünikasyon ve coğrafi gözlem kapasitesini artırmayı hedefleyen uydu projelerini yürüten resmi kurum."
+      },
+      {
+        "name": "Angola Katolik Üniversitesi (UCAN)",
+        "type": "Universite",
+        "description": "Ekonomik, hukuki ve sosyal bilimler araştırmaları alanında ülkede bağımsız raporlar üreten önde gelen yükseköğretim kurumu."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:53:11.890Z"
+}

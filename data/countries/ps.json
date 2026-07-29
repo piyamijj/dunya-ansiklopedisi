@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "code": "ps",
+    "iso3": "PSE",
+    "name_tr": "Filistin",
+    "name_en": "Palestine",
+    "region": "Asya",
+    "capital_tr": "Kudüs",
+    "flag_emoji": "🇵🇸"
+  },
+  "overview": "Filistin, Orta Doğu'da Doğu Akdeniz kıyısında yer alan, tarihsel, kültürel ve dini açılardan büyük bir öneme sahip coğrafi ve siyasi bir bölgedir. Birleşmiş Milletler Genel Kurulu tarafından 2012 yılında 'üye olmayan gözlemci devlet' statüsü verilen Filistin Devleti, Batı Şeria ve Gazze Şeridi kapsamanındaki topraklarda hak iddia etmekte ve başkentini Kudüs olarak tanımlamaktadır. Tarih boyunca Kenan, Fenike, Roma, Bizans, Emevi, Abbasi, Memlük ve Osmanlı gibi birçok büyük medeniyetin kontrolünde kalmış olan bölge, günümüzde karmaşık bir jeopolitik yapıya ve uluslararası diplomasi alanında merkezi bir konuma sahiptir.",
+  "history": {
+    "summary": "Filistin toprakları, insanlık tarihinin en eski yerleşim alanlarından biri olup Antik Çağ'dan itibaren ticaret ve din yollarının kesişim noktasında yer almıştır. M.Ö. Kenan topluluklarından başlayan yerleşim süreci, Roma ve Bizans egemenliklerinin ardından 7. yüzyılda İslam yönetimine geçişle şekillenmiştir. 1516'dan 1917'ye kadar 400 yıl boyunca Osmanlı İmparatorluğu idaresinde kalan bölge, I. Dünya Savaşı sonrasında İngiliz Mandası altına girmiş, 20. yüzyılın ortalarından itibaren ise Arap-İsrail anlaşmazlığının ana sahnesi haline gelmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3000 - 1200",
+        "title": "Kenan Dönemi ve İlk Erken Yerleşimler",
+        "description": "Bölgede bilinen ilk yerleşik uygarlık olan Kenanlılar kent devletleri kurmuş, tarım ve ticaret ağlarını geliştirmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 63",
+        "title": "Roma Egemenliğinin Başlaması",
+        "description": "Romalı komutan Pompey bölgeyi Roma Cumhuriyeti topraklarına katmış ve bölge Judea eyaleti olarak yeniden yapılandırılmıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "637",
+        "title": "Kudüs'ün Fethi ve İslami Yönetim",
+        "description": "Halife Ömer döneminde Filistin bölgesi İslam devletinin kontrolüne girmiş, Kudüs'te dini hoşgörü esasına dayalı bir idare kurulmuştur.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1099 - 1187",
+        "title": "Haçlı Seferleri ve Salahaddin Eyyubi Dönemi",
+        "description": "Birinci Haçlı Seferi sonucu Kudüs Krallığı kurulmuş, ancak 1187 Hittin Muharebesi ile Salahaddin Eyyubi bölgeyi tekrar kontrol altına almıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1516",
+        "title": "Osmanlı Egemenliğinin Başlaması",
+        "description": "Yavuz Sultan Selim'in Mercidabık Seferi sonrası Filistin toprakları Osmanlı İmparatorluğu yönetimine girmiş ve 400 yıl bu statüyü korumuştur.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1917",
+        "title": "Balfour Deklarasyonu ve İngiliz İşgali",
+        "description": "İngiltere Dışişleri Bakanı Arthur Balfour'un bildirisiyle Yahudi halkına Filistin'de bir ulusal yurt vaat edilmiş ve bölge İngiliz ordusunca kontrol edilmiştir.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1922 - 1947",
+        "title": "Filistin İngiliz Mandası Dönemi",
+        "description": "Milletler Cemiyeti kararıyla İngiliz Manda yönetimi resmen kurulmuş, bu dönemde kitlesel göçler ve toplumlar arası çatışmalar tırmanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1947",
+        "title": "BM 181 Sayılı Bölünme Planı",
+        "description": "Birleşmiş Milletler Genel Kurulu, Filistin'in Yahudi ve Arap devletleri arasında bölünmesini ve Kudüs'e uluslararası statü verilmesini tavsiye etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1948",
+        "title": "İsrail'in Kuruluşu ve Nakba (Büyük Felaket)",
+        "description": "İngiliz mandasının sona ermesiyle İsrail bağımsızlığını ilan etmiş, ardından çıkan savaşta yüz binlerce Filistinli yerinden edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1964",
+        "title": "Filistin Kurtuluş Örgütü'nün (FKÖ) Kuruluşu",
+        "description": "Arap Ligi zirvesinde Filistin halkını temsil etmek ve bağımsızlık mücadelesini yürütmek amacıyla FKÖ kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1967",
+        "title": "Altı Gün Savaşı ve İşgal",
+        "description": "Savaş sonucunda İsrail, Batı Şeria, Gazze Şeridi, Doğu Kudüs, Golan Tepeleri ve Sina Yarımadası'nı kontrolü altına almıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1988",
+        "title": "Filistin Bağımsızlık Bildirisi",
+        "description": "Yaser Arafat başkanlığındaki Filistin Ulusal Konseyi, Cezayir'de Filistin Devleti'nin bağımsızlığını ilan etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1993",
+        "title": "Oslo Anlaşmaları",
+        "description": "FKÖ ile İsrail arasında imzalanan anlaşmalarla Filistin Ulusal Yönetimi kurulmuş ve kademeli özerklik süreci öngörülmüştür.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2012",
+        "title": "BM Gözlemci Devlet Statüsü",
+        "description": "BM Genel Kurulu'nda yapılan oylamada Filistin, 'üye olmayan gözlemci devlet' statüsünü kazanarak uluslararası meşruiyetini pekiştirmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Filistin ekonomisi; Batı Şeria ve Gazze Şeridi olmak üzere parçalı yapıya sahip, sınır kontrolleri ve siyasi belirsizliklerin gölgesinde faaliyet gösteren bir yapıdadır. Ekonomik faaliyetler büyük oranda hizmet sektörü, küçük ölçekli imalat, inşaat ve tarıma dayanmaktadır. Bağımsız bir ulusal para birimi bulunmayan Filistin'de İsrail Yeni Şekeli (ILS), Ürdün Dinarı (JOD) ve ABD Doları (USD) yaygın olarak kullanılmaktadır. Dış yardımlar ve yurt dışında çalışan işçilerin transferleri gayrisafi yurt içi hasılada önemli bir yer tutmaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "18.1 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "3,450",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "12.4",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "34.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "İsrail Şekeli / Ürdün Dinarı",
+        "unit": "ILS / JOD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "1.45 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "7.8 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Tarım ve Zeytincilik",
+      "Yapı Malzemeleri ve Doğaltaş İmalatı",
+      "Tekstil ve Hazır Giyim",
+      "Gıda ve İçecek İşleme",
+      "Hizmet ve İletişim Sektörü",
+      "Zeytinyağı ve Sabun Üretimi"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.2
+          },
+          {
+            "year": "2019",
+            "value": 1.4
+          },
+          {
+            "year": "2020",
+            "value": -11.3
+          },
+          {
+            "year": "2021",
+            "value": 7.1
+          },
+          {
+            "year": "2022",
+            "value": 3.9
+          },
+          {
+            "year": "2023",
+            "value": -5.5
+          },
+          {
+            "year": "2024",
+            "value": -22.6
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1994",
+        "title": "Paris Ekonomik Protokolü",
+        "description": "Filistin Ulusal Yönetimi ile İsrail arasında imzalanan ve gümrük birliği ile vergi toplanma mekanizmalarını düzenleyen anlaşma.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1997",
+        "title": "Filistin Menkul Kıymetler Borsası'nın Açılışı",
+        "description": "Nablus merkezli Filistin Borsası (PEX) faaliyete geçerek özel sektör yatırımlarına sermaye piyasası olanağı sağlamıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2007",
+        "title": "Gazze Ablakası ve Ekonomik Ayrışma",
+        "description": "Siyasi bölünme sonrası Gazze Şeridi'ne uygulanan kısıtlamalar iki bölge arasındaki ekonomik entegrasyonu derinden etkilemiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2016",
+        "title": "Ulusal Kalkınma Stratejisi ve Dijital Dönüşüm",
+        "description": "Telekomünikasyon ve bilgi teknolojileri sektörüne yönelik yapılan yatırımlarla 3G/4G altyapı geçiş hamleleri başlatılmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Filistin Devleti'nin dış politikası; bağımsızlığın uluslararası düzeyde tanınması, 1967 sınırları temelinde bir Filistin devletinin kurulması ve BM kararlarının uygulanması hedeflerine dayanmaktadır. Filistin Kurtuluş Örgütü (FKÖ) ve Filistin Yönetimi kanalıyla yürütülen diplomaside Arap dünyası, İslam ülkeleri, Avrupa Birliği ve Küresel Güney ülkeleriyle yakın temas kurulmaktadır. Birleşmiş Milletler üyesi 140'tan fazla ülke Filistin'i bağımsız bir devlet olarak tanımaktadır.",
+    "alliances": [
+      {
+        "partner": "Arap Ligi",
+        "relationType": "Tam Üyelik ve Diplomatik Destek",
+        "description": "Arap ülkeleri, Filistin davasına siyasi, diplomatik ve finansal destek sağlamada ana bölgesel platformu oluşturmaktadır.",
+        "since": "1976"
+      },
+      {
+        "partner": "İslam İşbirliği Teşkilatı (İİT)",
+        "relationType": "Kurucu Üye ve Stratejik Ortak",
+        "description": "Filistin, Kudüs'ün statüsü ve Filistin halkının haklarının korunması konusunda İİT üyesi ülkelerle sıkı bir iş birliği içindedir.",
+        "since": "1969"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Kalkınma ve İnsani Yardım Ortaklığı",
+        "description": "AB, Filistin kurumlarının inşası ve insani yardımlar konusunda en büyük finansal donörlerden biri durumundadır.",
+        "since": "1994"
+      },
+      {
+        "partner": "Türkiye",
+        "relationType": "Stratejik İkili İlişkiler",
+        "description": "Türkiye, Filistin'e kalkınma yardımları, eğitim bursları ve uluslararası platformlarda diplomatik destek sunmaktadır.",
+        "since": "1975"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Oslo I Anlaşması (İlkeler Deklarasyonu)",
+        "year": "1993",
+        "description": "FKÖ ve İsrail arasında karşılıklı tanımayı ve Batı Şeria ile Gazze'de geçici özerk yönetimin kurulmasını öngören tarihi antlaşma."
+      },
+      {
+        "name": "Oslo II Anlaşması (Geçici Anlaşma)",
+        "year": "1995",
+        "description": "Batı Şeria'nın A, B ve C şeklinde idari ve güvenlik alanlarına bölünmesini düzenleyen sözleşme."
+      },
+      {
+        "name": "Roma Statüsü Katılımı (Uluslararası Ceza Mahkemesi)",
+        "year": "2015",
+        "description": "Filistin'in Uluslararası Ceza Mahkemesi'ne (UCM) resmen taraf olmasıyla yargı yetkisi tanıma adımı."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "İsrail",
+        "relationType": "Egemenlik ve Sınır Anlaşmazlığı",
+        "description": "Sınırlar, Doğu Kudüs'ün statüsü, mültecilerin geri dönüş hakkı, su kaynakları ve Yahudi yerleşim birimleri konularında devam eden temel anlaşmazlık.",
+        "since": "1948"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler (BM)",
+        "role": "Üye Olmayan Gözlemci Devlet",
+        "joinedYear": "2012"
+      },
+      {
+        "name": "Arap Ligi",
+        "role": "Tam Üye",
+        "joinedYear": "1976"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Kurucu Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "UNESCO",
+        "role": "Tam Üye Devlet",
+        "joinedYear": "2011"
+      },
+      {
+        "name": "Bağlantısızlar Hareketi",
+        "role": "Aktif Üye",
+        "joinedYear": "1976"
+      },
+      {
+        "name": "Uluslararası Ceza Mahkemesi (UCM)",
+        "role": "Taraf Devlet",
+        "joinedYear": "2015"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Filistin siyasi yapısı, 1993 Oslo Anlaşmaları çerçevesinde kurulan Filistin Ulusal Yönetimi ve Filistin Kurtuluş Örgütü (FKÖ) ekseninde şekillenmiştir. Devlet Başkanı yürütmenin başı olup Başbakan ve Bakanlar kurulunu atar. Siyasi alanda Batı Şeria'yı yöneten El-Fetih ile Gazze Şeridi'ni kontrol eden Hamas arasındaki siyasi bölünme ve seçimlerin uzun süredir ertelenmesi, yönetim dinamiğinin en belirleyici unsurları arasındadır.",
+    "governmentForm": "Yarı Başbakanlık Sistemine Sahip Üniter Cumhuriyet (Sınırlı Özerk Yapı)",
+    "currentStructure": "Yürütme organı Devlet Başkanı ve Başbakan liderliğindeki Hükümetten oluşur. Yasama organı Filistin Yasama Konseyi (PLC) olmakla birlikte 2007'den bu yana fiilen toplanamamakta, yasama yetkisi büyük ölçüde başkanlık kararnameleriyle yürütülmektedir. Yargı organı ise Bağımsız Yargı Konseyi ve Anayasa Mahkemesi aracılığıyla denetlenmektedir.",
+    "timeline": [
+      {
+        "year": "1964",
+        "title": "FKÖ'nün Kurulması",
+        "description": "Filistin siyasetinin şemsiye örgütü olarak Filistin Kurtuluş Örgütü kurulmuş ve uluslararası temsil organı haline gelmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1974",
+        "title": "BM'de Tek Temsilci Olarak Tanınma",
+        "description": "BM Genel Kurulu, FKÖ'yü Filistin halkının tek meşru temsilcisi olarak kabul etmiş ve gözlemci statüsü vermiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1994",
+        "title": "Filistin Ulusal Yönetimi'nin Kurulması",
+        "description": "Oslo Anlaşmaları uyarınca Filistin topraklarında idari yetkileri üstlenmek üzere Filistin Yönetimi oluşturulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1996",
+        "title": "İlk Genel Seçimler",
+        "description": "Yaser Arafat Filistin Yönetimi Başkanı seçilmiş ve Filistin Yasama Konseyi üyeleri belirlenmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2004",
+        "title": "Yaser Arafat'ın Vefatı",
+        "description": "Filistin milli hareketinin tarihi lideri Yaser Arafat vefat etmiş, liderliğe Mahmud Abbas geçmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2005",
+        "title": "Başkanlık Seçimleri",
+        "description": "Mahmud Abbas, yapılan genel seçimlerde Filistin Ulusal Yönetimi Başkanı olarak seçilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2006",
+        "title": "Parlamento Seçimleri ve Siyasi Kriz",
+        "description": "Hamas'ın genel seçimleri kazanması sonrasında uluslararası toplum ve iç siyasette geniş çaplı krizler patlak vermiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2007",
+        "title": "İç Bölünme ve İki Başlı Yönetim",
+        "description": "Çatışmalar sonucu Hamas Gazze Şeridi'nin idaresini üstlenmiş, Batı Şeria ise Filistin Yönetimi kontrolünde kalmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Filistin'de bilimsel ve akademik altyapı, sınırlı kaynaklara ve zorlu sosyo-politik koşullara rağmen gelişmiş bir üniversite ağına dayanmaktadır. Yükseköğretim oranlarının Orta Doğu ortalamasının üzerinde olduğu bölgede; bilgi teknolojileri, tıp araştırmaları, çevre bilimi, tarımsal biyoteknoloji ve yenilenebilir enerji odaklı akademik çalışmalar ön plana çıkmaktadır. Uluslararası akademik iş birlikleri ve AB Araştırma Fonları bilimsel üretimi desteklemektedir.",
+    "indicators": [
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "43.5",
+        "unit": "%",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.45",
+        "unit": "%",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "2,100",
+        "unit": "Adet",
+        "scoreOutOf100": 48
+      },
+      {
+        "label": "Yetişkin Okuryazarlık Oranı",
+        "value": "97.7",
+        "unit": "%",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Yıllık Patent Başvuruları",
+        "value": "45",
+        "unit": "Adet",
+        "scoreOutOf100": 25
+      }
+    ],
+    "notableAchievements": [
+      "Orta Doğu bölgesinde okuryazarlık ve yükseköğretim katılımında en yüksek oranlardan birine sahip olunması.",
+      "Kuraak tarım ve zeytin genetiği alanında uluslararası nitelikte biyoteknolojik araştırmaların yürütülmesi.",
+      "Filistinli yazılımcılar ve girişimciler tarafından geliştirilen bölgesel veri yönetim ve mobil uygulama çözümleri.",
+      "UNESCO ve CERN gibi küresel kuruluşlarla ortak fizik ve teorik bilim araştırmaları projelerinin yürütülmesi."
+    ],
+    "institutions": [
+      {
+        "name": "Birzeit Üniversitesi",
+        "type": "Universite",
+        "description": "Batı Şeria'da yer alan, beşeri bilimler, mühendislik ve sosyal bilimlerde öncü olan Filistin'in en saygın yükseköğretim kurumlarından biridir."
+      },
+      {
+        "name": "An-Najah Ulusal Üniversitesi",
+        "type": "Universite",
+        "description": "Nablus merkezli, tıp, mühendislik ve doğa bilimlerinde yüksek yayın kapasitesine sahip en büyük Filistin üniversitesidir."
+      },
+      {
+        "name": "Al-Quds Üniversitesi",
+        "type": "Universite",
+        "description": "Kudüs ve çevresinde kampüsleri bulunan, sağlık bilimleri ve hukuk alanındaki akademik çalışmalarıyla öne çıkan kurumdur."
+      },
+      {
+        "name": "Filistin Bilim ve Teknoloji Akademisi (PALAST)",
+        "type": "Arastirma Enstitusu",
+        "description": "Ulusal bilim politikalarını koordine eden, Ar-Ge projelerini ve uluslararası bilimsel iş birliğini destekleyen bağımsız bir kuruluştur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:28:48.780Z"
+}

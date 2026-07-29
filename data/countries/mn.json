@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "code": "mn",
+    "iso3": "MNG",
+    "name_tr": "Moğolistan",
+    "name_en": "Mongolia",
+    "region": "Asya",
+    "capital_tr": "Ulanbator",
+    "flag_emoji": "🇲🇳"
+  },
+  "overview": "Moğolistan, Doğu ve Orta Asya'nın kesişim noktasında, kuzeyde Rusya Federasyonu ve güneyde Çin Halk Cumhuriyeti ile çevrili, denize kıyısı olmayan bağımsız bir ülkedir. Dünyanın en düşük nüfus yoğunluğuna sahip ülkelerinden biri olan Moğolistan, geniş bozkırları, Altay Dağları ve Gobi Çölü ile coğrafi açıdan oldukça belirgin bir yapıya sahiptir. Başkenti ve en büyük şehri Ulanbator olan ülke, tarihsel göçebe kültürünü korurken, son yıllarda zengin mineral kaynakları sayesinde madenciliğe dayalı hızlı bir ekonomik dönüşüm geçirmektedir.",
+  "history": {
+    "summary": "Moğolistan tarihi, Hunlar (Xiongnu), Göktürkler ve Uygurlar gibi köklü bozkır konfederasyonlarına ev sahipliği yapmış zengin bir geçmişe sahiptir. 1206 yılında Cengiz Han'ın göçebe kabileleri birleştirmesiyle kurulan Moğol İmparatorluğu, dünya tarihinin bitişik kara parçası üzerindeki en büyük imparatorluğu haline gelmiştir. İmparatorluğun parçalanmasının ardından Çin merkezli Qing Hanedanlığı'nın egemenliğine giren ülke, 1911'de bağımsızlığını ilan etmiş ve 1924'te Sovyet etkisi altında komünist bir cumhuriyet kurmuştur. 1990 yılındaki kansız Barışçıl Devrim ile çok partili demokrasiye ve serbest piyasa ekonomisine geçilmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 209",
+        "title": "Büyük Hun İmparatorluğu'nun Kuruluşu",
+        "description": "Mete Han tarafından kurulan Hun Konfederasyonu, Doğu Asya bozkırlarında merkezi bir siyasi güç ve askeri teşkilat oluşturmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "552",
+        "title": "Göktürk Kağanlığı'nın Yükselişi",
+        "description": "Bumin Kağan önderliğinde kurulan Göktürk Kağanlığı, Moğol coğrafyasında ilk Türk devlet yapısını ve yazılı kültür geleneklerini tesis etmiştir.",
+        "era": "Erken Orta Çağ"
+      },
+      {
+        "year": "1206",
+        "title": "Cengiz Han ve Moğol İmparatorluğu'nun Kuruluşu",
+        "description": "Temuçin, Onon Nehrinde toplanan Kurultay'da Cengiz Han unvanını alarak göçebe kabileleri birleştirmiş ve imparatorluğu kurmuştur.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1279",
+        "title": "Yuan Hanedanlığı'nın İlanı",
+        "description": "Kubilay Han, Çin'in fethini tamamlayarak Yuan Hanedanlığı'nı ilan etmiş ve yönetim merkezini günümüz Pekin bölgesine taşımıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1691",
+        "title": "Qing Hanedanlığı Egemenliği",
+        "description": "Moğol prensliklerinin Mançurya merkezli Qing Hanedanlığı'na tabi olmasıyla Dış Moğolistan Çin egemenliğine girmiştir.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1911",
+        "title": "Bogd Hanlığı ve Bağımsızlık İlanı",
+        "description": "Qing Hanedanlığı'nın devrilmesiyle birlikte Moğolistan, Bogd Han liderliğinde teokratik bağımsızlığını ilan etmiştir.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1924",
+        "title": "Moğolistan Halk Cumhuriyeti'nin Kuruluşu",
+        "description": "Dünyanın ikinci sosyalist devleti olarak Sovyetler Birliği desteğiyle Moğolistan Halk Cumhuriyeti resmen kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1939",
+        "title": "Halhin Gol Muharebesi",
+        "description": "Sovyet ve Moğol birleşik orduları, sınır ihlali yapan Japon İmparatorluk kuvvetlerini mağlup ederek stratejik bir zafer kazanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1990",
+        "title": "Demokratik Devrim",
+        "description": "Ulanbator'da başlayan kitlesel barışçıl gösteriler sonucunda tek parti rejimi sona ermiş ve çok partili sisteme geçilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1992",
+        "title": "Yeni Anayasa ve Cumhuriyet",
+        "description": "Kabul edilen yeni demokratik anayasa ile 'Halk Cumhuriyeti' ibaresi kaldırılmış, insan hakları ve serbest piyasa teminat altına alınmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Moğolistan ekonomisi, geleneksel göçebe hayvancılıktan madenciliğe dayalı ihracat odaklı bir yapıya dönüşmüştür. Bakır, kömür, altın ve ham demir gibi zengin mineral rezervleri ülkenin ekonomik büyümesinin temel motorunu oluşturmaktadır. Dış ticarette yüksek oranda Çin pazarına bağımlı olan ülke, emtia fiyatlarındaki küresel dalgalanmalardan doğrudan etkilenmekte ve ekonomisini çeşitlendirme stratejileri yürütmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "21.9",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "6,200",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "5.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "7.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "5.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Moğolistan Tugriki (MNT)",
+        "unit": "MNT",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "15.2",
+        "unit": "Milyar USD",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Madencilik ve Kömür Üretimi",
+      "Bakır ve Altın Çıkarımı",
+      "Göçebe Hayvancılık ve Et Üretimi",
+      "Kaşmir ve Yünlü Tekstil",
+      "İnşaat ve Altyapı",
+      "Gıda ve İçecek İşleme"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 7.7
+          },
+          {
+            "year": "2019",
+            "value": 5.6
+          },
+          {
+            "year": "2020",
+            "value": -4.4
+          },
+          {
+            "year": "2021",
+            "value": 1.6
+          },
+          {
+            "year": "2022",
+            "value": 5
+          },
+          {
+            "year": "2023",
+            "value": 7
+          },
+          {
+            "year": "2024",
+            "value": 5.3
+          },
+          {
+            "year": "2025",
+            "value": 5.8
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1924",
+        "title": "Merkezi Planlı Ekonomiye Geçiş",
+        "description": "Sosyalist yönetimin kurulmasıyla birlikte özel mülkiyet kaldırılmış, tarım ve hayvancılık kolektifleştirilmiştir.",
+        "era": "Sosyalist Dönem"
+      },
+      {
+        "year": "1991",
+        "title": "Serbest Piyasa Reformları ve Özelleştirme",
+        "description": "Komünist rejimin çöküşünün ardından kupon sistemi ile devlet işletmeleri özelleştirilmiş ve serbest fiyatlandırmaya geçilmiştir.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2009",
+        "title": "Oyu Tolgoi Maden Anlaşması",
+        "description": "Dünyanın en büyük bakır ve altın rezervlerinden biri olan Oyu Tolgoi projesinin geliştirilmesi için uluslararası konsorsiyumla tarihi bir yatırım anlaşması imzalanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "IMF Genişletilmiş Fon Programı",
+        "description": "Kamu borç stoku ve emtia krizini aşmak amacıyla Uluslararası Para Fonu ile 5.5 milyar dolarlık destek ve yapısal reform paketi kabul edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2021",
+        "title": "Vizyon-2050 Kalkınma Planı",
+        "description": "Madencilik dışı sektörleri geliştirmeyi, yeşil enerjiyi ve dijitalleşmeyi hedefleyen 30 yıllık uzun vadeli kalkınma stratejisi yürürlüğe girmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Moğolistan dış politikasında iki büyük komşusu olan Rusya ve Çin ile dengeli ve dostane ilişkiler yürütmeyi temel alan 'Üçüncü Komşu' doktrinini benimsemektedir. Ülke; ABD, Japonya, Güney Kore, Hindistan ve Avrupa Birliği üyeleriyle stratejik ortaklıklar geliştirerek jeopolitik bağımsızlığını ve ekonomik çeşitliliğini korumayı amaçlamaktadır.",
+    "alliances": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortak",
+        "description": "Moğolistan'ın en büyük ticaret ortağı ve ihracat pazarıdır. Altyapı, madencilik ve sınır ticareti odaklı derin ilişkiler mevcuttur.",
+        "since": "1949"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Geleneksel Stratejik Ortak",
+        "description": "Moğolistan'ın petrol ürünleri ve elektrik tedarikinde temel bağımlılık noktasıdır; tarihsel ve askeri iş birliği devam etmektedir.",
+        "since": "1921"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Üçüncü Komşu ve Stratejik Ortak",
+        "description": "Demokratik kurumların pekiştirilmesi, güvenlik iş birliği ve ekonomik çeşitlendirme alanlarında temel bir batılı ortaktır.",
+        "since": "1987"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "Özel Stratejik Ortak",
+        "description": "Kalkınma yardımları, altyapı yatırımları ve teknolojik transfer konusunda Moğolistan'ın Asya'daki en yakın ortaklarındandır.",
+        "since": "1972"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Moğolistan-Çin Dostluk ve Karşılıklı Yardım Antlaşması",
+        "year": "1960",
+        "description": "İki ülke arasındaki sınır güvenliğini, ticari ve kültürel ilişkileri düzenleyen temel diplomatik belgedir."
+      },
+      {
+        "name": "Moğolistan-Rusya Dostane İlişkiler ve Ortaklık Antlaşması",
+        "year": "1993",
+        "description": "Sovyet sonrası dönemde ikili ilişkileri modernization ilkelerine göre yeniden yapılandıran anlaşmadır."
+      },
+      {
+        "name": "Nükleer Silahlardan Arındırılmış Statü Anlaşması",
+        "year": "1992",
+        "description": "Moğolistan'ın tek taraflı olarak kendi topraklarını nükleer silahlardan arındırılmış bölge ilan etmesi ve BM Güvenlik Konseyi tarafından tanınmasıdır."
+      }
+    ],
+    "disputes": [],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1961"
+      },
+      {
+        "name": "Şanghay İşbirliği Örgütü",
+        "role": "Gözlemci Üye",
+        "joinedYear": "2004"
+      },
+      {
+        "name": "Avrupa Güvenlik ve İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "2012"
+      },
+      {
+        "name": "Dünya Ticaret Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "1997"
+      },
+      {
+        "name": "Uluslararası Para Fonu",
+        "role": "Aktif Üye",
+        "joinedYear": "1991"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Moğolistan, Doğu Asya'da istikrarlı bir demokratik sisteme sahip parlamenter bir cumhuriyettir. 1990 yılından bu yana yapılan genel seçimler rekabetçi ve şeffaf bir ortamda gerçekleşmektedir. Ülkede Devlet Başkanı (Cumhurbaşkanı) halk tarafından doğrudan seçilirken, yürütme erkinin ana yetkisi parlamentoda çoğunluğu temsil eden Başbakan ve Bakanlar Kurulu'nun elindedir.",
+    "governmentForm": "Üniter Yarı Başkanlık / Parlamenter Cumhuriyet",
+    "currentStructure": "Tek kamaralı parlamento olan Büyük Devlet Huralı (126 sandalyeli) yasama organıdır. Yürütme erkini Başbakan yönetimindeki Hükümet üstlenir; Cumhurbaşkanı devletin başı sıfatıyla sembolik yetkilere, silahlı kuvvetler komutanlığına ve sınırlı veto hakkına sahiptir. Yargı bağımsızlığı Anayasa Mahkemesi ve Yüksek Mahkeme tarafından güvence altına alınır.",
+    "timeline": [
+      {
+        "year": "1924",
+        "title": "İlk Anayasa ve Sosyalist Devlet",
+        "description": "Moğolistan Halk Cumhuriyeti ilan edilmiş, hanlık rejimi kaldırılarak sosyalist devlet yapısı kurulmuştur.",
+        "era": "Sosyalist Dönem"
+      },
+      {
+        "year": "1960",
+        "title": "Sosyalist Anayasa Revizyonu",
+        "description": "Sovyet modeli ile tam uyumlu, tek parti yönetimini pekiştiren yeni anayasal düzenleme yapılmıştır.",
+        "era": "Sosyalist Dönem"
+      },
+      {
+        "year": "1989",
+        "title": "Demokratik Hareketin Doğuşu",
+        "description": "Genç akademisyen ve aktivistler tarafından kurulan Moğol Demokratik Birliği, siyasi özgürlükler için protestolar başlatmıştır.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1990",
+        "title": "Çok Partili Sisteme Geçiş",
+        "description": "Komünist Partinin tekel yönetimi anayasadan çıkarılmış ve ülkenin ilk serbest seçimleri düzenlenmiştir.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1992",
+        "title": "Demokratik Anayasanın Kabulü",
+        "description": "İnsan haklarını, özel mülkiyeti ve güçler ayrılığını esas alan modern anayasa kabul edilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1996",
+        "title": "İlk Muhalefet İktidarı",
+        "description": "Demokratik Koalisyon seçimleri kazanarak 70 yıllık komünist iktidar ardılı yönetime son vermiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "Seçim Reformları ve Seçim Güvenliği",
+        "description": "Seçim sonuçlarına yönelik protestoların ardından sayım sisteminde dijitalleşme ve şeffaflık reformları yapılmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2023",
+        "title": "Anayasa Değişikliği ve Parlamento Genişlemesi",
+        "description": "Büyük Devlet Huralı'nın sandalye sayısı 76'dan 126'ya çıkarılmış ve nisbi temsil unsurları güçlendirilmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Moğolistan'da bilimsel araştırmalar Moğolistan Bilimler Akademisi ve devlet üniversiteleri bünyesinde yürütülmektedir. Doğa bilimleri, paleontoloji, jeoloji, göçebe kültürü araştırmaları ve veterinerlik bilimin temel odak alanlarıdır. Son yıllarda hükümet, yenilenebilir enerji Ar-Ge projelerine ve kamu hizmetlerinin dijitalleştirilmesine öncelik vermektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.18",
+        "unit": "%",
+        "scoreOutOf100": 32
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "4,850",
+        "unit": "Kişi",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "210",
+        "unit": "Adet",
+        "scoreOutOf100": 30
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "850",
+        "unit": "Adet",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "68.5",
+        "unit": "%",
+        "scoreOutOf100": 65
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "83",
+        "unit": "Sıra",
+        "scoreOutOf100": 48
+      }
+    ],
+    "notableAchievements": [
+      "Gobi Çölü'nde paleontolojik kazılarda dünyaca ünlü dinozor fosillerinin keşfi ve anatomi analizleri",
+      "Geleneksel otlatma teknikleri ile modern iklim verilerini birleştiren sürdürülebilir mera yönetimi modelleri",
+      "Moğolistan'ın ilk küp uydusu Mazaalai'nin 2017 yılında yörüngeye fırlatılması",
+      "Devlet hizmetlerini entegre eden e-Mongolia platformu ile kamuda dijital dönüşüm başarısı"
+    ],
+    "institutions": [
+      {
+        "name": "Moğolistan Ulusal Üniversitesi",
+        "type": "Universite",
+        "description": "1942 yılında kurulan ve temel bilimler, sosyal bilimler ile mühendislik alanında ülkenin en prestijli yükseköğretim kurumudur."
+      },
+      {
+        "name": "Moğolistan Bilimler Akademisi",
+        "type": "Arastirma Enstitusu",
+        "description": "Ülkedeki temel ve uygulamalı bilimsel araştırmaları koordine eden en üst düzey akademik kuruluştur."
+      },
+      {
+        "name": "Moğolistan Bilim ve Teknoloji Üniversitesi",
+        "type": "Universite",
+        "description": "Maden mühendisliği, jeoloji, bilişim ve altyapı teknolojileri alanında uzmanlaşmış ana teknik üniversitedir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:10:18.508Z"
+}

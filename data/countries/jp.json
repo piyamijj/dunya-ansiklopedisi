@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "code": "jp",
+    "iso3": "JPN",
+    "name_tr": "Japonya",
+    "name_en": "Japan",
+    "region": "Asya",
+    "capital_tr": "Tokyo",
+    "flag_emoji": "🇯🇵"
+  },
+  "overview": "Japonya, Doğu Asya'da Büyük Okyanus kıyısında yer alan ve yaklaşık 6.800 adadan oluşan gelişmiş bir takımada ülkesidir. Başkenti Tokyo olan ülke, dünyanın en büyük dördüncü ekonomisine ve yüksek yaşam standartlarına sahiptir. Anayasal monarşi ve parlamenter demokrasi ile yönetilen Japonya, ileri teknoloji üretimi, güçlü sanayisi, köklü tarihi mirası ve küresel kültürel etkisiyle uluslararası sistemde kilit bir rol oynamaktadır.",
+  "history": {
+    "summary": "Japonya tarihi, adalar üzerinde kurulan ilk antik kültürlerden samuray derebeyliklerine, Meiji Restorasyonu ile gerçekleşen hızlı modernleşmeden II. Dünya Savaşı sonrasındaki ekonomik mucizeye uzanan zengin ve kesintisiz bir geçmişe sahiptir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 14,000 - M.Ö. 300",
+        "title": "Jōmon Dönemi",
+        "description": "Japon adalarında avcı-toplayıcı toplumların yaşadığı ve kilden özgün çömlekçilik ürünlerinin üretildiği en eski belgelenmiş dönemdir.",
+        "era": "Antik Çağ"
+      },
+      {
+        "year": "M.Ö. 300 - M.S. 300",
+        "title": "Yayoi Dönemi",
+        "description": "Kıta Asyası'ndan gelen göçlerle pirinç tarımı ve metalurji teknikleri adalara yayılmış, kabile konfederasyonları oluşmaya başlamıştır.",
+        "era": "Antik Çağ"
+      },
+      {
+        "year": "645",
+        "title": "Taika Reformları",
+        "description": "Çin'deki Tang Hanedanlığı modeli esas alınarak merkezi imparatorluk yönetimi ve vergi sistemi kurulmuştur.",
+        "era": "Erken Orta Çağ"
+      },
+      {
+        "year": "1192",
+        "title": "Kamakura Şogunluğunun Kuruluşu",
+        "description": "Minamoto no Yoritomo ilk askeri hükümeti (şogunluk) kurarak samuray sınıfının fiili yönetimini başlatmıştır.",
+        "era": "Feodal Dönem"
+      },
+      {
+        "year": "1467 - 1603",
+        "title": "Sengoku Dönemi (Savaşan Devletler)",
+        "description": "Merkezi otoritenin çökmesiyle feodal beylerin (daimyo) birbiriyle çatıştığı geniş çaplı bir iç savaş dönemi yaşanmıştır.",
+        "era": "Feodal Dönem"
+      },
+      {
+        "year": "1603",
+        "title": "Tokugawa Şogunluğu ve Sakoku Politikası",
+        "description": "Tokugawa Ieyasu ülkeyi birleştirmiş ve dış dünyadan tecrit politikası (Sakoku) ile 250 yıllık göreli bir barış dönemi başlatmıştır.",
+        "era": "Edo Dönemi"
+      },
+      {
+        "year": "1868",
+        "title": "Meiji Restorasyonu",
+        "description": "İmparatorluk otoritesi yeniden tesis edilmiş, derebeylik sistemi kaldırılmış ve batı tarzı hızlı bir sanayileşme ve modernleşme hamlesi başlatılmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1937 - 1945",
+        "title": "İkinci Dünya Savaşı ve Pasifik Muharebeleri",
+        "description": "Japon İmparatorluğu Asya-Pasifik bölgesinde genişlemiş, ABD ile çatışmaya girmiş ve 1945'te Hiroshima ile Nagasaki'ye atom bombası atılmasının ardından teslim olmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1947",
+        "title": "Yeni Anayasanın Kabulü",
+        "description": "Müttefik işgali altında hazırlanan pasifist anayasa yürürlüğe girmiş, savaşı reddeden 9. Madde ile yeni bir demokratik düzen kurulmuştur.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1964",
+        "title": "Tokyo Olimpiyatları ve Ekonomik Mucize",
+        "description": "Shinkansen hızlı treninin hizmete girmesi ve Tokyo Olimpiyatları ile Japonya'nın savaş sonrası küresel ekonomik bir güç olarak yeniden doğuşu simgelenmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Japonya ekonomisi; yüksek katma değerli sanayi imalatı, ileri otomotiv teknolojileri, hassas makine ve robotik üretimi ile küresel finans sektörüne dayalı dünyanın önde gelen serbest piyasa ekonomilerinden biridir. Yaşlanan nüfus ve demografik daralma gibi yapısal zorluklara rağmen inovasyon ve Ar-Ge kapasitesiyle küresel ticarette kritik pozisyonunu korumaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "4.21 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "33,900",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Japon Yeni (JPY)",
+        "unit": "JPY",
+        "year": "2026"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "2.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "750 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Merkez Bankası Politika Faizi",
+        "value": "0.25",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Otomotiv ve Yan Sanayi",
+      "Endüstriyel Robotik ve Otomasyon",
+      "Tüketici Elektroniği ve Yarı İletkenler",
+      "Hassas Makine ve Optik Gereçler",
+      "Demir-Çelik ve Metalurji",
+      "Biyoteknoloji ve İlaç Sanayisi"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 0.6
+          },
+          {
+            "year": "2019",
+            "value": -0.4
+          },
+          {
+            "year": "2020",
+            "value": -4.2
+          },
+          {
+            "year": "2021",
+            "value": 2.2
+          },
+          {
+            "year": "2022",
+            "value": 1
+          },
+          {
+            "year": "2023",
+            "value": 1.9
+          },
+          {
+            "year": "2024",
+            "value": 0.7
+          },
+          {
+            "year": "2025",
+            "value": 1.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1870'ler",
+        "title": "Meiji Dönemi Devlet Destekli Sanayileşmesi",
+        "description": "Demiryolları, telgraf ağları ve modern tekstil fabrikalarının kurulmasıyla ilk sistemli ağır sanayi hamlesi başlatılmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1955 - 1973",
+        "title": "Post-Savaş Yüksek Ekonomik Büyüme Dönemi",
+        "description": "Japonya yıllık ortalama %10 büyüyerek çelik, gemi yapımı ve otomotiv sektörlerinde küresel bir dev haline gelmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1985",
+        "title": "Plaza Anlaşması",
+        "description": "ABD ve müttefikleriyle imzalanan anlaşma sonucu Yen aşırı değer kazanmış, Japon ihracat yapısında köklü dönüşümlere yol açmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1991",
+        "title": "Varlık Fiyatı Balonunun Patlaması ve 'Kayıp On Yıllar'",
+        "description": "Gayrimenkul ve borsa balonunun çökmesiyle uzun süreli deflasyon ve düşük büyüme dönemi başlamıştır.",
+        "era": "Yakın Dönem"
+      },
+      {
+        "year": "2012",
+        "title": "Abenomics Politikalarının Başlatılması",
+        "description": "Başbakan Shinzo Abe tarafından uygulanan parasal genişleme, mali teşvik ve yapısal reform paketleriyle deflasyondan çıkış hedeflenmiştir.",
+        "era": "Yakın Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Japonya'nın dış politikası; ABD ile stratejik savunma ittifakına, hukukun üstünlüğüne dayalı açık bir Hint-Pasifik vizyonuna ve çok taraflı uluslararası diplomasiye dayanmaktadır. Ülke, kural bazlı serbest ticareti ve bölgesel istikrarı destekleyen pasifist ama aktif bir diplomatik tutum sergilemektedir.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Müttefik",
+        "description": "Japonya-ABD Karşılıklı Güvenlik Antlaşması temelinde askeri, ekonomik ve teknolojik alanlarda en üst düzeyde stratejik iş birliği yürütülmektedir.",
+        "since": "1951"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Stratejik ve Ekonomik Ortak",
+        "description": "Stratejik Ortaklık Anlaşması ve Kapsamlı Ekonomik Ortaklık Anlaşması (EPA) vasıtasıyla serbest ticaret ve küresel yönetişimde yakın koordinasyon sağlanmaktadır.",
+        "since": "2019"
+      },
+      {
+        "partner": "Quad (Dörtlü Güvenlik Diyaloğu)",
+        "relationType": "Bölgesel Güvenlik İttifakı",
+        "description": "ABD, Avustralya ve Hindistan ile birlikte Serbest ve Açık Hint-Pasifik vizyonunu korumak amacıyla kurulan diplomatik ve güvenlik platformudur.",
+        "since": "2007"
+      },
+      {
+        "partner": "ASEAN",
+        "relationType": "Diyalog ve Ticaret Ortağı",
+        "description": "Güneydoğu Asya ülkeleriyle altyapı yatırımları, tedarik zinciri güvenliği ve bölgesel kalkınma odaklı köklü ilişkiler sürdürülmektedir.",
+        "since": "1973"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "San Francisco Barış Antlaşması",
+        "year": "1951",
+        "description": "Müttefik devletler ile imzalanan ve II. Dünya Savaşı'nı resmen sonlandırıp Japonya'nın egemenliğini yeniden tesis eden antlaşmadır."
+      },
+      {
+        "name": "ABD-Japonya Karşılıklı İşbirliği ve Güvenlik Antlaşması",
+        "year": "1960",
+        "description": "Japonya'nın savunma garantisini ABD'ye bağlayan ve ABD askeri üslerinin adada bulunmasını düzenleyen temel anlaşmadır."
+      },
+      {
+        "name": "CPTPP (Trans-Pasifik Ortaklığı İçin Kapsamlı ve İlerici Anlaşma)",
+        "year": "2018",
+        "description": "Japonya liderliğinde kurulan ve Asya-Pasifik bölgesinde geniş bir serbest ticaret alanı oluşturan uluslararası anlaşmadır."
+      },
+      {
+        "name": "RCEP (Bölgesel Kapsamlı Ekonomik Ortaklık)",
+        "year": "2020",
+        "description": "Asya-Pasifik bölgesindeki 15 ülkeyi kapsayan dünyanın en büyük serbest ticaret anlaşmalarından biridir."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Anlaşmazlık",
+        "description": "II. Dünya Savaşı sonrasında Sovyetler Birliği tarafından kontrol altına alınan Kuril Adaları (Japonya'da Kuzey Bölgeleri) üzerindeki egemenlik talebi nedeniyle iki ülke arasında henüz resmi bir barış antlaşması imzalanmamıştır.",
+        "since": "1945"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti ve Tayvan",
+        "relationType": "Anlaşmazlık",
+        "description": "Doğu Çin Denizi'nde yer alan ve Japonya'nın fiilen kontrol ettiği Senkaku Adaları (Çin'de Diaoyu) üzerinde karşılıklı egemenlik iddiaları mevcuttur.",
+        "since": "1970"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1956"
+      },
+      {
+        "name": "G7",
+        "role": "Kurucu Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "OECD",
+        "role": "Aktif Üye",
+        "joinedYear": "1964"
+      },
+      {
+        "name": "Asya Kalkınma Bankası",
+        "role": "Kurucu ve Büyük Donör Üye",
+        "joinedYear": "1966"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Japonya siyasi yapısı, anayasal monarşi ve parlamenter temsil sistemine dayanır. İmparator devletin ve halkın birliğinin sembolü olup herhangi bir icrai siyasi yetkisi bulunmamaktadır. Yürütme gücü Başbakan önderliğindeki Bakanlar Kurulu tarafından kullanılırken, Liberal Demokrat Parti (LDP) II. Dünya Savaşı sonrasındaki siyasi hayatta baskın aktör olma vasfını korumaktadır.",
+    "governmentForm": "Anayasal Monarşi ile Yönetilen Parlamenter Demokrasi",
+    "currentStructure": "Yürütme erki Başbakan ve Bakanlar Kurulu, yasama erki Temsilciler Meclisi ve Danışmanlar Meclisi'nden oluşan Ulusal Diyet (Kokkai), yargı erki ise Anayasal denetim yetkisine sahip Yüksek Mahkeme tarafından icra edilir.",
+    "timeline": [
+      {
+        "year": "1889",
+        "title": "Meiji Anayasası'nın İlanı",
+        "description": "Asya'nın ilk modern yazılı anayasası kabul edilmiş ve sınırlı yetkilere sahip ilk parlamento kurulmuştur.",
+        "era": "Meiji Dönemi"
+      },
+      {
+        "year": "1925",
+        "title": "Genel Erkek Süfraji Yasası",
+        "description": "25 yaş üstü tüm erkek vatandaşlara seçme hakkı tanınarak demokratik katılım genişletilmiştir.",
+        "era": "Taisho Demokrasisi"
+      },
+      {
+        "year": "1947",
+        "title": "Savaş Sonrası Anayasasının Yürürlüğe Girmesi",
+        "description": "Halk egemenliği, temel insan hakları ve ulusal savunma savaşını reddeden 9. Madde kabul edilmiştir.",
+        "era": "Showa Dönemi"
+      },
+      {
+        "year": "1955",
+        "title": "1955 Sisteminin Kurulması",
+        "description": "Liberal Demokrat Parti'nin (LDP) kurulmasıyla on yıllarca sürecek muhafazakar tek parti ağırlıklı siyasi düzen şekillenmiştir.",
+        "era": "Showa Dönemi"
+      },
+      {
+        "year": "1993",
+        "title": "LDP'nin İktidarı Geçici Olarak Kaybetmesi",
+        "description": "Sekiz partili bir koalisyon hükümeti kurularak LDP'nin 38 yıllık kesintisiz tek başına iktidarına ara verilmiştir.",
+        "era": "Heisei Dönemi"
+      },
+      {
+        "year": "1994",
+        "title": "Seçim Sistemi Reformu",
+        "description": "Temsilciler Meclisi için dar bölge ve nispi temsil karması yeni bir seçim sistemi yürürlüğe konmuştur.",
+        "era": "Heisei Dönemi"
+      },
+      {
+        "year": "2009",
+        "title": "Japonya Demokratik Partisi (DPJ) İktidarı",
+        "description": "DPJ tarihi bir seçim zaferi kazanarak LDP hegemonyasını ikinci kez sonlandırmış ve iki dönem iktidarda kalmıştır.",
+        "era": "Heisei Dönemi"
+      },
+      {
+        "year": "2015",
+        "title": "Barış ve Güvenlik Mevzuatı Reformu",
+        "description": "Öz Savunma Kuvvetleri'nin müttefik ülkelerle kollektif meşru müdafaa çerçevesinde sınır ötesi operasyon yetkileri genişletilmiştir.",
+        "era": "Heisei Dönemi"
+      },
+      {
+        "year": "2019",
+        "title": "İmparator Akihito'nun Feragat Etmesi ve Reiwa Dönemi",
+        "description": "200 yıldır ilk kez bir imparator kendi isteğiyle tahttan çekilmiş, İmparator Naruhito'nun cülusu ile 'Reiwa' dönemi başlamıştır.",
+        "era": "Reiwa Dönemi"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Japonya; kuantum bilgisayarları, robotik otomasyon, malzeme bilimi, otomotiv mühendisliği ve tıbbi biyoteknoloji alanlarında küresel lider konumundadır. Gayrisafi yurt içi hasılasından Ar-Ge'ye ayırdığı yüksek pay, köklü üniversite-sanayi iş birliği modeli ve yetiştirdiği çok sayıda Nobel ödüllü bilim insanı ile dünyada bilimsel inovasyonun ana merkezlerinden biridir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "3.30",
+        "unit": "%",
+        "scoreOutOf100": 92
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "705,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "289,000",
+        "unit": "Adet",
+        "scoreOutOf100": 95
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "13",
+        "unit": "Sıra",
+        "scoreOutOf100": 84
+      },
+      {
+        "label": "Nobel Ödüllü Bilim İnsanı Sayısı",
+        "value": "25",
+        "unit": "Kişi",
+        "scoreOutOf100": 87
+      }
+    ],
+    "notableAchievements": [
+      "Shinkansen Yüksek Hızlı Tren Teknolojisinin Geliştirilmesi (1964)",
+      "Mavi LED (Işık Yayan Diyot) Teknolojisinin İcadı ve Nobel Ödülü (2014)",
+      "iPS (Uyarılmış Çok Yetili Kök Hücre) Hücre Teknolojisinin Keşfi (2006)",
+      "Fugaku Süper Bilgisayarı ile Dünyanın En Hızlı Hesaplama Sistemlerinden Birinin Kurulması",
+      "Hayabusa 2 Misyonu ile Asteroidden Örnek Getirme Uzay Başarısı (2020)"
+    ],
+    "institutions": [
+      {
+        "name": "Tokyo Üniversitesi (UTokyo)",
+        "type": "Devlet Üniversitesi",
+        "description": "Asya'nın en prestijli akademik kurumlarından biri olup fizik, mühendislik ve tıp alanlarında dünya çapında araştırmalara öncülük etmektedir."
+      },
+      {
+        "name": "RIKEN Ulusal Fizik ve Kimya Araştırma Enstitüsü",
+        "type": "Ulusal Araştırma Enstitüsü",
+        "description": "Temel bilimler, süper bilgisayarlar ve beyin araştırmalarında Japonya'nın en büyük ve donanımlı disiplinlerarası enstitüsüdür."
+      },
+      {
+        "name": "JAXA (Japonya Havacılık ve Uzay Araştırma Ajansı)",
+        "type": "Uzay Ajansı",
+        "description": "Uydu fırlatma, derin uzay keşifleri ve uluslararası uzay istasyonu modülleri geliştiren ulusal uzay kurumudur."
+      },
+      {
+        "name": "Kyoto Üniversitesi",
+        "type": "Devlet Üniversitesi",
+        "description": "Özellikle kimya, biyotıp ve teorik fizik dallarında çok sayıda Nobel ödüllü bilim insanı yetiştirmiş köklü bir yükseköğretim kurumudur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:19:21.843Z"
+}

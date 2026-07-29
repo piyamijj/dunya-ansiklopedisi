@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "code": "in",
+    "iso3": "IND",
+    "name_tr": "Hindistan",
+    "name_en": "India",
+    "region": "Asya",
+    "capital_tr": "Yeni Delhi",
+    "flag_emoji": "🇮🇳"
+  },
+  "overview": "Hindistan, Güney Asya'da geniş bir coğrafyaya yayılan, dünyanın en kalabalık nüfusuna ve en büyük demokrasisine sahip ülkedir. Doğu ile Batı arasındaki stratejik konumu, zengin tarihi birikimi ve dinamik ekonomisiyle bölgesel ve küresel ölçekte kilit bir aktördür. Nükleer gücü, hızla büyüyen teknoloji sektörü ve çeşitlilik arz eden kültürel yapısı ile uluslararası sistemde giderek artan bir etkiye sahiptir.",
+  "history": {
+    "summary": "Hindistan tarihi, İndus Vadisi Uygarlığı'ndan başlayarak zengin imparatorluklar, dini felsefi hareketler, İngiliz sömürge dönemi ve nihayetinde barışçıl bağımsızlık mücadelesiyle şekillenmiş köklü bir geçmişe sahiptir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 2500",
+        "title": "İndus Vadisi Uygarlığı",
+        "description": "Harappa ve Mohenjo-Daro gibi gelişmiş kent planlamasına sahip merkezlerin ortaya çıktığı, bölgenin bilinen en eski şehir uygarlığı kurulmuştur. Bu dönem, tarım, ticaret ve el sanatlarında önemli gelişmelerin yaşandığı bir evredir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 322",
+        "title": "Maurya İmparatorluğu ve Aşoka Dönemi",
+        "description": "Chandragupta Maurya tarafından kurulan imparatorluk, İmparator Aşoka döneminde Hint kıtasının büyük bölümünü tek bir yönetim altında birleştirmiştir. Aşoka'nın Budizm'i benimsemesiyle barış ve hümanist ilkeler ön plana çıkmıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "320-550",
+        "title": "Gupta İmparatorluğu'nun Altın Çağı",
+        "description": "Matematik, astronomi, edebiyat ve sanatta büyük ilerlemelerin kaydedildiği bu dönem, klasik Hint kültürünün altın çağı kabul edilir. Sıfır kavramının matematiksel kullanımı ve Sanskritçe edebiyatın yükselişi bu döneme rastlar.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1526",
+        "title": "Babür İmparatorluğu'nun Kuruluşu",
+        "description": "Babür Şah'ın Panipat Savaşı'nı kazanmasıyla kurulan imparatorluk, Hint-İslam mimarisinin ve kültürünün altın dönemini başlatmıştır. Tac Mahal gibi anıtsal mimari eserler bu dönemde inşa edilmiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1857",
+        "title": "1857 Hint Ayaklanması ve Doğrudan İngiliz Yönetimi",
+        "description": "Doğu Hindistan Şirketi'ne karşı başlayan büyük halk ve asker ayaklanması bastırıldıktan sonra Hindistan doğrudan İngiliz Kraliyeti'nin yönetimine (British Raj) devredilmiştir.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1885",
+        "title": "Hindistan Ulusal Kongresi'nin Kurulması",
+        "description": "Siyasi reformlar ve yerel temsil talepleriyle kurulan parti, ilerleyen yıllarda bağımsızlık mücadelesinin en ana akım siyasi örgütü haline gelmiştir.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1920",
+        "title": "Mahatma Gandhi ve Şiddetsiz Direniş Hareketi",
+        "description": "Mahatma Gandhi önderliğinde başlatılan sivil itaatsizlik ve şiddetsiz direniş hareketleri, sömürge yönetimine karşı geniş kitleleri mobilize etmiştir.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1947",
+        "title": "Hindistan'ın Bağımsızlığı ve Bölünme",
+        "description": "İngiliz egemenliğinin sona ermesiyle Hindistan bağımsızlığını kazanmış, ancak dini sınırlar doğrultusunda Hindistan ve Pakistan olmak üzere iki ayrı devlete bölünmüştür.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1950",
+        "title": "Anayasanın Yürürlüğe Girmesi ve Cumhuriyetin İlanı",
+        "description": "26 Ocak 1950'de yürürlüğe giren kapsamlı anayasa ile Hindistan egemen, demokratik ve laik bir cumhuriyet olarak yapılanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1971",
+        "title": "Hindistan-Pakistan Savaşı ve Bangladeş'in Kuruluşu",
+        "description": "Doğu Pakistan'daki kriz sonucu patlak veren savaşta Hindistan askeri müdahalede bulunmuş ve Bangladeş'in bağımsız bir devlet olarak kurulmasına destek vermiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1998",
+        "title": "Pokhran-II Nükleer Denemeleri",
+        "description": "Hindistan gerçekleştirdiği başarılı nükleer testlerle kendisini resmi olarak nükleer silaha sahip bir güç olarak ilan etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2023",
+        "title": "Chandrayaan-3 Ay Misyonu Başarısı",
+        "description": "Hindistan, Ay'ın keşfedilmemiş güney kutbu yakınına başarılı bir şekilde yumuşak iniş yapan ilk ülke olarak uzay teknolojilerinde tarihi bir başarı elde etmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Hindistan ekonomisi, devlet müdahaleli karma ekonomik modelden serbest piyasa ilkelerine dayalı, hizmet ve teknoloji odaklı küresel bir büyüme yapısına evrilmiştir. Genç nüfusu, geniş iç pazarı ve dijital altyapı hamleleriyle dünyanın en hızlı büyüyen büyük ekonomileri arasında yer almaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "3.95 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "2,850",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Büyüme Oranı",
+        "value": "6.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "4.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Hindistan Rupisi (INR)",
+        "unit": "INR",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "6.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "450 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Bilgi Teknolojileri ve Yazılım Hizmetleri",
+      "İlaç ve Biyoteknoloji",
+      "Otomotiv ve Yan Sanayi",
+      "Tekstil ve Konfeksiyon",
+      "Kimya ve Petrokimya",
+      "Yenilenebilir Enerji"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 6.5
+          },
+          {
+            "year": "2019",
+            "value": 3.9
+          },
+          {
+            "year": "2020",
+            "value": -5.8
+          },
+          {
+            "year": "2021",
+            "value": 9.1
+          },
+          {
+            "year": "2022",
+            "value": 7.2
+          },
+          {
+            "year": "2023",
+            "value": 7.6
+          },
+          {
+            "year": "2024",
+            "value": 6.8
+          },
+          {
+            "year": "2025",
+            "value": 6.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1951",
+        "title": "İlk Beş Yıllık Planın Başlatılması",
+        "description": "Tarım sektörünü geliştirmeyi ve temel altyapıyı kurmayı hedefleyen devlet merkezi planlama dönemi başlatılmıştır.",
+        "era": "Planlı Ekonomi Dönemi"
+      },
+      {
+        "year": "1960'lar",
+        "title": "Yeşil Devrim Hamlesi",
+        "description": "Yüksek verimli tohum türleri ve modern tarım tekniklerinin kullanımıyla Hindistan gıda üretiminde kendine yeterli hale gelmiştir.",
+        "era": "Kalkınma Dönemi"
+      },
+      {
+        "year": "1991",
+        "title": "Ekonomik Liberalleşme Reformları",
+        "description": "Ödemeler dengesi krizinin ardından dış ticarette serbestleşme, özelleştirme ve yabancı yatırımların önünü açan tarihi reformlar yapılmıştır.",
+        "era": "Modern Ekonomik Reform Dönemi"
+      },
+      {
+        "year": "2015",
+        "title": "Digital India Hareketi",
+        "description": "Kamu hizmetlerinin dijitalleştirilmesi ve finansal kapsayıcılığın artırılması amacıyla ulusal dijital altyapı hamlesi başlatılmıştır.",
+        "era": "Dijital Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Mal ve Hizmet Vergisi (GST) Reformu",
+        "description": "Karmaşık eyalet içi vergiler tek bir ulusal vergi çatısı altında birleştirilerek tek pazar yapısı güçlendirilmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Hindistan, dış politikasında geleneksel Bağlantısızlık ilkesinden beslenen, günümüzde ise stratejik özerklik ve çoklu ittifaklar geliştirmeyi amaçlayan dengeli bir diploması izlemektedir. Doğu ve Batı blokları arasında arabulucu ve bağımsız bir aktör rolünü korumaya özen gösterir.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Ortak",
+        "description": "Savunma, Hint-Pasifik güvenliği, ticaret ve yüksek teknoloji transferi alanlarında derinleşen kapsayıcı ortaklık.",
+        "since": "2000"
+      },
+      {
+        "partner": "Rusya",
+        "relationType": "Geleneksel Müttefik",
+        "description": "Savunma tedariki, enerji ve nükleer teknoloji iş birliğine dayanan köklü stratejik ilişkiler.",
+        "since": "1971"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "Stratejik ve Ekonomik Ortak",
+        "description": "Büyük altyapı projeleri, hızlı tren yatırımları ve bölgesel deniz güvenliği alanında ortaklık.",
+        "since": "1952"
+      },
+      {
+        "partner": "Fransa",
+        "relationType": "Stratejik Ortak",
+        "description": "Savunma sanayi, havacılık ve sivil nükleer enerji alanlarında güvene dayalı iş birliği.",
+        "since": "1998"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Simla Anlaşması",
+        "year": "1972",
+        "description": "1971 savaşı sonrasında Hindistan ve Pakistan arasında ikili sorunların barışçıl yollarla çözülmesini öngören çerçeve anlaşma."
+      },
+      {
+        "name": "ABD-Hindistan Sivil Nükleer Anlaşması",
+        "year": "2008",
+        "description": "Hindistan'ın Nükleer Silahların Yayılmasını Önleme Antlaşması'na imza atmadan uluslararası nükleer ticarete erişimini sağlayan kritik adım."
+      },
+      {
+        "name": "Sınır Barış ve Huzur Anlaşması",
+        "year": "1993",
+        "description": "Hindistan ve Çin arasında Fiili Kontrol Hattı boyunca barış ve istikrarın korunmasını amaçlayan ikili düzenleme."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Pakistan",
+        "relationType": "Anlaşmazlık",
+        "description": "Keşmir bölgesinin egemenliği ve sınır güvenliği konusundaki tarihsel ve askeri nitelikli anlaşmazlık.",
+        "since": "1947"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Anlaşmazlık",
+        "description": "Aksai Chin ve Arunachal Pradesh bölgelerindeki netleştirilmemiş sınır hatları nedeni ile yaşanan gerginlikler.",
+        "since": "1962"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "BRICS",
+        "role": "Kurucu Üye",
+        "joinedYear": "2006"
+      },
+      {
+        "name": "Milletler Topluluğu",
+        "role": "Aktif Üye",
+        "joinedYear": "1947"
+      },
+      {
+        "name": "Şanghay İşbirliği Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "2017"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Hindistan, çok partili ve çok kültürlü yapısını anayasal demokrasi, laiklik ilkeleri ve federal yönetim modeli çerçevesinde sürdüren, dünyanın en kalabalık seçmen kitlesine sahip parlamenter cumhuriyetidir.",
+    "governmentForm": "Federal Parlamenter Anayasal Cumhuriyet",
+    "currentStructure": "Yürütme erki devlet başkanı konumundaki Cumhurbaşkanı ve hükümet başkanı konumundaki Başbakan önderliğindeki Bakanlar Kurulu tarafından kullanılır. Yasama erki çift kamaralı Parlamento (Lok Sabha ve Rajya Sabha) tarafından yürütülür. Yargı erki ise tam bağımsızlığa sahip Yüksek Mahkeme denetimindedir.",
+    "timeline": [
+      {
+        "year": "1947",
+        "title": "Geçici Hükümetin Kuruluşu",
+        "description": "Bağımsızlığın kazanılmasıyla birlikte Jawaharlal Nehru liderliğinde geçici yönetim oluşturulmuştur.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1950",
+        "title": "Anayasanın Kabulü",
+        "description": "B.R. Ambedkar başkanlığındaki komite tarafından hazırlanan ve bireysel hakları teminat altına alan anayasa kabul edilmiştir.",
+        "era": "Anayasal Dönem"
+      },
+      {
+        "year": "1951-1952",
+        "title": "İlk Genel Seçimler",
+        "description": "Genel oy hakkı ilkesiyle ülke genelinde düzenlenen ilk demokratik seçimler başarıyla tamamlanmıştır.",
+        "era": "Demokratik Dönem"
+      },
+      {
+        "year": "1956",
+        "title": "Eyaletlerin Dil Bazlı Yeniden Yapılandırılması",
+        "description": "Eyalet Sınırlarını Yeniden Düzenleme Yasası ile eyalet sınırları dilsel birleştiricilik esas alınarak yeniden çizilmiştir.",
+        "era": "Federal Dönem"
+      },
+      {
+        "year": "1975-1977",
+        "title": "Ulusal Olağanüstü Hal Dönemi",
+        "description": "Başbakan Indira Gandhi tarafından ilan edilen 21 aylık olağanüstü hal döneminde sivil hürriyetler kısıtlanmış ve siyasi kriz yaşanmıştır.",
+        "era": "Siyasi Kriz Dönemi"
+      },
+      {
+        "year": "1977",
+        "title": "İlk Kongre Dışı Hükümetin Kurulması",
+        "description": "Seçimleri kazanan Janata Partisi coalition iktidara gelerek Kongre Partisi'nin tek başına hakimiyetine son vermiştir.",
+        "era": "Siyasi Dönüşüm"
+      },
+      {
+        "year": "1989",
+        "title": "Koalisyon Hükümetleri Çağı",
+        "description": "Hiçbir partinin tek başına çoğunluk sağlayamadığı ve koalisyon ittifaklarının ön plana çıktığı dönem başlamıştır.",
+        "era": "Çok Partili Dönem"
+      },
+      {
+        "year": "2014",
+        "title": "BJP'nin Tek Başına Çoğunluk Elde Etmesi",
+        "description": "Narendra Modi liderliğindeki Bharatiya Janata Party (BJP), 30 yıl aradan sonra parlamentoda tek başına çoğunluğu kazanmıştır.",
+        "era": "Modern Siyasi Dönem"
+      },
+      {
+        "year": "2019",
+        "title": "370. Maddenin Kaldırılması",
+        "description": "Cammu Keşmir'e özel statü tanıyan anayasa maddesi kaldırılarak bölge doğrudan merkeze bağlı birimlere ayrılmıştır.",
+        "era": "Anayasal Reform Dönemi"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Hindistan, uzay araştırmaları, nükleer enerji, bilgi teknolojileri ve jenerik ilaç üretimi gibi alanlarda küresel düzeyde rekabetçi ve maliyet etkin inovasyon kapasitesine sahip bir bilimsel altyapıya sahiptir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.65",
+        "unit": "%",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "220,000",
+        "unit": "Adet",
+        "scoreOutOf100": 85
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "83,000",
+        "unit": "Adet",
+        "scoreOutOf100": 72
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "350,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "39",
+        "unit": "Sıra",
+        "scoreOutOf100": 75
+      }
+    ],
+    "notableAchievements": [
+      "Chandrayaan-3 Misyonu ile Ay'ın güney kutbuna iniş yapan ilk ülke olunması",
+      "Mangalyaan (Mars Orbiter Mission) ile ilk denemede Mars yörüngesine başarıyla ulaşılması",
+      "Aadhaar biyometrik kimlik sistemi ile dünyanın en geniş dijital kamu altyapısının kurulması",
+      "Küresel jenerik ilaç ve aşı tedarikinde lider konum elde edilerek 'Dünyanın Eczanesi' unvanının kazanılması",
+      "Torium tabanlı üç aşamalı yerli nükleer enerji programının geliştirilmesi"
+    ],
+    "institutions": [
+      {
+        "name": "ISRO (Hindistan Uzay Araştırmaları Örgütü)",
+        "type": "Uzay Ajansi",
+        "description": "Maliyet etkin uydu teknolojileri, gezegenler arası keşif misyonları ve fırlatma roketleri geliştiren öncü uzay kurumu."
+      },
+      {
+        "name": "IISc Bangalore (Hindistan Bilim Enstitüsü)",
+        "type": "Universite",
+        "description": "Temel bilimler, mühendislik ve ileri teknoloji araştırmalarında ülkenin en yüksek akademik saygınlığa sahip kurumu."
+      },
+      {
+        "name": "IITs (Hindistan Teknoloji Enstitüleri)",
+        "type": "Universite",
+        "description": "Dünya genelinde kabul gören mühendislik ve teknoloji eğitimi sunan özerk teknik üniversiteler ağı."
+      },
+      {
+        "name": "CSIR (Bilimsel ve Endüstriyel Araştırma Konseyi)",
+        "type": "Arastirma Enstitusu",
+        "description": "Sanayi, tıp, tarım ve çevre alanlarında Ar-Ge projeleri yürüten ulusal araştırma merkezleri ağı."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:03:35.360Z"
+}

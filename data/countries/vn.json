@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "code": "vn",
+    "iso3": "VNM",
+    "name_tr": "Vietnam",
+    "name_en": "Vietnam",
+    "region": "Asya",
+    "capital_tr": "Hanoi",
+    "flag_emoji": "🇻🇳"
+  },
+  "overview": "Vietnam, Güneydoğu Asya'da Çinhindi Yarımadası'nın doğu kıyısında yer alan, dinamik nüfusu ve stratejik konumuyla öne çıkan bir sosyalist cumhuriyettir. Kuzeyde Çin, batıda Laos ve Kamboçya ile kara sınırı bulunan ülke, doğuda ve güneyde Güney Çin Denizi ile çevrilidir. Tarihi boyunca bağımsızlığını koruma mücadelesi veren Vietnam, 1986 yılında başlatılan 'Đổi Mới' (Yenilenme) reformları sayesinde merkezi planlı ekonomiden piyasa odaklı bir yapıya geçiş yapmıştır. Günümüzde sanayileşme, yüksek teknoloji üretimi ve bölgesel diplomasideki aktif rolüyle Güneydoğu Asya'nın yükselen güçlerinden biri olarak değerlendirilmektedir.",
+  "history": {
+    "summary": "Vietnam tarihi, antik krallıklardan Çin egemenliği dönemine, Fransız sömürgeciliğinden 20. yüzyılın en çetin bağımsızlık ve savaş süreçlerine uzanan köklü bir geçmişe sahiptir. M.Ö. 1. bin yılda Văn Lang ve Âu Lạc gibi ilk devletlerin kurulmasıyla başlayan süreç, yüzyıllar süren Çin hakimiyetine karşı direnişlerle şekillenmiştir. 938 yılında kazanılan bağımsızlık sonrası hüküm süren yerli hanedanlar, ülkenin kültürel ve coğrafi kimliğini pekiştirmiştir. 19. yüzyılın ortalarında başlayan Fransız sömürge yönetimi, II. Dünya Savaşı sonrasında bağımsızlık mücadelesine dönüşmüş; ülke İkinci Dünya Savaşı, Birinci Çinhindi Savaşı ve Vietnam Savaşı'nın ardından 1976 yılında resmen yeniden birleşmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 2879",
+        "title": "Hồng Bàng Dönemi ve Văn Lang Krallığı",
+        "description": "Efsanevi Hùng kralları tarafından kurulan Văn Lang, Vietnam kültürünün ve pirinç tarımına dayalı ilk toplum yapısının temellerini oluşturmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 111",
+        "title": "Çin Egemenliğinin Başlaması",
+        "description": "Han Hanedanı'nın bölgeyi fethiyle birlikte yaklaşık bin yıl sürecek olan Çin hakimiyeti ve kültürel etkileşim dönemi başlamıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "938",
+        "title": "Bạch Đằng Muharebesi ve Bağımsızlık",
+        "description": "Komutan Ngô Quyền, Güney Han kuvvetlerini Bạch Đằng nehrinde mağlup ederek Çin egemenliğine son vermiş ve bağımsız Vietnam devletini kurmuştur.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1009-1225",
+        "title": "Lý Hanedanı ve Altın Çağ",
+        "description": "Başkentin Thăng Long'a (günümüz Hanoi) taşındığı bu dönemde Budizm gelişmiş, merkezi idare güçlenmiş ve ilk ulusal üniversite açılmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1858",
+        "title": "Fransız Müdahalesi ve Sömürgeleşme",
+        "description": "Fransız donanmasının Đà Nẵng'a saldırmasıyla başlayan süreç, tüm Vietnam'ın Fransız Çinhindi yönetimi altına girmesiyle sonuçlanmıştır.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1945",
+        "title": "Ağustos Devrimi ve Bağımsızlık Bildirisi",
+        "description": "Hồ Chí Minh önderliğindeki Việt Minh, Japon işgalinin sona ermesiyle kontrolü ele almış ve Vietnam Demokratik Cumhuriyeti'ni ilan etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1954",
+        "title": "Điện Biên Phủ Zaferi ve Cenevre Anlaşmaları",
+        "description": "Fransız birliklerinin kesin yenilgisiyle Birinci Çinhindi Savaşı sona ermiş; ülke 17. paralel boyunca Kuzey ve Güney olarak ikiye bölünmüştür.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1955-1975",
+        "title": "Vietnam Savaşı",
+        "description": "Kuzey Vietnam ile ABD destekli Güney Vietnam arasında yaşanan ve Soğuk Savaş'ın en kanlı çatışmalarından biri olan savaş dönemi yaşanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1976",
+        "title": "Ülkenin Yeniden Birleşmesi",
+        "description": "Saigon'un düşüşünün ardından Kuzey ve Güney Vietnam resmen birleşerek Vietnam Sosyalist Cumhuriyeti adını almıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1986",
+        "title": "Đổi Mới Reform Dönemi",
+        "description": "Vietnam Komünist Partisi, merkezi planlamadan serbest piyasa odaklı sosyalist yönelimli piyasa ekonomisine geçiş kararı almıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Vietnam ekonomisi, 1986'daki 'Đổi Mới' reformlarından bu yana dünyadaki en hızlı büyüyen gelişmekte olan piyasalardan biri haline gelmiştir. Düşük iş gücü maliyetleri, geniş serbest ticaret anlaşmaları ağı ve stratejik konumu sayesinde küresel imalat ve ihracat merkezine dönüşmüştür. Tarım odaklı bir yapıdan elektronik, tekstil ve otomotiv montajı gibi katma değerli sektörlere kayan ekonomi, küresel tedarik zincirlerinin çeşitlendirilmesi sürecinden büyük fayda sağlamaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "470 Milyar",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "4,650",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "6.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "3.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Vietnam Dongu (VND)",
+        "unit": "VND",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "2.3",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "395 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Elektronik ve Yarı İletken Montajı",
+      "Tekstil ve Hazır Giyim",
+      "Ayakkabı İmalatı",
+      "Tarım ve Su Ürünleri (Pirinç, Kahve, Karides)",
+      "Bilgi Teknolojileri ve Yazılım Hizmetleri",
+      "Turizm ve Otelcilik"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 7.1
+          },
+          {
+            "year": "2019",
+            "value": 7
+          },
+          {
+            "year": "2020",
+            "value": 2.9
+          },
+          {
+            "year": "2021",
+            "value": 2.6
+          },
+          {
+            "year": "2022",
+            "value": 8
+          },
+          {
+            "year": "2023",
+            "value": 5.1
+          },
+          {
+            "year": "2024",
+            "value": 6.1
+          },
+          {
+            "year": "2025",
+            "value": 6.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1986",
+        "title": "Đổi Mới Politikalarının Kabulü",
+        "description": "Devlet kontrolündeki ekonomiden piyasa mekanizmalarına geçiş yapılarak özel teşebbüse ve yabancı yatırıma izin verilmiştir.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "1995",
+        "title": "ABD Ambargosunun Kaldırılması ve ASEAN Üyeliği",
+        "description": "Ekonomik izolasyonu sona erdiren bu adımlar, ülkenin uluslararası ticaret ağlarına entegrasyonunu hızlandırmıştır.",
+        "era": "Açılım Dönemi"
+      },
+      {
+        "year": "2007",
+        "title": "Dünya Ticaret Örgütü (DTÖ) Üyeliği",
+        "description": "DTÖ'ye 150. üye olarak katılan Vietnam, küresel pazarlara erişimini genişletmiş ve doğrudan yabancı yatırımları artırmıştır.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2020",
+        "title": "AB-Vietnam Serbest Ticaret Anlaşması (EVFTA)",
+        "description": "Avrupa Birliği ile imzalanan kapsamlı ticaret anlaşması, gümrük vergilerinin büyük kısmını sıfırlayarak ihracatı güçlendirmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Vietnam, dış politikasında 'bütün ülkelerle dost olma, çok taraflılık ve dengeli diplomasi' ilkelerini benimsemektedir. 'Bambu Diplomasisi' olarak adlandırılan bu yaklaşım; esnek, esnek ancak ilkeli duruşu simgeler. Ülke, büyük güçler arasındaki rekabette tarafsız kalmayı hedeflerken, egemenlik haklarını korumayı ve uluslararası hukuka dayalı bir bölgesel düzeni savunmayı önceliklendirmektedir.",
+    "alliances": [
+      {
+        "partner": "ASEAN Bölgesel İttifakı",
+        "relationType": "Bölgesel Entegrasyon",
+        "description": "Vietnam, Güneydoğu Asya ulusları arasında siyasi istikrar ve ekonomik iş birliğinin ana sütunlarından biridir.",
+        "since": "1995"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Savaş geçmişine rağmen iki ülke, ticaret, güvenlik ve teknoloji alanlarında ilişkilerini en üst diplomatik seviyeye taşımıştır.",
+        "since": "2023"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik İşbirliği Ortaklığı",
+        "description": "Komşu Çin ile yoğun ekonomik ve parti düzeyinde ilişkiler sürdürülmekte, deniz alanı anlaşmazlıkları diyalogla yönetilmeye çalışılmaktadır.",
+        "since": "2008"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Japonya, Vietnam'ın en büyük kalkınma yardımı sağlayıcısı ve ana altyapı yatırımcılarından biridir.",
+        "since": "2023"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Cenevre Anlaşması",
+        "year": "1954",
+        "description": "Fransız sömürge yönetimine son veren ve Çinhindi bölgesindeki bağımsızlıkları tanıyan uluslararası anlaşma."
+      },
+      {
+        "name": "Paris Barış Anlaşması",
+        "year": "1973",
+        "description": "ABD askeri güçlerinin Vietnam'dan çekilmesini ve barış şartlarını düzenleyen antlaşma."
+      },
+      {
+        "name": "Bölgesel Kapsamlı Ekonomik Ortaklık (RCEP)",
+        "year": "2020",
+        "description": "Asya-Pasifik bölgesindeki 15 ülkeyi kapsayan dünyanın en büyük serbest ticaret bloğu anlaşması."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Çin ve Bölge Ülkeleri (Güney Çin Denizi)",
+        "relationType": "Anlaşmazlık",
+        "description": "Paracel ve Spratly adaları üzerindeki egemenlik hakları ve kıta sahanlığı sınırları konusunda tarihsel ve hukuki ihtilaflar devam etmektedir.",
+        "since": "1974"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1977"
+      },
+      {
+        "name": "ASEAN",
+        "role": "Aktif Üye",
+        "joinedYear": "1995"
+      },
+      {
+        "name": "Dünya Ticaret Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "2007"
+      },
+      {
+        "name": "APEC",
+        "role": "Aktif Üye",
+        "joinedYear": "1998"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Vietnam, Vietnam Komünist Partisi'nin (VCP) liderliğinde yönetilen tek partili bir sosyalist cumhuriyettir. Anayasa, VCP'yi devletin ve toplumun öncü gücü olarak tanımlar. Siyasi yapı; parti hiyerarşisi, devlet organları ve kitlesel örgütlerin uyumuna dayanır. Karar alma mekanizmaları kolektif liderlik ilkesine dayanır ve yasama organı olan Ulusal Meclis, yasa yapma ve denetim yetkilerine sahiptir.",
+    "governmentForm": "Tek Partili Sosyalist Cumhuriyet",
+    "currentStructure": "Yürütme gücü Cumhurbaşkanı ve Başbakan liderliğindeki Hükümet tarafından yürütülür. Yasama organı 500 üyeli Ulusal Meclis'tir. Yargı sistemi ise Yüksek Halk Mahkemesi ve ona bağlı yerel mahkemelerden oluşur.",
+    "timeline": [
+      {
+        "year": "1945",
+        "title": "İlk Anayasa ve Cumhuriyetin İlanı",
+        "description": "Bağımsızlığın ardından ilk demokratik yapı oluşturulmuş ve ulusal meclis seçimleri yapılmıştır.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1959",
+        "title": "Sosyalist İnşa Anayasası",
+        "description": "Kuzey Vietnam'da sosyalist devlet yapısını pekiştiren ve merkezi planlamayı öngören anayasa kabul edilmiştir.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1980",
+        "title": "Yeniden Birleşme Anayasası",
+        "description": "Ülkenin birleşmesinin ardından tüm Vietnam genelinde uygulanan idari ve siyasi çerçeve çizilmiştir.",
+        "era": "Birleşme Dönemi"
+      },
+      {
+        "year": "1992",
+        "title": "Ekonomik Reform Anayasası",
+        "description": "Đổi Mới ilkelerini hukuki güvenceye alan, özel mülkiyeti ve piyasa ekonomisini tanıyan anayasa yürürlüğe girmiştir.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "2013",
+        "title": "Güncellenmiş Anayasa",
+        "description": "İnsan hakları korumalarını artıran, hukukun üstünlüğü vurgusunu güçlendiren ve uluslararası entegrasyonu destekleyen revize anayasa kabul edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2021",
+        "title": "13. Ulusal Parti Kongresi",
+        "description": "Ülkenin 2030 ve 2045 uzun vadeli kalkınma hedefleri belirlenmiş, sanayileşme ve dijital dönüşüm vurgulanmıştır.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2024",
+        "title": "Yolsuzlukla Mücadele ve Yönetim Reformları",
+        "description": "'Kızgın Fırın' adı verilen yolsuzlukla mücadele kampanyası kapsamında üst düzey idari düzenlemeler gerçekleştirilmiştir.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2025",
+        "title": "Kamuda Dijital Yönetim Hamlesi",
+        "description": "Devlet hizmetlerinin dijitalleştirilmesi ve idari bürokrasinin azaltılmasına yönelik ulusal strateji uygulanmaya konmuştur.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Vietnam, bilim ve teknoloji alanında araştırma altyapısını güçlendirmeyi ve yüksek teknolojili üretime geçmeyi stratejik öncelik olarak belirlemiştir. Yapay zekâ, yarı iletken tasarımı, biyoteknoloji ve yenilenebilir enerji odaklı yatırımlar hız kazanmıştır. Devlet ve özel sektör iş birliğiyle kurulan teknoparklar ve ulusal araştırma enstitüleri, ülkenin küresel teknoloji ekosistemindeki payını artırmayı hedeflemektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.53",
+        "unit": "%",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "78,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 60
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "11,500",
+        "unit": "Adet",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Yüksek Teknoloji İhracatının Payı",
+        "value": "42.0",
+        "unit": "%",
+        "scoreOutOf100": 82
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "44",
+        "unit": "Sıra"
+      }
+    ],
+    "notableAchievements": [
+      "VinFast markası ile küresel pazarlar için elektrikli araç ve batarya teknolojileri üretimi",
+      "VNREDSat-1 ve F-1 uyduları ile ulusal yer gözlem ve uzay araştırmaları yetkinliği",
+      "Biyoteknoloji alanında gelişmiş tarımsal pirinç varyantları ve viral aşı geliştirme çalışmaları",
+      "FPT Software öncülüğünde uluslararası ölçekte yazılım ve yapay zekâ çözümleri ihracatı"
+    ],
+    "institutions": [
+      {
+        "name": "Vietnam Bilim ve Teknoloji Akademisi (VAST)",
+        "type": "Arastirma Enstitusu",
+        "description": "Doğa bilimleri, biyoteknoloji ve uzay araştırmalarında ülkenin en prestijli disiplinlerarası bilim kurumudur."
+      },
+      {
+        "name": "Hanoi Ulusal Üniversitesi (VNU Hanoi)",
+        "type": "Universite",
+        "description": "Mühendislik, temel bilimler ve sosyal bilimler alanında Vietnam'ın öncü akademik araştırma merkezidir."
+      },
+      {
+        "name": "Hanoi Bilim ve Teknoloji Üniversitesi (Bách Khoa)",
+        "type": "Universite",
+        "description": "Teknik eğitim, bilgisayar bilimleri ve sanayi odaklı Ar-Ge projelerinde lider teknik üniversitedir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:30:01.645Z"
+}

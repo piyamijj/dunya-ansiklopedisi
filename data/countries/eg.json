@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "code": "eg",
+    "iso3": "EGY",
+    "name_tr": "Mısır",
+    "name_en": "Egypt",
+    "region": "Afrika",
+    "capital_tr": "Kahire",
+    "flag_emoji": "🇪🇬"
+  },
+  "overview": "Mısır Arap Cumhuriyeti, Kuzeydoğu Afrika ile Asya'nın güneybatısındaki Sina Yarımadası'nı birbirine bağlayan stratejik bir kıtalararası ülkedir. Nüfusunun büyük bir bölümü Nil Nehri vadisi ve deltası boyunca yoğunlaşmış olup, ülke coğrafi olarak Akdeniz ve Kızıldeniz'e kıyıdaş konumdadır. Doğu ile Batı arasındaki küresel deniz ticaretinin ana arterlerinden biri olan Süveyş Kanalı'nı bünyesinde barındıran Mısır, binlerce yıllık antik medeniyet mirası, jeopolitik konumu ve geniş nüfusuyla Arap dünyası ve Afrika kıtasında kilit bir bölgesel aktördür.",
+  "history": {
+    "summary": "Mısır tarihi, M.Ö. 3100 civarında Upper ve Lower Mısır'ın birleşmesiyle başlayan ve kesintisiz devam eden insanlık tarihinin en köklü geçmişlerinden birine sahiptir. Antik Mısır'ın görkemli hanedanlıklar dönemini Roma, Bizans, Arap-İslam, Memlük ve Osmanlı egemenlikleri izlemiş; 20. yüzyılda ise İngiliz himayesinden cumhuriyete uzanan modern devlet yapısı şekillenmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3100",
+        "title": "Mısır'ın Birleşmesi ve Erken Hanedan Dönemi",
+        "description": "Kral Narmer (Menes) döneminde Yukarı ve Aşağı Mısır tek bir krallık altında birleştirildi. İlk hanedanlık dönemi başlatılarak Memphis kenti başkent yapıldı.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 2560",
+        "title": "Gize Piramitlerinin İnşası",
+        "description": "Eski Krallık döneminde Firavun Khufu tarafından Gize Büyük Piramidi inşa ettirildi. Mühendislik ve mimaride antik çağın en yüksek seviyelerinden birine ulaşıldı.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 30",
+        "title": "Roma İhlakı ve Kleopatra'nın Ölümü",
+        "description": "Ptolemaios Hanedanı'nın son hükümdarı VII. Kleopatra'nın ölümünün ardından Mısır, Roma İmparatorluğu'nun bir eyaleti haline geldi.",
+        "era": "Klasik Dönem"
+      },
+      {
+        "year": "641",
+        "title": "Müslümanların Mısır'ı Fethi",
+        "description": "Amr bin Âs komutasındaki İslam orduları Bizans yönetimindeki Mısır'ı fethetti. Fustat şehri kurularak bölgenin İslamlaşma ve Araplaşma süreci başladı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "969",
+        "title": "Fatımi Halifeliği ve Kahire'nin Kuruluşu",
+        "description": "Fatımi Devleti Mısır'ı ele geçirerek El-Kahire kentini inşa etti. El-Ezher Üniversitesi kurularak bölge ilim ve kültür merkezi haline getirildi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1171",
+        "title": "Eyyubi Hanedanlığının Kuruluşu",
+        "description": "Selahaddin Eyyubi Fatımi yönetimini sonlandırarak Eyyubi Devleti'ni kurdu ve Şii Fatımi halifeliği yerine Sünni yönetimi yeniden tesis etti.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1250",
+        "title": "Memlük Sultanlığı Dönemi",
+        "description": "Eyyubi ordusundaki asker kökenli Memlükler yönetimi ele geçirdi. Mısır, Moğol akınlarına karşı bölgenin ana savunma hattı haline geldi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1517",
+        "title": "Osmanlı Egemenliğinin Başlaması",
+        "description": "Yavuz Sultan Selim'in Ridaniye Savaşı'nı kazanmasıyla Memlük Sultanlığı sona erdi ve Mısır bir Osmanlı eyaleti durumuna geldi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1805",
+        "title": "Kavalalı Mehmet Ali Paşa Dönemi",
+        "description": "Mehmet Ali Paşa Mısır Valisi oldu. Askeri, ekonomik ve sanayi alanında geniş kapsamlı modernleşme reformları başlatılarak modern Mısır'ın temelleri atıldı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1869",
+        "title": "Süveyş Kanalı'nın Açılışı",
+        "description": "Akdeniz ile Kızıldeniz'i birbirine bağlayan Süveyş Kanalı uluslararası ticarete açıldı, bu durum Mısır'ın jeopolitik önemini küresel ölçekte artırdı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1922",
+        "title": "Mısır Krallığı ve Kısmi Bağımsızlık",
+        "description": "Birleşik Krallık, Mısır üzerindeki koruma rejimini tek taraflı deklarasyonla kaldırarak bağımsız Mısır Krallığı'nın kurulmasını tanıdı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1952",
+        "title": "Hür Subaylar Darbesi ve Cumhuriyetin İlanı",
+        "description": "Cemal Abdülnasır liderliğindeki Hür Subaylar Hareketi monarşiyi devirdi. 1953 yılında cumhuriyet ilan edilerek krallık dönemi resmen sona erdi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2011",
+        "title": "25 Ocak Devrimi",
+        "description": "Arap Baharı kapsamında gerçekleşen kitlesel protestolar sonucunda 30 yıllık Hüsnü Mübarek yönetimi sona erdi ve siyasi geçiş süreci başladı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Mısır ekonomisi; turizm, tarım, imalat sanayii, doğal gaz üretimi, Süveyş Kanalı geçiş ücretleri ve yurt dışında çalışan vatandaşların döviz havalelerine dayalı çeşitleşmiş ancak kırılganlıklara açık bir yapıdadır. Son yıllarda altyapı yatırımları ve IMF destekli makroekonomik reform programlarıyla sürdürülebilir büyüme hedeflenmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "395.0",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "3,690",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "28.3",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Mısır Lirası (EGP)",
+        "unit": "EGP",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "6.9",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "42.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Süveyş Kanalı Yıllık Geliri",
+        "value": "8.8",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Turizm ve Otelcilik",
+      "Doğal Gaz ve Petrokimya",
+      "Tekstil ve Konfeksiyon",
+      "Tarım ve Gıda İşleme",
+      "İnşaat ve Çimento",
+      "Kanal İşletmeciliği ve Lojistik"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 5.3
+          },
+          {
+            "year": "2019",
+            "value": 5.6
+          },
+          {
+            "year": "2020",
+            "value": 3.6
+          },
+          {
+            "year": "2021",
+            "value": 3.3
+          },
+          {
+            "year": "2022",
+            "value": 6.6
+          },
+          {
+            "year": "2023",
+            "value": 3.8
+          },
+          {
+            "year": "2024",
+            "value": 3
+          },
+          {
+            "year": "2025",
+            "value": 4.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1956",
+        "title": "Süveyş Kanalı'nın Millileştirilmesi",
+        "description": "Cumhurbaşkanı Nasır, kanalı devletleştirerek kanal gelirlerinin ulusal kalkınma projelerine aktarılmasını sağladı.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1974",
+        "title": "Infitah (Açılım) Politikası",
+        "description": "Enver Sedat döneminde yabancı sermayeyi teşvik eden ve özel sektörü destekleyen serbest piyasa odaklı ekonomik açılım başlatıldı.",
+        "era": "Sedat Dönemi"
+      },
+      {
+        "year": "2015",
+        "title": "Yeni Süveyş Kanalı Projesi",
+        "description": "Kanalın çift yönlü trafiğe uygun hale getirilmesi amacıyla genişletme ve paralellik projesi tamamlanarak hizmete açıldı.",
+        "era": "Modern Reform Dönemi"
+      },
+      {
+        "year": "2016",
+        "title": "IMF Destekli Yapısal Reform Programı",
+        "description": "Mısır Lirası dalgalanmaya bırakıldı, enerji sübvansiyonları kademeli olarak azaltıldı ve Katma Değer Vergisi uygulamaya konuldu.",
+        "era": "Modern Reform Dönemi"
+      },
+      {
+        "year": "2022",
+        "title": "Yeni İdari Başkent İnşa Projesi",
+        "description": "Kahire'nin doğusunda inşa edilen megakent projesiyle kamu binaları ve finans merkezlerinin taşınması süreci hız kazandı.",
+        "era": "Modern Reform Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Mısır dış politikasında bölgesel denge, ulusal güvenlik, Doğu Akdeniz enerjisi ve Arap dünyasındaki liderlik rolünü koruma ilkelerini benimser. Batı bloku, Doğu Akdeniz aktörleri, Körfez ülkeleri ve Afrika devletleriyle çok yönlü diplomasi yürütmektedir.",
+    "alliances": [
+      {
+        "partner": "Körfez İşbirliği Konseyi (KİK) Ülkeleri",
+        "relationType": "Stratejik ve Ekonomik Müttefik",
+        "description": "Suudi Arabistan ve BAE gibi stratejik ortaklarla güçlü mali, siyasi ve güvenlik iş birliği sürdürülmektedir.",
+        "since": "1970"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik ve Askeri Ortak",
+        "description": "Mısır, ABD'nin NATO dışı ana müttefiklerinden biridir ve geniş kapsamlı askeri yardım ve güvenlik iş birliği yürütmektedir.",
+        "since": "1979"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Kapsamlı Stratejik Ortak",
+        "description": "Düzensiz göçün önlenmesi, enerji ticareti ve ikili ekonomik yatırımlar çerçevesinde üst düzey iş birliği bulunmaktadır.",
+        "since": "2004"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Enerji ve Savunma Ortağı",
+        "description": "Dabaa Nükleer Güç Santrali inşası ve savunma sanayii tedarikinde derinleşen ilişkiler mevcuttur.",
+        "since": "2009"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Camp David Sözleşmeleri ve Mısır-İsrail Barış Antlaşması",
+        "year": "1979",
+        "description": "İki ülke arasında savaşa son veren ve Sina Yarımadası'nın Mısır'a iadesini sağlayan tarihi barış anlaşması."
+      },
+      {
+        "name": "Büyük Arap Serbest Ticaret Alanı (GAFTA)",
+        "year": "1997",
+        "description": "Arap Ligi üyesi ülkeler arasında gümrük tarifelerinin kademeli olarak kaldırılmasını öngören bölgesel ticaret anlaşması."
+      },
+      {
+        "name": "Agadir Anlaşması",
+        "year": "2004",
+        "description": "Mısır, Ürdün, Fas ve Tunus arasında serbest ticaret bölgesi oluşturan ve AB ile entegrasyonu hedefleyen antlaşma."
+      },
+      {
+        "name": "Mısır-Yunanistan Münhasır Ekonomik Bölge Anlaşması",
+        "year": "2020",
+        "description": "Doğu Akdeniz'de deniz yetki alanlarının sınırlandırılmasını düzenleyen ikili anlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Etiyopya",
+        "relationType": "Anlasmazlik",
+        "description": "Nil Nehri üzerinde inşa edilen Büyük Etiyopya Rönesans Barajı'nın (GERD) dolum ve işletim kuralları üzerine su güvenliği odaklı anlaşmazlık.",
+        "since": "2011"
+      },
+      {
+        "partner": "Sudan",
+        "relationType": "Anlasmazlik",
+        "description": "Kızıldeniz kıyısındaki Halayeb Üçgeni sınır bölgesinin egemenlik haklarına dair dönemsel hukuki ve idari görüş ayrılıkları.",
+        "since": "1956"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Arap Ligi",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Afrika Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "1963"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Kurucu Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "BRICS",
+        "role": "Aktif Üye",
+        "joinedYear": "2024"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Mısır, siyasi tarihinde güçlü bir merkezi yürütme erki ve askeri kurumların belirleyici etkisiyle şekillenmiş üniter bir devlettir. 2014 Anayasası uyarınca cumhurbaşkanının geniş yetkilere sahip olduğu yarı başkanlık/başkanlık tipi bir rejim yürürlüktedir.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemine Sahip Üniter Cumhuriyet",
+    "currentStructure": "Yürütme organının başında geniş yetkilerle donatılmış Cumhurbaşkanı ve Cumhurbaşkanı tarafından atanan Başbakan başkanlığındaki Bakanlar Kurulu yer alır. Yasama erki Temsilciler Meclisi ve Senato'dan oluşan iki kamaralı parlamentoya aittir. Yargı bağımsız mahkemelerce yürütülür, Anayasa Mahkemesi en yüksek yargı organıdır.",
+    "timeline": [
+      {
+        "year": "1953",
+        "title": "Cumhuriyetin İlanı",
+        "description": "Monarşi resmen lağvedilerek Mısır Cumhuriyeti ilan edildi, Muhammed Necib ilk cumhurbaşkanı oldu.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1956",
+        "title": "Nasır Anayasası ve Tek Parti Yönetimi",
+        "description": "Cemal Abdülnasır cumhurbaşkanı oldu; yeni anayasa kabul edilerek Ulusal Birlik çatısı altında tek partili yapı pekiştirildi.",
+        "era": "Nasır Dönemi"
+      },
+      {
+        "year": "1971",
+        "title": "1971 Anayasasının Kabulü",
+        "description": "Enver Sedat döneminde devletin resmi adı 'Mısır Arap Cumhuriyeti' olarak değiştirildi ve yeni anayasa yürürlüğe girdi.",
+        "era": "Sedat Dönemi"
+      },
+      {
+        "year": "1981",
+        "title": "Mübarek Dönemi ve Olağanüstü Hal",
+        "description": "Enver Sedat'ın suikaste uğramasının ardından Hüsnü Mübarek cumhurbaşkanı oldu ve uzun yıllar sürecek olağanüstü hal rejimi ilan edildi.",
+        "era": "Mübarek Dönemi"
+      },
+      {
+        "year": "2011",
+        "title": "Hüsnü Mübarek'in Görevden Ayrılması",
+        "description": "Halk hareketleri sonucunda Mübarek yetkilerini Silahlı Kuvvetler Yüksek Konseyi'ne (SCAF) devrederek istifa etti.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2012",
+        "title": "Muhammed Mursi'nin Seçilmesi",
+        "description": "Mısır tarihinin ilk demokratik cumhurbaşkanlığı seçimleri sonucunda Müslüman Kardeşler adayı Muhammed Mursi göreve geldi.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2013",
+        "title": "3 Temmuz Askeri Müdahalesi",
+        "description": "Geniş katılımlı halk protestolarının ardından ordu yönetime el koydu; Mursi görevden uzaklaştırılarak geçici hükümet kuruldu.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2014",
+        "title": "2014 Anayasası ve Sisi'nin Seçilmesi",
+        "description": "Halk oylamasıyla kabul edilen yeni anayasanın ardından Abdülfettah es-Sisi Cumhurbaşkanı seçildi.",
+        "era": "Sisi Dönemi"
+      },
+      {
+        "year": "2019",
+        "title": "Anayasa Değişiklikleri",
+        "description": "Cumhurbaşkanlığı görev süresini uzatan ve Senato'yu yeniden kuran anayasa değişiklikleri referandumla onaylandı.",
+        "era": "Sisi Dönemi"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Mısır, Orta Doğu ve Afrika bölgesinde akademik araştırma hacmi ve yükseköğretim geleneği açısından lider ülkelerden biridir. Son yıllarda yenilenebilir enerji, uzay teknolojileri, tıp araştırmaları ve fen bilimlerinde ulusal yatırım projeleri öne çıkmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.96",
+        "unit": "%",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "138,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "38,500",
+        "unit": "Adet",
+        "scoreOutOf100": 65
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "86",
+        "unit": "Sıra",
+        "scoreOutOf100": 40
+      },
+      {
+        "label": "Yıllık Yerli ve Yabancı Patent Başvurusu",
+        "value": "2,250",
+        "unit": "Adet",
+        "scoreOutOf100": 35
+      }
+    ],
+    "notableAchievements": [
+      "Mısır Uzay Ajansı (EGSA) bünyesinde MisrSat-2 yer gözlem uydusunun yörüngeye fırlatılması",
+      "Dünyanın en büyük güneş enerjisi komplekslerinden biri olan Benban Güneş Enerjisi Parkı projesi ve AR-GE merkezi",
+      "Ulusal Hepatit C ile mücadele ve yerli antiviral ilaç üretim programı başarısı",
+      "Zewail Bilim ve Teknoloji Şehri bünyesinde ileri malzeme bilimleri ve nanoteknoloji araştırmaları"
+    ],
+    "institutions": [
+      {
+        "name": "Kahire Üniversitesi",
+        "type": "Universite",
+        "description": "1908 yılında kurulan, tıp, mühendisling ve sosyal bilimlerde Arap dünyasının en köklü ve yüksek kapasiteli araştırma üniversitesi."
+      },
+      {
+        "name": "Ayn Şems Üniversitesi",
+        "type": "Universite",
+        "description": "Tıp, eczacılık ve fen bilimleri alanındaki geniş araştırma laboratuvarları ve uluslararası yayın hacmiyle öne çıkan devlet üniversitesi."
+      },
+      {
+        "name": "Ulusal Araştırma Merkezi (NRC)",
+        "type": "Arastirma Enstitusu",
+        "description": "Mısır Yükseköğretim ve Bilimsel Araştırma Bakanlığı'na bağlı, ülkenin en büyük multidisipliner kamu araştırma kurumu."
+      },
+      {
+        "name": "Mısır Uzay Ajansı (EGSA)",
+        "type": "Uzay Ajansi",
+        "description": "Milli uydu teknolojileri, uzay bilimleri ve coğrafi bilgi sistemleri alanında odaklanmış ulusal otorite."
+      },
+      {
+        "name": "Zewail Bilim ve Teknoloji Şehri",
+        "type": "Arastirma Enstitusu",
+        "description": "Nobel ödüllü bilim insanı Ahmed Zewail'in öncülüğünde kurulan, temel bilimler ve yenilikçi teknolojilere odaklanan özerk kurum."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:01:19.575Z"
+}

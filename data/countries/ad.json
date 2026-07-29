@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "code": "ad",
+    "iso3": "AND",
+    "name_tr": "Andorra",
+    "name_en": "Andorra",
+    "region": "Avrupa",
+    "capital_tr": "Andorra la Vella",
+    "flag_emoji": "🇦🇩"
+  },
+  "overview": "Andorra, Doğu Pireneler'de İspanya ile Fransa arasında sıkışmış küçük ama yüksek refah düzeyine sahip bağımsız bir Avrupa mikrodevletidir. Kökleri 1278 yılındaki Pareage Anlaşması'na dayanan ülke, dünyada sembolik olarak iki eş-prens (Fransa Cumhurbaşkanı ve Urgell Piskoposu) tarafından yönetilen tek anayasal parlamenter prensliktir. Coğrafi olarak sarp dağ vadileri ve yüksek zirvelerle çevrili olan Andorra, geniş kapsamlı turizm, finansal hizmetler ve serbest ticaret odaklı ekonomik yapısıyla dikkat çekmektedir. 1993 yılında kabul edilen modern anayasasıyla Birleşmiş Milletler'e katılmış ve uluslararası alanda tarafsız, saygın bir aktör konumuna gelmiştir.",
+  "history": {
+    "summary": "Andorra tarihi, Karolenj İmparatorluğu döneminden günümüze uzanan kesintisiz bir özerklik ve denge siyasetinin hikayesidir. Şarlman'ın Müslüman Araplara karşı tampon bölge olarak kurduğu bu feodal yapı, 1278'de Fransa ve İspanya'daki dini/seküler güçlerin ortak egemenliği altında kurumsallaşmıştır. Yüzyıllar boyunca izole dağ toplumu yapısını koruyan vadi halkı, 20. yüzyılın ikinci yarısından itibaren modern turizm, finans ve anayasal reformlarla çağdaş bir ulus devlete dönüşmüştür.",
+    "timeline": [
+      {
+        "year": "805",
+        "title": "Şarlman Tarafından İtiyaz Verilmesi",
+        "description": "Şarlman, Mağribi kuvvetlerine karşı savaşan Andorra halkına özerklik imtiyazı tanıdı ve bölgeyi İspanyol Markası'nın bir parçası yaptı.",
+        "era": "Karolenj Dönemi"
+      },
+      {
+        "year": "1278",
+        "title": "Birinci Pareage Anlaşması",
+        "description": "Urgell Piskoposu ile Foix Kontu arasında imzalanan anlaşmayla Andorra üzerindeki egemenlik eşit olarak paylaşıldı ve eş-prenslik sistemi doğdu.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1288",
+        "title": "İkinci Pareage Anlaşması",
+        "description": "Sınır anlaşmazlıklarını ve askeri hakları düzenleyen ikinci anlaşma imzalandı; vadide askeri tahkimat yapılması yasaklandı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1607",
+        "title": "Fransa Tacı ile Hakların Birleşmesi",
+        "description": "IV. Henri'nin Fransa kralı olmasıyla Foix Kontluğu hakları Fransız krallık tacına ve dolayısıyla günümüz Fransa devlet başkanlığına geçti.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1866",
+        "title": "Yeni Reform (Nova Reforma)",
+        "description": "Genel Konsey'in yapısını demokratikleştiren reform kabul edildi ve her ailenin reisine oy kullanma hakkı tanındı.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1933",
+        "title": "Genel Erkek Seçme Hakkı ve Müdahale",
+        "description": "Toplumsal huzursuzluklar üzerine tüm yetişkin erkeklere oy hakkı getirildi; düzeni sağlamak adına Fransız jandarması geçici olarak bölgeye girdi.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1970",
+        "title": "Kadınlara Seçme Hakkı",
+        "description": "Andorra'da yapılan hukuki düzenlemelerle kadınlara genel seçimlerde oy kullanma ve seçilme hakkı resmi olarak tanındı.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1993",
+        "title": "Anayasa Referandumu ve BM Üyeliği",
+        "description": "Halk oylamasıyla kabul edilen ilk yazılı anayasa ile ülke tam egemen bir parlamenter demokrasiye dönüştü ve BM'ye üye oldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2011",
+        "title": "AB ile Para Anlaşması Imzalanması",
+        "description": "Andorra, Avrupa Birliği ile imzaladığı anlaşma uyarınca resmi para birimi olarak Euro'yu kullanma ve kendi Euro madeni paralarını basma hakkı kazandı.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Andorra ekonomisi geleneksel hayvancılık ve tütün tarımından, modern turizm, kayak tesisleri, gümrüksüz perakende ticaret ve uluslararası bankacılığa dayalı hizmet odaklı bir modele evrilmiştir. Ülke, yıllık nüfusunun neredeyse 100 katı kadar (yaklaşık 8 milyon) turisti ağırlamaktadır. Son yıllarda vergi şeffaflığı standartlarına uyum sağlayarak vergi cenneti imajından uzaklaşmış ve doğrudan yabancı yatırımları teşvik eden dengeli bir mali yapı kurmuştur.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "3.85",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "45,200",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Yıllık Büyüme Oranı",
+        "value": "2.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.6",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "1.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2026"
+      },
+      {
+        "label": "Yıllık Turist Sayısı",
+        "value": "8.3",
+        "unit": "Milyon Kişi",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Kış Sporları ve Doğa Turizmi",
+      "Bankacılık ve Finansal Hizmetler",
+      "Gümrüksüz Perakende ve Ticaret",
+      "İnşaat ve Gayrimenkul",
+      "Tütün İşleme ve Lüks Tüketim Malları",
+      "Hidroelektrik Enerji Üretimi"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.6
+          },
+          {
+            "year": "2019",
+            "value": 2
+          },
+          {
+            "year": "2020",
+            "value": -11.2
+          },
+          {
+            "year": "2021",
+            "value": 8.9
+          },
+          {
+            "year": "2022",
+            "value": 8.8
+          },
+          {
+            "year": "2023",
+            "value": 2.8
+          },
+          {
+            "year": "2024",
+            "value": 2.3
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1950",
+        "title": "Ticaret ve Ticari Turizm Hamlesi",
+        "description": "Komşu ülkelerdeki gümrük duvarlarına kıyasla düşük vergili mal satışı esasına dayanan alışveriş turizmi büyümeye başladı.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1957",
+        "title": "İlk Kayak Merkezinin Açılması",
+        "description": "Pas de la Casa'da ilk mekanik lifts tesislerinin kurulmasıyla Andorra bir uluslararası kış sporları merkezine dönüştü.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1990",
+        "title": "AB ile Gümrük Birliği Anlaşması",
+        "description": "Andorra, Sanayi Ürünleri Gümrük Birliği Anlaşması ile Avrupa tek pazarına entegrasyonda dev bir adım attı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2012",
+        "title": "Kişisel ve Kurumsal Gelir Vergisi Reformu",
+        "description": "Şeffaf ekonomi politikaları çerçevesinde %10 sabit oranlı kurumlar ve kişisel gelir vergisi uygulamaya konuldu.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Andorra'nın dış politikası, tam tarafsızlık, komşu ülkeler Fransa ve İspanya ile güçlü tarihsel bağlar ve Avrupa Birliği ile kademeli hukuki entegrasyon temellerine dayanır. Ülke, AB üyesi olmamasına rağmen Gümrük Birliği ve Euro para anlaşmalarıyla Avrupa pazarına bağımlı bir yapıdadır. Uluslararası platformlarda çevre koruma, insan hakları ve küçük devletlerin hakları konularında aktif rol oynamaktadır.",
+    "alliances": [
+      {
+        "partner": "İspanya",
+        "relationType": "Özel İkili İlişki ve Komşuluk",
+        "description": "Coğrafi, ekonomik ve kültürel açıdan en yakın ilişkilerin sürdürüldüğü komşu ülke; ortak güvenlik ve sağlık altyapısı paylaşılır.",
+        "since": "1278"
+      },
+      {
+        "partner": "Fransa",
+        "relationType": "Özel İkili İlişki ve Komşuluk",
+        "description": "Fransa Cumhurbaşkanı'nın eş-prens sıfatı taşıması sebebiyle en üst düzeyde diplomatik ve idari bağlar mevcuttur.",
+        "since": "1278"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Gümrük Birliği ve Ortaklık",
+        "description": "Schengen Bölgesi'ne fiilen dahil olan ve Gümrük Birliği anlaşması bulunan Andorra, AB ile Ortaklık Anlaşması müzakerelerini sürdürmektedir.",
+        "since": "1990"
+      },
+      {
+        "partner": "Uluslararası Frankofoni Örgütü",
+        "relationType": "Üyelik",
+        "description": "Fransız dili ve kültürünün vadideki tarihsel varlığı sebebiyle kurum bünyesinde aktif temsil sağlanmaktadır.",
+        "since": "2004"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "İspanya ve Fransa ile İyi Komşuluk Anlaşması",
+        "year": "1993",
+        "description": "Andorra'nın egemen bir devlet olarak uluslararası varlığını ve komşularıyla sınır güvenliği ile diplomatik ilişkilerini düzenleyen temel metindir."
+      },
+      {
+        "name": "AB-Andorra Gümrük Birliği Anlaşması",
+        "year": "1990",
+        "description": "Üçüncü ülkelere karşı AB ortak gümrük tarifesinin uygulanmasını ve sanayi mallarının serbest dolaşımını güvenceye almıştır."
+      },
+      {
+        "name": "Moneter Anlaşma (Euro Alanı)",
+        "year": "2011",
+        "description": "Euro'nun yasal para birimi olarak kullanımı ve ulusal temalı Euro madeni paraların basımına imkan tanımıştır."
+      }
+    ],
+    "disputes": [],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1993"
+      },
+      {
+        "name": "Avrupa Konseyi",
+        "role": "Aktif Üye",
+        "joinedYear": "1994"
+      },
+      {
+        "name": "UNESCO",
+        "role": "Aktif Üye",
+        "joinedYear": "1993"
+      },
+      {
+        "name": "AGİT (Avrupa Güvenlik ve İşbirliği Teşkilatı)",
+        "role": "Aktif Üye",
+        "joinedYear": "1996"
+      },
+      {
+        "name": "Uluslararası Frankofoni Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "2004"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Andorra siyasi sistemi, 13. yüzyıldan gelen derebeylik ortak yönetim gelenekleri ile modern anayasal demokrasinin sentezinden oluşur. Yürütme erkini Hükümet Başkanı yönetirken, devlet başkanlığı görevi Fransa Cumhurbaşkanı ile Urgell Piskoposu tarafından 'Eş-Prensler' sıfatıyla sembolik olarak yürütülür. Siyasi kültürde uzlaşı, mali disiplin ve yerel toplulukların özerkliği ön plandadır.",
+    "governmentForm": "Anayasal Parlamenter Eş-Prenslik",
+    "currentStructure": "Yasama erki, 28 sandalyeden oluşan tek kamaralı Genel Konsey (Consell General) tarafından yürütülür. Yürütme erki, Genel Konsey tarafından seçilen Hükümet Başkanı (Cap de Govern) ve Bakanlar Kurulu'na aittir. Yargı yetkisi bağımsız mahkemeler, Yüksek Yargı Konseyi ve Anayasa Mahkemesi (Tribunal Constitucional) tarafından kullanılır. Fransa Cumhurbaşkanı ve İspanya'daki Urgell Piskoposu sembolik gayrişahsi Eş-Prenslerdir.",
+    "timeline": [
+      {
+        "year": "1419",
+        "title": "Toprak Konseyi'nin (Consell de la Terra) Kurulması",
+        "description": "Andorra halkını temsil etmek üzere dünyadaki en eski parlamenter yapılardan biri tesis edildi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1866",
+        "title": "Anayasal Reform Hareketi",
+        "description": "Eş-prensler tarafından onaylanan reformla oligarşik aile yönetimi sonlandırılarak temsil alanı genişletildi.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1981",
+        "title": "Yürütme ve Yasama Organlarının Ayrılması",
+        "description": "Hükümet Konseyi kurularak başbakanlık makamı tanımlandı ve idari yetkiler parlamentodan ayrıldı.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1993",
+        "title": "İlk Yazılı Anayasanın Kabulü",
+        "description": "14 Mart 1993 referandumu ile Andorra, halk egemenliğine dayalı tam bağımsız anayasal parlamenter bir prenslik oldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1993",
+        "title": "Siyasi Partilerin Yasal Statü Kazanması",
+        "description": "Anayasa sonrası modern anlamda ilk siyasi partiler resmi olarak kuruldu ve genel seçimlerde yarıştı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2009",
+        "title": "Mali Şeffaflık Standartlarının Kabulü",
+        "description": "OECD gri listesinden çıkmak için siyasi uzlaşı ile uluslararası bilgi paylaşım yasaları kabul edildi.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Sosyal Güvenlik ve Çalışma Yasası Reformu",
+        "description": "İşgücü piyasasını çağdaş standartlara ulaştıran kapsamlı sosyal reform yasaları yürürlüğe girdi.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2023",
+        "title": "Genel Seçimler ve Koalisyon DENGESİ",
+        "description": "Demokratlar (DA) Partisi liderliğinde istikrarlı merkez sağ yönetimi seçimleri kazanarak işbaşına geldi.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Andorra'da bilimsel ve akademik altyapı, ülkenin ölçeğiyle orantılı ancak belirli niş alanlarda yüksek uzmanlaşmaya sahiptir. Dağ ekolojisi, iklim değişikliğinin Pireneler üzerindeki etkileri, sürdürülebilir turizm, kar bilimi ve akıllı şehir uygulamaları temel araştırma odaklarıdır. Kamu destekli enstitüler ve Andorra Üniversitesi, bölgesel verilerin toplanması ve çevre yönetimi konularında öncü roller üstlenmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.68",
+        "unit": "%",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Yükseköğretim Mezuniyet Oranı",
+        "value": "44.5",
+        "unit": "%",
+        "scoreOutOf100": 78
+      },
+      {
+        "label": "İnovasyon ve Dijitalleşme Endeksi Puanı",
+        "value": "68.4",
+        "unit": "Puan",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Bin Kişi Başına Düşen Araştırmacı Sayısı",
+        "value": "3.2",
+        "unit": "Kişi",
+        "scoreOutOf100": 48
+      },
+      {
+        "label": "Yıllık Uluslararası Bilimsel Yayın Sayısı",
+        "value": "140",
+        "unit": "Adet",
+        "scoreOutOf100": 40
+      }
+    ],
+    "notableAchievements": [
+      "Pireneler Dağlık Bölge İklim Değişikliği Gözlemevi (OPCC) Ortak Araştırma Projeleri",
+      "Ülke Genelinde %100 Fiber Optik İnternet ve Erken Akıllı Şebeke (Smart Grid) Entegrasyonu",
+      "Kar ve Çığ Güvenliği Modelleme Sistemlerinin Geliştirilmesi (CENMA)",
+      "Biyoçeşitlilik Koruma ve Vadi Ekolojisi Haritalandırma Çalışmaları"
+    ],
+    "institutions": [
+      {
+        "name": "Universitat d'Andorra (UDA)",
+        "type": "Üniversite",
+        "description": "Ülkenin tek kamu üniversitesi olup eğitim, hemşirelik, bilgisayar bilimleri ve sanal öğrenme teknolojileri üzerine odaklanmaktadır."
+      },
+      {
+        "name": "Institut d'Estudis Andorrans (IEA)",
+        "type": "Araştırma Enstitüsü",
+        "description": "Andorra'nın tarihi, dil bilimi, yer bilimleri ve kar-çığ araştırmalarını yürüten temel ulusal bilim kurumudur."
+      },
+      {
+        "name": "Observatori de la Sostenibilitat d'Andorra (OBSA)",
+        "type": "Araştırma Merkezi",
+        "description": "Sürdürülebilir kalkınma, enerji verimliliği ve iklim değişikliği izleme projelerinde uzmanlaşmış disiplinlerarası merkezdir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:33:07.503Z"
+}

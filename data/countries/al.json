@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "code": "al",
+    "iso3": "ALB",
+    "name_tr": "Arnavutluk",
+    "name_en": "Albania",
+    "region": "Avrupa",
+    "capital_tr": "Tiran",
+    "flag_emoji": "🇦🇱"
+  },
+  "overview": "Arnavutluk, Güneydoğu Avrupa'da Balkan Yarımadası'nın güneybatısında yer alan, Adriyatik ve İyon denizlerine kıyısı bulunan stratejik bir Akdeniz ülkesidir. Kuzeyde Karadağ, kuzeydoğuda Kosova, doğuda Kuzey Makedonya ve güneyde Yunanistan ile kara sınırına sahip olan ülke, İtalya ile Otranto Boğazı üzerinden deniz komşusudur. Tarihi boyunca İlirya uygarlıklarından Roma, Bizans ve Osmanlı imparatorluklarına kadar pek çok medeniyetin kesişim noktasında bulunan Arnavutluk, günümüzde parlamenter cumhuriyet rejimiyle yönetilen gelişmekte olan bir pazar ekonomisidir. Ülke, NATO üyeliği ve Avrupa Birliği adaylık süreciyle küresel ve bölgesel entegrasyonunu sürdürmektedir.",
+  "history": {
+    "summary": "Arnavutluk tarihi, antik çağlardaki İlirya kabilelerinin varlığından başlayarak Roma, Bizans ve yüzyıllar süren Osmanlı hâkimiyetine kadar uzanan zengin bir geçmişe sahiptir. 1912 yılında Osmanlı İmparatorluğu'ndan bağımsızlığını kazanan ülke, 20. yüzyılda monarşi, II. Dünya Savaşı işgalleri ve ardından Enver Hoca önderliğinde onlarca yıl süren sert bir komünist rejim tecrübesi yaşamıştır. 1990'ların başında çok partili demokrasiye geçen Arnavutluk, günümüzde demokratik kurumlarını güçlendiren ve Avrupa-Atlas ittifakıyla bütünleşen modern bir devlettir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 8. Yüzyıl - M.Ö. 2. Yüzyıl",
+        "title": "İlirya Krallıkları Dönemi",
+        "description": "Bölgede yerleşik olan Hint-Avrupa kökenli İlirya kabileleri, Adriyatik kıyılarında krallıklar ve şehir devletleri kurmuş, bölgenin özgün kültürel ve dilsel temelini oluşturmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 168",
+        "title": "Roma Hakimiyetinin Başlaması",
+        "description": "İlirya Savaşları sonucunda Roma Cumhuriyeti bölgeyi egemenliği altına almış, Dyrrhachium (Dıraç) şehri Via Egnatia ticaret yolunun başlangıç noktası haline gelmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1443 - 1468",
+        "title": "İskender Bey (Gjergj Kastrioti) Direnişi",
+        "description": "Ulusal kahraman İskender Bey önderliğinde birleşen Arnavut prensliği kabileleri, Osmanlı ilerleyişine karşı çeyrek asır boyunca çetin bir direniş sergilemiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "15. Yüzyıl - 1912",
+        "title": "Osmanlı Yönetimi ve İslami Etki",
+        "description": "Arnavut toprakları Osmanlı İmparatorluğu'na tam olarak katılmış, bu süreçte nüfusun büyük kısmı İslamiyet'i kabul etmiş ve Arnavutlar bürokraside ve askeri alanda üst düzey görevler üstlenmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "28 Kasım 1912",
+        "title": "Bağımsızlık İlanı (Avlonya)",
+        "description": "Balkan Savaşları sırasında İsmail Kemal Bey önderliğindeki ulusal liderler Avlonya'da (Vlora) Arnavutluk'un bağımsızlığını ilan etmiş ve bağımsız modern devletin temelleri atılmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1928 - 1939",
+        "title": "Arnavutluk Krallığı (I. Zog)",
+        "description": "Cumhurbaşkanı Ahmet Zogu kendisini kral ilan ederek Arnavutluk Krallığı'nı kurmuş ve ülkenin idari, hukuki ile altyapı alanlarında modernleşme adımlarını başlatmıştır.",
+        "era": "Savaşlar Arası Dönem"
+      },
+      {
+        "year": "1939 - 1944",
+        "title": "II. Dünya Savaşı ve Faşist/Nazi İşgali",
+        "description": "Ülke önce İtalyan Faşist yönetimi, ardından Alman Nazi kuvvetleri tarafından işgal edilmiş; komünist ve milliyetçi gerilla grupları güçlü bir direniş hareketi örgütlemiştir.",
+        "era": "II. Dünya Savaşı"
+      },
+      {
+        "year": "1944 - 1985",
+        "title": "Enver Hoca Yönetimi ve İzolasyonism",
+        "description": "Enver Hoca liderliğinde kurulan komünist rejim, SSCB ve Çin ile ilişkilerini zamanla kopararak ülkeyi aşırı bir dış izolasyona, ideolojik katılığa ve kitlesel sığınak inşasına sürüklemiştir.",
+        "era": "Soğuk Savaş"
+      },
+      {
+        "year": "1990 - 1992",
+        "title": "Demokrasiye Geçiş Dönemi",
+        "description": "Komünist rejimin çöküşünün ardından öğrenci hareketleri ve toplumsal protestolar sonucunda çok partili sisteme geçilmiş ve yapılan seçimlerle demokratik rejim kurulmuştur.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1997",
+        "title": "Piramt Şemaları Krizi ve Toplumsal Çalkantı",
+        "description": "Finansal piramit şemalarının çökmesi sonucu halkın büyük tasarruf kayıplarına uğraması kamu düzeninin bozulmasına ve uluslararası barış gücünün müdahalesine yol açmıştır.",
+        "era": "Yakın Tarih"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Arnavutluk ekonomisi, komünist dönemin merkezi planlamasından açık pazar ekonomisine geçiş yapmış, üst-orta gelir grubunda yer alan bir hizmet ve imalat ekonomisidir. Turizm, tarım, tekstil, madencilik ve yenilenebilir enerji (özellikle hidroelektrik) ülke ekonomisinin temel sütunlarını oluşturmaktadır. Son yıllarda yapısal reformlar, altyapı yatırımları ve kamu borcunun kontrol altına alınmasıyla istikrarlı bir büyüme ivmesi yakalanmış, AB entegrasyon süreci ekonomik standartların yükselmesini desteklemiştir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "25.2",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "9,250",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "3.4",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "10.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Arnavut Leki (ALL)",
+        "unit": "ALL",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "4.8",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Turizm ve Otelcilik",
+      "Hidroelektrik ve Yenilenebilir Enerji",
+      "Tekstil ve Ayakkabı İmalatı",
+      "Tarım ve Gıda İşleme",
+      "Madencilik (Krom, Petrol, Nikel)",
+      "Inşaat ve Altyapı"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 4
+          },
+          {
+            "year": "2019",
+            "value": 2.1
+          },
+          {
+            "year": "2020",
+            "value": -3.3
+          },
+          {
+            "year": "2021",
+            "value": 8.9
+          },
+          {
+            "year": "2022",
+            "value": 4.8
+          },
+          {
+            "year": "2023",
+            "value": 3.6
+          },
+          {
+            "year": "2024",
+            "value": 3.4
+          },
+          {
+            "year": "2025",
+            "value": 3.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1991",
+        "title": "Pazar Ekonomisine Geçiş",
+        "description": "Fiyat serbestisi, özelleştirme programları ve dış ticarette serbestleşme hamleleriyle serbest piyasa sistemine ilk adım atıldı.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1997",
+        "title": "Piramit Mali Krizinin Ekonomik Etkileri",
+        "description": "Gözetimsiz finansal yapıların çöküşü ülke gayrisafi yurt içi hasılasında sert düşüşe ve ciddi parasal değer kaybına yol açtı.",
+        "era": "Kriz Dönemi"
+      },
+      {
+        "year": "2006",
+        "title": "AB İstikrar ve Ortaklık Anlaşması",
+        "description": "Avrupa Birliği ile imzalanan anlaşma, Gümrük ve ticaret standartlarının uyumlaştırılmasını sağlayarak ihracat kapasitesini artırdı.",
+        "era": "Entegrasyon Dönemi"
+      },
+      {
+        "year": "2019",
+        "title": "TAP (Trans-Adriyatik Boru Hattı) Tamamlanması",
+        "description": "Hazar doğal gazını Avrupa'ya taşıyan TAP projesinin Arnavutluk ayağının faaliyete geçmesi ülkenin bölgesel enerji transit merkezi konumunu pekiştirdi.",
+        "era": "Modern Enerji Dönemi"
+      },
+      {
+        "year": "2023",
+        "title": "Turizm Rekoru ve Hizmet Sektörü Patlaması",
+        "description": "Uluslararası turizmdeki ivmeyle yıllık 10 milyon ziyaretçi sınırı aşılarak turizm ekonominin ana lokomotifi haline geldi.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Arnavutluk dış politikasında Batı yanlısı ve Avro-Atlantik entegrasyonunu merkeze alan kararlı bir yaklaşım benimsemektedir. NATO'nun aktif bir üyesi olan ülke, Avrupa Birliği'ne tam üyelik hedefini stratejik bir öncelik olarak sürdürmektedir. Balkanlar'da bölgesel istikrar, komşuluk ilişkilerinin geliştirilmesi ve Kosova'nın uluslararası alanda tanınması Arnavutluk diplomasisinin temel taşlarını oluşturur.",
+    "alliances": [
+      {
+        "partner": "NATO",
+        "relationType": "Tam Üyelik",
+        "description": "Arnavutluk, ittifakın güneydoğu kanadında stratejik bir güvenlik ortağı olarak NATO misyonlarına aktif katılım sağlamaktadır.",
+        "since": "2009"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Aday Ülke / Katılım Müzakereleri",
+        "description": "2014 yılında aday ülke statüsü kazanan Arnavutluk, mülkiyet ve yargı reformları çerçevesinde katılım müzakerelerini yürütmektedir.",
+        "since": "2014"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Müttefik",
+        "description": "Güvenlik, savunma ve demokrasi reformları alanlarında üst düzey stratejik ve askeri iş birliği bulunmaktadır.",
+        "since": "1991"
+      },
+      {
+        "partner": "Türkiye",
+        "relationType": "Stratejik Ortak",
+        "description": "Tarihi ve kültürel bağlara dayanan ilişkiler; savunma, altyapı, sağlık ve eğitim alanlarında kapsamlı stratejik ortaklık seviyesindedir.",
+        "since": "1992"
+      },
+      {
+        "partner": "İtalya",
+        "relationType": "Kilit İkili Ortak",
+        "description": "İtalya, Arnavutluk'un en büyük ticaret ortağı ve insani-ekonomik entegrasyonda en yakın Avrupalı komşusudur.",
+        "since": "1991"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Kuzey Atlantik Antlaşması (NATO Katılım Protokolü)",
+        "year": "2009",
+        "description": "Arnavutluk'un kolektif savunma şemsiyesine dahil olmasını sağlayan temel uluslararası güvenlik antlaşması."
+      },
+      {
+        "name": "AB İstikrar ve Ortaklık Anlaşması (SAA)",
+        "year": "2006",
+        "description": "AB ile ticari serbestleşme, mevzuat uyumu ve siyasi diyalog çerçevesini belirleyen temel metin."
+      },
+      {
+        "name": "Orta Avrupa Serbest Ticaret Anlaşması (CEFTA)",
+        "year": "2007",
+        "description": "Bölge ülkeleri arasındaki gümrük engellerini kaldırarak bölgesel ticareti teşvik eden anlaşma."
+      },
+      {
+        "name": "Türkiye - Arnavutluk Yüksek Düzeyli Stratejik İşbirliği Anlaşması",
+        "year": "2021",
+        "description": "İki ülke arasındaki ilişkileri stratejik ortaklık seviyesine yükselten ve kurumsal iş birliğini derinleştiren anlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Yunanistan",
+        "relationType": "Anlaşmazlık",
+        "description": "İyon Denizi'ndeki kıta sahanlığı ve münhasır ekonomik bölge (MEB) sınırlarının belirlenmesi konusundaki hukuki süreç Lahey Uluslararası Adalet Divanı'na havale edilmiştir.",
+        "since": "2009"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "NATO",
+        "role": "Aktif Üye",
+        "joinedYear": "2009"
+      },
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "Avrupa Konseyi",
+        "role": "Aktif Üye",
+        "joinedYear": "1995"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1992"
+      },
+      {
+        "name": "Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT)",
+        "role": "Aktif Üye",
+        "joinedYear": "1991"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Arnavutluk, kuvvetler ayrılığı ilkesine dayalı üniter parlamenter temsilî bir cumhuriyettir. Anayasal yapıda Cumhurbaşkanı devletin başı olarak simgesel ve dengeleyici yetkilere sahipken, yürütme erkinin başında Başbakan yer alır. Yasama yetkisi tek kamaralı Arnavutluk Meclisi'ne aittir. Ülke siyasetinde çoğulcu demokrasi hakim olup, yargı reformu süreçleri AB standartlarına uyum kapsamında devam etmektedir.",
+    "governmentForm": "Parlamenter Anayasal Üniter Cumhuriyet",
+    "currentStructure": "Yürütme organı Başbakan liderliğindeki Bakanlar Kurulu tarafından yönetilir. Yasama organı 140 sandalyeli Arnavutluk Meclisi (Kuvendi) olup üyeleri 4 yılda bir nispi temsil sistemiyle seçilir. Yargı erki Anayasa Mahkemesi, Yargıtay ve bağımsız mahkemelerden oluşur; hakim ve savcıların denetimi Vetting (güvenlik ve mal varlığı taraması) mekanizmasıyla yürütülür.",
+    "timeline": [
+      {
+        "year": "1912",
+        "title": "Geçici Hükümetin Kurulması",
+        "description": "İsmail Kemal Bey başkanlığında ilk bağımsız Arnavutluk hükümeti idari yapıyı kurmak üzere faaliyete geçti.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1920",
+        "title": "Luşnja Kongresi ve Anayasal Düzen",
+        "description": "Toplanan milli kongre ülkenin bağımsızlığını yeniden teyit etti ve Tiran'ı başkent ilan ederek geçici anayasal esasları kabul etti.",
+        "era": "Erken Devlet Dönemi"
+      },
+      {
+        "year": "1928",
+        "title": "Monarşiye Geçiş",
+        "description": "Cumhuriyet rejimi kaldırılarak Ahmet Zogu'nun I. Zog unvanıyla kral ilan edildiği anayasal monarşi dönemi başladı.",
+        "era": "Monarşi Dönemi"
+      },
+      {
+        "year": "1946",
+        "title": "Arnavutluk Halk Cumhuriyeti'nin İlanı",
+        "description": "Komünist Parti kontrolünde yeni anayasa kabul edilerek monarşi resmen lağvedildi ve tek partili rejim kuruldu.",
+        "era": "Komünist Dönem"
+      },
+      {
+        "year": "1976",
+        "title": "Sosyalist Halk Cumhuriyeti Anayasası",
+        "description": "Ülkenin dış dünyadan izolasyonunu pekiştiren, din ibadetlerini yasaklayan ve devlet mülkiyetini mutlak kılan katı anayasa kabul edildi.",
+        "era": "Soğuk Savaş"
+      },
+      {
+        "year": "1991",
+        "title": "Geçici Anayasal Hükümler ve Çok Partili Seçimler",
+        "description": "Komünist rejimin sona ermesinin ardından ilk serbest çok partili seçimler yapıldı ve geçici anayasal metin yürürlüğe girdi.",
+        "era": "Demokratik Geçiş"
+      },
+      {
+        "year": "1998",
+        "title": "Yeni Arnavutluk Anayasası'nın Kabulü",
+        "description": "Halk oylamasıyla kabul edilen modern anayasa ile insan hakları, hukuk devleti ve parlamenter demokrasi güvence altına alındı.",
+        "era": "Anayasal Reform"
+      },
+      {
+        "year": "2016",
+        "title": "Kapsamlı Yargı Reformu Paketinin Kabulü",
+        "description": "AB ve ABD desteğiyle mecliste oy birliğiyle kabul edilen reform, yargı mensuplarının mal varlığı ve liyakat denetimini (Vetting) başlattı.",
+        "era": "AB Uyum Dönemi"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Arnavutluk'ta bilim ve teknoloji altyapısı, Avrupa entegrasyonu ve dijital dönüşüm hamleleriyle yeniden yapılanma sürecindedir. Eğitim ve bilimsel araştırma politikaları Eğitim ve Spor Bakanlığı ile Ulusal Bilimsel Araştırma ve İnovasyon Ajansı (AKKSHI) tarafından koordine edilmektedir. Son yıllarda yenilenebilir enerji, tarımsal biyoteknoloji, e-devlet dijital hizmetleri ve arkeolojik araştırmalar ülkenin odaklandığı temel bilimsel alanlar arasında öne çıkmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.45",
+        "unit": "%",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "83",
+        "unit": "Sıra",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "1,250",
+        "unit": "Adet",
+        "scoreOutOf100": 40
+      },
+      {
+        "label": "E-Devlet Hizmetleri Dijitalleşme Oranı",
+        "value": "95",
+        "unit": "%",
+        "scoreOutOf100": 85
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "62",
+        "unit": "%",
+        "scoreOutOf100": 60
+      },
+      {
+        "label": "Yıllık Patent Başvuru Sayısı",
+        "value": "115",
+        "unit": "Adet",
+        "scoreOutOf100": 30
+      }
+    ],
+    "notableAchievements": [
+      "e-Albania Dijital Kamu Hizmetleri Platformu entegrasyonu ile kamu işlemlerinin %95'inin dijital ortama aktarılması",
+      "Adriyatik kıyıları ve antik İlirya yerleşimlerinde uluslararası su altı arkeoloji projelerinin başarıyla yürütülmesi",
+      "Vjosa Nehri Ulusal Parkı çerçevesinde Avrupa'nın ilk bozulmamış nehir ekosistemi koruma ve biyoçeşitlilik araştırmalarının gerçekleştirilmesi",
+      "Avrupa Nükleer Araştırma Merkezi (CERN) ve Horizon Europe araştırma ağlarına ulusal düzeyde tam katılım sağlanması",
+      "Hidroelektrik santrallerinde verimlilik artırıcı yerli mühendislik ve otomasyon sistemlerinin geliştirilmesi"
+    ],
+    "institutions": [
+      {
+        "name": "Tiran Üniversitesi (Universiteti i Tiranës)",
+        "type": "Devlet Üniversitesi",
+        "description": "1957 yılında kurulan, ülkenin en köklü ve en büyük akademisi olup sosyal bilimler, doğa bilimleri ve tıp alanında öncü araştırma merkezidir."
+      },
+      {
+        "name": "Arnavutluk Bilimler Akademisi (Akademia e Shkencave e Shqipërisë)",
+        "type": "Ulusal Araştırma Kurumu",
+        "description": "Ülkedeki en yüksek bilimsel kuruluştur; dilbilim, tarih, arkeoloji ve doğa bilimleri alanlarında ulusal araştırma stratejilerini belirler."
+      },
+      {
+        "name": "Tiran Politik Araştırmalar ve Tiran Politeknik Üniversitesi",
+        "type": "Teknik Üniversite",
+        "description": "Mühendislik, mimarlık, bilgi teknolojileri ve yer bilimleri alanlarında uzmanlaşmış ana teknik yükseköğretim kurumudur."
+      },
+      {
+        "name": "Ulusal Bilimsel Araştırma ve İnovasyon Ajansı (AKKSHI)",
+        "type": "Devlet Araştırma Ajansı",
+        "description": "Ulusal Ar-Ge projelerini finanse eden, teknolojik gelişimi ve AB araştırma fonlarının kullanımını koordine eden yetkili kurumdur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:51:06.649Z"
+}

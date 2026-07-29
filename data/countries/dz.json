@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "code": "dz",
+    "iso3": "DZA",
+    "name_tr": "Cezayir",
+    "name_en": "Algeria",
+    "region": "Afrika",
+    "capital_tr": "Cezayir",
+    "flag_emoji": "🇩🇿"
+  },
+  "overview": "Cezayir, Kuzey Afrika'da Akdeniz kıyısında yer alan, yüzölçümü bakımından Afrika kıtasının ve Arap dünyasının en büyük ülkesidir. Doğusunda Tunus ve Libya, güneyinde Nijer ve Mali, moritanya ve güneybatıda Batı Sahra, batısında ise Fas ile komşudur. Sahra Çölü'nün geniş bir bölümünü bünyesinde barındıran ülke, zengin hidrokarbon kaynakları ve Akdeniz ile Sahra-altı Afrika arasındaki stratejik konumuyla bölgesel bir güç niteliğindedir. Tarih boyunca Fenike, Roma, Numidya, Osmanlı ve Fransız hakimiyetlerinde kalmış olan Cezayir, günümüzde yarı başkanlık sistemiyle yönetilen üniter bir cumhuriyettir.",
+  "history": {
+    "summary": "Cezayir tarihi, Kuzey Afrika'nın antik yerli halkı olan Berberilerin (Amazigh) Numidya Krallığı'nı kurmasıyla belirginleşmiş, ardından Roma ve Kartaca nüfuzuna girmiştir. 7. yüzyılda Emevi fetihleriyle İslam medeniyetine katılan bölge, Rüstemiler ve Ziriler gibi yerel hanedanların ardından 16. yüzyılda Osmanlı İmparatorluğu'nun bir eyaleti haline gelmiştir. 1830 yılında başlayan ve 132 yıl süren Fransız sömürge yönetimi, 1954-1962 yılları arasındaki kanlı Cezayir Bağımsızlık Savaşı ile son bulmuş; bağımsızlık sonrası ülke sosyalist tek parti rejiminden çok partili ve reformist bir yapıya evrilmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 202",
+        "title": "Numidya Krallığı'nın Birleşmesi",
+        "description": "Kral Masinissa, II. Pön Savaşı'nın ardından doğu ve batı Numidya kabilelerini birleştirerek bölgedeki ilk büyük Berberi devletini kurmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 146 - M.S. 430",
+        "title": "Roma Hakimiyeti Dönemi",
+        "description": "Kartaca'nın yıkılmasıyla Cezayir kıyıları Roma İmparatorluğu'nun 'tılmıs' ve tahıl deposu eyaletlerinden biri haline gelmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "681 - 711",
+        "title": "İslam Ordularının Bölgeye Gelişi",
+        "description": "Ukbe bin Nafi önderliğindeki Emevi orduları Mağrip bölgesini fethederek bölgenin İslamlaşma ve Araplaşma sürecini başlatmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1516 - 1518",
+        "title": "Osmanlı Hakimiyetinin Başlaması",
+        "description": "Oruç ve Barbaros Hayreddin Paşaların İspanyol nüfuzuna karşı bölgeye gelmesiyle Cezayir, Osmanlı İmparatorluğu'na bağlanmış ve Cezayir Beylerbeyliği kurulmuştur.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1830",
+        "title": "Fransız İşgali",
+        "description": "Fransa, diplomatik bir kriz gerekçesiyle Cezayir kentini işgal etmiş ve ülkeyi doğrudan Fransa toprağı olarak ilhak etme sürecini başlatmıştır.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1832 - 1847",
+        "title": "Emir Abdülkadir Direnişi",
+        "description": "Cezayir milli kimliğinin kurucu figürlerinden Emir Abdülkadir, Fransız işgaline karşı organize ve uzun soluklu bir kutsal direniş yürütmüştür.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1954",
+        "title": "Ulusal Kurtuluş Cephesi (FLN) ve Bağımsızlık Savaşı",
+        "description": "1 Kasım 1954'te başlayan silahlı ayaklanma, 8 yıl sürecek ve yüzbinlerce Cezayirlinin hayatını kaybedeceği Cezayir Bağımsızlık Savaşı'na dönüşmüştür.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1962",
+        "title": "Evian Antlaşması ve Bağımsızlık",
+        "description": "Fransa ile imzalanan antlaşmanın ardından yapılan halk oylamasıyla Cezayir Demokratik Halk Cumhuriyeti resmen bağımsızlığını ilan etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1991 - 2002",
+        "title": "Sivil Kriz ve 'Kara On Yıl'",
+        "description": "İptal edilen seçimlerin ardından radikal gruplar ile devlet güçleri arasında çıkan şiddetli çatışmalar ülkeyi derin bir sosyal ve ekonomik krize sürüklemiştir.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2019",
+        "title": "Hirak Toplumsal Hareketi",
+        "description": "Sivil halkın barışçıl protestoları sonucunda 20 yıllık Cumhurbaşkanı Abdülaziz Buteflika istifa etmiş ve siyasi reform süreci başlamıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Cezayir ekonomisi ağırlıklı olarak ham petrol ve doğal gaz ihracatına dayalı hidrokarbon odaklı bir yapıya sahiptir. Devletin hidrokarbon gelirleri kanalıyla ekonomide baskın bir rol oynadığı ülkede, kamu yatırımları ve sosyal yardımlar ana ekonomik sürükleyicilerdir. Son yıllarda hükümet, hidrokarbon bağımlılığını azaltmak amacıyla yenilenebilir enerji, tarım, madencilik, turizm ve yerli imalat sanayiini teşvik eden yapısal reformları yürürlüğe koymuştur.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "266.8",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "5,720",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "5.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "11.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Cezayir Dinarı (DZD)",
+        "unit": "DZD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Toplam İhracat",
+        "value": "54.2",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Cari Denge / GSYİH Oranı",
+        "value": "2.4",
+        "unit": "%",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Petrol ve Doğal Gaz Üretimi",
+      "Petrokimya Sanayii",
+      "Çimento ve İnşaat Malzemeleri",
+      "Madencilik (Demir, Fosfat)",
+      "Tarım ve Gıda İşleme",
+      "İlaç ve Tıbbi Ürünler"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.2
+          },
+          {
+            "year": "2019",
+            "value": 1
+          },
+          {
+            "year": "2020",
+            "value": -5.1
+          },
+          {
+            "year": "2021",
+            "value": 3.4
+          },
+          {
+            "year": "2022",
+            "value": 3.2
+          },
+          {
+            "year": "2023",
+            "value": 4.1
+          },
+          {
+            "year": "2024",
+            "value": 3.8
+          },
+          {
+            "year": "2025",
+            "value": 3.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1971",
+        "title": "Hidrokarbon Sektörünün Millileştirilmesi",
+        "description": "Cezayir hükümeti, Fransız petrol şirketlerinin varlıklarını ve enerji altyapısını millileştirerek milli enerji şirketi Sonatrach'ın kontrolünü pekiştirmiştir.",
+        "era": "Devletçi Ekonomi Dönemi"
+      },
+      {
+        "year": "1986",
+        "title": "Petrol Fiyat Krizi",
+        "description": "Küresel petrol fiyatlarındaki sert düşüş, hidrokarbon bağımlısı Cezayir ekonomisini ağır bir döviz ve borç krizine sokmuştur.",
+        "era": "Kriz Dönemi"
+      },
+      {
+        "year": "1994",
+        "title": "IMF İstikrar Programı",
+        "description": "Dış borç ödemelerinde yaşanan zorluklar nedeniyle IMF ile stand-by anlaşması imzalanmış ve piyasa ekonomisine geçiş adımları atılmıştır.",
+        "era": "Yapısal Uyarlanma Dönemi"
+      },
+      {
+        "year": "2020",
+        "title": "Yeni Yatırım Kanunu ve Kısıtlamaların Kaldırılması",
+        "description": "Yabancı yatırımlardaki 49/51 hisse sınırlaması stratejik olmayan sektörler için kaldırılarak dış sermaye teşvik edilmiştir.",
+        "era": "Ekonomik Çeşitlendirme Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Cezayir dış politikasında bağlantısızlık, egemenliğe saygı, iç işlerine karışmama ve ulusal bağımsızlık mücadelelerine destek ilkelerini benimser. Afrika Birliği ve Arap Ligi bünyesinde kilit bir role sahip olan ülke, Akdeniz Havzası'nda enerji güvenliği sağlayıcısı olarak Avrupalı ortaklarıyla stratejik ilişkiler yürütürken; Rusya ve Çin ile güçlü askeri ve ekonomik bağlara sahiptir.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Ticaret ve Enerji Stratejik Ortaklığı",
+        "description": "Cezayir, AB ülkelerinin, özellikle İtalya ve İspanya'nın kritik doğal gaz tedarikçilerinden biridir.",
+        "since": "2005"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Çin, Cezayir'deki dev altyapı, liman ve madencilik projelerinde ana yüklenici ve yatırımcı konumundadır.",
+        "since": "2014"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Stratejik Müttefiklik ve Askeri İşbirliği",
+        "description": "Cezayir, savunma sanayii tedarikinin büyük bölümünü Rusya'dan sağlamakta ve güvenlik alanında ortaklık yürütmektedir.",
+        "since": "2001"
+      },
+      {
+        "partner": "İtalya",
+        "relationType": "Enerji ve İkili İktisadi Ortaklık",
+        "description": "Mattei Planı çerçevesinde Akdeniz üzerinden enerji akışını artırmaya yönelik kapsamlı stratejik anlaşmalar mevcuttur.",
+        "since": "2022"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Evian Antlaşmaları",
+        "year": "1962",
+        "description": "Fransa ile imzalanan, savaşı sona erdiren ve Cezayir'in tam bağımsızlığını düzenleyen tarihi anlaşma."
+      },
+      {
+        "name": "AB-Cezayir Ortaklık Anlaşması",
+        "year": "2002",
+        "description": "Serbest ticaret bölgesi oluşturulmasını ve siyasi-ekonomik işbirliğini hedefleyen anlaşma."
+      },
+      {
+        "name": "Pelindaba Antlaşması (Afrika Nükleer Silahlardan Arındırılmış Bölge)",
+        "year": "1996",
+        "description": "Afrika kıtasının nükleer silahlardan arındırılmasını öngören ve Cezayir'in aktif desteklediği uluslararası antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Fas",
+        "relationType": "Sınır ve Bölgesel Nüfuz Gerilimi",
+        "description": "Batı Sahra sorunu ve Cezayir'in Polisario Cephesi'ne verdiği destek nedeniyle Fas ile olan kara sınırı 1994'ten beri kapalı olup, 2021 yılında diplomatik ilişkiler tamamen kesilmiştir.",
+        "since": "1975"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1962"
+      },
+      {
+        "name": "Afrika Birliği",
+        "role": "Kurucu / Aktif Üye",
+        "joinedYear": "1963"
+      },
+      {
+        "name": "Arap Ligi",
+        "role": "Aktif Üye",
+        "joinedYear": "1962"
+      },
+      {
+        "name": "OPEC",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Cezayir, anayasal düzeyde yarı başkanlık sistemi ile yönetilen üniter bir cumhuriyettir. Yürütme erki cumhurbaşkanı ve onun atadığı başbakan tarafından kullanılırken, yasama görevi iki kamaralı parlamentoya aittir. Ülkenin siyasi yapısında Ulusal Kurtuluş Cephesi (FLN) tarihsel bir ağırlığa sahip olup, ordu geleneksel olarak siyasi istikrarın ve devlet yapısının teminatı kabul edilir.",
+    "governmentForm": "Üniter Yarı Başkanlık Cumhuriyeti",
+    "currentStructure": "Yürütme organının başında genel oy ile seçilen Cumhurbaşkanı bulunur. Yasama erki, Halk Ulusal Meclisi (APN) ve Millet Meclisi'nden (Senato) oluşan çift kamaralı parlamentodur. Yargı sistemi anayasal mahkeme ve yüksek mahkemeler denetiminde bağımsız bir yapı olarak tanımlanmıştır.",
+    "timeline": [
+      {
+        "year": "1963",
+        "title": "İlk Anayasa ve Tek Parti Rejimi",
+        "description": "Bağımsızlık sonrası kabul edilen ilk anayasa ile FLN yasal tek parti olarak belirlenmiş ve Ahmed Ben Bella ilk cumhurbaşkanı seçilmiştir.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1965",
+        "title": "Houari Boumediene Askeri Düzeltmesi",
+        "description": "Savunma Bakanı Houari Boumediene liderliğinde gerçekleşen kansız darbe ile devrim konseyi yönetimi devralmıştır.",
+        "era": "Devrim Konseyi Dönemi"
+      },
+      {
+        "year": "1989",
+        "title": "Çok Partili Sisteme Geçiş Anayasası",
+        "description": "1988 toplumsal gösterilerinin ardından hazırlanan yeni anayasa ile tek parti yönetimi sona erdirilmiş ve çok partili demokrasiye geçilmiştir.",
+        "era": "Demokratikleşme Arayışı"
+      },
+      {
+        "year": "1992",
+        "title": "OHAL İlanı ve Yüksek Devlet Konseyi",
+        "description": "Seçim sürecinin askıya alınmasıyla Cumhurbaşkanı Şadli Bencedid istifa etmiş ve ülke kriz dönemini yönetmek üzere geçici kurula devredilmiştir.",
+        "era": "Olağanüstü Dönem"
+      },
+      {
+        "year": "1999",
+        "title": "Buteflika Dönemi ve Ulusal Uzlaşı",
+        "description": "Abdülaziz Buteflika'nın cumhurbaşkanı seçilmesiyle sivil barış ve ulusal uzlaşma yasaları yürürlüğe sokulmuş, iç çatışmalar sonlandırılmıştır.",
+        "era": "Uzlaşı ve İstikrar Dönemi"
+      },
+      {
+        "year": "2016",
+        "title": "Anayasa Reformu ve Berberi Dili (Tamazight)",
+        "description": "Anayasa değişikliğiyle Tamazight dili Arapça'nın yanında resmi devlet dili olarak kabul edilmiştir.",
+        "era": "Anayasal Reformlar"
+      },
+      {
+        "year": "2020",
+        "title": "Yeni Anayasa Referandumu",
+        "description": "Hirak talepleri doğrultusunda hazırlanan ve cumhurbaşkanının yetkilerini kısıtlayan, parlamentonun denetimini artıran yeni anayasa kabul edilmiştir.",
+        "era": "Çağdaş Anayasal Düzen"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Cezayir'de bilim ve teknoloji politikaları, devlet eliyle finanse edilen üniversiteler ve ulusal araştırma merkezleri etrafında şekillenmektedir. Hidrokarbon teknolojileri, uzay araştırmaları, yenilenebilir enerji ve çölleşmeyle mücadele alanları bilimsel çalışmaların odak noktasını oluşturmaktadır. Son dönemde yenilikçi start-up ekosistemini ve teknoloji transferini geliştirmeye yönelik yasal teşvikler artırılmıştır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.54",
+        "unit": "%",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "42,500",
+        "unit": "Kişi",
+        "scoreOutOf100": 45
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "11,200",
+        "unit": "Adet",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "480",
+        "unit": "Adet",
+        "scoreOutOf100": 30
+      },
+      {
+        "label": "Yükseköğretim Mezuniyet Oranı",
+        "value": "34.5",
+        "unit": "%",
+        "scoreOutOf100": 60
+      }
+    ],
+    "notableAchievements": [
+      "ALSAT Uydu Programı kapsamındaki yerli yer gözlem ve haberleşme uydularının (Alsat-1, Alsat-2) başarıyla yörüngeye yerleştirilmesi",
+      "Sahra Çölü şartlarına uygun ölçekli güneş enerjisi ve hibrid santral teknolojilerinin geliştirilmesi",
+      "Kuzey Afrika'da hidrokarbon arama ve jeoloji alanında bölgesel referans araştırma merkezlerinin kurulması",
+      "Ulusal Biyoteknoloji ve İlaç Araştırma Projesi ile yerli aşı ve ilaç ham maddesi üretim kapasitesinin artırılması"
+    ],
+    "institutions": [
+      {
+        "name": "Houari Boumediene Bilim ve Teknoloji Üniversitesi (USTHB)",
+        "type": "Universite",
+        "description": "Mühendislik, matematik ve temel bilimler alanında Cezayir'in en köklü ve prestijli teknik üniversitesidir."
+      },
+      {
+        "name": "Cezayir Uzay Ajansı (ASAL)",
+        "type": "Uzay Ajansi",
+        "description": "Ulusal uydu programlarını, uzay teknolojilerini ve coğrafi bilgi sistemlerini yöneten devlet kurumu."
+      },
+      {
+        "name": "Gelişmiş Teknolojileri Geliştirme Merkezi (CDTA)",
+        "type": "Arastirma Enstitusu",
+        "description": "Mikroelektronik, robotik, lazer ve yazılım mühendisliği alanlarında ulusal araştırmaları yürütmektedir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:32:13.124Z"
+}

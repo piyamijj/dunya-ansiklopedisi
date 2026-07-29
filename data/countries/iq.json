@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "code": "iq",
+    "iso3": "IRQ",
+    "name_tr": "Irak",
+    "name_en": "Iraq",
+    "region": "Asya",
+    "capital_tr": "Bağdat",
+    "flag_emoji": "🇮🇶"
+  },
+  "overview": "Irak Cumhuriyeti, Orta Doğu'da Dicle ve Fırat nehirlerinin beslediği tarihî Mezopotamya bölgesinde yer alan, stratejik öneme sahip bir ön Asya ülkesidir. Doğu Akdeniz, Basra Körfezi ve Anadolu coğrafyalarının kesişim noktasında bulunan ülke; insanlık tarihinin ilk yazılı kanunlarına, kent devletlerine ve köklü medeniyetlerine ev sahipliği yapmıştır. Günümüzde zengin hidrokarbon kaynakları ve kanıtlanmış petrol rezervleriyle küresel enerji piyasalarında kritik bir role sahip olan Irak, federal parlamenter cumhuriyet rejimiyle yönetilmektedir.",
+  "history": {
+    "summary": "Irak tarihi, insanlık medeniyetinin doğuşuna tanıklık eden Mezopotamya uygarlıklarından başlayarak İslam'ın Altın Çağı'na, Osmanlı egemenliğinden 20. yüzyıldaki krallık ve cumhuriyet rejimlerine kadar uzanan zengin ve çalkantılı bir geçmişe sahiptir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3500",
+        "title": "Sümer Uygarlığı ve Yazının İcadı",
+        "description": "Güney Mezopotamya'da gelişen Sümer medeniyeti, çivi yazısını icat ederek insanlık tarihinin kayıtlı ilk dönemini başlattı ve ilk şehir devletlerini kurdu.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 1792",
+        "title": "Babil Krallığı ve Hammurabi Kanunları",
+        "description": "Kral Hammurabi Babil'i merkezi bir imparatorluk haline getirdi ve tarihin bilinen en eski ve kapsamlı yazılı hukuk kurallarından biri olan Hammurabi Kanunları'nı ilan etti.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "637",
+        "title": "İslami Fetihler ve Kûfe'nin Kuruluşu",
+        "description": "Kadisiye Zaferi sonrası bölge İslam devletinin yönetimine girdi; Kûfe ve Basra gibi ordugah şehirleri kurularak bölgenin idari yapısı yeniden şekillendirildi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "762",
+        "title": "Abbasi Halifeliği ve Bağdat'ın Kuruluşu",
+        "description": "Halife Mansur tarafından kurulan Bağdat, Abbasi Devleti'nin başkenti oldu ve kısa sürede bilim, felsefe ve ticaretin küresel merkezi haline geldi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1534",
+        "title": "Osmanlı Hakimiyetinin Başlaması",
+        "description": "Kanuni Sultan Süleyman'ın Bağdat Seferi ile Irak toprakları Osmanlı İmparatorluğu'na katıldı ve yüzyıllar sürecek vilayet idaresi dönemi başladı.",
+        "era": "Osmanlı Dönemi"
+      },
+      {
+        "year": "1920",
+        "title": "İngiliz Manda Yönetimi ve Büyük Irak İsyanı",
+        "description": "I. Dünya Savaşı sonrasında League of Nations kararıyla İngiliz Manda yönetimi kuruldu; halkın tepkisi üzerine 1920 İsyanı patlak verdi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1932",
+        "title": "Irak Krallığı'nın Bağımsızlığı",
+        "description": "Irak, İngiliz mandasından resmen çıkarak Milletler Cemiyeti'ne bağımsız bir krallık olarak katıldı ve Kral I. Faysal yönetiminde egemenliğini ilan etti.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1958",
+        "title": "14 Temmuz Devrimi ve Cumhuriyetin İlanı",
+        "description": "General Abdulkerim Kasım liderliğinde gerçekleştirilen askeri müdahale sonucu monarşi devrildi ve Irak Cumhuriyeti kuruldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979",
+        "title": "Baas Partisi ve Saddam Hüseyin İktidarı",
+        "description": "Saddam Hüseyin devlet başkanlığı görevini devralarak Baas Partisi rejimi üzerindeki otoriter kontrolünü tam anlamıyla tesis etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1980-1988",
+        "title": "İran-Irak Savaşı",
+        "description": "Sınır anlaşmazlıkları ve bölgesel nüfuz rekabeti nedeniyle başlayan sekiz yıllık savaş, her iki ülkede büyük insani ve ekonomik kayıplara yol açtı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1990-1991",
+        "title": "Kuveyt'in İşgali ve Körfez Savaşı",
+        "description": "Irak'ın Kuveyt'i ilhak etmesi üzerine ABD liderliğindeki uluslararası koalisyon askeri harekât başlattı; Irak ağır yaptırımlara maruz kaldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2003",
+        "title": "ABD İstilası ve Rejim Değişimi",
+        "description": "ABD ve müttefik kuvvetlerinin müdahalesiyle Baas rejimi devrildi; siyasi ve toplumsal yapıda radikal değişikler meydana geldi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2005",
+        "title": "Yeni Anayasa ve Federal Yapı",
+        "description": "Halk oylamasıyla kabul edilen yeni anayasa ile Irak, etnik ve mezhepsel dengeleri gözeten federal bir parlamenter cumhuriyete dönüştü.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "DEAŞ'a Karşı Zafer ve Toprak Bütünlüğü",
+        "description": "Irak güvenlik güçleri ve uluslararası koalisyonun ortak mücadelesi sonucu işgal edilen tüm topraklar terör örgütü DEAŞ'tan temizlendi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Irak ekonomisi, büyük ölçüde ham petrol ihracatına dayalı rantiyer bir yapı sergilemektedir. Devlet gelirlerinin ve ihracat kazançlarının ezici çoğunluğu enerji sektöründen sağlanmakta olup, sanayi ve tarım gibi üretken sektörleri çeşitlendirme çabaları sürmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "254.8",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "5,600",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "3.1",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Irak Dinarı (IQD)",
+        "unit": "IQD",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "15.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Günlük Ham Petrol Üretimi",
+        "value": "4.15",
+        "unit": "Milyon Varil",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat Geliri",
+        "value": "103.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Ham Petrol ve Doğalgaz Çıkarımı",
+      "Petrokimya ve Rafineri Sanayii",
+      "İnşaat ve Altyapı Yeniden Yapılanması",
+      "Çimento ve Yapı Malzemeleri Üretimi",
+      "Tarım (Hurma, Buğday ve Pirinç Üretimi)",
+      "Gıda İşleme Sanayii"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 4.7
+          },
+          {
+            "year": "2019",
+            "value": 5.8
+          },
+          {
+            "year": "2020",
+            "value": -15.7
+          },
+          {
+            "year": "2021",
+            "value": 1.6
+          },
+          {
+            "year": "2022",
+            "value": 7
+          },
+          {
+            "year": "2023",
+            "value": -2.2
+          },
+          {
+            "year": "2024",
+            "value": 1.4
+          },
+          {
+            "year": "2025",
+            "value": 3.2
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1927",
+        "title": "Baba Gurgur Petrol Sahasının Keşfi",
+        "description": "Kerkük yakınlarındaki büyük petrol fışkırması, Irak'ın küresel enerji haritasındaki stratejik yerini başlatan dönüm noktası oldu.",
+        "era": "Manda Dönemi"
+      },
+      {
+        "year": "1972",
+        "title": "Irak Petrol Şirketi'nin Millileştirilmesi",
+        "description": "Yabancı konsorsiyumların kontrolündeki Irak Petrol Şirketi millileştirilerek devlet kontrolüne alındı ve gelirler kamu bütçesine aktarıldı.",
+        "era": "Baas Dönemi"
+      },
+      {
+        "year": "1990-2003",
+        "title": "BM Yaptırımları ve Petrol Karşılığı Gıda Programı",
+        "description": "Körfez Savaşı sonrası uygulanan ticari ambargolar ve kısıtlamalar ülke ekonomisini ve kamu altyapısını felç etti.",
+        "era": "Ambargo Dönemi"
+      },
+      {
+        "year": "2004",
+        "title": "Paris Kulübü Borç Yapılandırması",
+        "description": "Saddam dönemi borçlarının önemli bir kısmı silindi ve uluslararası finans kuruluşlarıyla entegrasyon süreci başlatıldı.",
+        "era": "Yeniden İnşa Dönemi"
+      },
+      {
+        "year": "2020",
+        "title": "Ekonomik Reform Beyaz Kâğıdı (White Paper)",
+        "description": "Kamu harcamalarını azaltmayı ve petrolden bağımsız özel sektörü geliştirmeyi hedefleyen iddialı bir ekonomik reform programı sunuldu.",
+        "era": "Güncel Reform Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Irak, egemenliğini koruma, bölgesel aktörler arasında denge kurma ve komşularıyla sıfır sorun ilkesi çerçevesinde ilişkiler geliştirme odaklı bir dış politika izlemektedir. Doğu ile Batı ve bölgesel güçler arasında bir arabulucu rolü üstlenmeyi hedeflemektedir.",
+    "alliances": [
+      {
+        "partner": "Türkiye",
+        "relationType": "Stratejik ve Ticari Ortaklık",
+        "description": "Su kaynaklarının yönetimi, terörle mücadele ve Kalkınma Yolu Projesi gibi geniş kapsamlı ulaştırma ve ticaret koridorlarında iş birliği yürütülmektedir.",
+        "since": "1926"
+      },
+      {
+        "partner": "İran",
+        "relationType": "Bölgesel ve Ekonomik Komşuluk",
+        "description": "Enerji tedariki, dini turizm ve güvenlik alanlarında yoğun etkileşime dayalı yakın diplomatik ilişkiler sürdürülmektedir.",
+        "since": "2003"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Çerçeve Anlaşması Ortağı",
+        "description": "Terörle mücadele, askeri eğitim, diplomatik destek ve ekonomik reform alanlarında iş birliğine dayalı uzun vadeli bir ilişki bulunmaktadır.",
+        "since": "2008"
+      },
+      {
+        "partner": "Arap Ligi Ülkeleri",
+        "relationType": "Bölgesel Bütünleşme",
+        "description": "Özellikle Körfez ülkeleriyle diplomatik temasların artırılması ve bölgesel yatırımların ülkeye çekilmesi hedeflenmektedir.",
+        "since": "1945"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Ankara Antlaşması",
+        "year": "1926",
+        "description": "Türkiye, Irak ve Birleşik Krallık arasında imzalanarak Musul vilayetinin Irak sınırları içerisinde kalmasını ve sınır hattını kesinleştiren antlaşmadır."
+      },
+      {
+        "name": "Cezayir Anlaşması",
+        "year": "1975",
+        "description": "İran ile Irak arasındaki Şattülarap su yolu sınırını ve bölgesel güvenlik konularını düzenleyen tarihî antlaşmadır."
+      },
+      {
+        "name": "ABD-Irak Stratejik Çerçeve Anlaşması",
+        "year": "2008",
+        "description": "ABD askerlerinin çekilme takvimini ve iki ülke arasındaki uzun vadeli siyasi, ekonomik ve kültürel ilişkilerin zeminini belirleyen anlaşmadır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "İran ve Türkiye (Sınır Aşan Sular Anlaşmazlığı)",
+        "relationType": "Su Hakları ve Paylaşımı",
+        "description": "Dicle ve Fırat nehirleri üzerine inşa edilen barajlar ve su debisindeki azalmalar nedeniyle komşu ülkelerle su miktarı ve kıyıdaş haklar hususunda müzakereler yürütülmektedir.",
+        "since": "1970"
+      },
+      {
+        "partner": "Kuveyt (Deniz Sınırı ve Liman Meseleleri)",
+        "relationType": "Deniz Yetki Alanları",
+        "description": "Hor Abdullah su yolu ve deniz sınırlarının çizilmesi hususunda BM kararları çerçevesinde görüşmeler devam etmektedir.",
+        "since": "1993"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Arap Ligi",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "OPEC (Petrol İhraç Eden Ülkeler Örgütü)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1960"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Irak, 2005 Anayasası ile kabul edilen ethno-dini güç paylaşımı dengelerine dayalı federal parlamenter bir cumhuriyettir. Yasama erki temsilciler meclisinde, yürütme erki ise cumhurbaşkanı ve başbakanın liderliğindeki bakanlar kurulunda toplanmıştır.",
+    "governmentForm": "Federal Parlamenter Demokratik Cumhuriyet",
+    "currentStructure": "Yasama yetkisi 329 sandalyeli Irak Temsilciler Meclisi'ne aittir. Yürütme erki başbakan liderliğindeki Bakanlar Kurulu tarafından kullanılır; cumhurbaşkanı ise devletin birliğini temsil eden sembolik ve anayasal görevlere sahiptir. Kürdistan Bölgesel Yönetimi (KBY) anayasal olarak tanınmış özerk bir yapıya sahiptir.",
+    "timeline": [
+      {
+        "year": "1921",
+        "title": "Monarşinin Tesis Edilmesi",
+        "description": "Mekke Şerifi Hüseyin'in oğlu Faysal'ın Irak Kralı olarak taç giymesiyle haşimi monarşisi dönemi başladı.",
+        "era": "Krallık Dönemi"
+      },
+      {
+        "year": "1958",
+        "title": "Monarşinin Yıkılışı ve İlk Cumhuriyet",
+        "description": "Askeri darbe ile monarşi devrildi, kraliyet ailesi tasfiye edildi ve üniter cumhuriyet ilan edildi.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1968",
+        "title": "Baas Partisi İktidarı",
+        "description": "17 Temmuz Darbesi ile Baas Partisi yönetimi ele geçirdi ve tek parti rejiminin altyapısını oluşturdu.",
+        "era": "Baas Dönemi"
+      },
+      {
+        "year": "1979",
+        "title": "Saddam Hüseyin'in Devlet Başkanlığı",
+        "description": "Saddam Hüseyin tüm yetkileri elinde toplayarak otoriter ve otokratik bir yönetim anlayışını pekiştirdi.",
+        "era": "Tek Adam Dönemi"
+      },
+      {
+        "year": "2003",
+        "title": "Koalisyon Geçici Yönetimi (CPA)",
+        "description": "ABD işgalinin ardından Baas Partisi lağvedildi, ordu dağıtıldı ve geçici yönetim konseyi kuruldu.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2005",
+        "title": "Anayasa Referandumu ve Genel Seçimler",
+        "description": "Kabul edilen yeni anayasa ile federal yapı meşrulaştı ve demokratik seçimlerle ilk kalıcı parlamenter hükümet tesis edildi.",
+        "era": "Anayasal Cumhuriyet Dönemi"
+      },
+      {
+        "year": "2019",
+        "title": "Ekim (Tishreen) Protestoları",
+        "description": "Yolsuzluk ve kamu hizmeti yetersizliklerine karşı başlayan toplumsal gösteriler sonucunda seçim yasası değiştirildi ve erken seçime gidildi.",
+        "era": "Toplumsal Hareketler Dönemi"
+      },
+      {
+        "year": "2022",
+        "title": "Muhammed Şiya es-Sudani Hükümeti",
+        "description": "Uzun süren siyasi tıkanıklığın ardından kurulan hükümet, altyapı hizmetleri, kamu reformu ve bölgesel diplomasiye odaklandı.",
+        "era": "Güncel Siyasi Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Irak bilim geleneği, tarihsel olarak Abbasi dönemindeki Beytü'l-Hikme (Bilgelik Evi) kurumuna ve Mezopotamya'nın matematiksel miraslarına dayanır. Modern dönemde uzun süren çatışma ve ambarolar nedeniyle darbe alan bilimsel altyapı, günümüzde uluslararası üniversite iş birlikleri ve kamu Ar-Ge yatırımlarıyla yeniden ihya edilmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.23",
+        "unit": "%",
+        "scoreOutOf100": 25
+      },
+      {
+        "label": "Toplam Araştırmacı ve Akademisyen Sayısı",
+        "value": "52,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Uluslararası Endeksli Yayın Sayısı",
+        "value": "16,800",
+        "unit": "Adet",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "21.4",
+        "unit": "%",
+        "scoreOutOf100": 35
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Puanı",
+        "value": "18.2",
+        "unit": "Puan",
+        "scoreOutOf100": 18
+      }
+    ],
+    "notableAchievements": [
+      "Tarihi Mezopotamya eserlerinin restorasyonu için dijital arkeoloji ve yapay zeka tabanlı arşivleme sistemlerinin geliştirilmesi",
+      "Kuraklık ve tuzlanmaya dayanıklı yerli buğday ve arpa türlerinin geliştirilmesine yönelik tarımsal Ar-Ge projeleri",
+      "Irak üniversitelerinin Scopus ve Web of Science gibi küresel akademik veritabanlarındaki yayın ivmesinin artırılması",
+      "Basra Körfezi ve Şattülarap bölgesindeki su kalitesi ve deniz ekosistemini izleme odaklı çevre araştırma projeleri"
+    ],
+    "institutions": [
+      {
+        "name": "Bağdat Üniversitesi",
+        "type": "Devlet Üniversitesi",
+        "description": "1957 yılında kurulan, ülkenin en büyük ve en prestijli yükseköğretim ve bilimsel araştırma kurumudur."
+      },
+      {
+        "name": "Mustansıriye Üniversitesi",
+        "type": "Devlet Üniversitesi",
+        "description": "Kökleri 1227 yılındaki Mustansıriye Medresesi'ne dayanan, tıp, mühendislik ve temel bilimler alanında öne çıkan tarihî eğitim kurumudur."
+      },
+      {
+        "name": "Irak Bilim ve Teknoloji Bakanlığı Araştırma Merkezleri",
+        "type": "Kamu Araştırma Enstitüsü",
+        "description": "Yenilenebilir enerji, su arıtma, nükleer güvenlik ve malzeme bilimi alanlarında devlet düzeyinde Ar-Ge projeleri yürüten merkezdir."
+      },
+      {
+        "name": "Irak Ulusal Bilimler Akademisi",
+        "type": "Akademik Kurum",
+        "description": "Iraklı bilim insanlarını bir araya getiren, ulusal bilim politikalarına danışmanlık yapan saygın bilim kuruludur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:04:18.651Z"
+}

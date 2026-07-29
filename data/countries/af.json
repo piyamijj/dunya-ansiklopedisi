@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "code": "af",
+    "iso3": "AFG",
+    "name_tr": "Afganistan",
+    "name_en": "Afghanistan",
+    "region": "Asya",
+    "capital_tr": "Kabil",
+    "flag_emoji": "🇦🇫"
+  },
+  "overview": "Afganistan, Güney ve Orta Asya'nın kesişim noktasında yer alan, denize kıyısı bulunmayan son derece stratejik bir ülkedir. Doğu ile Batı arasındaki tarihi İpek Yolu üzerinde yer alması sebebiyle yüzyıllar boyunca imparatorlukların geçiş noktası ve bölgesel güçlerin rekabet alanı olmuştur. Başkenti Kabil olan ülke, çetin dağlık coğrafyası, zengin bakir maden yatakları ve karmaşık toplumsal yapısı ile dikkat çekmektedir. Tarih boyunca bağımsızlık mücadelesiyle şekillenen Afganistan, günümüzde siyasi ve ekonomik dönüşüm sürecini sürdürmektedir.",
+  "history": {
+    "summary": "Afganistan tarihi, antik Akamenş ve Grek-Baktriya krallıklarından Gaznelilere, Babür İmparatorluğu'ndan modern Durrani Devleti'ne uzanan zengin bir geçmişe sahiptir. 19. ve 20. yüzyıllarda İngiliz ve Sovyet müdahalelerine karşı duran ülke, son dönemde uzun süreli iç savaşlar ve siyasi değişimlerle şekillenmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 500",
+        "title": "Akamenş İmparatorluğu Hakimiyeti",
+        "description": "Bölge, Pers İmparatoru Büyük Dara döneminde Akamenş sınırlarına katılarak önemli bir eyalet haline geldi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 330",
+        "title": "Büyük İskender'in Doğu Seferi",
+        "description": "Makedonyalı İskender bölgeyi fethederek Grek-Baktriya kültürünün temellerini attı ve yeni şehirler kurdu.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "751",
+        "title": "İslamiyet'in Yayılması ve Yerel Hanedanlıklar",
+        "description": "Talas Savaşı sonrası bölgede İslam dini hızla yayıldı; ilerleyen yüzyıllarda Gazneliler ve Gurlular gibi güçlü Türk-İslam devletleri yükseldi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1221",
+        "title": "Moğol İstilası",
+        "description": "Cengiz Han komutasındaki Moğol orduları bölgedeki büyük şehirleri ve sulama sistemlerini tahrip etti.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1747",
+        "title": "Durrani İmparatorluğu'nun Kuruluşu",
+        "description": "Ahmed Şah Durrani, Kandahar'da Afgan kabilelerini birleştirerek modern Afganistan'ın temellerini atan imparatorluğu kurdu.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1839-1842",
+        "title": "Birinci İngiliz-Afgan Savaşı",
+        "description": "Büyük Oyun çerçevesinde İngiltere'nin bölgeyi kontrol etme girişimi Afgan kabilelerinin sert direnişiyle başarısızlığa uğradı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1919",
+        "title": "Üçüncü İngiliz-Afgan Savaşı ve Bağımsızlık",
+        "description": "Kral Emanullah Han liderliğinde İngiltere ile yapılan savaş sonrası Rawalpindi Antlaşması imzalandı ve tam bağımsızlık kazanıldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1973",
+        "title": "Monarşinin Yıkılışı ve Cumhuriyetin İlanı",
+        "description": "Muhammed Davud Han, Kral Zahir Şah'ı kansız bir darbeyle devirerek Afganistan Cumhuriyeti'ni ilan etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979-1989",
+        "title": "Sovyet-Afgan Savaşı",
+        "description": "Sovyetler Birliği'nin komünist yönetimi desteklemek amacıyla ülkeyi işgal etmesi, on yıl süren yıkıcı bir savaşa ve küresel bir krize yol açtı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1996",
+        "title": "Taliban'ın Kabil'i Ele Geçirmesi",
+        "description": "İç savaş döneminin ardından Taliban hareketi başkent Kabil'i kontrol altına alarak Afganistan İslam Emirliği'ni kurdu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2001",
+        "title": "ABD ve Koalisyon Güçlerinin Müdahalesi",
+        "description": "11 Eylül saldırılarının ardından başlatılan uluslararası askeri harekatla Taliban yönetimi devrildi ve yeni bir anayasal süreç başlatıldı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2021",
+        "title": "ABD Çekilmesi ve Yönetim Değişikliği",
+        "description": "Uluslararası koalisyon güçlerinin tamamen çekilmesiyle Taliban başkent Kabil'e girerek yönetimi yeniden üstlendi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Afganistan ekonomisi; coğrafi zorluklar, uzun süren çatışmalar ve dış yardımlara bağımlılık nedeniyle kırılgan bir yapıya sahiptir. Tarım ve hayvancılık istihdamın temelini oluştururken, ülkede işlenmemiş trilyonlarca dolar değerinde lityum, bakır, demir ve nadir toprak elementleri bulunmaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "14.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "355",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık Enflasyon Oranı",
+        "value": "-3.1",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Afganisi (AFN)",
+        "unit": "AFN",
+        "year": "2025"
+      },
+      {
+        "label": "Tarım Sektörünün GSYİH Payı",
+        "value": "34.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "15.4",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhrakat",
+        "value": "1.9",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "7.7",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Tarım ve Hayvancılık",
+      "El Dokuması Halıcılık ve Tekstil",
+      "Mermer ve Madencilik",
+      "Kuru Meyve ve Baharat Üretimi",
+      "İnşaat Malzemeleri"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.2
+          },
+          {
+            "year": "2019",
+            "value": 3.9
+          },
+          {
+            "year": "2020",
+            "value": -2.4
+          },
+          {
+            "year": "2021",
+            "value": -20.7
+          },
+          {
+            "year": "2022",
+            "value": -6.2
+          },
+          {
+            "year": "2023",
+            "value": 2.7
+          },
+          {
+            "year": "2024",
+            "value": 2.1
+          },
+          {
+            "year": "2025",
+            "value": 2.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1933-1973",
+        "title": "Zahir Şah Dönemi Modernleşme Adımları",
+        "description": "Altyapı, barajlar ve karayolları inşa edilerek ulusal pazarın entegrasyonu sağlandı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979-1989",
+        "title": "Savaş Taribatı ve Altyapı Çöküşü",
+        "description": "Sovyet müdahalesi sırasında sulama kanalları ve tarım alanları büyük zarar gördü.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2002-2020",
+        "title": "Uluslararası Yardım Bağımlılığı Dönemi",
+        "description": "Ekonomi büyük ölçüde yabancı donör hibelerine ve uluslararası askeri harcamalara dayalı olarak büyüdü.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2021",
+        "title": "Merkez Bankası Varlıklarının Dondurulması",
+        "description": "Yönetim değişikliği sonrası yurt dışı rezervlerin dondurulması mali sistemde ciddi likidite krizine yol açtı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Afganistan'ın dış ilişkileri, 2021 yılındaki yönetim değişikliği sonrasında bölgesel pragmatizm ve sınır komşularıyla ekonomik entegrasyon odaklı bir döneme girmiştir. Uluslararası toplumun resmi tanıma konusundaki temkinli tutumuna rağmen komşu ve bölgesel aktörlerle fiili ilişkiler yürütülmektedir.",
+    "alliances": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Ticaret ve Yatırım Ortaklığı",
+        "description": "Çin, madencilik yatırımları ve Kuşak ve Yol İnisiyatifi kapsamında de facto yönetimle yakın diplomatik ve ekonomik temas sürdürmektedir.",
+        "since": "2021"
+      },
+      {
+        "partner": "Pakistan",
+        "relationType": "Komşuluk ve Ticaret Ortaklığı",
+        "description": "Tarihsel ve toplumsal bağların yanı sıra sınır güvenliği ve mülteci konularında dönemsel gerilimler içeren karmaşık bir ilişki yürütülmektedir.",
+        "since": "1947"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Bölgesel Güvenlik Diyaloğu",
+        "description": "Rusya, bölgesel istikrar ve terörle mücadele başlıkları altında resmi düzeyde diyalog kanallarını açık tutmaktadır.",
+        "since": "1919"
+      },
+      {
+        "partner": "Türkiye",
+        "relationType": "İnsani ve Kültürel İlişkiler",
+        "description": "Türkiye, tarihsel bağlar çerçevesinde insani yardım, eğitim ve altyapı projeleri aracılığıyla Afgan halkıyla dayanışmasını sürdürmektedir.",
+        "since": "1921"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Rawalpindi Antlaşması",
+        "year": "1919",
+        "description": "Büyük Britanya'nın Afganistan'ın dış ilişkilerindeki bağımsızlığını resmi olarak tanıdığı antlaşma."
+      },
+      {
+        "name": "Türk-Afgan Dostluk Antlaşması",
+        "year": "1921",
+        "description": "Türkiye ile Afganistan arasında karşılıklı tanıma ve diplomatik iş birliğini başlatan tarihi anlaşma."
+      },
+      {
+        "name": "Durand Hattı Anlaşması",
+        "year": "1893",
+        "description": "İngiliz Hindistanı ile Afganistan sınırını belirlemek üzere imzalanan ve günümüzde sınır tartışmalarına temel oluşturan metin."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Pakistan (Durand Hattı)",
+        "relationType": "Anlasmazlik",
+        "description": "1893 yılında çizilen sınır hattının meşruiyeti Afganistan tarafından resmi olarak kabul edilmemekte, sınır aşırı geçişlerde gerginlik yaşanmaktadır.",
+        "since": "1947"
+      },
+      {
+        "partner": "İran (Hilmend Nehrı Suları)",
+        "relationType": "Anlasmazlik",
+        "description": "Hilmend Nehri su kaynaklarının paylaşımı ve baraj inşaatları konusunda iki komşu ülke arasında zaman zaman su hakları anlaşmazlığı yaşanmaktadır.",
+        "since": "1973"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Üye",
+        "joinedYear": "1946"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "Ekonomik İşbirliği Teşkilatı",
+        "role": "Üye",
+        "joinedYear": "1992"
+      },
+      {
+        "name": "Güney Asya Bölgesel İşbirliği Teşkilatı",
+        "role": "Üye",
+        "joinedYear": "2007"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Afganistan siyasi yapısı; kabile gelenekleri, dini kurallar ve merkezi otorite mücadelesiyle biçimlenmiştir. Yüzyıl boyunca monarşi, cumhuriyet, sosyalizm ve teokrasi arasında gidip gelen siyasi sistem, günümüzde fiili bir İslam Emirliği yapısıyla yönetilmektedir.",
+    "governmentForm": "De Facto Teokratik Yönetim (Afganistan İslam Emirliği)",
+    "currentStructure": "Ülke, Kandahar'da bulunan Yüce Lider ve Kabil'deki Geçici Bakanlar Kurulu tarafından yönetilmektedir. Anayasal yasama organı bulunmamakta, kanuni düzenlemeler kararname ve dini fetvalar ile yürütülmektedir.",
+    "timeline": [
+      {
+        "year": "1747",
+        "title": "Durrani Krallığı'nın İlanı",
+        "description": "Afgan kabilelerinin bir araya gelmesiyle monarşik yönetim geleneği başladı.",
+        "era": "Monarşi Dönemi"
+      },
+      {
+        "year": "1923",
+        "title": "İlk Anayasa (Nizamname)",
+        "description": "Kral Emanullah Han döneminde ülkenin ilk modern anayasası kabul edildi.",
+        "era": "Modernleşme Dönemi"
+      },
+      {
+        "year": "1964",
+        "title": "Anayasal Monarşi ve Demokrasi Deneyi",
+        "description": "Yeni anayasa ile parlamenter sistem ve serbest seçimlerin önü açıldı.",
+        "era": "Demokrasi Dönemi"
+      },
+      {
+        "year": "1973",
+        "title": "Cumhuriyet Devrimi",
+        "description": "Krallık rejimi son kaldırılarak cumhurbaşkanlığı sistemi kuruldu.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1978",
+        "title": "Sevr Devrimi",
+        "description": "Afganistan Halk Demokratik Partisi askeri darbe ile iktidarı ele geçirdi.",
+        "era": "Sosyalist Dönem"
+      },
+      {
+        "year": "1992",
+        "title": "İslam Devleti'nin İlanı",
+        "description": "Mücahit grupların kontrolü ele geçirmesiyle yeni bir yönetim modeli denendi ancak iç savaş önlenemedi.",
+        "era": "İç Savaş Dönemi"
+      },
+      {
+        "year": "2004",
+        "title": "Afganistan İslam Cumhuriyeti Anayasası",
+        "description": "Uluslararası gözetim altında güçlü başkanlık sistemini benimseyen anayasa yürürlüğe girdi.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "2021",
+        "title": "İslam Emirliği'nin Yeniden Tesisi",
+        "description": "Taliban'ın kontrolü sağlamasıyla cumhuriyet organları feshedildi ve de facto emirlik yapısına geçildi.",
+        "era": "Mevcut Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Afganistan'da bilim ve araştırma altyapısı, tarihsel çatışmalar ve kaynak kısıtlılığı sebebiyle gelişme aşamasındadır. Bununla birlikte geleneksel coğrafya, tıp, astronomi ve arkeoloji alanlarında tarihsel bir birikim mevcut olup günümüzde yükseköğretim kurumları kısıtlı imkanlarla faaliyet göstermektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.03",
+        "unit": "%",
+        "scoreOutOf100": 10
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "9.2",
+        "unit": "%",
+        "scoreOutOf100": 22
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "420",
+        "unit": "Adet",
+        "scoreOutOf100": 18
+      },
+      {
+        "label": "İnternet Erişimi Olan Nüfus Oranı",
+        "value": "22.5",
+        "unit": "%",
+        "scoreOutOf100": 25
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "12",
+        "unit": "Adet",
+        "scoreOutOf100": 8
+      }
+    ],
+    "notableAchievements": [
+      "Antik Baktriya Dönemi Mimarisi ve Metalürji İşçiliği",
+      "Geleneksel Tıp ve Eczacılık El Yazmaları Birikimi",
+      "Doğal Boya Kimyası ve Dokuma Teknolojileri Metodolojisi",
+      "Kabil Botanik Bahçesi ve Yerel Biyoçeşitlilik Kataloğu"
+    ],
+    "institutions": [
+      {
+        "name": "Kabil Üniversitesi",
+        "type": "Universite",
+        "description": "1932 yılında kurulan ve ülkenin akademik, bilimsel ve edebi mirasına öncülük eden en eski yükseköğretim kurumudur."
+      },
+      {
+        "name": "Afganistan Bilimler Akademisi",
+        "type": "Arastirma Enstitusu",
+        "description": "Dil, tarih, doğa bilimleri ve ilahiyat alanında araştırmaları koordine eden temel devlet bilim kurumudur."
+      },
+      {
+        "name": "Herat Üniversitesi",
+        "type": "Universite",
+        "description": "Ülkenin batısındaki en önemli eğitim merkezi olup mühendislik ve ziraat bilimleri alanında çalışmalar yapmaktadır."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:31:31.659Z"
+}

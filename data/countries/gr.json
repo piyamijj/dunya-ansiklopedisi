@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "code": "gr",
+    "iso3": "GRC",
+    "name_tr": "Yunanistan",
+    "name_en": "Greece",
+    "region": "Avrupa",
+    "capital_tr": "Atina",
+    "flag_emoji": "🇬🇷"
+  },
+  "overview": "Yunanistan, Güneydoğu Avrupa'da Balkan Yarımadası'nın güney ucunda yer alan, Ege, İyon ve Akdeniz'e kıyısı bulunan stratejik bir ülkedir. Antik Çağ'da felsefe, demokrasi, tiyatro ve Batı uygarlığının beşiği olarak kabul edilen ülke, zengin tarihsel mirasını binlerce adasıyla harmanlayan benzersiz bir coğrafyaya sahiptir. Başkenti ve en büyük şehri Atina olan Yunanistan, günümüzde üniter yapıda parlamenter bir cumhuriyettir. Avrupa Birliği, NATO ve Birleşmiş Milletler gibi uluslararası kuruluşların aktif bir üyesi olarak bölgesel ve küresel diplomaside önemli bir rol oynamaktadır.",
+  "history": {
+    "summary": "Yunanistan tarihi, Ege uygarlıklarından Klasik Dönem Atina ve Sparta şehir devletlerine, Büyük İskender'in Hellenistik İmparatorluğu'ndan Roma ve Doğu Roma (Bizans) dönemlerine ve ardından yaklaşık dört asırlık Osmanlı yönetimine kadar uzanan zengin bir geçmişe sahiptir. 19. yüzyılın başında gerçekleşen bağımsızlık savaşıyla modern devlet kurulmuş, 20. yüzyılda ise Balkan Savaşları, İki Dünya Savaşı, İç Savaş ve askerî cunta dönemlerinin ardından istikrarlı bir demokratik yapıya kavuşmuştur.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3000 - M.Ö. 1100",
+        "title": "Minos ve Miken Uygarlıkları",
+        "description": "Girit ve Mora Yarımadası merkezli gelişen bu uygarlıklar, Ege coğrafyasındaki ilk gelişmiş Tunç Çağı medeniyetlerini oluşturmuş ve deniz ticaret ağlarını kurmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 508",
+        "title": "Atina Demokrasisinin Doğuşu",
+        "description": "Kleisthenes'in siyasi reformlarıyla klasik Atina'da yurttaşların doğrudan yönetime katılımını sağlayan ilk demokratik sistem hayata geçirilmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 336 - M.Ö. 323",
+        "title": "Büyük İskender ve Hellenistik Dönem",
+        "description": "Makedonya Kralı III. Aleksandros'un doğu seferleri sonucunda Yunan kültürü, Doğu Akdeniz, Orta Doğu ve Asya içlerine kadar geniş bir coğrafyaya yayılmıştır.",
+        "era": "Hellenistik Dönem"
+      },
+      {
+        "year": "1453",
+        "title": "Osmanlı Egemenliğinin Başlaması",
+        "description": "Konstantinopolis'in fethi ile Doğu Roma İmparatorluğu sona ermiş ve Yunan coğrafyası kademeli olarak Osmanlı idaresine girmiştir.",
+        "era": "Osmanlı Dönemi"
+      },
+      {
+        "year": "1821 - 1829",
+        "title": "Yunan Bağımsızlık Savaşı",
+        "description": "Osmanlı yönetimine karşı başlatılan ayaklanma, büyük güçlerin müdahalesi ve 1830 Londra Protokolü ile bağımsız Yunan Krallığı'nın kurulmasıyla sonuçlanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1912 - 1913",
+        "title": "Balkan Savaşları",
+        "description": "Yunanistan, Birinci ve İkinci Balkan Savaşları neticesinde Selanik, Güney Makedonya, Epir ve Ege adalarını sınırlarına katarak yüzölçümünü önemli ölçüde büyütmüştür.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1919 - 1922",
+        "title": "Türk-Yunan Savaşı ve Mübadele",
+        "description": "Anadolu seferinin başarısızlıkla sonuçlanmasının ardından imzalanan 1923 Lozan Antlaşması uyarınca Türkiye ile geniş kapsamlı zorunlu nüfus mübadelesi gerçekleştirilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1940 - 1944",
+        "title": "İkinci Dünya Savaşı ve İşgal",
+        "description": "İtalyan işgal girişimine başarıyla direnilmiş, ancak ardından gelen Alman işgali ülkede büyük bir insani krize ve direniş hareketlerine yol açmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1967 - 1974",
+        "title": "Albaylar Cuntası Dönemi",
+        "description": "Askerî darbe ile iktidarı ele geçiren albaylar rejimi, temel özgürlükleri askıya almış; 1974 Kıbrıs krizinin ardından yönetim sivil hükümete devredilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1981",
+        "title": "Avrupa Topluluğu Üyeliği",
+        "description": "Yunanistan, Avrupa Entegrasyonu sürecine dâhil olarak Avrupa Topluluğu'nun (günümüzdeki AB) 10. tam üyesi olmuş ve Batı ittifakındaki konumunu güçlendirmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Yunanistan ekonomisi; hizmet sektörü, deniz taşımacılığı ve turizm odaklı gelişmiş bir pazar ekonomisidir. Küresel ticaret donanmasının önemli bir kısmını elinde tutan Yunan armatörler denizcilik sektöründe dünya liderleri arasındadır. 2010'lu yıllarda yaşanan ağır borç krizinin ve uygulanan mali uyum programlarının ardından ülke ekonomisi son yıllarda disiplinli mali politikalar ve yapısal reformlarla yeniden istikrarlı büyüme patikasına girmiştir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "250 Milyar",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "23,800",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "9.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Avro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Turizm Geliri",
+        "value": "21.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kamu Borcu / GSYİH",
+        "value": "152.5",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Deniz Taşımacılığı ve Armatörlük",
+      "Turizm ve Otelcilik",
+      "Gıda ve İçecek Sanayii (Zeytinyağı, Şarap, Süt Ürünleri)",
+      "İlaç ve Biyoteknoloji",
+      "Yenilenebilir Enerji (Rüzgar ve Güneş)",
+      "Rafineri ve Petrokimya"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.9
+          },
+          {
+            "year": "2019",
+            "value": 1.8
+          },
+          {
+            "year": "2020",
+            "value": -9.3
+          },
+          {
+            "year": "2021",
+            "value": 8.4
+          },
+          {
+            "year": "2022",
+            "value": 5.6
+          },
+          {
+            "year": "2023",
+            "value": 2
+          },
+          {
+            "year": "2024",
+            "value": 2.2
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1981",
+        "title": "Avrupa Topluluğu'na Katılım",
+        "description": "AT üyeliği ile birlikte tarım ve altyapıyı modernleştirmeyi amaçlayan geniş çaplı Avrupa yapısal fonları kullanılmaya başlanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2001",
+        "title": "Avro Alanına Dahil Olunması",
+        "description": "Ulusal para birimi Drahmi terk edilerek Avro'ya geçilmiş, düşük faizli borçlanma imkânı ve ticari entegrasyon sağlanmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2004",
+        "title": "Atina Olimpiyat Oyunları",
+        "description": "Olimpiyat Oyunları ev sahipliği devasa altyapı modernizasyonu sağlamış, ancak kamu borç stoğunun artmasında etkili olmuştur.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2010 - 2018",
+        "title": "Yunanistan Borç Krizi ve Kurtarma Paketleri",
+        "description": "Ağır bütçe açıkları sonucu başlayan krizde AB, ECB ve IMF ile üç ayrı uluslararası borç kurtarma anlaşması imzalanmış, sert kemer sıkma politikaları uygulanmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2023",
+        "title": "Yatırım Yapılabilir Kredi Notuna Dönüş",
+        "description": "Uluslararası derecelendirme kuruluşları, mali disiplin ve reformların ardından Yunan tahvillerinin kredi notunu yeniden 'yatırım yapılabilir' seviyeye yükseltmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Yunanistan dış politikasını Avrupa Birliği ve NATO üyeliği ekseninde şekillendirmektedir. Doğu Akdeniz ve Balkanlar'da uluslararası hukuka dayalı istikrarın korunmasını, bölgesel enerji diplomasisini ve ikili güvenlik ortaklıklarını geliştirmeyi öncelikli vizyonu olarak sürdürmektedir.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Tam Üyelik",
+        "description": "Ülkenin siyasi, ekonomik ve dış politika vizyonunun temel dayanağını oluşturan en üst düzey entegrasyondur.",
+        "since": "1981"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Müttefik",
+        "description": "Savunma ve güvenlik mimarisinin ana sütunu olup kolektif savunma mekanizmasında aktif rol almaktadır.",
+        "since": "1952"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Ortak",
+        "description": "Karşılıklı savunma işbirliği anlaşmaları ve askeri üs tesisleri kapsamında derin güvenlik ilişkileri yürütülmektedir.",
+        "since": "1947"
+      },
+      {
+        "partner": "Fransa",
+        "relationType": "Stratejik Müttefik",
+        "description": "2021 yılında imzalanan Stratejik Ortaklık ve Savunma Anlaşması ile ikili savunma ve askeri tedarik işbirliği en üst seviyeye çıkarılmıştır.",
+        "since": "2021"
+      },
+      {
+        "partner": "Mısır",
+        "relationType": "Bölgesel Ortak",
+        "description": "Doğu Akdeniz'de deniz yetki alanlarının sınırlandırılması anlaşması ve enerji projeleriyle güçlenen diplomatik işbirliği mevcuttur.",
+        "since": "2020"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Lozan Barış Antlaşması",
+        "year": "1923",
+        "description": "Türkiye ile günümüzdeki kara ve deniz sınırlarını belirlemiş ve Ege'deki statüyü uluslararası hukuk çerçevesine bağlamıştır."
+      },
+      {
+        "name": "Paris Barış Antlaşması",
+        "year": "1947",
+        "description": "İtalya ile imzalanan antlaşmayla Oniki Ada'nın egemenliği Yunanistan'a devredilmiştir."
+      },
+      {
+        "name": "Maastricht Antlaşması",
+        "year": "1992",
+        "description": "Avrupa Birliği'nin kuruluşunu sağlayan antlaşmaya taraf olunarak parasal ve siyasi birliğin yolu açılmıştır."
+      },
+      {
+        "name": "Prespa Anlaşması",
+        "year": "2018",
+        "description": "Kuzey Makedonya ile onlarca yıl süren isim anlaşmazlığını çözerek komşu ülkenin NATO üyeliğine giden yolu açmıştır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Türkiye (Ege Anlaşmazlıkları)",
+        "relationType": "Anlaşmazlık",
+        "description": "Ege Denizi'nde kara sularının genişliği, kıta sahanlığı, münhasır ekonomik bölge sınırları, hava sahası (FIR hatları) ve adaların silahsızlandırılmış statüsü konularında farklı hukuki tezler ve diplomatik görüş ayrılıkları bulunmaktadır.",
+        "since": "1973"
+      },
+      {
+        "partner": "Kıbrıs Sorunu",
+        "relationType": "Anlaşmazlık",
+        "description": "Doğu Akdeniz'deki adanın siyasi geleceği ve garantörlük hakları konusunda BM parametreleri çerçevesinde müzakerelerin yürütülmesi desteklenmektedir.",
+        "since": "1974"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "NATO",
+        "role": "Aktif Üye",
+        "joinedYear": "1952"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Tam Üye",
+        "joinedYear": "1981"
+      },
+      {
+        "name": "OECD",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      },
+      {
+        "name": "Avrupa Konseyi",
+        "role": "Aktif Üye",
+        "joinedYear": "1949"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Yunanistan, 1975 Anayasası ile yönetilen çok partili demokratik bir parlamenter cumhuriyettir. Demokrasinin 1974'te yeniden tesis edilmesinden (Metapolitefsi) bu yana ülkede kuvvetler ayrılığı prensibine dayalı, seçimlerin düzenli yapıldığı ve Anayasal mahkemelerin bağımsız deneim sağladığı kararlı bir siyasi yapı mevcuttur.",
+    "governmentForm": "Üniter Parlamenter Cumhuriyet",
+    "currentStructure": "Yürütme erki, devletin başı olan Cumhurbaşkanı ve hükûmetin başı olan Başbakan liderliğindeki Bakanlar Kurulu tarafından icra edilir. Yasama yetkisi genel seçimlerle belirlenen 300 sandalyeli Yunan Parlamentosu'na (Vouli ton Ellinon) aittir. Yargı yetkisi ise bağımsız yüksek mahkemelerce yürütülür.",
+    "timeline": [
+      {
+        "year": "1827",
+        "title": "Troezen Anayasası",
+        "description": "Bağımsızlık savaşı sürerken kabul edilen bu metin, ülkenin ilk cumhuriyetçi ve demokratik ilkelerini belirlemiştir.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1864",
+        "title": "Meşrutiyet Anayasası",
+        "description": "Kralın yetkileri daraltılarak sembolik konuma getirilmiş, parlamenter meşrutiyet rejimine geçilmiştir.",
+        "era": "Meşrutiyet Dönemi"
+      },
+      {
+        "year": "1910",
+        "title": "Eleftherios Venizelos Reformları",
+        "description": "Siyasi idare ve anayasal yapıda kapsayıcı modernizasyon reformları gerçekleştirilmiştir.",
+        "era": "Modernizasyon Dönemi"
+      },
+      {
+        "year": "1924",
+        "title": "İkinci Yunan Cumhuriyeti",
+        "description": "Halk oylaması ile monarşi kaldırılmış ve kısa ömürlü ikinci cumhuriyet dönemi ilan edilmiştir.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1935",
+        "title": "Monarşinin İhyası ve Metaksas Rejimi",
+        "description": "Monarşi referandumla geri getirilmiş, ardından 1936'da Ioannis Metaxas otoriter rejimini kurmuştur.",
+        "era": "Otokrasi Dönemi"
+      },
+      {
+        "year": "1946 - 1949",
+        "title": "Yunan İç Savaşı",
+        "description": "Dünya Savaşı sonrası hükûmet güçleri ile komünist unsurlar arasındaki çatışma, Soğuk Savaş'ın ilk büyük siyasi krizini oluşturmuştur.",
+        "era": "İç Savaş Dönemi"
+      },
+      {
+        "year": "1967",
+        "title": "Askerî Cunta (Albaylar Darbesi)",
+        "description": "Ordu içindeki cunta yönetimi ele geçirmiş, parlamentoyu kapatmış ve siyasi faaliyetleri yasaklamıştır.",
+        "era": "Cunta Dönemi"
+      },
+      {
+        "year": "1974",
+        "title": "Metapolitefsi ve Cumhuriyet Referandumu",
+        "description": "Askerî rejim çökmüş, sivil yönetime geçilmiş ve yapılan plebisitle monarşi kesin olarak kaldırılmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1975",
+        "title": "Yeni Anayasanın Kabulü",
+        "description": "Günümüzde de yürürlükte olan, temel hak ve hürriyetleri güvence altına alan demokratik anayasa yürürlüğe girmiştir.",
+        "era": "Anayasal Dönem"
+      },
+      {
+        "year": "2015",
+        "title": "Ekonomik Kriz Gölgesinde Siyasi Dönüşüm",
+        "description": "Geleneksel iktidar partilerinin ardından radikal sol Syriza iktidara gelmiş ve uluslararası kurtarma paketi için referandum düzenlemiştir.",
+        "era": "Yakın Siyasi Tarih"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Yunanistan, denizcilik mühendisliği, arkeoloji, biyotıp, yenilenebilir enerji ve yapay zekâ uygulamalarında nitelikli bir bilimsel araştırma altyapısına sahiptir. Avrupa Birliği Ufuk (Horizon) programlarından önemli derecede hibe sağlayan ülke, akademik yayın sayısı ve nitelikli araştırmacı yetiştirme kapasitesiyle öne çıkmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.51",
+        "unit": "%",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "48,500",
+        "unit": "Kişi",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "1,250",
+        "unit": "Adet",
+        "scoreOutOf100": 45
+      },
+      {
+        "label": "Uluslararası Bilimsel Yayın Sayısı",
+        "value": "24,000",
+        "unit": "Adet",
+        "scoreOutOf100": 70
+      },
+      {
+        "label": "Yükseköğretim Mezuniyet Oranı",
+        "value": "45.2",
+        "unit": "%",
+        "scoreOutOf100": 78
+      },
+      {
+        "label": "Teknoloji İhracatı Payı",
+        "value": "12.4",
+        "unit": "%",
+        "scoreOutOf100": 52
+      }
+    ],
+    "notableAchievements": [
+      "Sualtı arkeolojisi ve antik eserlerin tahribatsız tomografik yöntemlerle restorasyonunda küresel öncülük",
+      "Antikitera Mekanizması üzerine yürütülen ileri teknoloji görüntüleme ve dijital rekonstrüksiyon projeleri",
+      "Deniz taşımacılığında karbonsuzlaşma ve yeşil amonyak/hidrojen yakıt sistemleri araştırma geliştirme çalışmaları",
+      "Akdeniz popülasyon genetiği ve nörodejeneratif hastalıklar üzerine yürütülen uluslararası biyotıp araştırmaları",
+      "Ege adalarında akıllı şebekeler ve yenilenebilir enerji depolama alanında kurulan pilot hibrit tesisler"
+    ],
+    "institutions": [
+      {
+        "name": "Atina Ulusal ve Kapodistrian Üniversitesi",
+        "type": "Üniversite",
+        "description": "1837 yılında kurulan, tıp, doğa bilimleri ve beşerî bilimlerde Doğu Akdeniz'in en eski ve en saygın akademilerindendir."
+      },
+      {
+        "name": "Ulusal Teknik Üniversitesi (NTUA)",
+        "type": "Üniversite",
+        "description": "Mühendislik, mimarlık ve bilgisayar bilimlerinde üst düzey teorik ve uygulamalı araştırmalar yürüten teknik eğitim merkezidir."
+      },
+      {
+        "name": "FORTH (Araştırma ve Teknoloji Vakfı - Girit)",
+        "type": "Araştırma Enstitüsü",
+        "description": "Biyomedikal, lazer bilimleri, bilgisayar vizyonu ve moleküler biyoloji alanında uluslararası mükemmeliyet merkezidir."
+      },
+      {
+        "name": "Demokritos Ulusal Bilimsel Araştırma Merkezi",
+        "type": "Araştırma Enstitüsü",
+        "description": "Nükleer fizik, malzeme bilimi, nanoteknoloji ve enformatik alanlarında faaliyet gösteren en büyük multidisipliner devlet merkezidir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:00:38.000Z"
+}

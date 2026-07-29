@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "code": "il",
+    "iso3": "ISR",
+    "name_tr": "İsrail",
+    "name_en": "Israel",
+    "region": "Asya",
+    "capital_tr": "Kudüs",
+    "flag_emoji": "🇮🇱"
+  },
+  "overview": "İsrail, Doğu Akdeniz kıyısında, Asya kıtasının güneybatısında yer alan ve tarihi boyunca çeşitli medeniyetlerin kesişim noktası olmuş bir Orta Doğu ülkesidir. Kuzeyde Lübnan, kuzeydoğuda Suriye, doğuda Ürdün ve güneybatıda Mısır ile komşu olan ülke, aynı zamanda Filistin bölgeleriyle sınırdaştır. Parlamender demokrasi ile yönetilen İsrail, kısıtlı doğal kaynaklarına rağmen yüksek teknoloji, tarım teknolojileri, bilimsel araştırmalar ve finans alanında küresel düzeyde gelişmiş bir ekonomiye sahiptir.",
+  "history": {
+    "summary": "İsrail'in bulunduğu coğrafya, antik dönemlerden itibaren Kenan, İsrail ve Yahuda krallıkları, Asur, Babil, Pers, Helenistik, Roma, Bizans, Emevi, Abbasi, Haçlı, Memlük ve Osmanlı hakimiyetlerine ev sahipliği yapmıştır. 19. yüzyılın sonlarında gelişen Siyonist hareket, Yahudilerin bu topraklara göçünü hızlandırmış ve İngiliz Mandası döneminin ardından 1948 yılında İsrail Devleti ilan edilmiştir. Kuruluşundan itibaren komşu Arap ülkeleriyle yaşanan çatışmalar, bölgesel sınırları ve siyasi dinamiği şekillendirmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 1000 civarı",
+        "title": "İsrail ve Yahuda Krallıklarının Kuruluşu",
+        "description": "Bölgede antik İbrani topluluklarının birleşmesiyle İsrail ve ardından güneyde Yahuda Krallığı kuruldu. Bu dönem, bölgenin kültürel ve dini kimliğinin temellerinin atıldığı çağ olarak kabul edilir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 586",
+        "title": "Babil Sürgünü ve Birinci Tapınak'ın Yıkılışı",
+        "description": "Babil Kralı II. Nebukadnezar Kudüs'ü ele geçirerek Birinci Tapınak'ı yıktı ve Yahudi nüfusunun büyük kısmını Babil'e sürgün etti.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.S. 70",
+        "title": "İkinci Tapınak'ın Yıkılması ve Roma Hakimiyeti",
+        "description": "Roma İmparatorluğu'na karşı başlayan Yahudi isyanının bastırılması sonucunda İkinci Tapınak yıkıldı ve Yahudi nüfusunun Akdeniz havzasına yayıldığı büyük diaspora dönemi derinleşti.",
+        "era": "Klasik Antik Çağ"
+      },
+      {
+        "year": "1516",
+        "title": "Osmanlı Hakimiyetinin Başlaması",
+        "description": "Yavuz Sultan Selim'in Mercidabık Seferi sonrasında bölge Osmanlı İmparatorluğu yönetimine girdi ve yaklaşık dört yüzyıl boyunca Osmanlı idaresinde kaldı.",
+        "era": "Osmanlı Dönemi"
+      },
+      {
+        "year": "1897",
+        "title": "Birinci Siyonist Kongresi",
+        "description": "Theodor Herzl liderliğinde İsviçre'nin Basel kentinde toplanan kongre, Filistin'de bir Yahudi vatanı kurulmasını hedefleyen modern Siyonist hareketi resmen başlattı.",
+        "era": "Geç Modern Dönem"
+      },
+      {
+        "year": "1917",
+        "title": "Balfour Deklarasyonu",
+        "description": "Birleşik Krallık Dışişleri Bakanı Arthur Balfour, Filistin'de Yahudiler için bir 'millî yuva' kurulmasını destekleyen resmi bildiriyi yayımladı.",
+        "era": "I. Dünya Savaşı Dönemi"
+      },
+      {
+        "year": "1947",
+        "title": "BM Paylaşım Planı (Karar 181)",
+        "description": "Birleşmiş Milletler Genel Kurulu, Filistin İngiliz Mandası'nı bağımsız bir Yahudi devleti ve bağımsız bir Arap devleti olarak ikiye bölmeyi öngören planı kabul etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1948",
+        "title": "İsrail'in Bağımsızlık İlanı ve İlk Arap-İsrail Savaşı",
+        "description": "David Ben-Gurion tarafından İsrail Devleti'nin kuruluşu ilan edildi. İlanın hemen ardından komşu Arap ülkelerinin müdahalesiyle Birinci Arap-İsrail Savaşı başladı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1967",
+        "title": "Altı Gün Savaşı",
+        "description": "İsrail; Mısır, Ürdün ve Suriye ittifakına karşı altı gün süren savaş sonucunda Batı Şeria, Doğu Kudüs, Gazze Şeridi, Sina Yarımadası ve Golan Tepeleri'ni kontrolü altına aldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1993",
+        "title": "Oslo Barış Anlaşmaları",
+        "description": "İsrail ve Filistin Kurtuluş Örgütü (FKÖ) arasında imzalanan anlaşma ile Filistin Ulusal Yönetimi kuruldu ve kademeli bir özerklik takvimi kabul edildi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "İsrail ekonomisi, gelişmiş piyasa yapısı, yüksek Ar-Ge yatırımları ve inovasyon odaklı 'Start-Up Nation' ekosistemi ile öne çıkmaktadır. Sınırlı doğal kaynaklarına karşın, bilgi yoğun sektörler, elmas kesim sanayii, ilaç sanayii ve yüksek teknoloji ihracatı ülkenin ekonomik büyümesinin temel motorudur. Son yıllarda Doğu Akdeniz'deki açık deniz doğalgaz keşifleri, ülkenin enerji bağımsızlığına ve ihracat kapasitesine katkı sağlamıştır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "530 Milyar",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "54,200",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Yeni İsrail Şekeli (ILS)",
+        "unit": "ILS",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "3.6",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "165 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Yüksek Teknoloji ve Yazılım Geliştirme",
+      "Biyoteknoloji ve İlaç Sanayii",
+      "Elmas Kesimi ve Parlatması",
+      "Savunma ve Havacılık Sanayii",
+      "Tarım Teknolojileri ve Sulama Sistemleri",
+      "Kimya ve Rafineri Ürünleri"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2019",
+            "value": 3.8
+          },
+          {
+            "year": "2020",
+            "value": -1.9
+          },
+          {
+            "year": "2021",
+            "value": 8.6
+          },
+          {
+            "year": "2022",
+            "value": 6.5
+          },
+          {
+            "year": "2023",
+            "value": 2
+          },
+          {
+            "year": "2024",
+            "value": 1.1
+          },
+          {
+            "year": "2025",
+            "value": 3.2
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1985",
+        "title": "Ekonomik İstikrar Planı",
+        "description": "Üç haneli hiperenflasyonu dizginlemek amacıyla geniş kapsamlı mali reformlar uygulanmış, para birimi yenilenmiş ve serbest piyasa dönüşümü hızlandırılmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1993",
+        "title": "Yozma Programı ve Girişim Sermayesi Hamlesi",
+        "description": "Devlet destekli girişim sermayesi fonu Yozma'nın kurulması, İsrail yüksek teknoloji ve start-up ekosisteminin küresel ölçekte doğuşunu sağladı.",
+        "era": "Teknoloji Dönemi"
+      },
+      {
+        "year": "2010",
+        "title": "OECD Üyeliği",
+        "description": "İsrail, gelişmiş piyasa ekonomisi standartlarına uyum sağlayarak Ekonomik İşbirliği ve Kalkınma Örgütü'ne (OECD) resmi üye olarak katıldı.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2013",
+        "title": "Tamar ve Leviathan Doğalgaz Sahalarının Devreye Girmesi",
+        "description": "Doğu Akdeniz'deki açık deniz doğalgaz rezervlerinin üretime geçmesiyle ülke net enerji ithalatçısı konumundan ihracatçı konumuna yükseldi.",
+        "era": "Enerji Dönüşümü"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "İsrail dış politikasında Birleşik Devletler ile stratejik ve askeri müttefiklik temel sütunu oluşturmaktadır. Avrupa ülkeleriyle kapsamlı ekonomik ve bilimsel entegrasyona sahip olan ülke, son yıllarda İbrahim Anlaşmaları vasıtasıyla çeşitli Arap ülkeleriyle ilişkilerini normalleştirmiştir. Bölgesel güvenlik konuları ve Filistin sorunu, İsrail'in diplomatik gündeminin merkezinde yer almaktadır.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Müttefik",
+        "description": "Kapsamlı askeri yardım, ortak savunma projeleri, yüksek teknoloji işbirliği ve güçlü diplomatik destek içeren üst düzey stratejik ortaklık.",
+        "since": "1948"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Ticaret ve Bilim Ortaklığı",
+        "description": "İsrail, AB Ortaklık Anlaşması ve Horizon Europe gibi araştırma fonları çerçevesinde AB ülkeleriyle derin ekonomik ve akademik bağlara sahiptir.",
+        "since": "1995"
+      },
+      {
+        "partner": "Birleşik Arap Emirlikleri",
+        "relationType": "Normalleşme ve Ticaret Ortaklığı",
+        "description": "İbrahim Anlaşmaları kapsamında diplomatik ilişkiler kurulmuş; ticaret, turizm ve teknoloji alanlarında hızlı bir entegrasyon sağlanmıştır.",
+        "since": "2020"
+      },
+      {
+        "partner": "Hindistan",
+        "relationType": "Stratejik ve Savunma Ortaklığı",
+        "description": "Savunma sanayii, tarım teknolojileri, siber güvenlik ve ticaret alanlarında hızla gelişen stratejik işbirliği.",
+        "since": "1992"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Mısır-İsrail Barış Antlaşması",
+        "year": "1979",
+        "description": "Camp David Görüşmelerinin ardından imzalanan anlaşmayla İsrail Sina Yarımadası'ndan çekilmiş ve Mısır ile diplomatik ilişkiler tesis edilmiştir."
+      },
+      {
+        "name": "Ürdün-İsrail Barış Antlaşması",
+        "year": "1994",
+        "description": "İki ülke arasındaki sınırları kesinleştirmiş, su paylaşımı ve güvenlik işbirliği ilkelerini karara bağlamıştır."
+      },
+      {
+        "name": "İbrahim Anlaşmaları (Abraham Accords)",
+        "year": "2020",
+        "description": "İsrail ile BAE, Bahreyn, Fas ve Sudan arasında diplomatik ve ticari ilişkilerin tesis edilmesini sağlayan tarihi normalleşme anlaşmaları."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Filistin Yönetimi ve İlgili Bölgeler",
+        "relationType": "Anlaşmazlık",
+        "description": "Batı Şeria ve Gazze Şeridi'nin statüsü, sınırlar, mültecilerin durumu ve Kudüs'ün hukuki konumuna ilişkin uluslararası çözümsüzlük devam etmektedir.",
+        "since": "1948"
+      },
+      {
+        "partner": "Suriye",
+        "relationType": "Anlaşmazlık",
+        "description": "1967'de kontrol altına alınan Golan Tepeleri'nin egemenliği üzerindeki anlaşmazlık ve resmi bir barış antlaşmasının bulunmaması durumu sürmektedir.",
+        "since": "1948"
+      },
+      {
+        "partner": "Lübnan (Hizbullah)",
+        "relationType": "Anlaşmazlık",
+        "description": "Güney sınırındaki güvenlik sorunları ve Hizbullah aktörleriyle yaşanan askeri gerilimler periyodik olarak devam etmektedir.",
+        "since": "1982"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "OECD",
+        "role": "Aktif Üye",
+        "joinedYear": "2010"
+      },
+      {
+        "name": "Dünya Ticaret Örgütü (WTO)",
+        "role": "Aktif Üye",
+        "joinedYear": "1995"
+      },
+      {
+        "name": "Uluslararası Atom Enerjisi Ajansı (IAEA)",
+        "role": "Aktif Üye",
+        "joinedYear": "1957"
+      },
+      {
+        "name": "CERN",
+        "role": "Tam Üye (Avrupa Dışı İlk Üye)",
+        "joinedYear": "2014"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "İsrail, tek kamaralı parlamentoya dayalı temsilî bir üniter cumhuriyettir. Resmi ve yazılı tek bir anayasaya sahip olmayan ülkede, anayasal işlev gören 'Temel Yasalar' (Basic Laws) mevcuttur. Çok partili koalisyon hükümetleri sistemi nedeniyle siyasi yapı oldukça dinamik ve rekabetçidir.",
+    "governmentForm": "Parlamenter Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erki Başbakan ve Bakanlar Kurulu tarafından kullanılır; sembolik yetkilere sahip bir Cumhurbaşkanı bulunur. Yasama organı 120 sandalyeli Knesset'tir. Yargı erkinin en üst kademesi ise anayasal denetim yetkisine de sahip olan Yüksek Mahkeme'dir.",
+    "timeline": [
+      {
+        "year": "1948",
+        "title": "Bağımsızlık Bildirgesi ve Kurucu Meclis",
+        "description": "İsrail Devleti'nin kuruluş beyannamesi okundu ve ilk seçimlerin ardından kurulan geçici meclis parlamenter sistemin temelini attı.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1950",
+        "title": "Geri Dönüş Yasası (Law of Return)",
+        "description": "Dünyadaki tüm Yahudilere İsrail'e göç etme ve vatandaşlık alma hakkı tanıyan temel kanun kabul edildi.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1958",
+        "title": "İlk Temel Yasanın Kabulü (Knesset Temel Yasası)",
+        "description": "Yazılı bir anayasa yerine aşamalı olarak kabul edilecek Temel Yasalar dizisinin ilk metni yürürlüğe girdi.",
+        "era": "Anayasal Gelişim"
+      },
+      {
+        "year": "1977",
+        "title": "Siyasi İktidar Değişimi ('Mahpach')",
+        "description": "İsrail İşçi Partisi'nin 29 yıllık kesintisiz iktidarı sona erdi ve Menahem Begin liderliğindeki merkez sağ Likud partisi iktidara geldi.",
+        "era": "Siyasi Dönüşüm"
+      },
+      {
+        "year": "1992",
+        "title": "İnsan Onuru ve Özgürlüğü Temel Yasası",
+        "description": "Bireysel hak ve özgürlükleri koruma altına alan bu yasa, Yüksek Mahkeme'nin anayasal denetim yetkilerini genişleten 'Anayasa Devrimi' sürecini başlattı.",
+        "era": "Hukuk Reformu"
+      },
+      {
+        "year": "1995",
+        "title": "Yitzhak Rabin Suikastı",
+        "description": "Barış sürecine karşı çıkan aşırı sağcı bir İsrailli tarafından Başbakan Yitzhak Rabin'in öldürülmesi, ülke iç siyasetinde derin sarsıntı yarattı.",
+        "era": "Siyasi Kriz"
+      },
+      {
+        "year": "2018",
+        "title": "Yahudi Ulus-Devlet Temel Yasası",
+        "description": "İsrail'i Yahudi halkının ulusal devleti olarak tanımlayan ve anayasal statü kazandıran temel yasa Knesset'te kabul edildi.",
+        "era": "Çağdaş Siyaset"
+      },
+      {
+        "year": "2023",
+        "title": "Yargı Reformu Tartışmaları ve Toplumsal Yansımaları",
+        "description": "Hükümetin yargının yetkilerini kısıtlamaya yönelik yasa tasarıları, ülke genelinde kitlesel protestolara ve anayasal düzeyde tartışmalara yol açtı.",
+        "era": "Güncel Siyasi Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "İsrail, GSYİH'ye oranla dünyada en yüksek Ar-Ge harcaması yapan ülkelerin başında gelmektedir. Tel Aviv ve çevresinde yoğunlaşan 'Silicon Wadi' bölgesi, küresel teknoloji devlerinin Ar-Ge merkezlerine ve binlerce yenilikçi girişimciye ev sahipliği yapmaktadır. Ülke, tıp, çip tasarımı, siber güvenlik, tarım ve uzay araştırmalarında dünya çapında bir yetkinliğe sahiptir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "5.6",
+        "unit": "%",
+        "scoreOutOf100": 98
+      },
+      {
+        "label": "Kişi Başına Düşen Araştırmacı Sayısı",
+        "value": "8,300",
+        "unit": "Kişi / Milyon Nüfus",
+        "scoreOutOf100": 92
+      },
+      {
+        "label": "Yıllık Uluslararası Patent Başvurusu",
+        "value": "2,100",
+        "unit": "Adet",
+        "scoreOutOf100": 85
+      },
+      {
+        "label": "Yüksek Teknoloji İhracatının Payı",
+        "value": "54.0",
+        "unit": "%",
+        "scoreOutOf100": 95
+      },
+      {
+        "label": "Nobel Ödüllü Bilim İnsanı Sayısı",
+        "value": "13",
+        "unit": "Kişi",
+        "scoreOutOf100": 88
+      }
+    ],
+    "notableAchievements": [
+      "Modern damlama sulama teknolojisinin geliştirilmesi ve küresel ölçekte yaygınlaştırılması.",
+      "Kapsül endoskopisi (PillCam) ve minyatür tıbbi görüntüleme sistemlerinin icadı.",
+      "USB flaş bellek teknolojisinin geliştirilmesine öncülük eden çip mimarileri.",
+      "Demir Kubbe (Iron Dome) ve Arrow gibi gelişmiş füze savunma ve radar sistemleri.",
+      "Kuantum bilişim ve veri güvenliğine yönelik ilk ticari güvenlik duvarı (Firewall) mimarileri."
+    ],
+    "institutions": [
+      {
+        "name": "Technion - İsrail Teknoloji Enstitüsü",
+        "type": "Üniversite",
+        "description": "Haifa'da bulunan, mühendislik ve fen bilimleri alanında dünya çapında derecelere sahip, ülkenin en eski ve prestijli teknik üniversitesidir."
+      },
+      {
+        "name": "Weizmann Bilim Enstitüsü",
+        "type": "Araştırma Enstitüsü",
+        "description": "Rehovot'ta yer alan, yalnızca lisansüstü ve doktora düzeyinde doğa bilimleri araştırmalarına odaklanmış disiplinlerarası bilim merkezi."
+      },
+      {
+        "name": "Kudüs İbrani Üniversitesi",
+        "type": "Üniversite",
+        "description": "Albert Einstein ve Chaim Weizmann gibi isimlerin kurucuları arasında yer aldığı, temel bilimler ve sosyal bilimlerde öncü araştırma üniversitesi."
+      },
+      {
+        "name": "İsrail Uzay Ajansı (ISA)",
+        "type": "Uzay Ajansı",
+        "description": "Küçük uydu teknolojileri, bilimsel uzay araştırmaları ve ticari uzay projelerini koordine eden devlet kurumu."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:28:04.503Z"
+}

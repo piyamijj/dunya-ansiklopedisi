@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "code": "ru",
+    "iso3": "RUS",
+    "name_tr": "Rusya",
+    "name_en": "Russia",
+    "region": "Avrupa",
+    "capital_tr": "Moskova",
+    "flag_emoji": "🇷🇺"
+  },
+  "overview": "Rusya Federasyonu, Doğu Avrupa ile Kuzey Asya boyunca uzanan ve 17 milyon kilometrekareyi aşan yüzölçümüyle dünyanın en büyük ülkesidir. Zengin yer altı kaynakları, köklü kültürel mirası ve güçlü sanayi altyapısı ile Avrasya coğrafyasında jeopolitik açıdan belirleyici bir konuma sahiptir. Birleşmiş Milletler Güvenlik Konseyi'nin beş daimi üyesinden biri olan ülke, geniş küresel diplomatik ağı ve nükleer gücüyle uluslararası siyasette etkin bir rol oynamaktadır.",
+  "history": {
+    "summary": "Rusya tarihi, 9. yüzyılda Kiyev Rusyası'nın kurulmasıyla başlamış; Moğol egemenliği, Moskova Knezliği'nin yükselişi, Çarlık ve Çarlık sonrası Rus İmparatorluğu dönemleriyle şekillenmiştir. 1917 Devrimi sonrası kurulan Sovyet Sosyalist Cumhuriyetler Birliği (SSCB), 20. yüzyıl dünya siyasetine yön vermiş, 1991'de SSCB'nin dağılmasıyla günümüz Rusya Federasyonu ortaya çıkmıştır.",
+    "timeline": [
+      {
+        "year": "862",
+        "title": "Rurik Devleti ve Rus Knezliklerinin Oluşumu",
+        "description": "Varangian lideri Rurik'in Novgorod'da yönetimi ele geçirmesiyle ilk Doğu Slav devlet yapısının temelleri atıldı.",
+        "era": "Erken Orta Çağ"
+      },
+      {
+        "year": "988",
+        "title": "Hristiyanlığın Resmi Din Olarak Kabulü",
+        "description": "Büyük Vladimir, Bizans İmparatorluğu ile kurduğu bağlar çerçevesinde Ortodoks Hristiyanlığı Kiyev Rusyası'nın resmi dini ilan etti.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1237-1240",
+        "title": "Moğol İstilası ve Altın Orda Egemenliği",
+        "description": "Batu Han komutasındaki Moğol orduları Rus knezliklerini boyunduruk altına alarak iki yüzyılı aşkın sürecek Altın Orda egemenliğini başlattı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1547",
+        "title": "IV. İvan'ın Çar Unvanı Alması",
+        "description": "Korkunç İvan olarak bilinen IV. İvan, kendisini ilk Rus Çarı ilan ederek Rus Çarlığı dönemini resmi olarak başlattı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1721",
+        "title": "Rus İmparatorluğu'nun İlanı",
+        "description": "Büyük Petro, Büyük Kuzey Savaşı'ndaki zaferin ardından ülkeyi batılılaştırarak Rus İmparatorluğu'nu kurdu ve başkenti St. Petersburg'a taşıdı.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1812",
+        "title": "Napolyon'un Rusya Seferi",
+        "description": "Fransız Büyük Ordusu Rusya topraklarını işgal etti ancak Rus direnişi ve iklim şartları nedeniyle ağır bir yenilgiye uğradı.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1917",
+        "title": "Ekim Devrimi ve Çarlığın Yıkılışı",
+        "description": "Lenin liderliğindeki Bolşevikler, Geçici Hükümeti devirerek dünyadaki ilk sosyalist devleti kurma sürecini başlattı.",
+        "era": "Devrim Dönemi"
+      },
+      {
+        "year": "1922",
+        "title": "SSCB'nin Kurulması",
+        "description": "İç savaşın ardından Rusya, Ukrayna, Belarus ve Kafkas ötesi cumhuriyetlerin birleşimiyle Sovyet Sosyalist Cumhuriyetler Birliği kuruldu.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1941-1945",
+        "title": "Büyük Anavatan Savunması",
+        "description": "İkinci Dünya Savaşı'nda Nazi Almanya'sının işgaline karşı yürütülen mücadele büyük kayıplarla kazanıldı ve SSCB süper güç haline geldi.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1961",
+        "title": "Yuri Gagarin'in Uzaya Çıkışı",
+        "description": "Vostok 1 aracıyla uzaya çıkan Yuri Gagarin, dünya yörüngesinde turlayan ilk insan olarak tarihe geçti.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1991",
+        "title": "SSCB'nin Dağılması ve Rusya Federasyonu",
+        "description": "Sovyet Birliği'nin resmen feshedilmesiyle Rusya Federasyonu bağımsız bir devlet olarak uluslararası alanda hukuki halef ilan edildi.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2022",
+        "title": "Ukrayna Müdahalesi ve Uluslararası Dönüşüm",
+        "description": "Rusya'nın Ukrayna'ya yönelik askeri harekatı, Batı ülkeleriyle ilişkilerin kopmasına ve küresel jeopolitik dengelerin yeniden şekillenmesine yol açtı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Rusya ekonomisi; zengin petrol, doğalgaz, kömür ve nadir toprak metalleri rezervlerine dayalı ihracat odaklı bir yapıya sahiptir. Ağır sanayi, savunma sanayii ve enerji sektörleri ekonominin omurgasını oluştururken, son yıllarda uygulanan yaptırımlar nedeniyle yerli üretim ve Asya pazarlarına yönelim stratejisi benimsenmiştir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "2.05",
+        "unit": "Trilyon USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "14,100",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "7.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "2.7",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Rus Rublesi (RUB)",
+        "unit": "RUB",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "425",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "285",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "GSYİH (SAGP)",
+        "value": "5.45",
+        "unit": "Trilyon USD",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Petrol ve Doğalgaz Çıkarımı",
+      "Metalürji ve Madencilik",
+      "Savunma ve Havacılık Sanayii",
+      "Nükleer Enerji Teknolojileri",
+      "Kimya ve Gübre Üretimi",
+      "Tarım ve Tahıl Üretimi"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.8
+          },
+          {
+            "year": "2019",
+            "value": 2.2
+          },
+          {
+            "year": "2020",
+            "value": -2.7
+          },
+          {
+            "year": "2021",
+            "value": 5.9
+          },
+          {
+            "year": "2022",
+            "value": -1.2
+          },
+          {
+            "year": "2023",
+            "value": 3.6
+          },
+          {
+            "year": "2024",
+            "value": 3.2
+          },
+          {
+            "year": "2025",
+            "value": 1.8
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1928",
+        "title": "İlk Beş Yıllık Plan ve Hızlı Sanayileşme",
+        "description": "Sovyet yönetimi tarım ülkesi olan Rusya'yı ağır sanayi merkezine dönüştürmek amacıyla merkezi planlı ekonomiye geçti.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1992",
+        "title": "Şok Terapi ve Serbest Piyasa Reformları",
+        "description": "SSCB'nin ardından fiyat serbestisi ve özelleştirme hamleleriyle serbest piyasa ekonomisine ani geçiş yapıldı.",
+        "era": "Post-Sovyet Dönemi"
+      },
+      {
+        "year": "1998",
+        "title": "Mali Kriz ve Ruble Devalüasyonu",
+        "description": "Borç ödeme zorluğu ve Asya krizinin etkisiyle iç borç temerrüdü ilan edildi ve ruble ağır değer kaybetti.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2012",
+        "title": "Dünya Ticaret Örgütü (DTÖ) Üyeliği",
+        "description": "Rusya, 18 yıllık müzakere sürecinin ardından uluslararası ticaret sistemine entegrasyon amacıyla DTÖ'ye katıldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Geniş Çaplı Yaptırımlar ve Finansal Yapılanma",
+        "description": "Batılı ülkelerin finansal kısıtlamaları sonucunda ulusal ticarette ruble ve dost ülke para birimlerine geçiş hızlandı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Rusya'nın dış politikası, çok kutuplu bir dünya düzeni inşası, Avrasya bölgesinde etki alanını koruma ve Küresel Güney ülkeleriyle ittifakları güçlendirme ilkelerine dayanmaktadır. Batı dünyasıyla yaşanan derin kriz ortamında Çin, Hindistan, Orta Doğu ve Afrika ülkeleriyle stratejik ve ekonomik ortaklıklar ön plana çıkmıştır.",
+    "alliances": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Enerji, savunma, ticaret ve diplomasi alanlarında üst düzey entegrasyon ve çok kutupluluk vizyonu paylaşımı.",
+        "since": "1996"
+      },
+      {
+        "partner": "Belarus",
+        "relationType": "Birlik Devlet Ortaklığı",
+        "description": "Siyasi, askeri ve ekonomik alanlarda derin entegrasyonu hedefleyen devletlerüstü yapı.",
+        "since": "1999"
+      },
+      {
+        "partner": "Hindistan",
+        "relationType": "Ayrıcalıklı Stratejik Ortaklık",
+        "description": "Savunma sanayii işbirliği, enerji ticareti ve teknik ortaklığa dayanan köklü diplomatik münasebetler.",
+        "since": "2000"
+      },
+      {
+        "partner": "Kazakistan",
+        "relationType": "Müttefiklik ve Ekonomik Ortaklık",
+        "description": "Avrasya Ekonomik Birliği ve Kolektif Güvenlik Antlaşması Örgütü çatısı altında bölgesel güvenlik ve ticaret işbirliği.",
+        "since": "1992"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Yeni START Antlaşması",
+        "year": "2010",
+        "description": "ABD ve Rusya arasında stratejik nükleer silahların sınırlandırılmasını ve denetlenmesini öngören ikili antlaşma."
+      },
+      {
+        "name": "Avrasya Ekonomik Birliği Antlaşması",
+        "year": "2014",
+        "description": "Üye ülkeler arasında mal, hizmet, sermaye ve işgücünün serbest dolaşımını sağlayan ekonomik entegrasyon belgesi."
+      },
+      {
+        "name": "Kolektif Güvenlik Antlaşması",
+        "year": "1992",
+        "description": "Eski Sovyet cumhuriyetlerinin bir kısmı arasında karşılıklı savunma taahhüdü getiren askeri ittifak metni."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Ukrayna",
+        "relationType": "Anlaşmazlık",
+        "description": "Bölgesel egemenlik, sınır bütünlüğü ve güvenlik mimarisi konularında devam eden açık askeri ve siyasi çatışma hali.",
+        "since": "2014"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "Anlaşmazlık",
+        "description": "İkinci Dünya Savaşı sonrasında Kuril Adaları (Güney Kuril / Kuzey Bölgeleri) üzerindeki egemenlik ihtilafı nedeniyle resmi barış antlaşmasının imzalanamaması.",
+        "since": "1945"
+      },
+      {
+        "partner": "Kuzey Atlantik Antlaşması Örgütü (NATO)",
+        "relationType": "Anlaşmazlık",
+        "description": "NATO'nun doğuya genişlemesi ve Doğu Avrupa'daki askeri varlığına ilişkin stratejik ve güvenlik odaklı gerilim.",
+        "since": "1999"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye / Daimi Güvenlik Konseyi Üyesi",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "BRICS",
+        "role": "Kurucu Üye",
+        "joinedYear": "2006"
+      },
+      {
+        "name": "Şanghay İşbirliği Örgütü",
+        "role": "Kurucu Üye",
+        "joinedYear": "2001"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "Avrasya Ekonomik Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "2015"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Rusya Federasyonu, anayasal olarak üniter ve federal unsurları bir arada barındıran, güçlü yürütme erkine sahip bir başkanlık cumhuriyetidir. Devlet başkanı geniş yetkilerle donatılmış olup yürütmenin başıdır. Yasama erki iki kanatlı Federal Meclis tarafından yürütülür.",
+    "governmentForm": "Başkanlık Tipi Federal Cumhuriyet",
+    "currentStructure": "Yürütme erki Devlet Başkanı ve Başbakan liderliğindeki Hükümet tarafından yürütülür. Yasama erki alt kanat olan Devlet Duması ve üst kanat olan Federasyon Konseyi'nden oluşur. Yargı erkinin en üst organları Anayasa Mahkemesi ve Yüksek Mahkeme'dir.",
+    "timeline": [
+      {
+        "year": "1905",
+        "title": "Ekim Manifestosu ve Devlet Dumasının Kuruluşu",
+        "description": "Çar II. Nikolay, toplumsal baskılar sonucunda ilk yasama organı olan Devlet Dumasını kurdu.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1918",
+        "title": "İlk Sovyet Anayasası",
+        "description": "Rusya Sovyet Federatif Sosyalist Cumhuriyeti'nin ilk anayasası kabul edilerek işçi sınıfı diktatörlüğü hukuki zemine oturtuldu.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1936",
+        "title": "Stalin Anayasası",
+        "description": "Merkezi devlet yapısını ve Komünist Parti'nin yönetimdeki tekçi rolünü pekiştiren yeni anayasa yürürlüğe girdi.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1985",
+        "title": "Perestroika ve Glasnost Siyasi Reformları",
+        "description": "Mihail Gorbaçov, siyasi açıklık ve ekonomik yeniden yapılanma hamleleriyle sistemi reforme etmeye çalıştı.",
+        "era": "Sovyet Dönemi"
+      },
+      {
+        "year": "1993",
+        "title": "Anayasa Krizi ve Yeni Anayasanın Kabulü",
+        "description": "Devlet Başkanı ile Parlamento arasındaki çatışmanın ardından yapılan halk oylamasıyla güçlü başkanlık sistemini getiren mevcut anayasa kabul edildi.",
+        "era": "Post-Sovyet Dönemi"
+      },
+      {
+        "year": "2000",
+        "title": "Dikey İktidar Yapısının İnşası",
+        "description": "Devlet Başkanı Vladimir Putin, federal bölgeler oluşturarak merkezin eyaletler üzerindeki denetimini artırdı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "Başkanlık Görev Süresinin Uzatılması",
+        "description": "Anayasa değişikliği ile devlet başkanlığı görev süresi 4 yıldan 6 yıla çıkarıldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2020",
+        "title": "Geniş Kapsamlı Anayasa Reformu",
+        "description": "Referandumla kabul edilen değişiklikler, devlet kurumlarının yetki dağılımını yeniden düzenledi ve başkanlık dönem sınırlarını sıfırladı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Rusya, özellikle matematik, teorik fizik, roket teknolojileri, nükleer mühendislik ve malzeme bilimi alanlarında köklü bir akademik geleneğe sahiptir. SSCB döneminden devralınan güçlü bilimsel altyapı, günümüzde savunma sanayii, uzay araştırmaları ve yerli yazılım alanlarındaki projelerle sürdürülmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.96",
+        "unit": "%",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "340,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 82
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "26,500",
+        "unit": "Adet",
+        "scoreOutOf100": 64
+      },
+      {
+        "label": "Uzay Fırlatma Kapasitesi",
+        "value": "19",
+        "unit": "Adet/Yıl",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Nükleer Teknoloji İhracatı",
+        "value": "1",
+        "unit": "Sıralama",
+        "scoreOutOf100": 95
+      }
+    ],
+    "notableAchievements": [
+      "Dmitri Mendeleev tarafından Kimyasal Elementlerin Periyodik Tablosu'nun geliştirilmesi.",
+      "Sputnik 1 ile dünyanın ilk yapay uydusunun fırlatılması ve uzay çağının başlatılması.",
+      "VVER ve BN tipi hızlı nötron reaktörleri ile nükleer enerji teknolojilerinde öncülük.",
+      "Süper iletkenlik ve kuantum elektroniği alanında Nobel Ödüllü teorik fizik çalışmaları.",
+      "Kuzey Deniz Rotası için dünyanın tek nükleer buz kıran gemi filosunun geliştirilmesi."
+    ],
+    "institutions": [
+      {
+        "name": "Rusya Bilimler Akademisi (RAN)",
+        "type": "Arastirma Enstitusu",
+        "description": "1724'te kurulan, temel ve uygulamalı bilimler alanında ülkenin en prestijli çatı araştırma kurumu."
+      },
+      {
+        "name": "Lomonosov Moskova Devlet Üniversitesi",
+        "type": "Universite",
+        "description": "Doğa bilimleri, matematik ve insani bilimlerde küresel çapta tanınan Rusya'nın en köklü üniversitesi."
+      },
+      {
+        "name": "Rosatom Devlet Nükleer Enerji Şirketi",
+        "type": "Arastirma Enstitusu",
+        "description": "Nükleer enerji, reaktör tasarımı ve kuantum teknolojilerinde dünya lideri olan devlet kuruluşu."
+      },
+      {
+        "name": "Roscosmos Devlet Uzay Faaliyetleri Şirketi",
+        "type": "Uzay Ajansi",
+        "description": "Rusya'nın sivil uzay programını, roket üretimini ve Uluslararası Uzay İstasyonu modüllerini yöneten ajans."
+      },
+      {
+        "name": "Kurchatov Enstitüsü",
+        "type": "Arastirma Enstitusu",
+        "description": "Nükleer fizik, plazma fiziği ve senkrotron radyasyonu alanında öncü araştırma merkezi."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:09:28.930Z"
+}

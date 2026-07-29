@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "code": "us",
+    "iso3": "USA",
+    "name_tr": "Amerika Birleşik Devletleri",
+    "name_en": "United States",
+    "region": "Kuzey Amerika",
+    "capital_tr": "Washington, D.C.",
+    "flag_emoji": "🇺🇸"
+  },
+  "overview": "Amerika Birleşik Devletleri, Kuzey Amerika kıtasında yer alan, elli eyalet ve bir federal bölgeden oluşan anayasal federal bir cumhuriyettir. Doğu ve batıda Atlas ile Büyük Okyanus, kuzeyde Kanada, güneyde ise Meksika ile sınır komşusudur. Dünyanın en büyük nominal ekonomisine, gelişmiş teknolojik altyapısına ve küresel ölçekte belirleyici askeri ile siyasi nüfusa sahiptir. Zengin doğal kaynakları, jeopolitik konumu ve kültürel çeşitliliği ile modern uluslararası sistemin merkezinde yer almaktadır.",
+  "history": {
+    "summary": "Amerika Birleşik Devletleri tarihi, Avrupalıların kıtayı keşfinden çok önce yerli halkların varlığıyla başlar; 17. yüzyıldan itibaren Britanya sömürgeleştirmesiyle şekillenmiş ve 1776'da bağımsızlık ilanıyla modern devlete dönüşmüştür. 19. yüzyılda batıya doğru genişleyen ve sanayileşen ülke, İç Savaş ile kölelik krizini aşmış, 20. yüzyılda ise iki dünya savaşından galip çıkarak küresel bir süper güç haline gelmiştir.",
+    "timeline": [
+      {
+        "year": "1776",
+        "title": "Bağımsızlık Bildirisi",
+        "description": "On Üç Koloni, Büyük Britanya Krallığı'ndan bağımsızlığını ilan ederek Amerika Birleşik Devletleri'ni kurdu. Bildiri, bireysel haklar ve halk egemenliği ilkelerini küresel düzeyde tescil etti.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1787",
+        "title": "ABD Anayasası'nın Kabulü",
+        "description": "Philadelphia Anayasa Kongresi'nde kabul edilen metin, dünyadaki en eski yazılı federal anayasa olarak kuvvetler ayrılığı ilkesine dayalı siyasi yapıyı oluşturdu.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1803",
+        "title": "Louisiana Bölgesinin Satın Alınması",
+        "description": "Fransa'dan satın alınan geniş topraklar sayesinde ülke yüzölçümü yaklaşık iki katına çıktı. Bu hamle, batıya doğru kitlesel yayılma sürecini başlattı.",
+        "era": "Genişleme Dönemi"
+      },
+      {
+        "year": "1861-1865",
+        "title": "Amerikan İç Savaşı",
+        "description": "Kuzey eyaletleri ile köleliği savunan Güney eyaletleri (Konfederasyon) arasında çıkan kanlı iç savaş, Birlik'in zaferiyle sonuçlandı. Kölelik resmen kaldırıldı ve federal otorite pekiştirildi.",
+        "era": "İç Savaş ve Yeniden Yapılanma"
+      },
+      {
+        "year": "1898",
+        "title": "İspanyol-Amerikan Savaşı",
+        "description": "Savaş sonucunda Filipinler, Porto Riko ve Guam ABD kontrolüne geçti. Ülke, doğrudan deniz aşırı kolonilere sahip bir küresel aktör haline geldi.",
+        "era": "Emperyal Genişleme Dönemi"
+      },
+      {
+        "year": "1917",
+        "title": "I. Dünya Savaşı'na Giriş",
+        "description": "Müttefik Devletler safında savaşa giren ABD, Avrupa'daki askeri dengeleri değiştirdi ve savaş sonrasında President Wilson'ın ilkeleriyle yeni diplomasi anlayışını tanıttı.",
+        "era": "Dünya Savaşları Dönemi"
+      },
+      {
+        "year": "1929",
+        "title": "Büyük Buhran",
+        "description": "Wall Street borsa çöküşüyle başlayan ekonomik kriz, tüm dünyayı derinden etkiledi. Devletin ekonomideki rolünün New Deal politikalarıyla yeniden tanımlanmasına yol açtı.",
+        "era": "İki Savaş Arası Dönem"
+      },
+      {
+        "year": "1941-1945",
+        "title": "II. Dünya Savaşı ve Atom Çağı",
+        "description": "Pearl Harbor baskını sonrası savaşa katılan ABD, Pasifik ve Avrupa cephelerinde müttefik zaferinde belirleyici rol oynadı. Nükleer silah kullanan tek ülke olarak nükleer çağı başlattı.",
+        "era": "Dünya Savaşları Dönemi"
+      },
+      {
+        "year": "1947-1991",
+        "title": "Soğuk Savaş Dönemi",
+        "description": "Sovyetler Birliği ile ideolojik, askeri ve teknolojik rekabete girildi. İki kutuplu dünya düzeninde NATO kurularak çevreleme politikası uygulandı.",
+        "era": "Soğuk Savaş"
+      },
+      {
+        "year": "1969",
+        "title": "Apollo 11 ve Ay'a İniş",
+        "description": "Uzay Yarışı'nın zirve noktasında Neil Armstrong ve Buzz Aldrin Ay'a ayak basan ilk insanlar oldu. ABD'nin teknolojik üstünlüğü küresel tescil kazandı.",
+        "era": "Soğuk Savaş"
+      },
+      {
+        "year": "2001",
+        "title": "11 Eylül Saldırıları",
+        "description": "El-Kaide terör örgütü tarafından düzenlenen terör saldırıları sonrası 'Terörle Küresel Mücadele' konsepti benimsendi; Afganistan ve Irak müdahaleleri gerçekleştirildi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "Küresel Finans Krizi",
+        "description": "Mortgage piyasasından başlayan kriz, Büyük Buhran'dan bu yana görülen en ağır ekonomik daralmaya yol açtı ve küresel finans düzeninde kapsamlı reformları tetikledi.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Amerika Birleşik Devletleri ekonomisi; yüksek verimliliği, yenilikçi teknoloji sektörü, derin finansal piyasaları ve tüketim gücü ile küresel ekonomik sistemin ana motorudur. Serbest piyasa modeli ile idare edilen ekonomide özel sektörün baskın rolü göze çarpar. Ülke, Dolar'ın küresel rezerv para birimi olmasının sunduğu finansal avantajları kullanmaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "28.7 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "85,200",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.4",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Amerikan Doları (USD)",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "4.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "2.05 Trilyon",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "3.5",
+        "unit": "%",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Bilgi Teknolojileri ve Yazılım",
+      "Finansal ve Sermaye Piyasası Hizmetleri",
+      "Havacılık ve Savunma Sanayii",
+      "Biyoteknoloji ve İlaç",
+      "Otomotiv ve Taşımacılık Ekipmanları",
+      "Enerji ve Petrokimya",
+      "Eğlence ve Dijital Medya"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.9
+          },
+          {
+            "year": "2019",
+            "value": 2.3
+          },
+          {
+            "year": "2020",
+            "value": -2.8
+          },
+          {
+            "year": "2021",
+            "value": 5.9
+          },
+          {
+            "year": "2022",
+            "value": 1.9
+          },
+          {
+            "year": "2023",
+            "value": 2.5
+          },
+          {
+            "year": "2024",
+            "value": 2.7
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1791",
+        "title": "Hamilton Finansal Sistemi",
+        "description": "İlk Hazine Bakanı Alexander Hamilton, borçların konsolide edilmesini ve İlk ABD Bankası'nın kurulmasını sağlayarak ulusal finans yapısının temelini attı.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1913",
+        "title": "Federal Rezerve Sistemi'nin Kurulması",
+        "description": "ABD Merkez Bankası (Fed) kurularak para politikasının merkezi bir otorite tarafından yönetilmesi sağlandı ve bankacılık sistemi denetim altına alındı.",
+        "era": "Sanayileşme Dönemi"
+      },
+      {
+        "year": "1933",
+        "title": "New Deal (Yeni Düzen) Reformları",
+        "description": "President Franklin D. Roosevelt, Büyük Buhran'ın etkilerini silmek için sosyal güvenlik, kamu yatırımları ve finansal denetim paketlerini yürürlüğe koydu.",
+        "era": "Kriz Dönemi"
+      },
+      {
+        "year": "1944",
+        "title": "Bretton Woods Anlaşması",
+        "description": "Uluslararası para sisteminin temelleri atıldı; ABD Doları altına endekslenerek küresel ana rezerv para birimi niteliği kazandı.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1971",
+        "title": "Nixon Şoku ve Altın Standardının Kaldırılması",
+        "description": "Doların altına çevrilebilirliğine son verilerek dalgalı kur rejimine geçildi ve modern itibari para (fiat money) dönemi resmen başladı.",
+        "era": "Soğuk Savaş Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "ABD dış politikası, küresel ittifaklar ağını korumak, serbest ticareti desteklemek, demokrasi ve insan haklarını yaymak ile ulusal güvenlik çıkarlarını savunmak ilkesine dayanır. Soğuk Savaş sonrası dönemde çok kutuplu hale gelen dünyada kurallara dayalı uluslararası düzenin sürdürülmesini hedefler.",
+    "alliances": [
+      {
+        "partner": "NATO",
+        "relationType": "Askeri Müttefiklik",
+        "description": "ABD, Kuzey Atlantik Antlaşması Örgütü'nün en büyük askeri ve finansal katkı sağlayan kurucu üyesidir. Kollektif savunma ilkesi çerçevesinde Transatlantik güvenliğin merkezindedir.",
+        "since": "1949"
+      },
+      {
+        "partner": "Birleşik Krallık",
+        "relationType": "Özel İlişki (Special Relationship)",
+        "description": "Tarihsel, dilsel ve stratejik bağlara dayanan derin askeri, istihbarat ( Beş Göz ) ve diplomatik iş birliğidir.",
+        "since": "1945"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "İkili Güvenlik İttifakı",
+        "description": "İkinci Dünya Savaşı sonrası kurulan ittifak, Hint-Pasifik bölgesindeki bölgesel istikrarın ve deniz güvenliğinin temel taşını oluşturur.",
+        "since": "1951"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Stratejik ve Ticari Ortaklık",
+        "description": "Dünyanın en büyük iki ekonomik gücü arasındaki kapsamlı ticari, hukuki ve güvenlik ortaklığıdır.",
+        "since": "1957"
+      },
+      {
+        "partner": "Avustralya (AUKUS)",
+        "relationType": "Güvenlik ve Teknoloji İttifakı",
+        "description": "Avustralya ve Birleşik Krallık ile Hint-Pasifik bölgesinde nükleer denizaltı ve ileri teknoloji paylaşımını içeren üçlü güvenlik paktıdır.",
+        "since": "2021"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Kuzey Atlantik Antlaşması",
+        "year": "1949",
+        "description": "Kuzey Amerika ve Avrupa ülkeleri arasında ortak savunma ittifakı (NATO) kuran temel hukuki metindir."
+      },
+      {
+        "name": "USMCA (ABD-Meksika-Kanada Anlaşması)",
+        "year": "2020",
+        "description": "NAFTA'nın yerini alan ve Kuzey Amerika kıtasındaki serbest ticareti modern işgücü ve dijital ticaret kurallarıyla yeniden düzenleyen antlaşmadır."
+      },
+      {
+        "name": "San Francisco Barış Antlaşması",
+        "year": "1951",
+        "description": "İkinci Dünya Savaşı sonrası Japonya ile müttefikler arasında barışı tesis eden ve Pasifik bölgesindeki modern güvenlik mimarisini başlatan antlaşmadır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Anlaşmazlık",
+        "description": "Küresel ekonomik liderlik, yüksek teknoloji alanındaki rekabet, Tayvan Boğazı'ndaki gerilimler ve Güney Çin Denizi'ndeki seyrüsefer serbestisi konularında stratejik rekabet yaşanmaktadır.",
+        "since": "2018"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Anlaşmazlık",
+        "description": "Doğu Avrupa'daki jeopolitik nüfuz alanları, siber güvenlik iddiaları ve nükleer silahların kontrolü antlaşmalarının askıya alınması konularında ciddi diplomatik kırılmalar mevcuttur.",
+        "since": "2014"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye / Daimi Güvenlik Konseyi Üyesi",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "NATO",
+        "role": "Kurucu Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "G7",
+        "role": "Kurucu Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "OECD",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "ABD siyasi sistemi, 1787 Anayasası ile şekillenen federal, başkanlık tipinde anayasal bir cumhuriyettir. Katı bir kuvvetler ayrılığı mekanizması (denge ve denetleme) üzerine kurulmuştur. Siyasi hayata tarihsel olarak Demokrat Parti ile Cumhuriyetçi Parti arasındaki iki partili rekabet hakimdir.",
+    "governmentForm": "Anayasal Federal Başkanlık Cumhuriyeti",
+    "currentStructure": "Yürütme erki halk tarafından dolaylı olarak Seçiciler Kurulu kanalıyla seçilen Başkana aittir. Yasama erki Senato ve Temsilciler Meclisi'nden oluşan çift kamaralı ABD Kongresi tarafından yürütülür. Yargı erkinin başında ise üyeleri ömür boyu atanan ABD Yüksek Mahkemesi (Supreme Court) yer alır.",
+    "timeline": [
+      {
+        "year": "1787",
+        "title": "Anayasal Sistemin Kurulması",
+        "description": "Philadelphia'da federal devleti kuran anayasa metni kaleme alındı ve eyaletlerin onayına sunuldu.",
+        "era": "Kuruluş"
+      },
+      {
+        "year": "1791",
+        "title": "Haklar Bildirgesi'nin (Bill of Rights) Onayı",
+        "description": "Anayasaya eklenen ilk 10 madde ile ifade, din, basın özgürlüğü ve adil yargılanma gibi temel bireysel haklar güvenceye alındı.",
+        "era": "Kuruluş"
+      },
+      {
+        "year": "1863",
+        "title": "Özgürlük Bildirisi",
+        "description": "President Abraham Lincoln, Konfederasyon kontrolündeki eyaletlerde bulunan kölelerin özgür bırakıldığını beyan etti.",
+        "era": "İç Savaş"
+      },
+      {
+        "year": "1920",
+        "title": "Kadınlara Oy Hakkı (19. Anayasa Değişikliği)",
+        "description": "Anayasa değişikliğiyle cinsiyete dayalı oy hakkı kısıtlamaları kaldırıldı ve kadınlar seçme hakkına kavuştu.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "1964",
+        "title": "Sivil Haklar Yasası",
+        "description": "Irk, renk, din, cinsiyet veya ulusal kökene dayalı ayrımcılık kamusal alanlarda ve iş gücünde resmen yasaklandı.",
+        "era": "Haklar Mücadelesi"
+      },
+      {
+        "year": "1974",
+        "title": "Watergate Skandalı ve Nixon'ın İstifası",
+        "description": "Başkanlık yetkilerinin kötüye kullanıldığının ortaya çıkması üzerine Richard Nixon, görevinden istifa eden ilk ABD Başkanı oldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2000",
+        "title": "Bush-Gore Yüksek Mahkeme Kararı",
+        "description": "Başkanlık seçimlerindeki oy sayım anlaşmazlığı Yüksek Mahkeme kararıyla sonuçlandırıldı; yargının siyasal süreçteki rolü tartışıldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "İlk Siyahi Başkanın Seçilmesi",
+        "description": "Barack Obama, ABD tarihinin 44. başkanı olarak seçildi ve toplumsal dönüşüm açısından sembolik bir dönüm noktası oluşturdu.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "ABD, bilimsel araştırma bütçesi, elit araştırma üniversiteleri, ulusal laboratuvar ağı ve devasa özel sektör Ar-Ge ekosistemi sayesinde küresel bilim ve teknolojinin ana merkezidir. Temel bilimlerden yapay zekaya, biyotıp alanından uzay keşiflerine kadar pek çok alanda dünya standartlarını belirlemektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "3.5",
+        "unit": "%",
+        "scoreOutOf100": 94
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "600,000",
+        "unit": "Adet",
+        "scoreOutOf100": 96
+      },
+      {
+        "label": "Nobel Ödüllü Bilim İnsanı Sayısı",
+        "value": "400+",
+        "unit": "Kişi",
+        "scoreOutOf100": 99
+      },
+      {
+        "label": "Yıllık Uzay Ajansı (NASA) Bütçesi",
+        "value": "25.4 Milyar",
+        "unit": "USD",
+        "scoreOutOf100": 97
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "1,550,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 91
+      }
+    ],
+    "notableAchievements": [
+      "Apollo Programı kapsamı altında Ay'a başarılı insanlı inişlerin gerçekleştirilmesi.",
+      "İnternetin prototipi kabul edilen ARPANET'in geliştirilmesi ve küresel ağ teknolojilerinin kurulması.",
+      "İnsan Genomu Projesi'nin yürütülerek insan DNA haritasının çıkarılması.",
+      "James Webb Uzay Teleskobu projesiyle erken evren gözlemlerinde yeni çığır açılması.",
+      "Yapay zeka, üretken dil modelleri ve süper bilgisayar mimarilerinde küresel öncülük."
+    ],
+    "institutions": [
+      {
+        "name": "NASA (Ulusal Havacılık ve Uzay Dairesi)",
+        "type": "Uzay Ajansi",
+        "description": "Sivil uzay programı, havacılık araştırmaları ve uzay keşifleri alanında dünyadaki lider kamu kurumudur."
+      },
+      {
+        "name": "MIT (Massachusetts Teknoloji Enstitüsü)",
+        "type": "Universite",
+        "description": "Mühendislik, yapay zeka, fizik ve fen bilimleri alanlarında dünya çapında en prestijli araştırma üniversitelerindendir."
+      },
+      {
+        "name": "NIH (Ulusal Sağlık Enstitüleri)",
+        "type": "Arastirma Enstitusu",
+        "description": "Biyotıp ve tıbbi araştırma alanında dünyanın en büyük kamu fonlayıcısı ve araştırma merkezidir."
+      },
+      {
+        "name": "Harvard Üniversitesi",
+        "type": "Universite",
+        "description": "Geniş araştırma kütüphaneleri, yüksek bütçeli vakıf fonları ve tıp/sosyal bilimler alanındaki makaleleriyle küresel akademik otoritedir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:46:11.227Z"
+}

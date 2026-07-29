@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "code": "gb",
+    "iso3": "GBR",
+    "name_tr": "Birleşik Krallık",
+    "name_en": "United Kingdom",
+    "region": "Avrupa",
+    "capital_tr": "Londra",
+    "flag_emoji": "🇬🇧"
+  },
+  "overview": "Birleşik Krallık, Batı Avrupa kıyılarında Büyük Britanya adası, İrlanda adasının kuzeydoğu bölümü ve çevresindeki pek çok küçük adayı kapsayan üniter bir ada devletidir. İngiltere, İskoçya, Galler ve Kuzey İrlanda olmak üzere dört kurucu ülkeden meydana gelen bu yapı, küresel düzeyde siyasi, ekonomik, kültürel ve bilimsel nüfuzunu sürdürmektedir. Sanayi Devrimi'nin doğduğu topraklar olan ülke, tarih boyunca kurduğu küresel imparatorluk mirasıyla modern dünyanın şekillenmesinde kilit bir rol oynamıştır. Günümüzde anayasal monarşi ve parlamenter demokrasi ile yönetilmekte olup, Birleşmiş Milletler Güvenlik Konşeyi daimi üyeliği, NATO, G7 ve Milletler Topluluğu kurucu liderliği gibi stratejik uluslararası konumlara sahiptir.",
+  "history": {
+    "summary": "Birleşik Krallık tarihi; antik Kelt yerleşimleri, Roma işgali, Anglo-Sakson ve Viking dalgalarıyla şekillenmiş, 1066 Norman İstilası ile merkezi bir krallık yapısına kavuşmuştur. Orta Çağ'da parlamenter yapının nüvelerini oluşturan Magna Carta ile feodal yetkiler sınırlandırılmış, Yeni Çağ'da ise deniz aşırı keşiflerle küresel bir deniz gücüne dönüşmüştür. 18. ve 19. yüzyıllarda gerçekleşen Sanayi Devrimi ve Britanya İmparatorluğu'nun genişlemesi ülkeyi dünyanın en büyük ekonomik ve askeri gücü haline getirmiştir. 20. yüzyıldaki iki dünya savaşı sonrasında imparatorluk yapısı yerini dekolonizasyon sürecine ve modern Milletler Topluluğu'na bırakmış, günümüzde ise devredilmiş yetkilere sahip bölgesel parlamentolar ve küresel diplomasi ağıyla varlığını sürdürmektedir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 55 - M.S. 410",
+        "title": "Roma Britanyası Dönemi",
+        "description": "Jül Sezar'ın Seferleri ile başlayan ve Claudius döneminde kalıcı hale gelen Roma hakimiyeti, adada kentleşme, yol ağları ve hukuki altyapının kurulmasını sağlamıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1066",
+        "title": "Norman İstilası ve Hastings Muharebesi",
+        "description": "Fatih William'ın Anglo-Sakson Kralı Harold'ı mağlup etmesiyle İngiltere'de Norman hanedanı dönemi başlamış ve merkezi feodal yönetim sistemi kurulmuştur.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1215",
+        "title": "Magna Carta Libertatum'un İmzalanması",
+        "description": "Kral Yurtsuz John'un soyluların baskısıyla kabul ettiği belge, hükümdarın yetkilerini kanunla sınırlandırarak anayasal monarşinin ilk temel taşı olmuştur.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1534",
+        "title": "İngiliz Reformu ve Anglikan Kilisesi'nin Kuruluşu",
+        "description": "Kral VIII. Henry'nin Roma Katolik Kilisesi ile bağlarını koparmasıyla İngiltere Kilisesi kurulmuş, dini ve siyasi idare krallık elinde toplanmıştır.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1688",
+        "title": "Muhteşem Devrim (Glorious Revolution)",
+        "description": "II. James'in tahttan indirilmesi ve Haklar Bildirgesi'nin (Bill of Rights) ilanı ile parlamentonun krallık üzerindeki üstünlüğü kesinleşmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1707",
+        "title": "Birlik Yasası (Act of Union)",
+        "description": "İngiltere ve İskoçya krallıklarının parlamentoları birleşerek Büyük Britanya Krallığı'nı resmen oluşturmuştur.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1801",
+        "title": "İrlanda ile Birleşme ve Birleşik Krallık",
+        "description": "1800 Birlik Yasaları'nın yürürlüğe girmesiyle İrlanda Krallığı da birliğe katılmış ve Büyük Britanya ve İrlanda Birleşik Krallığı kurulmuştur.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1837-1901",
+        "title": "Viktorya Dönemi ve Sanayi Devrimi",
+        "description": "Kraliçe Viktorya hükümdarlığında Britanya İmparatorluğu küresel ölçekte en geniş sınırlarına ulaşmış, sanayileşme ve demiryolu hamleleri tavan yapmıştır.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1914-1945",
+        "title": "Dünya Savaşları ve İmparatorluğun Dönüşümü",
+        "description": "İki dünya savaşında da müttefik blokunun liderlerinden olan ülke, büyük insan ve ekonomik kayıplar yaşayarak imparatorluktan dekolonizasyon sürecine geçmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1998",
+        "title": "Hayırlı Cuma Anlaşması (Good Friday Agreement)",
+        "description": "Kuzey İrlanda'daki onlarca yıl süren siyasi şiddet olaylarını (The Troubles) sona erdiren ve bölgeye özerk yönetim yetkisi tanıyan barış antlaşması imzalanmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Birleşik Krallık ekonomisi, yüksek derecede gelişmiş, küresel entegrasyonu güçlü ve hizmet odaklı bir pazar ekonomisidir. Londra, New York ile birlikte dünyanın en önemli iki uluslararası finans merkezinden biri konumundadır. Hizmet sektörü gayrisafi yurtiçi hasılanın yaklaşık %80'ini oluştururken; havacılık, ilaç, otomotiv ve savunma sanayii yüksek katma değerli imalat sektörlerini temsil eder. Post-Brexit döneminde yeni ikili ticaret anlaşmaları geliştirilmekte, yeşil enerji dönüşümü ve dijital teknoloji yatırımlarına ağırlık verilmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "3.63 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "52,400",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Enflasyon Oranı",
+        "value": "2.3",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "4.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "İngiliz Sterlini (GBP)",
+        "unit": "GBP",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Toplam İhracat",
+        "value": "865 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Politika Faiz Oranı",
+        "value": "4.50",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Finansal ve Sigortacılık Hizmetleri",
+      "Havacılık, Uzay ve Savunma Sanayii",
+      "İlaç ve Biyoteknoloji",
+      "Otomotiv ve Hassas Mühendislik",
+      "Yaratıcı Endüstriler ve Medya Production",
+      "Bilgi ve İletişim Teknolojileri",
+      "Yenilenebilir Enerji ve Deniz Üstü Rüzgar"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı Trendi",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.7
+          },
+          {
+            "year": "2019",
+            "value": 1.6
+          },
+          {
+            "year": "2020",
+            "value": -10.4
+          },
+          {
+            "year": "2021",
+            "value": 8.7
+          },
+          {
+            "year": "2022",
+            "value": 4.3
+          },
+          {
+            "year": "2023",
+            "value": 0.3
+          },
+          {
+            "year": "2024",
+            "value": 1.1
+          },
+          {
+            "year": "2025",
+            "value": 1.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1760-1840",
+        "title": "Sanayi Devrimi",
+        "description": "Buhar gücünün üretime uygulanması ve dokuma tesisleri ile dünya imalat sanayiinin merkezi haline gelindi.",
+        "era": "Sanayileşme Dönemi"
+      },
+      {
+        "year": "1846",
+        "title": "Mısır Yasaları'nın Kaldırılması",
+        "description": "İthal tahıl üzerindeki korumacı gümrük vergilerinin kaldırılmasıyla küresel serbest ticaret doktrinine geçiş sağlandı.",
+        "era": "Viktorya Ekonomisi"
+      },
+      {
+        "year": "1948",
+        "title": "Refah Devleti ve NHS'in Kuruluşu",
+        "description": "Savaş sonrası Ulusal Sağlık Sistemi (NHS) kuruldu, temel altyapı ve sanayi kollarında kamulaştırma hamleleri yapıldı.",
+        "era": "Savaş Sonrası Yeniden Yapılanma"
+      },
+      {
+        "year": "1979-1990",
+        "title": "Thatcherism ve Özelleştirme Dalgası",
+        "description": "Kamusal işletmeler özelleştirildi, sendikal yetkiler kısıtlandı ve finans piyasalarında 'Big Bang' deregülasyonu gerçekleştirildi.",
+        "era": "Serbest Piyasa Reformları"
+      },
+      {
+        "year": "2020",
+        "title": "Brexit ve AB Ortak Pazarından Ayrılış",
+        "description": "Avrupa Birliği tek pazarından ayrılınarak bağımsız gümrük ve ticaret politikası uygulamasına dönüldü.",
+        "era": "Modern Ticaret Rejimi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Birleşik Krallık dış politikası; transatlantik ittifak, kurallara dayalı uluslararası düzenin savunulması ve küresel serbest ticaret ilkelerine dayanmaktadır. Amerika Birleşik Devletleri ile tarihsel ve askeri 'Özel İlişki'ye (Special Relationship) sahip olan ülke, NATO'nun Avrupa kanadındaki ana taşıyıcı gücüdür. Avrupa Birliği'nden ayrılmasına rağmen kıta Avrupası ile güvenlik ve ticaret işbirliğini sürdürmekte, Milletler Topluluğu vasıtasıyla 56 üye ülke üzerinde diplomatik ve sosyo-kültürel bağlarını korumaktadır.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik ve Askeri Müttefik",
+        "description": "İstihbarat paylaşımı (Five Eyes), nükleer teknoloji entegrasyonu ve derin savunma sanayii işbirliğini içeren özel ilişki.",
+        "since": "1941"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Kurucu Müttefik",
+        "description": "İttifakın komuta kademesinde ve Kuzey Atlantik güvenliğinde kilit rol oynayan en büyük Avrupa savunma harcamacısı.",
+        "since": "1949"
+      },
+      {
+        "partner": "Fransa",
+        "relationType": "İkili Savunma Ortağı",
+        "description": "Lancaster House Antlaşmaları çerçevesinde nükleer güvenlik, ortak askeri tatbikatlar ve kriz müdahale kapasitesi gelişimi.",
+        "since": "1904"
+      },
+      {
+        "partner": "Avustralya ve Yeni Zelanda",
+        "relationType": "Güvenlik ve Ticaret Ortağı",
+        "description": "AUKUS paktı ve ikili serbest ticaret anlaşmalarıyla Hint-Pasifik bölgesinde güçlendirilen ittifak yapısı.",
+        "since": "1931"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Kuzey Atlantik Antlaşması",
+        "year": "1949",
+        "description": "Ortak savunma ilkesine dayanan NATO askeri ittifakının kurucu metni."
+      },
+      {
+        "name": "Birleşik Krallık - AB Ticaret ve İşbirliği Anlaşması (TCA)",
+        "year": "2020",
+        "description": "Brexit sonrası AB ile sıfır gümrük vergisi ve sıfır kota esasına dayalı mal ticaretini düzenleyen anlaşma."
+      },
+      {
+        "name": "AUKUS Güvenlik Paktı",
+        "year": "2021",
+        "description": "ABD ve Avustralya ile nükleer tahrikli denizaltı teknolojisi ve ileri savunma sistemleri paylaşım anlaşması."
+      },
+      {
+        "name": "CPTPP Katılım Anlaşması",
+        "year": "2023",
+        "description": "Pasifik Ötesi Ortaklık için Kapsamlı ve İlerici Anlaşma'ya Avrupa'dan katılan ilk ülke olma statüsü."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Arjantin",
+        "relationType": "Anlasmazlik",
+        "description": "Falkland (Malvinas) Adaları üzerindeki egemenlik talepleri ve deniz alanları sınırlandırılması hususundaki anlaşmazlık.",
+        "since": "1833"
+      },
+      {
+        "partner": "İspanya",
+        "relationType": "Anlasmazlik",
+        "description": "Cebelitarık'ın egemenlik statüsü ve Post-Brexit dönemindeki kara sınırı/gümrük rejimine ilişkin diplomatik müzakereler.",
+        "since": "1713"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Güvenlik Konseyi Daimi Üyesi",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "NATO",
+        "role": "Kurucu Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "G7",
+        "role": "Kurucu Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "Milletler Topluluğu",
+        "role": "Kurucu Üye ve Kurumsal Lider",
+        "joinedYear": "1931"
+      },
+      {
+        "name": "OECD",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Birleşik Krallık, yazılı tek bir anayasal metne sahip olmayan; bunun yerine yasal düzenlemeler, içtihatlar, tarihi belgeler ve siyasi geleneklere dayanan köklü bir anayasal monarşidir. 'Westminster Modeli' olarak bilinen parlamenter sistem, dünya genelinde birçok demokratik ülkeye ilham kaynağı olmuştur. Siyasi güç halk tarafından seçilen Avam Kamarası'nda yoğunlaşmış olup, İskoçya, Galler ve Kuzey İrlanda'ya devredilmiş yetkiler çerçevesinde bölgesel parlamentolar aracılığıyla yönetilmektedir.",
+    "governmentForm": "Anayasal Monarşi Altında Yönetilen Üniter Parlamenter Demokrasi",
+    "currentStructure": "Devlet başkanı sembolik yetkileriyle Krallık Hükümdarıdır (Kral III. Charles). Yürütme erki, Avam Kamarası'nda çoğunluğu sağlayan partinin lideri olan Başbakan ve Bakanlar Kurulu tarafından kullanılır. Yasama, Avam Kamarası (seçilmiş) ve Lordlar Kamarası'ndan (atanmış/soylu) oluşan çift meclisli Parlamento'ya aittir. Yargı yetkisi bağımsız Birleşik Krallık Yüksek Mahkemesi yürütür.",
+    "timeline": [
+      {
+        "year": "1265",
+        "title": "De Montfort Parlamentosu",
+        "description": "Şehir ve kasaba temsilcilerinin ilk kez bir meclise davet edilmesiyle avam temsilinin temeli atılmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1642-1651",
+        "title": "İngiliz İç Savaşı ve Cumhuriyet Dönemi",
+        "description": "Kralcılar ile Parlamentocular arasındaki savaş sonrasında monarşi geçici olarak kaldırılmış ve Oliver Cromwell liderliğinde cumhuriyet rejimi uygulanmıştır.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1689",
+        "title": "Haklar Bildirgesi (Bill of Rights)",
+        "description": "Kralın parlamentonun onayı olmadan vergi toplamasını ve ordu beslemesini yasaklayan tarihi anayasal metin kabul edilmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1832",
+        "title": "Büyük Reform Yasası (Great Reform Act)",
+        "description": "Seçim sisteminde yapılan reformla oy hakkı genişletilmiş ve temsilde adaletsiz olan 'çürük kasabalar' sistemi lağvedilmiştir.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1911",
+        "title": "Parlamento Yasası (Parliament Act)",
+        "description": "Lordlar Kamarası'nın bütçe ve yasalar üzerindeki mutlak veto yetkisi kaldırılarak Avam Kamarası'nın üstünlüğü tescil edilmiştir.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1918 ve 1928",
+        "title": "Genel Oy Hakkının Tanınması",
+        "description": "1918'de 30 yaş üstü kadınlara, 1928'de ise 21 yaş üstü tüm kadın ve erkeklere eşit oy hakkı getirilmiştir.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1997-1999",
+        "title": "Yetki Devri (Devolution) Reformları",
+        "description": "Referandumlar sonucunda İskoç Parlamentosu ile Galler ve Kuzey İrlanda ulusal meclisleri kurularak yerel yönetim güçlendirilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2009",
+        "title": "Birleşik Krallık Yüksek Mahkemesi'nin Kuruluşu",
+        "description": "Lordlar Kamarası'nın adli yetkileri tamamen ayrıştırılarak bağımsız en yüksek yargı organı faaliyete geçmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2016",
+        "title": "Avrupa Birliği Üyelik Referandumu",
+        "description": "Halkın %51.9'unun kararıyla AB'den ayrılma yönünde oy kullanılmış ve süreç Ocak 2020'de resmen tamamlanmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Birleşik Krallık, bilimsel araştırmalar ve teknolojik inovasyon konusunda dünyanın en köklü ve başarılı geleneğine sahip ülkelerindendir. Isaac Newton, Charles Darwin, Michael Faraday ve Stephen Hawking gibi bilim tarihine yön veren şahsiyetlerin yetiştiği ülke; Nobel Ödülleri sayısında dünyada ikinci sırada yer almaktadır. Evrensel düzeyde kabul gören Oxford ve Cambridge gibi yükseköğretim kurumları, yaşam bilimleri, yapay zeka, kuantum bilişimi ve yenilenebilir enerji alanındaki araştırmalara liderlik etmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "2.9",
+        "unit": "%",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "4",
+        "unit": "Sıra",
+        "scoreOutOf100": 93
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "315,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 85
+      },
+      {
+        "label": "Nobel Ödüllü Bilim İnsanı Sayısı",
+        "value": "138",
+        "unit": "Kişi",
+        "scoreOutOf100": 96
+      },
+      {
+        "label": "Yıllık Uluslararası Patent Başvurusu",
+        "value": "5,750",
+        "unit": "Adet",
+        "scoreOutOf100": 78
+      }
+    ],
+    "notableAchievements": [
+      "Evrensel Çekim Yasası ve Klasik Mekaniğin Kurulması (Isaac Newton)",
+      "Evrim Teorisi ve Doğal Seçilim İlkesinin Keşfi (Charles Darwin)",
+      "Penisilin ve Antibiyotik Tedavisinin Bulunması (Alexander Fleming)",
+      "DNA'nın İkili Sarmal Yapısının Aydınlatılması (Crick, Watson ve Franklin)",
+      "World Wide Web (WWW) Ağ Protokollerinin İcadı (Tim Berners-Lee)",
+      "Koyun Dolly ile İlk Memeli Klonlama Başarısı (Roslin Enstitüsü)"
+    ],
+    "institutions": [
+      {
+        "name": "University of Oxford",
+        "type": "Universite",
+        "description": "İngilizce konuşulan dünyanın en eski üniversitesi olup tıp, aşı geliştirme ve sosyal bilimlerde küresel araştırma lideridir."
+      },
+      {
+        "name": "University of Cambridge",
+        "type": "Universite",
+        "description": "120'den fazla Nobel Ödülü ile bilim, matematik ve mühendislik keşiflerinin merkezinde yer alan saygın kurum."
+      },
+      {
+        "name": "Royal Society (Kraliyet Derneği)",
+        "type": "Arastirma Enstitusu",
+        "description": "1660 yılında kurulan, varlığını kesintisiz sürdüren dünyanın en eski bağımsız bilim akademisi."
+      },
+      {
+        "name": "Imperial College London",
+        "type": "Universite",
+        "description": "Yalnızca bilim, mühendislik, tıp ve iş yönetimine odaklanmış dünya çapında bir araştırma üniversitesi."
+      },
+      {
+        "name": "The Francis Crick Institute",
+        "type": "Arastirma Enstitusu",
+        "description": "Avrupa'nın tek çatı altındaki en büyük biyomedikal araştırma ve kanser incelemeleri merkezi."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:08:03.848Z"
+}

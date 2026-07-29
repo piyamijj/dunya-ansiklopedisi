@@ -1,0 +1,393 @@
+{
+  "meta": {
+    "code": "es",
+    "iso3": "ESP",
+    "name_tr": "İspanya",
+    "name_en": "Spain",
+    "region": "Avrupa",
+    "capital_tr": "Madrid",
+    "flag_emoji": "🇪🇸"
+  },
+  "overview": "İspanya, Güney Avrupa'da İber Yarımadası'nda yer alan, Akdeniz ve Atlas Okyanusu'na kıyısı bulunan stratejik ve tarihî öneme sahip bir Avrupa ülkesidir. Başkenti Madrid olan ülke, güneyde Kuzey Afrika ile doğal bir köprü kurarken batıda Portekiz, kuzeydoğuda ise Fransa ve Andorra ile komşudur. Anayasal monarşi ile yönetilen İspanya, köklü tarihi, zengin kültürel mirası, gelişmiş sanayi ve turizm altyapısı ile Avrupa Birliği'nin en büyük ekonomilerinden birini temsil etmektedir.",
+  "history": {
+    "summary": "İber Yarımadası, antik çağlardan itibaren Fenikeliler, Yunanlar ve Kartacalıların yerleşimine sahne olmuş, ardından Roma İmparatorluğu'nun egemenliğine girmiştir. Orta Çağ'da Vizigot yönetiminin ardından 711 yılında başlayan Müslüman (Endülüs) hakimiyeti, bölgede belirgin bir kültürel ve mimari iz bırakmıştır. 1492 yılında Reconquista'nın tamamlanması ve Yeni Dünya'nın keşfiyle İspanya küresel bir imparatorluk haline gelmiş, 20. yüzyılda ise iç savaş ve diktatörlük döneminin ardından parlamenter demokrasiye geçmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 206",
+        "title": "İberya'nın Roma Tarafından Fethi",
+        "description": "İkinci Pön Savaşı'nın ardından Romalılar İber Yarımadası'nda kontrolü ele geçirerek bölgeyi Hispania adıyla bir Roma vilayetine dönüştürdü.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "711",
+        "title": "Tarık bin Ziyad ve Endülüs Döneminin Başlangıcı",
+        "description": "Emevi kuvvetlerinin Cebelitarık Boğazı'nı geçmesiyle yarımadada yaklaşık sekiz asır sürecek İslam egemenliği ve kültürel etkileşim dönemi başladı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1492",
+        "title": "Granada'nın Düşüşü ve Amerika'nın Keşfi",
+        "description": "Katolik Krallar Isabel ve Fernando Granada'yı alarak Reconquista sürecini tamamladı; aynı yıl Kristof Kolomb'un seferiyle İspanyol İmparatorluğu'nun temelleri atıldı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1588",
+        "title": "Yenilmez Armada'nın Yenilgisi",
+        "description": "İspanyol Donanması'nın İngiltere karşısında aldığı hezimet, İspanya'nın denizlerdeki mutlak üstünlüğünün sarsılmasına ve küresel rekabetin kızışmasına yol açtı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1808-1814",
+        "title": "Yarımada Savaşı ve Napolyon İşgali",
+        "description": "Fransız işgaline karşı başlatılan bağımsızlık savaşı, İspanya'nın Amerika'daki sömürgelerinde bağımsızlık hareketlerinin tetiklenmesine neden oldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1898",
+        "title": "İspanya-Amerika Savaşı ve '98 Felaketi",
+        "description": "ABD ile yapılan savaş sonrasında Küba, Porto Riko ve Filipinler'in kaybedilmesiyle İspanyol deniz aşırı imparatorluğu resmen sona erdi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1936-1939",
+        "title": "İspanya İç Savaşı",
+        "description": "Cumhuriyetçiler ile General Francisco Franco liderliğindeki Milliyetçiler arasında yaşanan yıkıcı iç savaş, Franco'nun zaferi ve diktatörlüğünün kurulmasıyla sonuçlandı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1975",
+        "title": "Franco'nun Ölümü ve Demokrasiye Geçiş (Transición)",
+        "description": "Franco'nun ölümü üzerine Kral I. Juan Carlos'un önderliğinde ülkede parlamenter demokrasiye geçiş süreci başlatıldı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1986",
+        "title": "Avrupa Ekonomik Topluluğu'na Katılım",
+        "description": "İspanya'nın AET'ye (şimdiki Avrupa Birliği) tam üye olması, ülkenin ekonomik ve siyasi entegrasyonunda dönüm noktası oldu.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "İspanya, nominal GSYİH bakımından dünyanın ve Avrupa Birliği'nin en büyük ekonomilerinden biridir. Hizmet sektörü, özellikle turizm, finans ve ulaşım, gayrisafi yurt içi hasılanın en büyük payını oluşturmaktadır. İmalat sanayi, otomotiv imalatı, yenilenebilir enerji teknolojileri, altyapı mühendisliği ve tarım-gıda üretimi ülkenin küresel rekabet gücünün temel direkleridir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "1.65 Trilyon",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "34,800",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "11.6",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "425 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Turizm ve Otelcilik",
+      "Otomotiv Üretimi ve Yan Sanayi",
+      "Yenilenebilir Enerji (Rüzgar ve Güneş)",
+      "Tarım ve Gıda Sanayii",
+      "Finansal Hizmetler ve Bankacılık",
+      "İnşaat ve Altyapı Mühendisliği",
+      "Tekstil ve Moda"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.3
+          },
+          {
+            "year": "2019",
+            "value": 2
+          },
+          {
+            "year": "2020",
+            "value": -11.2
+          },
+          {
+            "year": "2021",
+            "value": 6.4
+          },
+          {
+            "year": "2022",
+            "value": 5.8
+          },
+          {
+            "year": "2023",
+            "value": 2.5
+          },
+          {
+            "year": "2024",
+            "value": 2.7
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1959",
+        "title": "İspanyol İstikrar Planı",
+        "description": "Otarşik ekonomik modelden vazgeçilerek dışa açık, piyasa odaklı ekonomik büyümeyi başlatan reform paketi kabul edildi.",
+        "era": "Franko Dönemi"
+      },
+      {
+        "year": "1986",
+        "title": "AET Üyeliği ve Pazara Entegrasyon",
+        "description": "Avrupa pazarına tam erişim sağlanmasıyla yabancı yatırımlar hız kazanmış ve altyapı modernizasyonu gerçekleşmiştir.",
+        "era": "Demokratik Dönem"
+      },
+      {
+        "year": "1999/2002",
+        "title": "Euro Alanı'na Geçiş",
+        "description": "İspanyol Pezetası tedavülden kaldırılarak ortak para birimi Euro kabul edilmiş, parasal entegrasyon tamamlanmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2008-2013",
+        "title": "İspanyol Emlak ve Bankacılık Krizi",
+        "description": "Küresel finans krizinin de etkisiyle konut balonunun patlaması, işsizliğin rekor seviyelere ulaşmasına ve bankacılık sektöründe kurtarma paketlerine yol açtı.",
+        "era": "Yakın Tarih"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "İspanya, dış politikasında Avrupa Birliği entegrasyonu, Atlantik ötesi ittifak, İber-Amerikan (Latin Amerika) topluluğu ile tarihi bağlar ve Akdeniz havzasında istikrar odaklı bir çizgide hareket etmektedir. Çok taraflı diplomasiyi destekleyen Madrid yönetimi, barış koruma misyonlarında aktif rol oynamakta ve uluslararası hukuk ilkelerine vurgu yapmaktadır.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Üyelik",
+        "description": "İspanya, siyasi, ekonomik ve hukuki açıdan AB entegrasyonunun kararlı bir savunucusu ve Birlik içi karar alma süreçlerinin etkin bir aktörüdür.",
+        "since": "1986"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Müttefik",
+        "description": "Kolektif savunma ve transatlantik güvenlik mimarisinin temel parçası olan İspanya, çeşitli NATO görev ve tatbikatlarına katkı vermektedir.",
+        "since": "1982"
+      },
+      {
+        "partner": "Latin Amerika Ülkeleri (İbero-Amerika)",
+        "relationType": "Stratejik ve Kültürel Müttefiklik",
+        "description": "Ortak dil ve tarihi bağlar çerçevesinde İbero-Amerikan Zirveleri aracılığıyla ekonomik, diplomatik ve kültürel iş birliği sürdürülmektedir.",
+        "since": "1991"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik İkili İlişkiler",
+        "description": "İspanya topraklarındaki Rota ve Morón askeri üslerinin kullanımı ve ikili ticaret anlaşmaları çerçevesinde askeri ve ekonomik ortaklık mevcuttur.",
+        "since": "1953"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Maastricht Antlaşması",
+        "year": "1992",
+        "description": "Avrupa Birliği'nin kurulmasını ve siyasi-ekonomik birliğin derinleşmesini sağlayan temel antlaşma onaylanmıştır."
+      },
+      {
+        "name": "Lizbon Antlaşması",
+        "year": "2007",
+        "description": "AB'nin kurumsal reformunu ve karar alma mekanizmalarını düzenleyen antlaşmaya taraf olunmuştur."
+      },
+      {
+        "name": "Utrecht Antlaşması",
+        "year": "1713",
+        "description": "İspanya Veraset Savaşı'nı sona erdiren ve Cebelitarık'ın Büyük Britanya'ya devrini düzenleyen tarihi antlaşmadır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Birleşik Krallık (Cebelitarık)",
+        "relationType": "Anlaşmazlık",
+        "description": "İspanya, İber Yarımadası'nın güney ucunda yer alan Birleşik Krallık denizaşırı toprağı Cebelitarık üzerinde egemenlik iddiasını sürdürmekte; egemenlik, sınır yönetimi ve Brexit sonrası durum hakkındaki müzakereler devam etmektedir.",
+        "since": "1713"
+      },
+      {
+        "partner": "Fas (Sebte ve Melilla)",
+        "relationType": "Anlaşmazlık",
+        "description": "Kuzey Afrika kıyısında yer alan özerk İspanyol şehirleri Sebte (Ceuta) ve Melilla üzerinde Fas tarihsel hak iddia etmektedir; taraflar diplomatik kanallarla ilişkileri dengede tutmaktadır.",
+        "since": "1956"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Üye Ülke",
+        "joinedYear": "1986"
+      },
+      {
+        "name": "NATO",
+        "role": "Müttefik Üye",
+        "joinedYear": "1982"
+      },
+      {
+        "name": "G20",
+        "role": "Kalıcı Davetli Üye",
+        "joinedYear": "2008"
+      },
+      {
+        "name": "OECD",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "İspanya, 1978 Anayasası uyarınca parlamenter demokrasi ile yönetilen anayasal bir monarşidir. Ülke, idari olarak 17 Özerk Topluluk (Comunidades Autónomas) ve 2 Özerk Şehre bölünmüş olup yüksek düzeyde ademi merkeziyetçi bir yapıya sahiptir. Siyasi alanda üniter devlet yapısı ile bölgesel özerklikler arasındaki denge önemli bir yer tutmaktadır.",
+    "governmentForm": "Anayasal Monarşı ile Yönetilen Parlamenter Demokrasi",
+    "currentStructure": "Devletin başı sembolik yetkilere sahip Kral'dır. Yürütme erki, Meclis güvenoyunu alan Başbakan liderliğindeki Bakanlar Kurulu tarafından kullanılır. Yasama erki Çift Meclisli Cortes Generales (Milletvekilleri Kongresi ve Senato) tarafından yürütülür. Yargı erki bağımsız mahkemeler ve Anayasa Mahkemesi denetimindedir.",
+    "timeline": [
+      {
+        "year": "1812",
+        "title": "Cádiz Anayasası (La Pepa)",
+        "description": "İspanya'nın ilk liberal anayasası kabul edilerek mutlak monarşi sınırlandırılmaya çalışıldı.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1931",
+        "title": "İkinci İspanya Cumhuriyeti'nin İlanı",
+        "description": "Monarşinin ilga edilmesiyle laik ve demokratik temellere dayalı cumhuriyet rejimine geçildi.",
+        "era": "Savaş Arası Dönem"
+      },
+      {
+        "year": "1939",
+        "title": "Franco Diktatörlüğünün Kurulması",
+        "description": "İç savaşın ardından otoriter ve tek partili diktatörlük rejimi ilan edildi.",
+        "era": "Franko Dönemi"
+      },
+      {
+        "year": "1977",
+        "title": "İlk Demokratik Genel Seçimler",
+        "description": "Franco sonrası dönemde 41 yıl aradan sonra gerçekleştirilen ilk özgür ve çok partili seçimler yapıldı.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1978",
+        "title": "1978 İspanya Anayasası'nın Kabulü",
+        "description": "Halk oylamasıyla kabul edilen anayasa ile anayasal monarşi ve özerk bölgeler sistemi hukuki güvenceye kavuştu.",
+        "era": "Demokratik Dönem"
+      },
+      {
+        "year": "1981",
+        "title": "23-F Darbe Girişimi",
+        "description": "Jandarma Yarbay Antonio Tejero liderliğindeki başarısız askeri darbe girişimi, Kral I. Juan Carlos'un müdahalesi ve kararlı duruşuyla bastırıldı.",
+        "era": "Demokratik Dönem"
+      },
+      {
+        "year": "2014",
+        "title": "Kral I. Juan Carlos'un Feragative VI. Felipe'nin Tahta Çıkışı",
+        "description": "I. Juan Carlos'un oğlu VI. Felipe lehine tahttan çekilmesiyle monarşide sembolik ve kurumsal yenilenme yaşandı.",
+        "era": "Gündaş Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Katalonya Özerk Bölgesi Anayasa Krizi",
+        "description": "Katalonya'da yapılan yasadışı bağımsızlık referandumu sonrası merkezi hükümet Anayasa'nın 155. maddesini uygulayarak bölge yönetimini geçici olarak devraldı.",
+        "era": "Gündaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "İspanya, biyomedikal araştırmalar, yenilenebilir enerji teknolojileri, astronomi, altyapı mühendisliği ve parçacık fiziği alanlarında uluslararası düzeyde önemli katkılar sağlamaktadır. Ülke, Avrupa Araştırma Alanı'nın (ERA) aktif bir üyesi olup Horizon Europe gibi ortak araştırma programlarında yüksek katılım oranına sahiptir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.44",
+        "unit": "%",
+        "scoreOutOf100": 65
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "155,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 72
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "1,620",
+        "unit": "Adet",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Bilimsel Yayın Üretim Sıralaması",
+        "value": "11",
+        "unit": "Dünya Sıralaması",
+        "scoreOutOf100": 83
+      },
+      {
+        "label": "Yüksek Teknoloji İhracatı Payı",
+        "value": "7.1",
+        "unit": "%",
+        "scoreOutOf100": 60
+      }
+    ],
+    "notableAchievements": [
+      "Kanarya Adaları'ndaki Roque de los Muchachos Observatuvarı ile küresel astronomi araştırmalarına lider katkı",
+      "Organ nakli tıbbı ve bağış sisteminde üst üste onlarca yıl dünya liderliği (ONT sistemi)",
+      "Yüksek hızlı demiryolu (AVE) teknolojisi ve büyük altyapı projelerinde küresel mühendislik başarısı",
+      "Rüzgar ve güneş enerjisi türbin teknolojilerinde öncü Ar-Ge ve ticari tesciller"
+    ],
+    "institutions": [
+      {
+        "name": "CSIC (Üstün Bilimsel Araştırmalar Konseyi)",
+        "type": "Arastirma Enstitusu",
+        "description": "İspanya'nın en büyük kamu araştırma kurumu olup multidisipliner bilimsel alanlarda binlerce araştırmacıya ev sahipliği yapmaktadır."
+      },
+      {
+        "name": "Barcelona Süper Bilgisayar Merkezi (BSC-CNS)",
+        "type": "Arastirma Enstitusu",
+        "description": "MareNostrum süper bilgisayarına ev sahipliği yapan, yapay zeka, iklim modellemesi ve biyoinformatik odaklı Avrupa'nın önde gelen bilişim merkezidir."
+      },
+      {
+        "name": "Madrid Özerk Üniversitesi (UAM)",
+        "type": "Universite",
+        "description": "Doğa bilimleri, fizik ve tıp araştırmalarında Avrupa çapında yüksek akademik itibara sahip köklü yükseköğretim kurumudur."
+      },
+      {
+        "name": "IAC (Kanarya Adaları Astrofizik Enstitüsü)",
+        "type": "Arastirma Enstitusu",
+        "description": "Uluslararası astronomik gözlemler ve uzay bilimleri alanında dünyanın en önemli gözlemevlerini bünyesinde barındıran araştırma merkezidir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:06:39.142Z"
+}

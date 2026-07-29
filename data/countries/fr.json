@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "code": "fr",
+    "iso3": "FRA",
+    "name_tr": "Fransa",
+    "name_en": "France",
+    "region": "Avrupa",
+    "capital_tr": "Paris",
+    "flag_emoji": "🇫🇷"
+  },
+  "overview": "Fransa, Batı Avrupa'da yer alan, zengin tarihi, kültürel mirası ve güçlü ekonomik yapısıyla öne çıkan köklü bir Avrupa devletidir. Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyesi ve Avrupa Birliği'nin kurucu aktörlerinden biri olan ülke, küresel siyasette ve diplomaside belirleyici bir role sahiptir. Başkenti Paris; sanat, moda, bilim ve diplomasi merkezlerinden biri olarak kabul edilir. Fransa, yarı başkanlık sistemiyle yönetilmekte olup yüksek insani gelişmişlik düzeyi ve gelişmiş sanayi altyapısına sahiptir.",
+  "history": {
+    "summary": "Fransa tarihi, antik Galya döneminden Frank Krallığı'na, Orta Çağ feodalizminden Mutlak Monarşiye, 1789 Fransız İhtilali'nden günümüz Beşinci Cumhuriyet'ine kadar uzanan zengin bir gelişim seyrine sahiptir. Ülke, Avrupa kıtasındaki siyasi, kültürel ve askeri dengelerin şekillenmesinde tarih boyunca kilit rol oynamıştır.",
+    "timeline": [
+      {
+        "year": "M.Ö. 52",
+        "title": "Alesia Kuşatması ve Roma Hakimiyeti",
+        "description": "Julius Caesar önderliğindeki Roma ordusunun Vercingetorix'i mağlup etmesiyle Galya bölgesi tamamen Roma İmparatorluğu'nun kontrolüne girdi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "496",
+        "title": "I. Clovis'in Hristiyanlığı Kabulü",
+        "description": "Frankların Kralı I. Clovis Hristiyanlığı benimseyerek Frank Krallığı'nın ve modern Fransa'nın temellerini attı.",
+        "era": "Erken Orta Çağ"
+      },
+      {
+        "year": "800",
+        "title": "Şarlman'ın İmparatorluk Tacı Giymesi",
+        "description": "Frank Kralı Şarlman, Roma'da Papa tarafından Kutsal Roma İmparatoru ilan edildi ve Karolenj İmparatorluğu dönemi başladı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1337-1453",
+        "title": "Yüz Yıl Savaşları",
+        "description": "Fransa ve İngiltere krallıkları arasında Fransız tahtı üzerinde kontrol sağlama amacıyla gerçekleşen uzun süreli savaşlar dizisidir.",
+        "era": "Geç Orta Çağ"
+      },
+      {
+        "year": "1598",
+        "title": "Nantes Fermanı",
+        "description": "Kral IV. Henri tarafından yayımlanan ferman ile Huguenotlara (Fransız Protestanları) dini haklar tanındı ve Din Savaşları sona erdirildi.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1643-1715",
+        "title": "XIV. Louis ve Mutlak Monarşi",
+        "description": "'Güneş Kral' olarak bilinen XIV. Louis döneminde merkezi krallık otoritesi en tepe noktasına ulaştı ve Versay Sarayı inşa edildi.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1789",
+        "title": "Fransız İhtilali",
+        "description": "Mutlak monarşinin yıkılması, İnsan ve Yurttaş Hakları Bildirisi'nin ilanı ve modern cumhuriyet fikirlerinin Avrupa'ya yayılması sağlandı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1804-1815",
+        "title": "Napolyon Dönemi ve Birinci İmparatorluk",
+        "description": "Napolyon Bonapart kendisini imparator ilan etti; Napolyon Kanunları yürürlüğe girdi ve Napolyon Savaşları ile Avrupa haritası değişti.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1870-1871",
+        "title": "Fransa-Prusya Savaşı ve Üçüncü Cumhuriyet",
+        "description": "Fransa'nın Prusya'ya yenilmesiyle III. Napolyon tahttan indirildi ve Üçüncü Cumhuriyet dönemi başladı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1914-1918",
+        "title": "Birinci Dünya Savaşı",
+        "description": "Fransa, İtilaf Devletleri safında savaşa katıldı ve ağır insani ile ekonomik kayıplara rağmen zafer kazanan tarafta yer aldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1939-1945",
+        "title": "İkinci Dünya Savaşı ve İşgal",
+        "description": "Nazi Almanya'sı tarafından işgal edilen Fransa'da Vichy Rejimi kuruldu; Charles de Gaulle liderliğinde Özgür Fransa hareketi direniş başlattı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1958",
+        "title": "Beşinci Cumhuriyet'in Kuruluşu",
+        "description": "Cezayir Bunalımı neticesinde Charles de Gaulle liderliğinde hazırlanan yeni anayasa kabul edilerek güçlü yürütmeye dayalı Beşinci Cumhuriyet kuruldu.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Fransa ekonomisi, yüksek sanayi kapasitesi, küresel düzeyde rekabetçi hizmet sektörü, gelişmiş tarımsal üretimi ve güçlü Ar-Ge altyapısıyla dünyanın en büyük ekonomileri arasında yer almaktadır. Nükleer enerjiye dayalı enerji bağımsızlığı stratejisi, havacılık ve lüks tüketim sektörlerindeki ihracat başarısı ekonomik yapının temel direklerindendir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "3.15 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "46,800",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "7.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "690 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Havacılık ve Uzay",
+      "Otomotiv ve Ulaşım Teknolojileri",
+      "Lüks Tüketim ve Moda",
+      "İlaç ve Biyoteknoloji",
+      "Nükleer Enerji ve Mühendislik",
+      "Turizm ve Otelcilik",
+      "Tarım ve Gıda Sanayii"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.9
+          },
+          {
+            "year": "2019",
+            "value": 1.8
+          },
+          {
+            "year": "2020",
+            "value": -7.5
+          },
+          {
+            "year": "2021",
+            "value": 6.4
+          },
+          {
+            "year": "2022",
+            "value": 2.5
+          },
+          {
+            "year": "2023",
+            "value": 0.9
+          },
+          {
+            "year": "2024",
+            "value": 1.1
+          },
+          {
+            "year": "2025",
+            "value": 1.3
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1950",
+        "title": "Schuman Bildirisi",
+        "description": "Avrupa Kömür ve Çelik Topluluğu'nun kurulmasını öneren bildiri ile ortak Avrupa pazarının temelleri atıldı.",
+        "era": "Savaş Sonrası Yeniden Yapılanma"
+      },
+      {
+        "year": "1973",
+        "title": "Messmer Planı ve Nükleer Enerji Hamlesi",
+        "description": "Petrol krizine karşılık ülke çapında geniş çaplı nükleer santral inşası başlatılarak enerji bağımsızlığı hedeflendi.",
+        "era": "Soğuk Savaş Dönemi"
+      },
+      {
+        "year": "1999",
+        "title": "Euro Alanına Geçiş",
+        "description": "Fransa, ulusal para birimi Frank'ı bırakarak Avrupa ortak para birimi Euro'yu kabul etti.",
+        "era": "Avrupa Entegrasyonu"
+      },
+      {
+        "year": "2017",
+        "title": "Fransız İnovasyon ve Sanayi Reformları",
+        "description": "'La French Tech' girişimi ve iş kanunu reformlarıyla teknoloji girişimciliği ve yatırım ortamı desteklendi.",
+        "era": "Dijital Dönüşüm Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Fransa dış politikasında çok taraflılığı, Avrupa Birliği'nin stratejik özerkliğini ve uluslararası hukukun üstünlüğünü savunur. Birleşmiş Milletler Güvenlik Konseyi daimi üyeliği ve nükleer güç statüsüyle küresel güvenlik ve iklim diplomasisinde öncü rol üstlenmektedir.",
+    "alliances": [
+      {
+        "partner": "Almanya",
+        "relationType": "Stratejik Ortaklık",
+        "description": "Avrupa Birliği'nin siyasi ve ekonomik motoru kabul edilen Fransız-Alman ikili iş birliği mekanizması.",
+        "since": "1963"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Askeri Müttefiklik",
+        "description": "İttifakın kurucu üyesi olup transatlantik güvenlik mimarisinde etkin bir rol oynamaktadır.",
+        "since": "1949"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Tarihi Müttefiklik",
+        "description": "Savunma, istihbarat ve terörle mücadelede köklü ve kapsamlı bir stratejik iş birliği yürütmektedir.",
+        "since": "1778"
+      },
+      {
+        "partner": "Frankofoni Örgütü Üye Devletleri",
+        "relationType": "Kültürel ve Bölgesel Birlik",
+        "description": "Fransızca konuşan ülkeler arasında dilsel, kültürel ve ekonomik dayanışmayı hedefleyen küresel ağ."
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Élysée Antlaşması",
+        "year": "1963",
+        "description": "Fransa ve Almanya arasında II. Dünya Savaşı sonrası kalıcı barış ve stratejik ortaklığı kuran tarihi belge."
+      },
+      {
+        "name": "Maastricht Antlaşması",
+        "year": "1992",
+        "description": "Avrupa Topluluğu'nu Avrupa Birliği'ne dönüştüren ve parasal birliğin yolunu açan temel antlaşma."
+      },
+      {
+        "name": "Paris İklim Anlaşması",
+        "year": "2015",
+        "description": "Küresel ısınmayı sınırlamayı hedefleyen ve Fransa'nın ev sahipliğinde imzalanan tarihi küresel antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Batı Afrika Yönetimleri (Nijer, Mali, Burkina Faso)",
+        "relationType": "Anlaşmazlık",
+        "description": "Bölgedeki askeri darbeler sonrası Fransız askeri varlığının sonlandırılması ve nüfuz mücadelelerine dayalı diplomatik gerilimler.",
+        "since": "2021"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye ve Daimi Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "1957"
+      },
+      {
+        "name": "NATO",
+        "role": "Kurucu Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "G7",
+        "role": "Kurucu Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Fransa, 1958 Anayasası ile belirlenen Beşinci Cumhuriyet modeli uyarınca yarı başkanlık sistemiyle yönetilmektedir. Yönetim yapısı güçlü yetkilerle donatılmış bir cumhurbaşkanı ile parlamentoya karşı sorumlu bir başbakan arasındaki görev paylaşımına dayanır.",
+    "governmentForm": "Yarı Başkanlık Sistemi ile Yönetilen Üniter Demokratik Cumhuriyet",
+    "currentStructure": "Yürütme organı Cumhurbaşkanı ve Başbakan liderliğindeki Bakanlar Kurulu'ndan oluşur. Yasama organı Ulusal Meclis ve Senato'dan oluşan çift kamaralı Parlamentodur. Yargı denetimi bağımsız mahkemeler ve Anayasa Konseyi tarafından yürütülür.",
+    "timeline": [
+      {
+        "year": "1792",
+        "title": "Birinci Cumhuriyet'in İlanı",
+        "description": "Fransız İhtilali sonrası monarşinin ilga edilmesiyle ilk cumhuriyet rejimine geçildi.",
+        "era": "Devrim Dönemi"
+      },
+      {
+        "year": "1848",
+        "title": "İkinci Cumhuriyet ve Genel Oy Hakkı",
+        "description": "1848 Devrimi sonrasında İkinci Cumhuriyet kuruldu ve erkek vatandaşlar için genel oy hakkı getirildi.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1870",
+        "title": "Üçüncü Cumhuriyet'in Kuruluşu",
+        "description": "Fransa'da uzun süreli parlamenter demokrasi dönemini başlatan yönetim yapısı teşekkül etti.",
+        "era": "Geç 19. Yüzyıl"
+      },
+      {
+        "year": "1946",
+        "title": "Dördüncü Cumhuriyet Dönemi",
+        "description": "İkinci Dünya Savaşı sonrası zayıf yürütme ve parlamenter istikrarsızlıklarla anılan yeni anayasal dönem başladı.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1958",
+        "title": "Beşinci Cumhuriyet Anayasası",
+        "description": "Charles de Gaulle liderliğinde yürütmeyi güçlendiren ve cumhurbaşkanına geniş yetkiler veren anayasa kabul edildi.",
+        "era": "Beşinci Cumhuriyet"
+      },
+      {
+        "year": "1962",
+        "title": "Cumhurbaşkanının Doğrudan Halk Tarafından Seçilmesi",
+        "description": "Yapılan referandum ile cumhurbaşkanının doğrudan genel oy ile seçilmesi esası getirildi.",
+        "era": "Beşinci Cumhuriyet"
+      },
+      {
+        "year": "2000",
+        "title": "Cumhurbaşkanlığı Görev Süresinin Düşürülmesi",
+        "description": "Referandum ile cumhurbaşkanlığı görev süresi 7 yıldan 5 yıla (quinquennat) indirildi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "Anayasa Reformu",
+        "description": "Parlamentonun denetim yetkilerini artıran ve cumhurbaşkanlığı süresini üst üste iki dönemle sınırlayan düzenleme kabul edildi.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Fransa, bilimsel araştırmalarda derin bir geleneğe sahip olup havacılık, nükleer fizik, matematik ve tıp alanlarında dünya çapında öncü çalışmalar yürütmektedir. Ulusal araştırma merkezleri ve saygın üniversiteleri vasıtasıyla küresel inovasyon ekosistemine önemli katkılar sağlamaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "2.22",
+        "unit": "%",
+        "scoreOutOf100": 84
+      },
+      {
+        "label": "Yıllık Patent Başvurusu Sayısı",
+        "value": "14,800",
+        "unit": "Adet",
+        "scoreOutOf100": 86
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "325,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 82
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "11",
+        "unit": "Sıra",
+        "scoreOutOf100": 89
+      },
+      {
+        "label": "Nükleer Enerji Elektrik Üretim Payı",
+        "value": "67",
+        "unit": "%",
+        "scoreOutOf100": 95
+      }
+    ],
+    "notableAchievements": [
+      "Ariane Uzay Roketi Programı ve Avrupa Uzay Ajansı (ESA) bünyesindeki teknolojik liderlik.",
+      "TGV (Train à Grande Vitesse) Yüksek Hızlı Tren Teknolojisinin Geliştirilmesi.",
+      "Concorde Süpersonik Yolcu Uçağı Projesinin Başarıyla Hayata Geçirilmesi.",
+      "ITER Uluslararası Nükleer Füzyon Araştırma Reaktörüne Ev Sahipliği Yapılması.",
+      "Pasteur Enstitüsü bünyesinde mikrobiyoloji, viroloji ve aşı tıpındaki tarihi buluşlar."
+    ],
+    "institutions": [
+      {
+        "name": "CNRS (Ulusal Bilimsel Araştırma Merkezi)",
+        "type": "Arastirma Enstitusu",
+        "description": "Tüm bilim alanlarında temel araştırmalar yürüten Avrupa'nın en büyük disiplinlerarası kamu araştırma kurumu."
+      },
+      {
+        "name": "Sorbonne Üniversitesi",
+        "type": "Universite",
+        "description": "Beşeri bilimler, tıp ve fen bilimlerinde köklü geçmişe sahip dünya çapında akademik merkez."
+      },
+      {
+        "name": "École Polytechnique",
+        "type": "Universite",
+        "description": "Mühendislik ve doğa bilimleri alanlarında üst düzey eğitim ve araştırma sunan prestijli kurum."
+      },
+      {
+        "name": "CEA (Atom Enerjisi ve Alternatif Enerjiler Kurumu)",
+        "type": "Arastirma Enstitusu",
+        "description": "Nükleer enerji, savunma, yenilenebilir enerji ve bilgi teknolojilerinde uzmanlaşmış lider devlet araştırma organı."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:08:45.872Z"
+}

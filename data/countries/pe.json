@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "code": "pe",
+    "iso3": "PER",
+    "name_tr": "Peru",
+    "name_en": "Peru",
+    "region": "Güney Amerika",
+    "capital_tr": "Lima",
+    "flag_emoji": "🇵🇪"
+  },
+  "overview": "Peru, Güney Amerika'nın batı kıyısında, Büyük Okyanus'a kıyısı olan, zengin tarihi ve coğrafi çeşitliliğiyle öne çıkan bir üniter cumhuriyettir. Kuzeyde Ekvador ve Kolombiya, doğuda Brezilya, güneydoğuda Bolivya ve güneyde Şili ile komşu olan ülke; kıyı çölleri, yüksek And Dağları ve Amazon havzasını kapsayan benzersiz topoğrafyasıyla dünyanın en yüksek biyolojik çeşitliliğe sahip coğrafyalarından biridir. Kolomb öncesi Amerika'nın en gelişmiş medeniyetlerinden biri olan İnka İmparatorluğu'na ev sahipliği yapmış olan Peru, günümüzde madencilik, tarım ve turizme dayalı gelişmekte olan ekonomisiyle Latin Amerika'nın önemli aktörleri arasında yer almaktadır.",
+  "history": {
+    "summary": "Peru tarihi, M.Ö. 3000 yıllarında Amerika kıtasının en eski uygarlığı olan Caral-Supe ile başlar. Bunu takip eden yüzyıllarda Chavín, Moche, Nazca ve Tiwanaku gibi gelişmiş kültürler bölgede hüküm sürmüş; 15. yüzyılda ise İnka İmparatorluğu tüm And bölgesini kapsayan devasa bir devlet yapısı kurmuştur. 1532'de İspanyol fatihlerinin bölgeye gelişi ve İnkaları devirmesiyle üç asırlık İspanyol sömürge dönemi başlamıştır. 1821 yılında bağımsızlığını ilan eden Peru, 19. ve 20. yüzyıllar boyunca siyasi çalkantılar, askeri rejimler ve sınır çatışmaları yaşamış; 21. yüzyıla doğru ise demokratik kurumsallaşma ve ekonomik büyüme sürecine girmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3000 - M.Ö. 1800",
+        "title": "Caral-Supe Uygarlığı",
+        "description": "Amerika kıtasının bilinen en eski medeniyeti olan Caral-Supe, Supe Vadisi'nde anıtsal mimarisi, kent planlaması ve karmaşık sosyal yapısıyla gelişmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1438 - 1532",
+        "title": "İnka İmparatorluğu'nun Genişlemesi",
+        "description": "Pachacuti önderliğinde yükselen İnkalar, Cusco merkezli olarak Güney Amerika'nın en büyük imparatorluğunu kurmuş ve gelişmiş bir yol ağ payı ile mimarlık harikaları inşa etmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1532",
+        "title": "Cajamarca Muharebesi ve İspanyol Fethi",
+        "description": "Francisco Pizarro komutasındaki İspanyol fatihler, İnka İmparatoru Atahualpa'yı esir alarak imparatorluğun çöküş sürecini başlatmış ve bölgeyi İspanyol Tacı'na bağlamıştır.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1542",
+        "title": "Peru Krallığı'nın (Virreinato del Perú) Kurulması",
+        "description": "İspanya Kralı V. Carlos tarafından kurulan Peru Krallığı, Güney Amerika'daki İspanyol sömürge yönetiminin ana idari ve ekonomik merkezi haline gelmiştir.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1780 - 1781",
+        "title": "Túpac Amaru II İsyanı",
+        "description": "Yerli lider Túpac Amaru II önderliğinde başlayan büyük ayaklanma, İspanyol sömürge yönetimine karşı en büyük yerli direnişlerinden biri olarak tarihe geçmiştir.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1821",
+        "title": "Peru'nun Bağımsızlık İlanı",
+        "description": "General José de San Martín liderliğindeki bağımsızlık kuvvetleri Lima'ya girerek 28 Temmuz 1821'de Peru'nun bağımsızlığını ilan etmiştir.",
+        "era": "Bağımsızlık Dönemi"
+      },
+      {
+        "year": "1824",
+        "title": "Ayacucho Muharebesi",
+        "description": "Simón Bolívar ve Simón José Antonio de Sucre komutasındaki cumhuriyetçi ordunun zaferi, Peru ve tüm Güney Amerika'daki İspanyol varlığına kesin olarak son vermiştir.",
+        "era": "Bağımsızlık Dönemi"
+      },
+      {
+        "year": "1879 - 1883",
+        "title": "Pasifik Savaşı",
+        "description": "Şili ile Peru-Bolivya ittifakı arasında güherçile ve mineral kaynakları nedeniyle çıkan savaş, Peru'nun Güney topraklarını kaybetmesi ve Ancon Antlaşması ile sona ermiştir.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1968 - 1975",
+        "title": "Juan Velasco Alvarado'nun Askeri Hükümeti",
+        "description": "Sol eğilimli askeri cunta, devrimci adımlarla geniş çaplı bir toprak reformu uygulamış ve stratejik sanayi kollarını millileştirmiştir.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1980 - 2000",
+        "title": "İç Çatışmalar ve Aydınlık Yol (Sendero Luminoso)",
+        "description": "Aşırı solcu Maocu terör örgütü Sendero Luminoso ile devlet güçleri arasındaki silahlı çatışmalar, on binlerce sivilin ölümüne ve ağır ekonomik tahribata yol açmıştır.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1990 - 2000",
+        "title": "Alberto Fujimori Dönemi",
+        "description": "Ekonomik hiperenflasyonu bitiren ve terörle mücadelede sert tedbirler alan Fujimori, 1992 otodarbe süreci ve yolsuzluk skandallarının ardından istifa etmek zorunda kalmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Pedro Castillo'nun Azli ve Dina Boluarte Dönemi",
+        "description": "Kongre'yi feshetme girişiminin ardından azledilen Pedro Castillo'nun yerine Dina Boluarte geçmiş, ülke genelinde protestolar ve siyasi istikrarsızlıklar yaşanmıştır.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Peru ekonomisi, serbest piyasa ilkelerine dayalı, madencilik ve ihracat odaklı gelişmekte olan bir yapıya sahiptir. Dünyanın en büyük bakır, gümüş ve çinko üreticilerinden biri olan ülke; disiplinli para politikaları, düşük enflasyon oranları ve güçlü döviz rezervleri sayesinde uzun yıllar makroekonomik istikrarını korumuştur. Siyasi dalgalanmalara rağmen, tarımsal ihracat (özellikle avokado, yaban mersini, kuşkonmaz) ve zengin turizm potansiyeli ekonominin direnç noktalarını oluşturmaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "282.5",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "8,250",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Peru Solü (PEN)",
+        "unit": "PEN",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "6.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "67.8",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kamu Borcu / GSYİH",
+        "value": "32.8",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Madencilik ve Metalurji (Bakır, Altın, Çinko)",
+      "Balıkçılık ve Deniz Ürünleri İşleme",
+      "Agro-Endüstri ve Modern Tarım",
+      "Tekstil ve Hazır Giyim (Alpaka Yünü ve Pima Pamuğu)",
+      "Turizm ve Otelcilik",
+      "İnşaat ve İmalat Sanayi"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 3.97
+          },
+          {
+            "year": "2019",
+            "value": 2.24
+          },
+          {
+            "year": "2020",
+            "value": -10.9
+          },
+          {
+            "year": "2021",
+            "value": 13.4
+          },
+          {
+            "year": "2022",
+            "value": 2.7
+          },
+          {
+            "year": "2023",
+            "value": -0.55
+          },
+          {
+            "year": "2024",
+            "value": 3.1
+          },
+          {
+            "year": "2025",
+            "value": 2.8
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1840 - 1870",
+        "title": "Guano ve Nitrat Patlaması",
+        "description": "Kuş gübresi (guano) ve nitrat ihracatından elde edilen devasa gelirler, devlet bütçesini ve altyapı yatırımlarını finanse etmiştir.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1990",
+        "title": "Fujishock Reformları",
+        "description": "Hiperenflasyonu durdurmak amacıyla sübvansiyonların kaldırılması, özelleştirmeler ve serbest kur rejimi gibi radikal neo-liberal ekonomi politikaları uygulanmıştır.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "2006",
+        "title": "ABD-Peru Serbest Ticaret Anlaşması",
+        "description": "İki ülke arasında imzalanan ticaret anlaşması, Peru'nun ihracat kapasitesini artırmış ve küresel pazarlarla entegrasyonunu hızlandırmıştır.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2024",
+        "title": "Chancay Mega Limanı'nın Açılışı",
+        "description": "Çin ortaklığıyla inşa edilen Pasifik kıyısındaki devasa konteyner limanı, Güney Amerika'nın Asya pazarlarına doğrudan erişim ana merkezi haline gelmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Peru, dış politikasında bölgesel entegrasyonu, serbest ticareti ve çok taraflılığı savunan dengeli bir hat izlemektedir. Pasifik Kıyısı ülkeleriyle ticari ortaklıklarını güçlendirirken hem Kuzey Amerika hem de Asya pazarlarıyla derin ilişkiler kurmuştur. Amerika Birleşik Devletleri ile geleneksel güvenlik ve ticaret iş birliği yürütürken, Çin Halk Cumhuriyeti ile en büyük ticari ortaklık ve altyapı yatırımı seviyesine ulaşmıştır.",
+    "alliances": [
+      {
+        "partner": "Pasifik İttifakı (Alianza del Pacífico)",
+        "relationType": "Bölgesel Kurucu Ortak",
+        "description": "Şili, Kolombiya ve Meksika ile birlikte mal, hizmet, sermaye ve insanların serbest dolaşımını hedefleyen derin entegrasyon bloğu.",
+        "since": "2011"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortak",
+        "description": "Peru'nun en büyük ticaret ortağı ve madencilik ile altyapı sektörlerindeki ana yabancı yatırımcı ülkesidir.",
+        "since": "2013"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Müttefik ve Ticaret Ortağı",
+        "description": "Serbest ticaret, uyuşturucuyla mücadele, güvenlik ve demokrasi kurumlarının desteklenmesi alanlarında köklü iş birliği yürütülmektedir.",
+        "since": "1926"
+      },
+      {
+        "partner": "And Topluluğu (CAN)",
+        "relationType": "Üyelik ve Bölgesel Blok",
+        "description": "Bolivya, Kolombiya ve Ekvador ile alt-bölgesel ekonomik ve sosyal entegrasyon organı.",
+        "since": "1969"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Brasilía Barış Anlaşması",
+        "year": "1998",
+        "description": "Ekvador ile yüzyılı aşkın süredir devam eden sınır anlaşmazlığını kesin ve kalıcı olarak sona erdiren tarihi antlaşma."
+      },
+      {
+        "name": "Peru-ABD Serbest Ticaret Anlaşması",
+        "year": "2006",
+        "description": "İki ülke arasındaki mal ve hizmet ticaretinde gümrük vergilerini sıfırlayan ve yabancı yatırımları koruyan anlaşma."
+      },
+      {
+        "name": "CPTPP (Kapsamlı ve İlerici Pasifik Ötesi Ortaklık Anlaşması)",
+        "year": "2018",
+        "description": "Pasifik Havzası'ndaki 11 ülke ile serbest ticaret ve ekonomik entegrasyonu sağlayan uluslararası antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Şili",
+        "relationType": "Anlaşmazlık",
+        "description": "Pasifik Okyanusu'ndaki deniz sınırları üzerindeki anlaşmazlık, 2014 yılında Uluslararası Adalet Divanı'nın (Lahey) verdiği bağlayıcı kararla barışçıl şekilde çözüme kavuşturulmuştur.",
+        "since": "2008"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "Amerikan Devletleri Örgütü",
+        "role": "Kurucu Üye",
+        "joinedYear": "1948"
+      },
+      {
+        "name": "Asya-Pasifik Ekonomik İşbirliği",
+        "role": "Aktif Üye",
+        "joinedYear": "1998"
+      },
+      {
+        "name": "Pasifik İttifakı",
+        "role": "Kurucu Üye",
+        "joinedYear": "2011"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Peru, çok partili parlamenter nitelikler taşıyan cumhurbaşkanlığı sistemine sahip üniter demokratik bir cumhuriyettir. Ülkenin siyasi yapısı, yürütme ve yasama organları arasındaki sık sık yaşanan krizler, gensorular ve devlet başkanlarının azil süreçleriyle karakterize edilen yüksek bir siyasi dinamizme sahiptir. Bu siyasi çalkantılara rağmen, Merkez Bankası ve Yargı organları gibi kilit anayasal kurumlar bağımsızlıklarını koruyarak makroekonomik istikrarı güvence altında tutmaktadır.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemi ile Yönetilen Üniter Demokratik Cumhuriyet",
+    "currentStructure": "Yürütme organı, genel oyla 5 yıllığına seçilen Cumhurbaşkanı ve Bakanlar Kurulu'ndan oluşur. Yasama organı, 130 sandalyeden oluşan tek meclisli Peru Cumhuriyet Kongresi'dir (Congreso de la República). Yargı erkinin başında ise Yüksek Mahkeme (Corte Suprema de Justicia) bulunmaktadır.",
+    "timeline": [
+      {
+        "year": "1823",
+        "title": "İlk Peru Anayasası'nın Kabulü",
+        "description": "Bağımsızlık sonrası liberal ilkeler ve güçler ayrılığı temelinde hazırlanan ilk anayasal metin yürürlüğe girmiştir.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1895 - 1919",
+        "title": "Aristokratik Cumhuriyet Dönemi",
+        "description": "Sivil Parti elitlerinin egemenliğinde göreli siyasi istikrarın ve ihracata dayalı büyümenin yaşandığı oligarşik yönetim dönemi.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1930 - 1980",
+        "title": "Askeri-Sivil Çatışmaları ve APRA Gerilimi",
+        "description": "Ordu ile sol-popülist APRA partisi arasındaki çalkantılı rekabet, sık sık yapılan askeri darbeler ve vesayet yönetimiyle geçmiştir.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1979",
+        "title": "1979 Anayasası ve Demokrasiye Geçiş",
+        "description": "Askeri yönetimin sona ermesinin ardından hazırlanan kapsayıcı anayasa ile genel oy hakkı genişletilmiş ve genel seçimler düzenlenmiştir.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1992",
+        "title": "Fujimori'nin 'Otodarbe'si (Autogolpe)",
+        "description": "Başkan Alberto Fujimori, Kongre'yi ve Yargı organlarını feshederek olağanüstü yetkilerle ülkeyi yönetmeye başlamıştır.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "1993",
+        "title": "Günümüz Anayasası'nın Yürürlüğe Girmesi",
+        "description": "Serbest piyasa ekonomisini anayasal güvenceye alan ve devletin ekonomideki rolünü sınırlandıran yeni anayasa kabul edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2000",
+        "title": "Demokratik Geçiş ve Valentín Paniagua Hükümeti",
+        "description": "Fujimori'nin istifası sonrası kurulan geçiş hükümeti, şeffaf seçimler düzenleyerek demokratik rejimi yeniden tesis etmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2016 - 2022",
+        "title": "Kongre-Yürütme Krizleri ve Sık Başkan Değişimleri",
+        "description": "Yolsuzluk soruşturmaları ve anayasal azil mekanizmalarının kullanımı sonucu 6 yılda 6 farklı devlet başkanı göreve gelmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Peru'nun bilimsel ve teknolojik araştırmaları; yüksek irtifa biyolojisi, patates ve And tahıllarının genetiği, madencilik teknolojileri, jeoloji ve biyolojik çeşitliliğin korunmasına odaklanmaktadır. Devlet kuruluşu CONCYTEC aracılığıyla Ar-Ge altyapısını güçlendirmeyi hedefleyen ülke, uluslararası bilimsel iş birlikleri, uydu teknolojileri ve Antarktika araştırmalarıyla bilimsel kapasitesini kademeli olarak artırmaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.17",
+        "unit": "%",
+        "scoreOutOf100": 28
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "7,200",
+        "unit": "Kişi",
+        "scoreOutOf100": 32
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "1,520",
+        "unit": "Adet",
+        "scoreOutOf100": 38
+      },
+      {
+        "label": "Yıllık Uluslararası Akademik Yayın",
+        "value": "5,800",
+        "unit": "Adet",
+        "scoreOutOf100": 42
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "76",
+        "unit": "Sıra",
+        "scoreOutOf100": 45
+      }
+    ],
+    "notableAchievements": [
+      "Uluslararası Patates Merkezi (CIP) bünyesinde dünya patates gen bankasının kurulması ve iklim değişikliğine dayanıklı türlerin geliştirilmesi.",
+      "PeruSAT-1 yüksek çözünürlüklü yer gözlem uydusunun uzaya fırlatılması ve doğal afet ile sınır takibinde kullanımı.",
+      "Antarktika'daki Machu Picchu Araştırma İstasyonu vasıtasıyla iklim değişikliği ve okyanus bilimi alanında yürütülen küresel araştırmalar.",
+      "And dağlarında yüksek irtifa tıbbı ve insan fizyolojisi üzerine dünya çapında öncü tıp çalışmaları."
+    ],
+    "institutions": [
+      {
+        "name": "Universidad Nacional Mayor de San Marcos (UNMSM)",
+        "type": "Universite",
+        "description": "1551 yılında kurulan, Amerika kıtasının en eski sürekli eğitim veren üniversitesi; tıp, doğa bilimleri ve sosyal bilimlerde lider bilim merkezidir."
+      },
+      {
+        "name": "Pontificia Universidad Católica del Perú (PUCP)",
+        "type": "Universite",
+        "description": "Mühendislik, malzeme bilimi ve sosyal araştırmalarda yüksek yayın kapasitesine sahip prestijli özel araştırma üniversitesi."
+      },
+      {
+        "name": "CONCYTEC (Ulusal Bilim, Teknoloji ve İnovasyon Konseyi)",
+        "type": "Arastirma Enstitusu",
+        "description": "Peru'nun ulusal bilim politikalarını belirleyen, Ar-Ge fonlarını yöneten ve araştırma teşviklerini koordine eden devlet kurumu."
+      },
+      {
+        "name": "Uluslararası Patates Merkezi (CIP)",
+        "type": "Arastirma Enstitusu",
+        "description": "CGIAR ağına bağlı, küresel gıda güvenliği ve kök yumru bitkilerinin ıslahı üzerine çalışan uluslararası ölçekli tarımsal araştırma merkezi."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:06:05.580Z"
+}

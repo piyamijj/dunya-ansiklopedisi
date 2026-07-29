@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "code": "kr",
+    "iso3": "KOR",
+    "name_tr": "Güney Kore",
+    "name_en": "South Korea",
+    "region": "Asya",
+    "capital_tr": "Seul",
+    "flag_emoji": "🇰🇷"
+  },
+  "overview": "Doğu Asya'da Kore Yarımadası'nın güney bölümünü kaplayan Kore Cumhuriyeti (Güney Kore), batıda Sarı Deniz, doğuda Japon Denizi ile çevrili bir kıyı devletidir. 20. yüzyılın ortalarında yaşanan yıkıcı Kore Savaşı'nın ardından gerçekleştirdiği hızlı ekonomik kalkınma hamlesiyle 'Han Nehri Mucizesi'ni yaratmış ve küresel bir sanayi ve teknoloji devine dönüşmüştür. Başkenti Seul olan ülke, üniter anayasal başkanlık sistemiyle yönetilen gelişmiş bir demokrasi olup, küresel yüksek teknoloji, otomotiv, kitle kültürü ve Ar-Ge alanlarında öncü bir konuma sahiptir.",
+  "history": {
+    "summary": "Güney Kore tarihi, antik efsanevi Gojoseon krallığından Üç Krallık (Goguryeo, Baekje, Silla) dönemine, Joseon Hanedanlığı'nın köklü kültürel mirasından Japon işgali ve Soğuk Savaş'ın yıkıcı Kore Savaşı'na uzanan zengin bir geçmişe sahiptir. Savaş sonrası otoriter rejimlerden demokrasiye geçmeyi başaran ülke, günümüzde Asya'nın en dinamik ve müreffeh toplumlarından biri haline gelmiştir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 2333",
+        "title": "Gojoseon'un Kuruluşu",
+        "description": "Kore mitolojisine ve tarihsel kayıtlara göre Dangun Wanggeom tarafından yarımadanın ilk krallığı olan Gojoseon kurulmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 57 - M.S. 668",
+        "title": "Üç Krallık Dönemi",
+        "description": "Goguryeo, Baekje ve Silla krallıkları yarımadada siyasi ve kültürel egemenlik için rekabet etmiş, Budizm ve Konfüçyüsçülük bu dönemde yayılmıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "668",
+        "title": "Birleşik Silla Dönemi",
+        "description": "Silla Krallığı, Çin'deki Tang Hanedanı ile ittifak kurarak diğer iki krallığı yenmiş ve Kore Yarımadası'nı ilk kez tek bir yönetim altında birleştirmiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "918-1392",
+        "title": "Goryeo Hanedanlığı",
+        "description": "Wang Geon tarafından kurulan ve ülkeye 'Kore' adını veren bu hanedanlık döneminde metal hareketli harflerle ilk matbaa geliştirilmiş ve kültürel hamleler yapılmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1392-1910",
+        "title": "Joseon Hanedanlığı",
+        "description": "Neokonfüçyüsçülük devlet felsefesi haline gelmiş, Kral Sejong 1443 yılında Kore alfabesi Hangıl'ı ilan ederek okur-yazarlığı yaygınlaştırmıştır.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1910-1945",
+        "title": "Japon İşgali Dönemi",
+        "description": "Kore Yarımadası, Japon İmparatorluğu tarafından ilhak edilmiş; bu dönemde sert sömürge politikaları uygulanmış ve Kore bağımsızlık hareketleri güç kazanmıştır.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1948",
+        "title": "Kore Cumhuriyeti'nin Kuruluşu",
+        "description": "İkinci Dünya Savaşı sonrası 38. paralelin güneyinde ABD denetiminde yapılan seçimlerin ardından Kore Cumhuriyeti resmen ilan edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1950-1953",
+        "title": "Kore Savaşı",
+        "description": "Kuzey Kore'nin güneyi işgal etmesiyle başlayan savaş, Birleşmiş Milletler ve Çin'in müdahalesiyle küresel bir krize dönüşmüş ve 1953'te ateşkes anlaşmasıyla sona ermiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1987",
+        "title": "Haziran Demokrasi Mücadelesi",
+        "description": "Ülke genelinde sokaklara dökülen milyonlarca vatandaşın baskısı sonucu askeri yönetim geri adım atmış ve doğrudan cumhurbaşkanlığı seçimleri kabul edilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2000",
+        "title": "Tarihi İlk Koreler Arası Zirve",
+        "description": "Güney Kore Başkanı Kim Dae-jung ve Kuzey Kore lideri Kim Jong-il Pyongyang'da bir araya gelerek Günışığı Politikası çerçevesinde yumuşama sürecini başlatmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Güney Kore ekonomisi; yüksek teknoloji imalatı, sermaye yoğun ağır sanayi ve küresel ihracata dayalı gelişmiş bir pazar ekonomisidir. 'Chaebol' adı verilen büyük aile holdinglerinin öncülüğünde gerçekleşen hızlı sanayileşme, ülkeyi birkaç on yılda alt gelir grubundan yüksek gelirli OECD ülkesi statüsüne taşımıştır. Yarı iletkenler, ekran teknolojileri, otomotiv ve gemi inşasında küresel pazarın lider aktörlerinden biridir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "1.78 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "34,800",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Yıllık Büyüme Oranı",
+        "value": "2.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.4",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "680 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Güney Kore Wonu (KRW)",
+        "unit": "KRW",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Yarı İletken ve Mikroçipler",
+      "Otomotiv ve Elektrikli Araçlar",
+      "Gemi İnşaatı ve Denizcilik",
+      "Tüketici Elektroniği",
+      "Petrokimya ve Demir-Çelik",
+      "Biyoteknoloji ve İlaç",
+      "Kültür ve Eğlence Endüstrisi (K-Wave)"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı Trendi",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.9
+          },
+          {
+            "year": "2019",
+            "value": 2.2
+          },
+          {
+            "year": "2020",
+            "value": -0.7
+          },
+          {
+            "year": "2021",
+            "value": 4.3
+          },
+          {
+            "year": "2022",
+            "value": 2.6
+          },
+          {
+            "year": "2023",
+            "value": 1.4
+          },
+          {
+            "year": "2024",
+            "value": 2.2
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1962",
+        "title": "İlk Beş Yıllık Ekonomik Kalkınma Planı",
+        "description": "Devlet müdahalesi ve devlet destekli özel şirketler (Chaebol) aracılığıyla ihracata dayalı sanayileşme stratejisinin başlatılması.",
+        "era": "Sanayileşme Dönemi"
+      },
+      {
+        "year": "1997",
+        "title": "Asya Finansal Krizi ve IMF Reformları",
+        "description": "Aşırı borçlanan şirketler nedeniyle yaşanan ağır finansal kriz sonrası IMF paketinin uygulanması ve şeffaf kurumsal reformların yapılması.",
+        "era": "Kriz ve Reform Dönemi"
+      },
+      {
+        "year": "2000",
+        "title": "Bilgi İletişim Teknolojileri Seferberliği",
+        "description": "Ülke genelinde fiber optik ve geniş bant internet altyapısına yapılan devasa yatırımlarla bilişim odaklı büyüme modeline geçiş.",
+        "era": "Dijital Dönüşüm"
+      },
+      {
+        "year": "2012",
+        "title": "Yaratıcı Ekonomi Stratejisi",
+        "description": "Teknoloji, girişimcilik ve kitle kültürünü birleştiren, yüksek katma değerli inovasyona odaklanan yeni ekonomik modelin benimsenmesi.",
+        "era": "Küreselleşme Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Güney Kore dış politikasında ABD ile stratejik askeri ittifakı temel direk olarak görürken, Doğu Asya'da barışın korunması ve Kuzey Kore kaynaklı güvenlik tehditlerinin dengelenmesine odaklanır. Orta ölçekli bir küresel güç olarak 'Küresel Eksen Ülke' (Global Pivotal State) vizyonuyla hareket etmekte; iklim değişikliği, serbest ticaret ve uluslararası kalkınma yardımlarında aktif roller üstlenmektedir.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Kapsamlı Stratejik Müttefik",
+        "description": "1953 Karşılıklı Savunma Antlaşması'na dayanan, yarımadada ABD askeri varlığını içeren ve güvenlikten yüksek teknolojiye kadar uzanan en önemli ittifak ilişkisidir.",
+        "since": "1953"
+      },
+      {
+        "partner": "Japonya",
+        "relationType": "Stratejik Ortak ve Ticaret Partneri",
+        "description": "Tarihsel anlaşmazlıklar ve toprak iddialarına rağmen ABD ile ortak üçlü güvenlik şemsiyesi ve devasa ticaret hacmi çerçevesinde iş birliği yürütülmektedir.",
+        "since": "1965"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Stratejik Ortak",
+        "description": "Serbest Ticaret Anlaşması çerçevesinde derin ekonomik entegrasyon, yeşil dönüşüm ve küresel güvenlik konularında çok taraflı ortaklık yürütülmektedir.",
+        "since": "2010"
+      },
+      {
+        "partner": "ASEAN Örgütü",
+        "relationType": "Bölgesel Diyalog Ortağı",
+        "description": "Tedarik zincirlerini çeşitlendirmek ve Asya-Pasifik'te diplomatik derinlik kazanmak amacıyla Güneydoğu Asya ülkeleriyle sıkı ekonomik ve kültürel bağlar kurulmuştur.",
+        "since": "1989"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "ABD-Kore Karşılıklı Savunma Antlaşması",
+        "year": "1953",
+        "description": "Kore Savaşı sonrasında imzalanan ve ABD'nin Güney Kore'ye askeri koruma garantisi vermesini sağlayan temel güvenlik anlaşması."
+      },
+      {
+        "name": "Kore Askeri Ateşkes Anlaşması",
+        "year": "1953",
+        "description": "Çatışmaları durduran ve Kore Silahsızlandırılmış Bölgesi'ni (DMZ) oluşturan ancak barış antlaşması ile taçlandırılmamış askeri sözleşme."
+      },
+      {
+        "name": "Güney Kore - ABD Serbest Ticaret Anlaşması (KORUS)",
+        "year": "2007",
+        "description": "İki ülke arasındaki gümrük vergilerini kaldırarak ticaret ve yatırım hacmini rekor düzeyde artıran serbest ticaret sözleşmesi."
+      },
+      {
+        "name": "Bölgesel Kapsamlı Ekonomik Ortaklık (RCEP)",
+        "year": "2020",
+        "description": "Asya-Pasifik bölgesindeki 15 ülkeyiapsayan dünyanın en büyük serbest ticaret alanlarından birini oluşturan anlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Japonya (Dokdo / Takeshima Sorunu)",
+        "relationType": "Toprak Egemenliği Anlaşmazlığı",
+        "description": "Japon Denizi'nde bulunan ve Güney Kore fiili denetiminde olan Dokdo adaları üzerinde Japonya'nın tarihsel tezlere dayanarak egemenlik iddiasında bulunması.",
+        "since": "1952"
+      },
+      {
+        "partner": "Kuzey Kore (Kore Anlaşmazlığı)",
+        "relationType": "Güvenlik ve Egemenlik Anlaşmazlığı",
+        "description": "Kuzey Kore'nin nükleer silah ve füze programları, ateşkesin henüz resmi barış antlaşmasına dönüşmemiş olması ve ideolojik bölünmüşlükten kaynaklanan krizler.",
+        "since": "1948"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1991"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "2008"
+      },
+      {
+        "name": "OECD",
+        "role": "Aktif Üye",
+        "joinedYear": "1996"
+      },
+      {
+        "name": "APEC",
+        "role": "Kurucu Üye",
+        "joinedYear": "1989"
+      },
+      {
+        "name": "Uluslararası Atom Enerjisi Ajansı (IAEA)",
+        "role": "Aktif Üye",
+        "joinedYear": "1957"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Güney Kore siyasi tarihi, 20. yüzyılın ikinci yarısında otoriter yönetimler ve askeri darbeler ile demokratik kitle hareketleri arasındaki mücadeleye sahne olmuştur. 1987 Anayasa reformu ile kurulan Altıncı Cumhuriyet, ülkede sivil demokratik yapıyı kalıcı kılınmış, çok partili rekabeti ve güçler ayrılığını teminat altına almıştır.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemi ile Yönetilen Üniter Anayasal Cumhuriyet",
+    "currentStructure": "Yürütme erki 5 yıllığına tek bir dönem için doğrudan halk tarafından seçilen Cumhurbaşkanı ve atadığı Başbakan liderliğindeki Bakanlar Kurulu tarafından yürütülür. Yasama organı 300 sandalyeli tek kamaralı Ulusal Meclis (Kukhoe); yargı erki ise Anayasa Mahkemesi ve Yargıtay önderliğindeki bağımsız mahkemelerden oluşur.",
+    "timeline": [
+      {
+        "year": "1948",
+        "title": "Birinci Cumhuriyet ve Rhee Syngman Dönemi",
+        "description": "İlk anayasa kabul edilmiş ve Rhee Syngman ülkenin ilk cumhurbaşkanı olarak göreve başlamıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1960",
+        "title": "19 Nisan Öğrenci Devrimi",
+        "description": "Seçim hilelerine karşı başlayan kitlesel öğrenci protestoları sonucu Rhee Syngman istifa etmek zorunda kalmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1961",
+        "title": "16 Mayıs Askeri Darbesi",
+        "description": "Tümgeneral Park Chung-hee liderliğindeki askeri cunta yönetime el koyarak otoriter sanayileşme dönemini başlatmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1972",
+        "title": "Yushin Anayasası'nın İlanı",
+        "description": "Cumhurbaşkanı Park'a süresiz seçilme yetkisi ve olağanüstü haklar tanıyan otokratik anayasa düzenine geçilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1980",
+        "title": "Gwangju Demokratik Ayaklanması",
+        "description": "Chun Doo-hwan'ın askeri darbesine karşı Gwangju şehrinde başlayan gösteriler askeri güçler tarafından sertçe bastırılmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1987",
+        "title": "Altıncı Cumhuriyet ve Yeni Anayasa",
+        "description": "Haziran Protestoları sonucunda doğrudan cumhurbaşkanlığı seçimlerini getiren ve demokratik hakları güvenceye alan mevcut anayasa yürürlüğe girmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1997",
+        "title": "İlk Barışçıl Muhalefet İktidarı",
+        "description": "Demokrasi aktivisti Kim Dae-jung'un seçimleri kazanmasıyla ülke tarihinde ilk kez iktidar barışçıl bir şekilde muhalefete geçmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Cumhurbaşkanının Yargı Yoluyla Görevden Alınması",
+        "description": "Yolsuzluk suçlamaları üzerine 'Mum Işığı Mitingleri' ile protesto edilen Cumhurbaşkanı Park Geun-hye, Anayasa Mahkemesi kararıyla görevden azledilmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Güney Kore, gayrisafi yurt içi hasılasından Ar-Ge'ye ayırdığı pay bakımından dünya liderlerinden biridir. Devletin yönlendirici teşvikleri ve özel sektör devlerinin devasa altyapı yatırımları sayesinde yarı iletkenler, robotik, ekran teknolojileri, biyoteknoloji ve nükleer enerji araştırmalarında küresel standartları belirleyen ülkeler arasında yer almaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "4.9",
+        "unit": "%",
+        "scoreOutOf100": 98
+      },
+      {
+        "label": "Yıllık Patent Başvuru Sayısı",
+        "value": "238,000",
+        "unit": "Adet",
+        "scoreOutOf100": 92
+      },
+      {
+        "label": "Bin Kişi Başına Araştırmacı Sayısı",
+        "value": "8.8",
+        "unit": "Kişi",
+        "scoreOutOf100": 89
+      },
+      {
+        "label": "Yüksek Teknoloji İhracatının Payı",
+        "value": "32",
+        "unit": "%",
+        "scoreOutOf100": 91
+      },
+      {
+        "label": "Fiber İnternet Erişilebilirlik Oranı",
+        "value": "87",
+        "unit": "%",
+        "scoreOutOf100": 96
+      },
+      {
+        "label": "Bilimsel Yayın Sıralaması",
+        "value": "12",
+        "unit": "Sıra",
+        "scoreOutOf100": 83
+      }
+    ],
+    "notableAchievements": [
+      "Kayıtlı yerli roket KSLV-II (Nuri) ile uzaya bağımsız uydu fırlatma ve yörüngeye oturtma başarısı",
+      "DRAM ve NAND Flash bellek çip üretiminde onlarca yıldır küresel pazar liderliğinin sürdürülmesi",
+      "KSTAR yapay güneş (nükleer füzyon) reaktöründe 100 milyon derece plazma sıcaklığını rekor süre muhafaza etme başarısı",
+      "KF-21 Boramae 4.5 nesil gelişmiş savaş uçağının özgün imkanlarla tasarımı ve test uçuşlarının tamamlanması",
+      "OLED ve esnek ekran teknolojilerinin dünyadaki ilk ticari kitlesel üretimi"
+    ],
+    "institutions": [
+      {
+        "name": "KAIST (Kore İleri Bilim ve Teknoloji Enstitüsü)",
+        "type": "Universite",
+        "description": "Devlet tarafından kurulan ve mühendislik, robotik ile fen bilimlerinde Asya'nın en üst kademesinde yer alan araştırma üniversitesi."
+      },
+      {
+        "name": "KIST (Kore Bilim ve Teknoloji Enstitüsü)",
+        "type": "Arastirma Enstitusu",
+        "description": "1966'da kurulan, ülkenin sanayi hamlesine yön veren çok disiplinli ilk devlet araştırma enstitüsü."
+      },
+      {
+        "name": "KARI (Kore Havacılık ve Uzay Araştırmaları Enstitüsü)",
+        "type": "Uzay Ajansi",
+        "description": "Güney Kore'nin roket teknolojileri, fırlatma sistemleri ve Danuri Ay uydusu gibi uzay keşif projelerini yöneten resmi kurum."
+      },
+      {
+        "name": "Seul Ulusal Üniversitesi (SNU)",
+        "type": "Universite",
+        "description": "Temel bilimler, tıp ve mühendislik alanlarında küresel düzeyde prestije sahip ülkenin amiral gemisi üniversitesi."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:25:28.346Z"
+}

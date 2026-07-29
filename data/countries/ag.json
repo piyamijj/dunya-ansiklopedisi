@@ -1,0 +1,392 @@
+{
+  "meta": {
+    "code": "ag",
+    "iso3": "ATG",
+    "name_tr": "Antigua ve Barbuda",
+    "name_en": "Antigua and Barbuda",
+    "region": "Kuzey Amerika",
+    "capital_tr": "St. John's",
+    "flag_emoji": "🇦🇬"
+  },
+  "overview": "Antigua ve Barbuda, Karayip Denizi'nin doğusunda, Leeward Adaları grubunda yer alan bağımsız bir adalar devletidir. Ülke, ana adalar olan Antigua ve Barbuda'nın yanı sıra Redonda gibi insansız küçük adacıklardan oluşmaktadır. Başkenti ve en büyük liman şehri Antigua adasında bulunan St. John's'tur. İngiliz Milletler Topluluğu üyesi olan ülke; gelişmiş turizm sektörü, finansal hizmetleri ve stratejik konumuyla Doğu Karayipler'in kilit diplomatik ve ekonomik merkezlerinden biridir.",
+  "history": {
+    "summary": "Antigua ve Barbuda'nın tarihi M.Ö. 3000 civarına dayanan yerli halkların varlığıyla başlar. 1493 yılında Kristof Kolomb tarafından haritalanan adalar, 17. yüzyılda İngiliz sömürge yönetimi altına girmiştir. Şeker kamışı yetiştiriciliği ve köle ticaretiyle şekillenen sömürge dönemi, 1834'te köleliğin kaldırılmasıyla yeni bir sosyo-ekonomik evreye girmiştir. 1981 yılında Birleşik Krallık'tan bağımsızlığını kazanan ülke, günümüzde parlamenter demokrasiyle yönetilen istikrarlı bir adalar devletidir.",
+    "timeline": [
+      {
+        "year": "M.Ö. 3000",
+        "title": "Ciboney ve Aravak Yerleşimleri",
+        "description": "Adalara ilk olarak avcı-toplayıcı Ciboney halkı yerleşmiş, ardından seramik üreten ve tarımla uğraşan Aravak kabileleri adada hakimiyet kurmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1493",
+        "title": "Kristof Kolomb'un Keşfi",
+        "description": "İkinci Karayip seferi sırasında adayı gören Kristof Kolomb, buraya İspanya'daki Santa María la Antigua kilisesine ithafen Antigua adını vermiştir.",
+        "era": "Keşifler Çağı"
+      },
+      {
+        "year": "1632",
+        "title": "İngiliz Sömürgeciliğinin Başlangıcı",
+        "description": "Sir Thomas Warner önderliğindeki İngiliz yerleşimciler Antigua'ya çıkarak ilk kalıcı Avrupa kolonisini kurmuş ve tütün ile şeker üretimine başlamıştır.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1674",
+        "title": "Codrington Ailesi ve Şeker Kamışı Plantasyonları",
+        "description": "Christopher Codrington'ın adaya gelişiyle birlikte şeker kamışı temel ürün haline gelmiş ve Afrika'dan getirilen kölelerin emeğine dayalı plantasyon ekonomisi kurulmuştur.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1834",
+        "title": "Köleliğin Kaldırılması",
+        "description": "İngiliz İmparatorluğu genelinde kölelik yasaklanmış ve Antigua'daki binlerce Afrika kökenli insan özgürlüğüne kavuşarak yeni bir toplumsal düzen oluşturmuştur.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1939",
+        "title": "İşçi Hareketi ve Sendikalaşma",
+        "description": "Büyük Buhran'ın ekonomik etkileriyle tetiklenen işçi eylemleri sonucunda Antigua Sendikaları ve İşçi Partisi kurulmuş, siyasi bilinçlenme hız kazanmıştır.",
+        "era": "20. Yüzyıl"
+      },
+      {
+        "year": "1967",
+        "title": "Özerklik (Associated State) Statüsü",
+        "description": "Ülke, Birleşik Krallık ile ilişkili devlet statüsü kazanarak iç işlerinde tamamen özerk hale gelmiş, dış ilişkiler ve savunma sorumluluğu İngiltere'de kalmıştır.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1981",
+        "title": "Tam Bağımsızlık",
+        "description": "1 Kasım 1981 tarihinde Antigua ve Barbuda bağımsızlığını ilan etmiş, Birleşmiş Milletler ve Milletler Topluluğu'nun resmi üyesi olmuştur.",
+        "era": "Bağımsızlık Dönemi"
+      },
+      {
+        "year": "1995",
+        "title": "Luis Kasırgası Yıkımı",
+        "description": "Kategori 4 şiddetindeki Luis Kasırgası adadaki altyapıya ve turizm tesislerine ağır zarar vermiş, uzun süreli bir ekonomik recovery sürecini başlatmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2017",
+        "title": "Irma Kasırgası ve Barbuda'nın Tahliyesi",
+        "description": "Irma Kasırgası Barbuda adasındaki yapıların %95'ini tahrip etmiş, ada nüfusu geçici olarak tamamen Antigua'ya tahliye edilmiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Antigua ve Barbuda ekonomisi, ağırlıklı olarak hizmetler sektörüne ve özellikle uluslararası turizme dayalı bir yapı sergilemektedir. Gayrisafi yurtiçi hasılanın büyük bölümü lüks turizm, açık deniz finansal hizmetleri ve inşaat sektöründen elde edilmektedir. Son dönemde yenilenebilir enerji altyapısı, dijital göçebe programları ve Yatırım Yoluyla Vatandaşlık (CIP) gelirleri ekonomik çeşitliliği destekleyen ana unsurlar haline gelmiştir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "2.15",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "21,500",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "4.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Doğu Karayip Doları (XCD)",
+        "unit": "XCD",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "7.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "180",
+        "unit": "Milyon USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "720",
+        "unit": "Milyon USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Uluslararası Turizm ve Otelcilik",
+      "Açık Deniz Finansal Hizmetler ve Bankacılık",
+      "İnşaat ve Real Estate",
+      "Gemi Tescil ve Denizcilik Hizmetleri",
+      "Yenilenebilir Enerji Üretimi",
+      "İçecek ve Hafif İmalat Sanayii"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 6.9
+          },
+          {
+            "year": "2019",
+            "value": 4.8
+          },
+          {
+            "year": "2020",
+            "value": -17.5
+          },
+          {
+            "year": "2021",
+            "value": 6.6
+          },
+          {
+            "year": "2022",
+            "value": 8.5
+          },
+          {
+            "year": "2023",
+            "value": 5.8
+          },
+          {
+            "year": "2024",
+            "value": 4.5
+          },
+          {
+            "year": "2025",
+            "value": 4.2
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1981",
+        "title": "Serbest Pazar ve Turizm Odaklı Dönüşüm",
+        "description": "Bağımsızlık sonrası geleneksel tarım odaklı yapı terk edilerek uluslararası lüks turizme geçiş hamlesi başlatılmıştır.",
+        "era": "Bağımsızlık Sonrası"
+      },
+      {
+        "year": "1990",
+        "title": "Açık Deniz Bankacılık Mevzuatı",
+        "description": "Ülkeyi Karayipler'in finans merkezi haline getirmeyi amaçlayan uluslararası finansal hizmetler yasası yürürlüğe konmuştur.",
+        "era": "Modern Ekonomik Dönem"
+      },
+      {
+        "year": "2013",
+        "title": "Yatırım Yoluyla Vatandaşlık (CIP) Programı",
+        "description": "Doğrudan yabancı yatırımları çekmek ve devlet gelirlerini artırmak amacıyla Yatırım Yoluyla Vatandaşlık Programı başlatılmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2020",
+        "title": "Pandemi Sonrası Ekonomik Çeşitlendirme",
+        "description": "Küresel salgının turizm üzerindeki olumsuz etkilerini azaltmak için uzaktan çalışanlara yönelik dijital vize ve yeşil enerji yatırımları teşvik edilmiştir.",
+        "era": "Kriz ve İyileşme Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Antigua ve Barbuda, bağlantısızlık, Karayip entegrasyonu ve çok taraflı diplomasi ilkelerine dayalı bir dış politika yürütmektedir. Ülke, Doğu Karayip Devletleri Örgütü (OECS) ve CARICOM üyesi olarak bölgesel iş birliğine öncelik verirken, Amerika Birleşik Devletleri, Birleşik Krallık, Çin Halk Cumhuriyeti ve Avrupa Birliği ile dengeli ekonomik ve diplomatik ilişkiler sürdürmektedir.",
+    "alliances": [
+      {
+        "partner": "Doğu Karayip Devletleri Örgütü (OECS)",
+        "relationType": "Bölgesel Entegrasyon Ortaklığı",
+        "description": "Doğu Karayip adaları arasında ortak para birimi (XCD), yüksek mahkeme ve serbest dolaşım sağlayan derin entegrasyon modeli.",
+        "since": "1981"
+      },
+      {
+        "partner": "Karayip Topluluğu (CARICOM)",
+        "relationType": "Bölgesel Ticaret ve Politik Ortaklık",
+        "description": "Bölgesel ticaretin geliştirilmesi, dış politika koordinasyonu ve ortak pazar oluşturulması amacıyla yürütülen stratejik birlik.",
+        "since": "1974"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik ve Güvenlik Ortaklığı",
+        "description": "Deniz güvenliği, uyuşturucuyla mücadele, ticaret ve bölgesel istikrar konularında sürdürülen yakın ikili ilişkiler.",
+        "since": "1981"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Ekonomik ve Altyapı Kalkınma Ortaklığı",
+        "description": "Liman modernizasyonları, havaalanı terminalleri ve kamu altyapı projelerinde finansman ve teknik iş birliği.",
+        "since": "1983"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "OECS Basseterre Antlaşması",
+        "year": "1981",
+        "description": "Doğu Karayip Devletleri Örgütü'nü kuran ve üye ülkeler arasında ortak para birimi ile ekonomik politikaları düzenleyen antlaşma."
+      },
+      {
+        "name": "CARICOM Tek Pazar ve Ekonomi Antlaşması (CSME)",
+        "year": "1989",
+        "description": "Karayip ülkeleri arasında mal, hizmet, sermaye ve nitelikli iş gücünün serbest dolaşımını hedefleyen ekonomik çerçeve."
+      },
+      {
+        "name": "Paris İklim Anlaşması",
+        "year": "2016",
+        "description": "Küçük ada devletlerinin iklim değişikliği, deniz seviyesi yükselmesi ve kasırga risklerine karşı korunmasını içeren küresel taahhüt."
+      }
+    ],
+    "disputes": [],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1981"
+      },
+      {
+        "name": "Milletler Topluluğu",
+        "role": "Aktif Üye",
+        "joinedYear": "1981"
+      },
+      {
+        "name": "Amerikan Devletleri Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "1981"
+      },
+      {
+        "name": "Karayip Topluluğu (CARICOM)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1974"
+      },
+      {
+        "name": "Doğu Karayip Devletleri Örgütü (OECS)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1981"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Antigua ve Barbuda, anayasal monarşi ve parlamenter demokrasi ilkelerine dayanan üniter bir devlettir. İngiltere Kralı III. Charles, devlet başkanı konumunda olup ülkede bir Vali Genel tarafından temsil edilir. Hükümetin başında ise parlamentoda çoğunluğu sağlayan partinin lideri olan Başbakan bulunur. Siyasi yaşam genel olarak iki ana parti çevresinde şekillenen çok partili bir yapıya sahiptir.",
+    "governmentForm": "Anayasal Monarşi Altında Parlamenter Demokrasi",
+    "currentStructure": "Yürütme erki Başbakan ve Bakanlar Kurulu tarafından yönetilir. Yasama erki, 17 doğrudan seçilen üyeden oluşan Temsilciler Meclisi ve 17 atanmış üyeden oluşan Senato ile iki kamaralı parlamentodur. Yargı erki ise Doğu Karayip Yüksek Mahkemesi'ne bağlı olup nihai temyiz mercii Londra'daki Privy Council Kanun Komitesi'dir.",
+    "timeline": [
+      {
+        "year": "1951",
+        "title": "Genel Oy Hakkının Tanınması",
+        "description": "Yetişkin nüfusun tamamına seçme ve seçilme hakkı tanınarak demokratik kurumların temeli atılmıştır.",
+        "era": "Sömürge Siyaseti"
+      },
+      {
+        "year": "1967",
+        "title": "İç İşlerinde Özerklik Anayasası",
+        "description": "Birleşik Krallık ile yapılan düzenlemeyle ülkenin kendi kendini yönetme mekanizmaları hukuki statü kazanmıştır.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1981",
+        "title": "Bağımsızlık Anayasasının Kabulü",
+        "description": "İnsan haklarını, yargı bağımsızlığını ve parlamenter demokrasi ilkelerini güvence altına alan bağımsızlık anayasası yürürlüğe girmiştir.",
+        "era": "Bağımsızlık Dönemi"
+      },
+      {
+        "year": "1981",
+        "title": "Vere Bird'in İlk Başbakanlığı",
+        "description": "İşçi hareketinin lideri Vere Cornwall Bird, bağımsız Antigua ve Barbuda'nın ilk başbakanı olmuştur.",
+        "era": "Siyasi Şekillenme"
+      },
+      {
+        "year": "1994",
+        "title": "Lester Bird Dönemi",
+        "description": "Vere Bird'in emekli olmasının ardından oğlu Lester Bird başbakanlık görevini devralmış ve serbest piyasa reformlarını sürdürmüştür.",
+        "era": "Siyasi Süreklilik"
+      },
+      {
+        "year": "2004",
+        "title": "İktidar Değişimi ve UPP Yönetimi",
+        "description": "Birleşik İlerici Parti (UPP) seçimleri kazanarak Baldwin Spencer liderliğinde onlarca yıllık Antigua İşçi Partisi iktidarına son vermiştir.",
+        "era": "Demokratik Değişim"
+      },
+      {
+        "year": "2014",
+        "title": "Gaston Browne ve ABLP'nin Dönüşü",
+        "description": "Antigua ve Barbuda İşçi Partisi (ABLP) seçimleri kazanmış ve Gaston Browne başbakanlık koltuğuna oturmuştur.",
+        "era": "Çağdaş Siyaset"
+      },
+      {
+        "year": "2023",
+        "title": "Gaston Browne'un Üçüncü Dönemi",
+        "description": "Yapılan genel seçimlerde ABLP çoğunluğu korumuş ve Gaston Browne üst üste üçüncü kez başbakan olarak göreve başlamıştır.",
+        "era": "Güncel Siyaset"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Antigua ve Barbuda, bilimsel araştırma kapasitesini özellikle deniz ekolojisi, iklim değişikliğine uyum, yenilenebilir enerji altyapısı ve tıp eğitimi alanlarında geliştirmektedir. Ada ülkesi olması nedeniyle küresel iklim krizinin yerel etkilerini inceleyen çevresel araştırmalara öncelik verilmektedir. Ayrıca uluslararası tıp eğitimi kurumları ülkeyi bölgesel bir medikal eğitim merkezi haline getirmiştir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.22",
+        "unit": "%",
+        "scoreOutOf100": 25
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "85",
+        "unit": "Adet",
+        "scoreOutOf100": 30
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "24.5",
+        "unit": "%",
+        "scoreOutOf100": 45
+      },
+      {
+        "label": "Yenilenebilir Enerji Üretim Payı",
+        "value": "18.2",
+        "unit": "%",
+        "scoreOutOf100": 55
+      },
+      {
+        "label": "İnternet Erişimi Oranı",
+        "value": "88.0",
+        "unit": "%",
+        "scoreOutOf100": 80
+      }
+    ],
+    "notableAchievements": [
+      "Karayipler genelinde mercan resiflerinin korunması ve restorasyonuna yönelik deniz ekolojisi projeleri",
+      "Barbuda adasında %100 yeşil enerji destekli dirençli mikro-şebeke altyapı projesinin hayata geçirilmesi",
+      "Kuzey Amerika standartlarında uluslararası tıp eğitimi veren akredite tıp fakülteleri ağının kurulması",
+      "Küçük Ada Devletleri (SIDS) iklim direnci ve sürdürülebilir kalkınma veri modellerine katkı sağlanması"
+    ],
+    "institutions": [
+      {
+        "name": "West Indies Üniversitesi Beş Adalar Kampüsü (UWI Five Islands)",
+        "type": "Universite",
+        "description": "Karayipler'in en köklü üniversite ağının beşinci kampüsü olup bilgi teknolojileri, eğitim ve yönetim bilimlerinde bölgesel eğitim sunmaktadır."
+      },
+      {
+        "name": "Amerikan Antigua Üniversitesi Tıp Fakültesi (AUA)",
+        "type": "Universite",
+        "description": "Uluslararası düzeyde tıp eğitimi sağlayan, klinik araştırmalar yürüten ve bölgenin sağlık diplomasisine katkı sunan saygın bir tıp fakültesi."
+      },
+      {
+        "name": "Doğu Karayip Deniz ve Çevre Araştırma Merkezi",
+        "type": "Arastirma Enstitusu",
+        "description": "Deniz biyolojisi, mercan ekosistemleri ve küresel ısınmanın adalar üzerindeki etkilerini inceleyen uzman araştırma kurumu."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:34:10.078Z"
+}

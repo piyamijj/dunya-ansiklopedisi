@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "code": "tr",
+    "iso3": "TUR",
+    "name_tr": "Türkiye",
+    "name_en": "Turkey",
+    "region": "Asya",
+    "capital_tr": "Ankara",
+    "flag_emoji": "🇹🇷"
+  },
+  "overview": "Türkiye, Doğu Avrupa ile Batı Asya'nın kesişim noktasında, Anadolu ve Trakya toprakları üzerinde yer alan jeopolitik açıdan kritik bir transkontinental ülkedir. Kuzeyde Karadeniz, güneyde Akdeniz ve batıda Ege Denizi ile çevrili olan ülke, İstanbul ve Çanakkale Boğazları sayesinde Karadeniz'i açık denizlere bağlayan stratejik bir su yolunu kontrol etmektedir. Tarih boyunca birçok köklü medeniyete ev sahipliği yapmış olan Türkiye, zengin tarihsel mirası, dinamik sanayi yapısı ve jeostratejik konumuyla bölgesel ve küresel politikada etkin bir rol üstlenmektedir. Üniter yapıda kurulan ve Cumhurbaşkanlığı Hükümet Sistemi ile yönetilen cumhuriyet; Birleşmiş Milletler, NATO, G20 ve Türk Devletleri Teşkilatı gibi uluslararası kuruluşların aktif bir üyesidir.",
+  "history": {
+    "summary": "Anadolu toprakları, insanoğlunun yerleşik hayata geçtiği bilinen en eski merkezlerden biri olup Hitit, Frig, İyonya, Roma, Bizans, Selçuklu ve Osmanlı gibi dünyaya yön veren devlet ve imparatorluklara ev sahipliği yapmıştır. 1453 yılında İstanbul'un fethiyle küresel bir güç haline gelen Osmanlı İmparatorlığı, Birinci Dünya Savaşı sonrasında çözülme sürecine girmiştir. Mustafa Kemal Atatürk önderliğinde yürütülen Millî Mücadele'nin ardından 29 Ekim 1923'te kurulan modern Türkiye Cumhuriyeti, laik ve batılılaşma odaklı reformlarla çağdaş bir ulus devlete dönüşmüştür.",
+    "timeline": [
+      {
+        "year": "M.Ö. 9600",
+        "title": "Göbeklitepe ve İlk İbadethane Yapıları",
+        "description": "Şanlıurfa yakınlarındaki Göbeklitepe, insanlık tarihinin bilinen en eski megalitik tapınak kompleksi olarak avcı-toplayıcı toplumlardan yerleşik düzene geçişin simgesi olmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 1600",
+        "title": "Hitit İmparatorluğu'nun Kurulması",
+        "description": "Anadolu merkezli ilk büyük imparatorluk olan Hititler, Hattuşa merkezli bir uygarlık kurarak Kadeş Antlaşması gibi yazılı diplomasinin ilk örneklerine imza atmıştır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1071",
+        "title": "Malazgirt Meydan Muharebesi",
+        "description": "Büyük Selçuklu Devleti Hükümdarı Alparslan'ın Bizans İmparatorluğu'nu mağlup etmesiyle Türk topluluklarının Anadolu'ya kitleler halinde yerleşme süreci hız kazanmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1299",
+        "title": "Osmanlı Beyliği'nin Kuruluşu",
+        "description": "Söğüt ve Domaniç çevresinde Osman Bey tarafından kurulan beylik, zamanla üç kıtaya yayılan uluslararası bir imparatorluk yapısına dönüşmüştür.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1453",
+        "title": "İstanbul'un Fethi",
+        "description": "Fatih Sultan Mehmed'in Doğu Roma İmparatorluğu'nun başkentini ele geçirmesiyle Orta Çağ kapanmış, Osmanlı İmparatorlığı bir cihan devleti statüsü kazanmıştır.",
+        "era": "Yeni Çağ"
+      },
+      {
+        "year": "1915",
+        "title": "Çanakkale Savaşları",
+        "description": "Birinci Dünya Savaşı sırasında Müttefik donanmalarına karşı yürütülen savunma harekâtı, Millî Mücadele ruhunun şekillenmesinde tarihsel bir dönüm noktası olmuştur.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1919-1922",
+        "title": "Kurtuluş Savaşı ve Millî Mücadele",
+        "description": "Mustafa Kemal Paşa önderliğinde işgal güçlerine karşı başlatılan askeri ve siyasi mücadele, Sevr Antlaşması'nı hükümsüz kılarak tam bağımsızlığı sağlamıştır.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1923",
+        "title": "Türkiye Cumhuriyeti'nin İlanı",
+        "description": "Türkiye Büyük Millet Meclisi tarafından cumhuriyet rejiminin kabul edilmesiyle bağımsız ve modern Türkiye Cumhuriyeti devleti resmen kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1952",
+        "title": "NATO Üyeliği",
+        "description": "İkinci Dünya Savaşı sonrası değişen küresel dengeler doğrultusunda Türkiye, Batı ittifakı ve savunma bloğu olan NATO'ya resmen üye olmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1974",
+        "title": "Kıbrıs Barış Harekâtı",
+        "description": "Garantörlük haklarına dayanılarak gerçekleştirilen askeri askerî müdahale sonucunda adamın kuzeyinde Kıbrıs Türklerinin güvenliği tesis edilmiştir.",
+        "era": "Modern Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Türkiye ekonomisi, gelişmekte olan piyasa ekonomileri sınıfında yer alan, güçlü imalat sanayii, dinamik hizmetler sektörü ve geniş iç pazarı ile öne çıkan bir yapıdır. Otomotiv, savunma sanayii, tekstil, tarım ve turizm temel lokomotif sektörler arasındadır. Yüksek coğrafi entegrasyonu ve Avrupa Birliği ile olan Gümrük Birliği sayesinde güçlü bir ihracat kapasitesine sahiptir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "1.1 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "13,100",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "261.5 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı (TÜFE)",
+        "value": "38.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "8.6",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Türk Lirası (TRY)",
+        "unit": "TRY",
+        "year": "2025"
+      },
+      {
+        "label": "Doğrudan Yabancı Yatırım Girişi",
+        "value": "10.5 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Otomotiv ve Yan Sanayi",
+      "Savunma ve Havacılık Sanayii",
+      "Tekstil ve Hazır Giyim",
+      "Demir-Çelik ve Metal Sanayii",
+      "Turizm ve Otelcilik Hizmetleri",
+      "İnşaat ve Uluslararası Müteahhitlik"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 3
+          },
+          {
+            "year": "2019",
+            "value": 0.8
+          },
+          {
+            "year": "2020",
+            "value": 1.9
+          },
+          {
+            "year": "2021",
+            "value": 11.4
+          },
+          {
+            "year": "2022",
+            "value": 5.5
+          },
+          {
+            "year": "2023",
+            "value": 4.5
+          },
+          {
+            "year": "2024",
+            "value": 3.2
+          },
+          {
+            "year": "2025",
+            "value": 3.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1923",
+        "title": "İzmir İktisat Kongresi",
+        "description": "Yeni kurulan devletin ekonomi politikalarının temellerinin atıldığı ve millî sanayileşme stratejisinin benimsendiği kongredir.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1980",
+        "title": "24 Ocak Kararları",
+        "description": "İthal ikameci ekonomik modelden vazgeçilerek dışa açık, ihracata dayalı serbest piyasa ekonomisine geçişi sağlayan kararlar alınmıştır.",
+        "era": "Modern Ekonomi Dönemi"
+      },
+      {
+        "year": "1996",
+        "title": "AB ile Gümrük Birliği'nin Yürürlüğe Girmesi",
+        "description": "Türkiye ile Avrupa Birliği arasındaki sanayi ürünleri ticaretinde gümrük vergilerinin sıfırlanması ve sanayi altyapısının uluslararası rekabete entegre olması sağlanmıştır.",
+        "era": "Modern Ekonomi Dönemi"
+      },
+      {
+        "year": "2001",
+        "title": "Güçlü Ekonomiye Geçiş Programı",
+        "description": "2001 finansal krizinin ardından uygulanan kapsamlı bankacılık ve kamu maliyesi reformları ile finansal sistem yeniden yapılandırılmıştır.",
+        "era": "Yakın Dönem Reformları"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Türkiye, coğrafi konumunun getirdiği çok yönlülük gereği geleneksel Batı ittifakı (NATO, AB) ile bağlarını korurken, Ortadoğu, Kafkaslar, Orta Asya ve Afrika bölgelerinde de proaktif ve dengeye dayalı bir diplomatik vizyon izlemektedir. Bölgesel arabuluculuk rolleri ve insani yardım diplomasisi ülkenin dış politika unsurlarındandır.",
+    "alliances": [
+      {
+        "partner": "NATO",
+        "relationType": "Askeri Müttefiklik",
+        "description": "Türkiye, 1952 yılından bu yana NATO'nun ikinci büyük kara gücü olarak ittifakın güneydoğu kanadının güvenliğini sağlamaktadır.",
+        "since": "1952"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Adaylık ve Ticaret Ortaklığı",
+        "description": "1963 Ankara Anlaşması ile başlayan kurumsal ilişkiler, adaylık statüsü ve Gümrük Birliği çerçevesinde kapsamlı ekonomik entegrasyonla sürdürülmektedir.",
+        "since": "1963"
+      },
+      {
+        "partner": "Türk Devletleri Teşkilatı",
+        "relationType": "Kurucu Kurumsal İttifak",
+        "description": "Türk dilli ülkeler arasında siyasi, ekonomik, kültürel ve güvenlik alanlarında iş birliğini hedefleyen uluslararası örgüttür.",
+        "since": "2009"
+      },
+      {
+        "partner": "Azerbaycan",
+        "relationType": "Stratejik Müttefiklik",
+        "description": "'Tek millet, iki devlet' ilkesi çerçevesinde enerji, savunma ve dış politikada en üst düzeyde stratejik iş birliği yürütülmektedir.",
+        "since": "1991"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Lozan Barış Antlaşması",
+        "year": "1923",
+        "description": "Türkiye Cumhuriyeti'nin uluslararası alanda bağımsız bir devlet olarak tanınmasını sağlayan ve çağdaş sınırlarını çizen temel kurucu antlaşmadır."
+      },
+      {
+        "name": "Montrö Boğazlar Sözleşmesi",
+        "year": "1936",
+        "description": "İstanbul ve Çanakkale Boğazları üzerindeki egemenlik haklarını Türkiye'ye devreden ve savaş gemilerinin geçiş rejimini düzenleyen uluslararası hukuki metindir."
+      },
+      {
+        "name": "Ankara Anlaşması",
+        "year": "1963",
+        "description": "Türkiye ile Avrupa Ekonomik Topluluğu arasında ortaklık yaratan ve nihai hedef olarak tam üyeliği öngören temel belgedir."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Yunanistan",
+        "relationType": "Anlasmazlik",
+        "description": "Ege Denizi'nde kara sularının genişliği, kıta sahanlığı sınırları, hava sahası ihlalleri ve adaların silahlandırılması konularında devam eden hukuki ve siyasi görüş ayrılıkları mevcuttur.",
+        "since": "1973"
+      },
+      {
+        "partner": "Kıbrıs Sorunu Tarafları",
+        "relationType": "Anlasmazlik",
+        "description": "Kıbrıs Adası'nın siyasi statüsü, egemenlik paylaşımı ve Doğu Akdeniz'deki deniz yetki alanlarının belirlenmesi konusundaki diplomatik anlaşmazlık sürmektedir.",
+        "since": "1964"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "NATO",
+        "role": "Aktif Üye",
+        "joinedYear": "1952"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "Türk Devletleri Teşkilatı",
+        "role": "Kurucu Üye",
+        "joinedYear": "2009"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Aday Ülke",
+        "joinedYear": "1999"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Türkiye'nin siyasi kültürü, Osmanlı Tanzimat reformlarından bu yana devam eden anayasal geleneklere ve cumhuriyet dönemi demokratik tecrübelere dayanmaktadır. 1946 yılında çok partili hayata geçilmesinin ardından Türkiye, dönemsel anayasal revizyonlar ve askeri müdahaleler yaşamış; son olarak 2017 referandumu ile parlamenter sistemden Cumhurbaşkanlığı Hükümet Sistemi'ne geçiş yapmıştır.",
+    "governmentForm": "Cumhurbaşkanlığı Hükümet Sistemi ile Yönetilen Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erki, doğrudan halk tarafından seçilen Cumhurbaşkanı tarafından idare edilir. Yasama yetkisi, 600 sandalyeli Türkiye Büyük Millet Meclisine (TBMM) aittir. Yargı yetkisi ise Anayasa Mahkemesi, Yargıtay ve Danıştay gibi yüksek mahkemelerin başında bulunduğu bağımsız ve tarafsız mahkemelerce icra edilir.",
+    "timeline": [
+      {
+        "year": "1876",
+        "title": "Kanun-ı Esasi ve I. Meşrutiyet",
+        "description": "Türk tarihinin ilk yazılı anayasası yürürlüğe girmiş ve Meclis-i Mebusan açılmıştır.",
+        "era": "Osmanlı Dönemi"
+      },
+      {
+        "year": "1920",
+        "title": "Türkiye Büyük Millet Meclisinin Açılışı",
+        "description": "Ankara'da toplanan meclis, egemenliğin kayıtsız şartsız millete ait olduğunu ilan ederek Millî Mücadele'yi yönetmiştir.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1921",
+        "title": "1921 Anayasası (Teşkilat-ı Esasiye)",
+        "description": "Yeni devletin ilk çerçeve anayasası kabul edilerek meclis hükümeti sistemi yasal zemine oturtulmuştur.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1924",
+        "title": "1924 Anayasası'nın Kabulü",
+        "description": "Cumhuriyet rejiminin kurumsallaşmasını sağlayan ve uzun yıllar yürürlükte kalan kapsamlı anayasa yürürlüğe girmiştir.",
+        "era": "Erken Cumhuriyet"
+      },
+      {
+        "year": "1946",
+        "title": "Çok Partili Siyasi Hayata Geçiş",
+        "description": "Tek parti döneminin ardından çok sayıda siyasi partinin katıldığı ilk genel seçimler gerçekleştirilmiştir.",
+        "era": "Demokratikleşme Dönemi"
+      },
+      {
+        "year": "1961",
+        "title": "1961 Anayasası ve Anayasa Mahkemesi",
+        "description": "Çift meclisli sistemi getiren ve yargısal denetim organı olarak Anayasa Mahkemesini kuran anayasa kabul edilmiştir.",
+        "era": "Anayasal Reform Dönemi"
+      },
+      {
+        "year": "1982",
+        "title": "1982 Anayasası'nın Kabulü",
+        "description": "1980 askeri müdahalesinin ardından hazırlanan ve günümüzde de üzerinde çeşitli değişikliklerle uygulanan anayasa halkoyuna sunulmuştur.",
+        "era": "Modern Siyaset Dönemi"
+      },
+      {
+        "year": "2007",
+        "title": "Cumhurbaşkanının Halk Tarafından Seçilmesi Referandumu",
+        "description": "Cumhurbaşkanının meclis yerine doğrudan halk oyuyla seçilmesini öngören anayasa değişikliği kabul edilmiştir.",
+        "era": "Yakın Siyasi Tarih"
+      },
+      {
+        "year": "2017",
+        "title": "Cumhurbaşkanlığı Hükümet Sistemine Geçiş",
+        "description": "Yapılan anayasa değişikliği referandumu ile bakanlar kurulu kaldırılmış ve icracı cumhurbaşkanlığı sistemine geçilmiştir.",
+        "era": "Güncel Siyasi Sistem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Türkiye, son yıllarda Ar-Ge harcamalarını artırarak özellikle savunma teknolojileri, havacılık, uzay araştırmaları, yazılım ve biyomedikal alanlarında önemli hamleler gerçekleştirmiştir. TÜBİTAK ve Türkiye Uzay Ajansı koordinasyonunda ulusal teknoloji hamlesi vizyonu doğrultusunda nitelikli insan kaynağı ve teknopark altyapısı güçlendirilmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.32",
+        "unit": "%",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Toplam Tam Zaman Eşdeğer Araştırmacı Sayısı",
+        "value": "272,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 70
+      },
+      {
+        "label": "Yıllık Yerli Patent Başvuru Sayısı",
+        "value": "9,500",
+        "unit": "Adet",
+        "scoreOutOf100": 65
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "39",
+        "unit": "Sıra",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Yıllık Uluslararası Bilimsel Yayın Sayısı",
+        "value": "48,000",
+        "unit": "Adet",
+        "scoreOutOf100": 74
+      }
+    ],
+    "notableAchievements": [
+      "Bayraktar TB2, Akıncı ve KIZILELMA gibi özgün insansız hava harp platformlarının milli imkanlarla geliştirilmesi.",
+      "Türkiye'nin ilk yerli ve milli elektrikli otomobili TOGG'un seriye üretilerek piyasaya sunulması.",
+      "Türksat 6A haberleşme uydusunun yerli imkanlarla tasarlanıp uzaya fırlatılması.",
+      "İMECE yüksek çözünürlüklü metre-altı gözlem uydusunun yörüngeye başarıyla yerleştirilmesi.",
+      "İlk Türk astronotun Uluslararası Uzay İstasyonu'na (ISS) gönderilerek mikroçekim ortamında bilimsel deneyler gerçekleştirmesi."
+    ],
+    "institutions": [
+      {
+        "name": "TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu)",
+        "type": "Arastirma Enstitusu",
+        "description": "Ülkedeki bilim ve teknoloji politikalarını fonlayan, stratejik Ar-Ge merkezlerini bünyesinde barındıran çatı araştırma kurumudur."
+      },
+      {
+        "name": "TUA (Türkiye Uzay Ajansı)",
+        "type": "Uzay Ajansi",
+        "description": "Ulusal Uzay Programı'nı yürüten, uydu teknolojileri ve uzay araştırmalarından sorumlu devlet organıdır."
+      },
+      {
+        "name": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+        "type": "Universite",
+        "description": "Mühendislik ve fen bilimleri alanında uluslararası düzeyde araştırmalar yapan önde gelen teknik üniversitedir."
+      },
+      {
+        "name": "İstanbul Teknik Üniversitesi (İTÜ)",
+        "type": "Universite",
+        "description": "250 yılı aşkın köklü geçmişiyle mühendislik, havacılık ve denizcilik teknolojilerinde öncü olan yükseköğretim kurumudur."
+      },
+      {
+        "name": "Boğaziçi Üniversitesi",
+        "type": "Universite",
+        "description": "Temel bilimler, sosyal bilimler ve veri mühendisliği alanlarında nitelikli araştırmalara imza atan saygın akademik merkezdir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:57:45.286Z"
+}

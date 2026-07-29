@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "code": "cn",
+    "iso3": "CHN",
+    "name_tr": "Çin",
+    "name_en": "China",
+    "region": "Asya",
+    "capital_tr": "Pekin",
+    "flag_emoji": "🇨🇳"
+  },
+  "overview": "Doğu Asya'da geniş bir coğrafyaya yayılan Çin Halk Cumhuriyeti, dünyanın en kalabalık ülkelerinden biri ve yüzölçümü bakımından dördüncü büyük ülkesidir. Binlerce yıllık kesintisiz kültürel ve tarihsel mirasa sahip olan ülke, günümüzde küresel siyasi ve ekonomik dengelerde belirleyici bir güç konumundadır. Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyelerinden biri olan Çin, devasa sanayi kapasitesi, teknolojik atılımları ve küresel ticaret ağlarıyla uluslararası sistemde merkezi bir role sahiptir.",
+  "history": {
+    "summary": "Çin tarihi, Sarı Nehir ve İpek Nehir havzalarında gelişen antik uygarlıklardan başlayarak binlerce yıllık hanedanlar silsilesine dayanmaktadır. 1912'de son hanedanın yıkılmasıyla cumhuriyet dönemine geçilmiş, 1949'da Çin Komünist Partisi önderliğinde Çin Halk Cumhuriyeti kurulmuştur. 1970'lerin sonundan itibaren uygulanan pazar odaklı ekonomik reformlar, ülkeyi küresel bir ekonomik süper güce dönüştürmüştür.",
+    "timeline": [
+      {
+        "year": "M.Ö. 221",
+        "title": "Qin Hanedanlığı ve Çin'in Birleşmesi",
+        "description": "Savaşan Devletler Dönemi'nin ardından Qin Shi Huang, tüm Çin hanedanlıklarını tek bir merkezi imparatorluk altında birleştirmiş ve ilk Çin İmparatoru olmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 206 - M.S. 220",
+        "title": "Han Hanedanlığı ve İpek Yolu'nun Doğuşu",
+        "description": "Çin kültürünün altın çağlarından biri yaşanmış, konfüçyüsçülük devlet felsefesi haline gelmiş ve Batı ile ticareti sağlayan İpek Yolu ağı kurulmuştur.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "618 - 907",
+        "title": "Tang Hanedanlığı Dönemi",
+        "description": "Kültür, sanat, şiir ve dış ticarette büyük bir patlama yaşanmış; Çin, dönemin dünyasının en gelişmiş kozmopolit uygarlığı haline gelmiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1279 - 1368",
+        "title": "Yuan Hanedanlığı ve Moğol Egemenliği",
+        "description": "Kubilay Han önderliğindeki Moğollar Çin'i fethederek Yuan Hanedanlığı'nı kurmuş, Avrasya genelinde ticari ve kültürel temaslar artmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1368 - 1644",
+        "title": "Ming Hanedanlığı ve Yasak Şehir",
+        "description": "Yerli Çin yönetimi yeniden tesis edilmiş, Çin Seddi büyük oranda bugünkü haline getirilmiş ve başkent Pekin'deki Yasak Şehir inşa edilmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1644 - 1912",
+        "title": "Qing Hanedanlığı ve Son İmparatorluk",
+        "description": "Mançular tarafından kurulan son emperyal hanedanlıktır. Ülke sınırları en geniş halini almış, ancak son dönemlerinde Batılı güçlerin müdahalesine açık hale gelmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1839 - 1860",
+        "title": "Afyon Savaşları ve Eşitsiz Antlaşmalar",
+        "description": "Büyük Britanya ve Avrupalı devletlerle yapılan savaşlar sonucunda Çin limanları dış ticarete açılmak zorunda kalmış ve Hong Kong İngiltere'ye devredilmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1911 - 1912",
+        "title": "Xinhai Devrimi ve Cumhuriyeti İlanı",
+        "description": "Qing Hanedanlığı devrilmiş, 2000 yıllık imparatorluk rejimi sona ermiş ve Sun Yat-sen önderliğinde Çin Cumhuriyeti kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1937 - 1945",
+        "title": "İkinci Çin-Japon Savaşı",
+        "description": "Japonya'nın Çin'i işgaliyle başlayan geniş çaplı savaş, II. Dünya Savaşı'nın Asya cephesini oluşturmuş ve ağır insani kayıplara yol açmıştır.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1949",
+        "title": "Çin Halk Cumhuriyeti'nin Kuruluşu",
+        "description": "İç savaşın Milliyetçilere karşı Komünistlerin zaferiyle sonuçlanmasının ardından Mao Zedong, 1 Ekim 1949'da Pekin'de Çin Halk Cumhuriyeti'ni ilan etmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1966 - 1976",
+        "title": "Büyük Kültür Devrimi",
+        "description": "Mao Zedong tarafından başlatılan sosyo-politik hareket, toplumsal yapıda, eğitimde ve idari kurumlarda derin izler ve çalkantılar bırakmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1978",
+        "title": "Reform ve Dışa Açılma Politikası",
+        "description": "Deng Xiaoping liderliğinde pazar ekonomisine kademeli geçişi ve yabancı yatırımları teşvik eden tarihi ekonomik reform dönemi başlatılmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1997",
+        "title": "Hong Kong'un Çin'e Devri",
+        "description": "Birleşik Krallık idaresindeki Hong Kong, 'Tek Ülke, İki Sistem' ilkesi çerçevesinde özel idari bölge statüsüyle Çin egemenliğine devredilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2008",
+        "title": "Pekin Yaz Olimpiyatları",
+        "description": "Çin, geniş kapsamlı bir altyapı hamlesi ve organizasyonla küresel sahnedeki yükselen ekonomik ve kültürel gücünü sergilemiştir.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Çin ekonomisi, 1978 yılında başlatılan pazar odaklı reformlardan bu yana dünyanın en hızlı büyüyen büyük ekonomilerinden biridir. Satın alma gücü paritesine göre dünyanın en büyük, nominal olarak ise ikinci en büyük ekonomisine sahip olan ülke; imalat sanayisi, yüksek teknoloji üretimi, ihracat gücü ve devasa altyapı projeleriyle küresel tedarik zincirlerinin merkezinde yer almaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "18.5 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "13,100",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "4.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "1.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "5.0",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "3.55 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Çin Yuanı / Renminbi (CNY)",
+        "unit": "CNY",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Elektronik ve İletişim Ekipmanları",
+      "Otomotiv ve Elektrikli Araçlar (EV)",
+      "Ağır Sanayi ve Çelik Üretimi",
+      "Yenilenebilir Enerji ve Güneş Panelleri",
+      "Tekstil ve Hazır Giyim",
+      "Yapay Zeka ve Bilişim Hizmetleri",
+      "Biyoteknoloji ve İlaç"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı Trendi",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 6.75
+          },
+          {
+            "year": "2019",
+            "value": 5.95
+          },
+          {
+            "year": "2020",
+            "value": 2.24
+          },
+          {
+            "year": "2021",
+            "value": 8.45
+          },
+          {
+            "year": "2022",
+            "value": 2.99
+          },
+          {
+            "year": "2023",
+            "value": 5.2
+          },
+          {
+            "year": "2024",
+            "value": 4.8
+          },
+          {
+            "year": "2025",
+            "value": 4.5
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1978",
+        "title": "Reform ve Dışa Açılma Hamlesi",
+        "description": "Tarımda tarım hanehalkı sorumluluk sisteminin getirilmesi ve özel teşebbüse kademeli izin verilmesiyle modern Çin ekonomisinin temelleri atıldı.",
+        "era": "Modern Reform Dönemi"
+      },
+      {
+        "year": "1980",
+        "title": "İlk Özel Ekonomik Bölgelerin Kurulması",
+        "description": "Shenzhen dahil olmak üzere kıyı kentlerinde yabancı yatırımları ve ihracatı teşvik eden vergi muafiyetli özel ekonomik bölgeler oluşturuldu.",
+        "era": "Modern Reform Dönemi"
+      },
+      {
+        "year": "2001",
+        "title": "Dünya Ticaret Örgütü'ne (DTÖ) Üyelik",
+        "description": "Çin'in DTÖ'ye katılımı, ülkenin küresel ticaret sistemine entegrasyonunu hızlandırarak uluslararası yatırımların ve ihracatın katlanmasını sağladı.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2013",
+        "title": "Kuşak ve Yol İnisiyatifi'nin Başlatılması",
+        "description": "Asya, Avrupa ve Afrika arasında ticaret ağlarını, altyapı projelerini ve liman bağlantılarını güçlendirmeyi amaçlayan devasa küresel yatırım vizyonu duyuruldu.",
+        "era": "Küresel Genişleme Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Çin'in dış politikası; bağımsızlık, egemenlik, toprak bütünlüğü ve müdahale etmeme ilkelerine dayandığını beyan eder. Çok kutuplu küresel düzeni savunan Pekin; Küresel Güney ülkeleriyle ilişkilerini güçlendirmekte, küresel altyapı projeleri yürütmekte ve Batılı güçlerle stratejik rekabet ve ticaret ortaklığı arasında dengeli bir hat izlemektedir.",
+    "alliances": [
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Enerji, savunma, ticaret ve küresel diplomaside sınırsız ortaklık olarak tanımlanan derin stratejik iş birliği yürütülmektedir.",
+        "since": "1996"
+      },
+      {
+        "partner": "Pakistan",
+        "relationType": "Her Hava Koşuluna Uygun Stratejik Ortaklık",
+        "description": "Çin-Pakistan Ekonomik Koridoru (CPEC) başta olmak üzere askeri ve ekonomik alanlarda üst düzey yakın stratejik ilişkiler mevcuttur.",
+        "since": "1951"
+      },
+      {
+        "partner": "ASEAN Grubu",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Güneydoğu Asya Ülkeleri Birliği ile bölgesel serbest ticaret, tedarik zincirleri ve ekonomik entegrasyon odaklı ilişkiler sürdürülmektedir.",
+        "since": "1991"
+      },
+      {
+        "partner": "Afrika Birliği",
+        "relationType": "Ekonomik ve Kalkınma Ortaklığı",
+        "description": "Çin-Afrika İşbirliği Forumu (FOCAC) aracılığıyla kıta genelinde altyapı, madencilik ve ticaret alanında geniş yatırımlar gerçekleştirilmektedir.",
+        "since": "2000"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Çin-Rusya İyikomşuluk, Dostluk ve İşbirliği Antlaşması",
+        "year": "2001",
+        "description": "İki ülke arasındaki kara sınır anlaşmazlıklarını nihai olarak çözüme kavuşturmuş ve uzun vadeli stratejik güven ortamını sağlamıştır."
+      },
+      {
+        "name": "Bölgesel Kapsamlı Ekonomik Ortaklık (RCEP)",
+        "year": "2020",
+        "description": "Asya-Pasifik bölgesindeki 15 ülkeyi kapsayan ve küresel GSYİH'nin yaklaşık üçte birini oluşturan serbest ticaret anlaşmasıdır."
+      },
+      {
+        "name": "Çin-İngiltere Ortak Deklarasyonu",
+        "year": "1984",
+        "description": "Hong Kong'un devir şartlarını ve 'Tek Ülke, İki Sistem' idari yapısının ilkelerini belirleyen diplomatik belgedir."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Tayvan (Çin Cumhuriyeti)",
+        "relationType": "Egemenlik ve Statü Anlaşmazlığı",
+        "description": "Pekin, 'Tek Çin' ilkesi doğrultusunda Tayvan'ı kendi ayrılmaz bir parçası olarak görürken; Tayvan kendi anayasası ve seçilmiş hükümetiyle de facto bağımsız bir yapı sürdürmektedir.",
+        "since": "1949"
+      },
+      {
+        "partner": "Güney Çin Denizi Kıyı Komşuları",
+        "relationType": "Deniz Yetki Alanları ve Ada İhtilafları",
+        "description": "Çin, tarihsel iddialara dayanarak Güney Çin Denizi'nin büyük bölümünde egemenlik savunurken; Filipinler, Vietnam, Malezya ve Brunei ile kıta sahanlığı çakışmaları yaşanmaktadır.",
+        "since": "1947"
+      },
+      {
+        "partner": "Hindistan",
+        "relationType": "Sınır Anlaşmazlığı",
+        "description": "Himalayalar bölgesindeki Aksai Çin ve Arunachal Pradesh hatlarında belirlenmemiş sınır çizgisi (Fiili Kontrol Hattı) nedeniyle askeri ve diplomatik gerilimler zaman zaman nüksetmektedir.",
+        "since": "1962"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler (BM)",
+        "role": "Daimi Güvenlik Konseyi Üyesi",
+        "joinedYear": "1971"
+      },
+      {
+        "name": "Şanghay İşbirliği Örgütü (ŞİÖ)",
+        "role": "Kurucu Üye",
+        "joinedYear": "2001"
+      },
+      {
+        "name": "BRICS",
+        "role": "Kurucu Üye",
+        "joinedYear": "2006"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "Asya Pasifik Ekonomik İşbirliği (APEC)",
+        "role": "Aktif Üye",
+        "joinedYear": "1991"
+      },
+      {
+        "name": "Asya Altyapı Yatırım Bankası (AIIB)",
+        "role": "Kurucu Üye",
+        "joinedYear": "2015"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Çin Halk Cumhuriyeti, Çin Komünist Partisi'nin (ÇKP) anayasal olarak tanımlanmış öncü rolü altında yönetilen sosyalist bir devlet yapısına sahiptir. Ülkenin idari felsefesi 'Çin'e Özgü Sosyalizm' olarak adlandırılmakta olup, merkezi devlet otoritesi ile pazar mekanizmalarının entegrasyonunu hedefler.",
+    "governmentForm": "Çin Komünist Partisi Liderliğinde Tek Partili Sosyalist Halk Cumhuriyeti",
+    "currentStructure": "Yürütme erki Devlet Başkanı ve Devlet Konseyi (Bakanlar Kurulu) elindedir. En yüksek enformel ve yasal organ Ulusal Halk Kongresi (UHK) olup, yargı sistemi bu kongreye sorumlu En Yüksek Halk Mahkemesi tarafından yönetilir.",
+    "timeline": [
+      {
+        "year": "1949",
+        "title": "Çin Halk Cumhuriyeti'nin İlanı",
+        "description": "Mao Zedong liderliğinde yeni devlet yapısı tesis edildi ve sosyalist devlet düzeninin temelleri atıldı.",
+        "era": "Kuruluş Dönemi"
+      },
+      {
+        "year": "1954",
+        "title": "İlk Anayasa'nın Kabulü",
+        "description": "Birinci Ulusal Halk Kongresi toplanarak ülkenin ilk resmi anayasasını onayladı ve idari organları kurumsallaştırdı.",
+        "era": "Anayasal İddia Dönemi"
+      },
+      {
+        "year": "1978",
+        "title": "ÇKP 11. Merkez Komitesi 3. Genel Kurulu",
+        "description": "Siyasi odağın sınıf mücadelesinden ekonomik kalkınma ve modernleşmeye kaydırıldığı dönüm noktası yaşandı.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "1982",
+        "title": "Mevcut Anayasa'nın Kabulü",
+        "description": "Günümüzde de yürürlükte olan, hukuki düzeni ve pazar reformlarını güvence altına alan dördüncü anayasa kabul edildi.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "1989",
+        "title": "Tiananmen Meydanı Olayları",
+        "description": "Pekin'de öğrenci odaklı gösterilerin ardından parti yönetimi toplumsal düzeni ve siyasi istikrarı koruma yönünde kararlar aldı.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "2002",
+        "title": "'Üç Temsil' Teorisinin Benimsenmesi",
+        "description": "ÇKP, girişimcileri ve teknik uzmanları parti bünyesine katan doktrin değişikliğini tüzüğüne ekledi.",
+        "era": "Modernleşme Dönemi"
+      },
+      {
+        "year": "2012",
+        "title": "Xi Jinping'in Göreve Gelmesi",
+        "description": "Xi Jinping, ÇKP Genel Sekreteri seçilerek ülkede yeni dönem kalkınma ve yolsuzlukla mücadele stratejilerini başlattı.",
+        "era": "Yeni Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "Anayasa Değişikliği",
+        "description": "Devlet Başkanlığı ve Devlet Başkan Yardımcılığı için getirilen iki dönemlik süre sınırlaması anayasadan kaldırıldı.",
+        "era": "Yeni Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Çin, devlet teşvikleri ve yüksek Ar-Ge bütçeleriyle küresel bir bilim ve teknoloji gücü haline gelmiştir. Yapay zeka, uzay araştırmaları, 5G/6G iletişim ağları, kuantum bilişim ve yenilenebilir enerji teknolojilerinde dünya liderliği hedeflenmekte ve uluslararası akademik yayın sıralamalarında ilk sıralarda yer almaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "2.65",
+        "unit": "%",
+        "scoreOutOf100": 88
+      },
+      {
+        "label": "Yıllık Patent Başvuru Sayısı",
+        "value": "1.65 Milyon",
+        "unit": "Adet",
+        "scoreOutOf100": 98
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "5.6 Milyon",
+        "unit": "Kişi",
+        "scoreOutOf100": 95
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "11",
+        "unit": "Sıra",
+        "scoreOutOf100": 89
+      },
+      {
+        "label": "Yıllık Uluslararası Bilimsel Yayın Sayısı",
+        "value": "850,000",
+        "unit": "Adet",
+        "scoreOutOf100": 96
+      }
+    ],
+    "notableAchievements": [
+      "Tiangong Uzay İstasyonu'nun başarıyla yörüngeye kurulması ve sürekli mürettebat barındırması",
+      "Chang'e 6 görevi ile Ay'ın karanlık yüzeyinden dünyada ilk kez toprak ve kaya örneği toplanması",
+      "Jiuzhang kuantum bilgisayarı ile fotonik kuantum üstünlüğünün kanıtlanması",
+      "Dünyanın en geniş yüksek hızlı demiryolu (HSR) ağının ve Fuxing maglev trenlerinin geliştirilmesi",
+      "FAST (500 Metre Açıklıklı Küresel Radyo Teleskobu) dev tesisinin inşa edilerek uzay gözlemlerine açılması"
+    ],
+    "institutions": [
+      {
+        "name": "Çin Bilimler Akademisi (CAS)",
+        "type": "Araştırma Enstitüsü",
+        "description": "Yüzlerce araştırma merkezini bünyesinde barındıran, temel bilimler ve mühendislikte dünyanın en büyük araştırma kurumlarından biridir."
+      },
+      {
+        "name": "Tsinghua Üniversitesi",
+        "type": "Üniversite",
+        "description": "Mühendislik, bilgisayar bilimleri ve yapay zeka alanında küresel ölçekte en üst sıralarda yer alan prestijli teknik üniversitedir."
+      },
+      {
+        "name": "Pekin Üniversitesi",
+        "type": "Üniversite",
+        "description": "Doğa bilimleri, tıp, sosyal bilimler ve beşeri bilimlerde Çin'in en köklü yükseköğretim kurumudur."
+      },
+      {
+        "name": "Çin Ulusal Uzay İdaresi (CNSA)",
+        "type": "Uzay Ajansı",
+        "description": "Ay, Mars keşif misyonlarını ve ulusal uzay istasyonu programını yöneten devlet uzay teşkilatıdır."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:02:08.833Z"
+}

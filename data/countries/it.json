@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "code": "it",
+    "iso3": "ITA",
+    "name_tr": "İtalya",
+    "name_en": "Italy",
+    "region": "Avrupa",
+    "capital_tr": "Roma",
+    "flag_emoji": "🇮🇹"
+  },
+  "overview": "İtalya, Güney Avrupa'da Akdeniz'in merkezinde yer alan, zengin tarihi ve kültürel mirasıyla öne çıkan parlamenter bir cumhuriyettir. Kuzeyde Alpler boyunca Fransa, İsviçre, Avusturya ve Slovenya ile karasal komşuluğu bulunan ülke, İtalya Yarımadası'nın yanı sıra Sicilya ve Sardinya gibi büyük Akdeniz adalarını kapsar. Roma İmparatorluğu'na ve Rönesans hareketine ev sahipliği yapmış olan İtalya, günümüzde gelişmiş sanayi altyapısı, yüksek insani gelişmişlik düzeyi ve küresel ticaretteki etkin rolüyle öne çıkmaktadır. Ülke aynı zamanda Avrupa Birliği, NATO, G7 ve G20 gibi uluslararası kuruluşların kurucu veya asli üyeleri arasında yer almaktadır.",
+  "history": {
+    "summary": "İtalya tarihi, antik dönemde Roma Uygarlığı'nın yükselişi ve Akdeniz dünyasını birleştirmesiyle şekillenmiştir. Orta Çağ ve Rönesans döneminde bağımsız şehir devletleri ile kültürel ve ekonomik bir merkez haline gelen coğrafya, 19. yüzyılda Risorgimento hareketiyle siyasi birliğini sağlamıştır. 20. yüzyılda faşizm deneyimi ve İkinci Dünya Savaşı'nın yıkımını yaşayan İtalya, savaş sonrasında cumhuriyet rejimine geçerek Batı blokunun ve Avrupa entegrasyonunun temel aktörlerinden biri olmuştur.",
+    "timeline": [
+      {
+        "year": "M.Ö. 753",
+        "title": "Roma'nın Efsanevi Kuruluşu",
+        "description": "Tiber Nehir vadisinde kurulan Roma kent devleti, zamanla İtalyan Yarımadası'nın tamamına hakim olarak geniş bir medeniyetin temellerini attı. Bu süreç, bölgenin hukuki, mimari ve kültürel altyapısını biçimlendirdi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 27 - M.S. 476",
+        "title": "Roma İmparatorluğu Dönemi",
+        "description": "Augustus'un ilk imparator olmasıyla başlayan dönemde Akdeniz havzası tek bir siyasi çatı altında toplandı. Batı Roma İmparatorluğu'nun 476 yılında çöküşüyle birlikte yarımadada uzun sürecek siyasi parçalanma dönemi başladı.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "14. - 16. Yüzyıl",
+        "title": "İtalyan Rönesansı",
+        "description": "Floransa, Venedik ve Milano gibi zengin şehir devletlerinin öncülüğünde bilim, sanat, felsefe ve mimaride büyük bir dönüşüm yaşandı. Rönesans, tüm Avrupa'da modern çağın kapılarını aralayan fikri bir zemin oluşturdu.",
+        "era": "Rönesans Dönemi"
+      },
+      {
+        "year": "1861",
+        "title": "İtalya Krallığı'nın İlanı (Risorgimento)",
+        "description": "Giuseppe Garibaldi ve Cavour gibi liderlerin yürüttüğü siyasi ve askeri mücadeleler sonucunda parçalanmış prenslikler birleşti. Vittorio Emanuele II önderliğinde birleşik İtalya Krallığı resmen kuruldu.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1870",
+        "title": "Roma'nın Fethi ve Başkent Oluşu",
+        "description": "İtalyan birliklerinin Roma'ya girmesi ve Papalık Devletleri'nin topraklarının krallığa katılmasıyla birleşme süreci tamamlandı. Roma, İtalya Krallığı'nın resmi başkenti ilan edildi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1915-1918",
+        "title": "I. Dünya Savaşı ve Müttefik Katılımı",
+        "description": "İtalya, İtilaf Devletleri safında savaşa girerek Avusturya-Macaristan İmparatorluğu'na karşı cephe açtı. Savaş sonunda Trento ve Trieste bölgelerini topraklarına kattı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1922",
+        "title": "Faşist Rejimin Kurulması",
+        "description": "Benito Mussolini liderliğindeki Ulusal Faşist Parti, Roma Yürüyüşü sonrası iktidarı ele geçirdi. Ülkede otoriter bir rejim kurularak tüm muhalif odaklar bastırıldı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1940-1945",
+        "title": "II. Dünya Savaşı ve Direniş Hareketleri",
+        "description": "İtalya, Miğfer Devletleri safında savaşa girdi ancak ağır askeri kayıplar sonrası 1943'te müttefiklerle mütareke imzaladı. Ülkenin kuzeyinde Alman işgaline karşı ulusal direniş hareketi (Resistenza) örgütlendi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1946",
+        "title": "Cumhuriyetin İlanı",
+        "description": "Yapılan halk oylaması sonucunda monarşi kaldırıldı ve İtalyan Cumhuriyeti kuruldu. Anayasa Kurucu Meclisi yeni demokratik anayasayı hazırladı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1957",
+        "title": "Roma Antlaşması ve Avrupa Topluluğu",
+        "description": "İtalya, altı kurucu ülkeden biri olarak Roma Antlaşması'nı imzaladı ve Avrupa Ekonomik Topluluğu'nun (AET) temellerini attı. Bu adım, ülkenin savaş sonrası ekonomik mucizesine ivme kazandırdı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1992",
+        "title": "Mani Pulite (Temiz Eller) Operasyonları",
+        "description": "Yolsuzluk ve rüşvet ağlarına yönelik yürütülen geniş çaplı yargı soruşturmaları, İtalya'nın geleneksel siyasi partilerinin çökmesine ve 'İkinci Cumhuriyet' döneminin başlamasına yol açtı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "İtalya ekonomisi, imalat sanayii, tasarım, otomotiv ve yüksek nitelikli tüketim malları üretimine dayalı gelişmiş bir pazar ekonomisidir. Ülkenin kuzeyi sanayileşmiş ve yüksek gelire sahipken, güney bölgesi (Mezzogiorno) daha çok tarım ve hizmet odaklı bir yapı sergilemektedir. İtalya, yüksek kamu borcu stokuna rağmen güçlü ihracat kapasitesi, geniş KOBİ ağı ve dünya çapında tanınan markaları sayesinde küresel ticaretin önemli aktörlerinden biridir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "2.25",
+        "unit": "Trilyon USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "38,200",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Enflasyon Oranı",
+        "value": "1.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "7.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "670",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kamu Borcu / GSYİH",
+        "value": "137.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Otomotiv ve Hassas Makine İmalatı",
+      "Moda, Tekstil ve Lüks Tüketim Ürünleri",
+      "Gıda Üretimi ve Tarım Teknolojileri",
+      "Turizm ve Kültürel Miras Hizmetleri",
+      "Kimya ve İlaç Sanayii",
+      "Gemi İnşası ve Havacılık"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 0.9
+          },
+          {
+            "year": "2019",
+            "value": 0.5
+          },
+          {
+            "year": "2020",
+            "value": -9
+          },
+          {
+            "year": "2021",
+            "value": 8.3
+          },
+          {
+            "year": "2022",
+            "value": 3.7
+          },
+          {
+            "year": "2023",
+            "value": 0.9
+          },
+          {
+            "year": "2024",
+            "value": 0.7
+          },
+          {
+            "year": "2025",
+            "value": 1.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1950-1960'lar",
+        "title": "İtalyan Ekonomik Mucizesi (Miracolo Economico)",
+        "description": "Savaş sonrası dönemde uygulanan sanayileşme politikaları ve Marshall Planı desteğiyle İtalya, tarım toplumundan dünyanın en büyük sanayi güçlerinden birine dönüştü.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1973",
+        "title": "OPEC Petrol Krizi ve Ekonomik Yavaşlama",
+        "description": "Küresel küresel petrol fiyat artışları İtalya'da yüksek enflasyona ve sanayi üretiminde duraksamaya yol açarak uzun süreli ekonomik reform süreçlerini tetikledi.",
+        "era": "Modern Sanayi Dönemi"
+      },
+      {
+        "year": "1999",
+        "title": "Euro Alanına Katılım",
+        "description": "İtalya, ulusal para birimi Liret'ten Euro'ya geçiş sürecini başlatarak Avrupa parasal birliğinin kurucu üyelerinden biri oldu.",
+        "era": "Avrupa Entegrasyonu"
+      },
+      {
+        "year": "2008-2011",
+        "title": "Küresel Borç Krizi ve Mali Tedbirler",
+        "description": "2008 küresel finans krizinin ardından İtalya kamu borcu baskısı altına girdi; yapısal reformlar ve bütçe disiplini tedbirleri hayata geçirildi.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2021",
+        "title": "Ulusal Kurtarma ve Dayanıklılık Planı (PNRR)",
+        "description": "Pandemi sonrası ekonomik toparlanma amacıyla Avrupa Birliği destekli devasa yatırım ve dijitalleşme paketi yürürlüğe koyuldu.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "İtalya'nın dış politikası, Avrupa Birliği entegrasyonu, Transatlantik ittifakı (NATO) ve Akdeniz havzasındaki çok taraflı iş birliği sütunları üzerine kuruludur. İtalya, küresel diplomaside bölgesel istikrarı, uluslararası hukuku ve serbest ticareti destekleyen dengeli bir tutum benimser. Akdeniz'e kıyıdaş ülkelerle yürütülen enerji, güvenlik ve göç yönetimi ortaklıkları ülkenin stratejik öncelikleri arasında yer almaktadır.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Üyelik ve Kurucu Ortak",
+        "description": "İtalya, AB'nin siyasi, ekonomik ve hukuki entegrasyonunun en güçlü savunucularından biri olup birliğin karar alma mekanizmalarında kilit rol oynar.",
+        "since": "1957"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Müttefik",
+        "description": "İtalya, ittifakın güney kanadının güvenliğinde kritik stratejik konuma sahiptir ve çok sayıda ortak askeri üsse ev sahipliği yapmaktadır.",
+        "since": "1949"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Müttefik",
+        "description": "Güçlü tarihsel, kültürel ve ekonomik bağlara dayanan ikili ilişkiler; savunma, istihbarat ve ticaret alanlarında üst düzey iş birliğini kapsar.",
+        "since": "1946"
+      },
+      {
+        "partner": "Fransa ve Almanya",
+        "relationType": "Bölgesel Ortaklık",
+        "description": "Avrupa Birliği'nin ana yürütücü motoru olan bu üçlü yapı, sanayi politikalarından sınır güvenliğine kadar geniş bir alanda koordinasyon yürütür.",
+        "since": "1957"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Roma Antlaşması",
+        "year": "1957",
+        "description": "Avrupa Ekonomik Topluluğu'nu kuran ve İtalya'nın ortak pazara entegrasyonunu sağlayan tarihi kurucu antlaşma."
+      },
+      {
+        "name": "Laterano Antlaşması",
+        "year": "1929",
+        "description": "İtalyan Devleti ile Vatikan (Kutsal Makam) arasındaki ilişkileri düzenleyen, Vatikan'ın bağımsızlığını tanıyan antlaşma."
+      },
+      {
+        "name": "Quirinale Antlaşması",
+        "year": "2021",
+        "description": "İtalya ile Fransa arasında ikili iş birliğini, dış politikayı ve sanayi entegrasyonunu güçlendirmek amacıyla imzalanan stratejik ortaklık antlaşması."
+      },
+      {
+        "name": "Maastricht Antlaşması",
+        "year": "1992",
+        "description": "Avrupa Birliği'nin kurulmasını ve siyasi/ekonomik birliğe geçişi tescil eden uluslararası antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Düzensiz Göç ve Akdeniz Sorumluluk Alanları",
+        "relationType": "Anlasmazlik",
+        "description": "İtalya, Orta Akdeniz göç güzergahı üzerindeki arama-kurtarma sorumlulukları ve sığınmacıların AB üyeleri arasında adil dağılımı hususunda komşu ülkeler ve AB organlarıyla zaman zaman müzakere süreçleri yürütmektedir.",
+        "since": "2015"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Kurucu Üye",
+        "joinedYear": "1957"
+      },
+      {
+        "name": "NATO",
+        "role": "Kurucu Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "G7",
+        "role": "Aktif Üye",
+        "joinedYear": "1975"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "İtalya, çok partili siyasi sisteme sahip üniter parlamenter bir cumhuriyettir. İkinci Dünya Savaşı sonrasında kabul edilen 1948 Anayasası, gücün tek elde toplanmasını engellemeye yönelik güçlü denge ve denetleme mekanizmaları içerir. Ülkede hükümetler parlamentonun güvenine dayanır; bu durum tarihsel olarak sık hükümet değişikliklerine yol açsa da devlet kurumlarının temel işleyişi ve dış politika ilkeleri süreklilik gösterir.",
+    "governmentForm": "Üniter Parlamenter Anayasal Cumhuriyet",
+    "currentStructure": "Yürütme erki, Başbakanın liderlik ettiği Bakanlar Kurulu tarafından kullanılır. Yasama erki, Temsilciler Meclisi ve Cumhuriyet Senatosu'ndan oluşan eşit çift meclisli (mükemmel ikili) parlamentoya aittir. Cumhurbaşkanı, devletin birliğini temsil eden ve anayasal organların uyumunu denetleyen tarafsız devlet başkanıdır. Yargı yetkisi bağımsız mahkemeler ve Anayasa Mahkemesi eliyle yürütülür.",
+    "timeline": [
+      {
+        "year": "1861",
+        "title": "İtalya Birliği ve Anayasal Monarşi",
+        "description": "Statuto Albertino anayasası temelinde birleşik İtalya Krallığı kuruldu ve sınırlı parlamenter monarşi yönetimi başladı.",
+        "era": "Krallık Dönemi"
+      },
+      {
+        "year": "1922",
+        "title": "Faşist Diktatörlük Dönemi",
+        "description": "Parlamenter kurumlar işlevsizleştirilerek karar alma mekanizmaları tek bir partinin ve liderin kontrolüne geçti.",
+        "era": "Faşizm Dönemi"
+      },
+      {
+        "year": "1946",
+        "title": "Anayasa Referandumu",
+        "description": "Seçmenlerin %54'ünün oyuyla monarşi kaldırılarak cumhuriyet yönetimi seçildi ve kadınlara ilk kez genel oy hakkı tanındı.",
+        "era": "Cumhuriyet Geçişi"
+      },
+      {
+        "year": "1948",
+        "title": "İtalya Anayasası'nın Yürürlüğe Girmesi",
+        "description": "Demokratik ilkeleri, temel hakları ve parlamenter yapıyı güvence altına alan modern anayasa kabul edildi.",
+        "era": "Anayasal Dönem"
+      },
+      {
+        "year": "1978",
+        "title": "Aldo Moro Suikastı ve 'Kurşun Yılları'",
+        "description": "Aşırı sol ve sağ grupların terör eylemleriyle geçen bu dönemde, Eski Başbakan Aldo Moro'nun kaçırılarak öldürülmesi siyasi tarihte derin iz bıraktı.",
+        "era": "Siyasi Krizler Dönemi"
+      },
+      {
+        "year": "1992-1994",
+        "title": "Birinci Cumhuriyet'in Sonu ve Parti Sistemi Değişimi",
+        "description": "Temiz Eller soruşturmaları sonucu Hristiyan Demokrat Parti ve Sosyalist Parti gibi köklü yapılar dağıldı; yeni parti ittifakları ortaya çıktı.",
+        "era": "Yeniden Yapılanma"
+      },
+      {
+        "year": "2001",
+        "title": "Anayasa Reformu (Bölgesel Yetkilerin Genişletilmesi)",
+        "description": "Anayasanın V. Başlığında yapılan değişiklikle bölgesel yönetimlerin yetkileri artırılarak adem-i merkeziyetçi yapı güçlendirildi.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "2020",
+        "title": "Milletvekili ve Senatör Sayısının Azaltılması",
+        "description": "Yapılan anayasa referandumu ile parlamentodaki sandalye sayısı 945'ten 600'e (400 Milletvekili, 200 Senatör) düşürüldü.",
+        "era": "Güncel Siyasi Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Giorgia Meloni Hükümetinin Kurulması",
+        "description": "Genel seçimlerin ardından İtalya'nın ilk kadın başbakanı liderliğinde merkez sağ koalisyon hükümeti göreve başladı.",
+        "era": "Güncel Siyasi Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "İtalya, köklü bilimsel geleneklere ve güçlü akademik kurumlara sahip bir araştırma merkezidir. Galileo Galilei ve Alessandro Volta gibi isimlerin miras bıraktığı bilimsel altyapı; günümüzde fizik, biyotıp, uzay araştırmaları, mühendislik ve robotik alanlarında sürdürülmektedir. İtalya, Avrupa Nükleer Araştırma Merkezi (CERN) ve Avrupa Uzay Ajansı (ESA) bünyesindeki kilit projelerde etkin rol oynamaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.45",
+        "unit": "%",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "170,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 75
+      },
+      {
+        "label": "Yıllık Patent Başvurusu Sayısı",
+        "value": "4,800",
+        "unit": "Adet",
+        "scoreOutOf100": 72
+      },
+      {
+        "label": "Akademik Yayın Sıralaması (Küresel)",
+        "value": "8",
+        "unit": "Sıra",
+        "scoreOutOf100": 86
+      },
+      {
+        "label": "Yükseköğretim Mezuniyet Oranı",
+        "value": "29.2",
+        "unit": "%",
+        "scoreOutOf100": 62
+      }
+    ],
+    "notableAchievements": [
+      "Nükleer fizik ve parçacık fiziği alanında CERN projelerine sağlanan öncü katkılar",
+      "İtalyan Uzay Ajansı (ASI) iş birliğiyle geliştirilen Vega fırlatma roket sistemleri",
+      "Kök hücre tedavileri ve rejeneratif tıp alanındaki yenilikçi klinik araştırmalar",
+      "Endüstriyel robotik ve otomasyon teknolojilerinde küresel pazar liderliği"
+    ],
+    "institutions": [
+      {
+        "name": "Bologna Üniversitesi",
+        "type": "Universite",
+        "description": "1088 yılında kurulan ve Batı dünyasının en eski üniversitesi kabul edilen kurum, geniş disiplin ağı ve akademik prestijiyle öne çıkar."
+      },
+      {
+        "name": "Ulusal Nükleer Fizik Enstitüsü (INFN)",
+        "type": "Arastirma Enstitusu",
+        "description": "Nükleer, parçacık ve astrofizik alanında temel araştırmaları koordine eden uluslararası ölçekte saygın bir devlet araştırma kurumudur."
+      },
+      {
+        "name": "Politecnico di Milano",
+        "type": "Universite",
+        "description": "Mühendislik, mimarlık ve endüstriyel tasarım alanlarında Avrupa'nın en üst sıralarında yer alan teknik bir üniversitedir."
+      },
+      {
+        "name": "İtalyan Uzay Ajansı (ASI)",
+        "type": "Uzay Ajansi",
+        "description": "Ulusal uzay araştırmalarını yürüten, uydu teknolojileri ve gezegen keşif misyonlarında ESA ve NASA ile ortak projeler geliştiren kurumdur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T20:59:48.576Z"
+}

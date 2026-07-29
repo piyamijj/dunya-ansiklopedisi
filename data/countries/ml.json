@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "code": "ml",
+    "iso3": "MLI",
+    "name_tr": "Mali",
+    "name_en": "Mali",
+    "region": "Afrika",
+    "capital_tr": "Bamako",
+    "flag_emoji": "🇲🇱"
+  },
+  "overview": "Batı Afrika'da denize kıyısı olmayan bir kara ülkesi olan Mali, kuzeyde Cezayir, doğuda Nijer, güneyde Burkina Faso, Fildişi Sahili ve Gine, batıda ise Senegal ve Moritanya ile komşudur. Sahra Çölü'nden Sudan savanlarına kadar uzanan geniş coğrafyasıyla bölgenin yüzölçümü bakımından en büyük ülkelerinden biri olan Mali, tarih boyunca Gana, Mali ve Songhay gibi büyük imparatorluklara ev sahipliği yapmıştır. Başkenti Bamako olan ülke, Sahra ötesi ticaret yollarının ve İslam ilim merkezlerinin kesişim noktasında yer alan köklü bir kültürel mirasa sahiptir. Günümüzde ekonomik yapısı büyük oranda tarım, hayvancılık ve altın madenciliğine dayanan Mali, bölgesel güvenlik ve siyasi dönüşüm süreçleriyle öne çıkmaktadır.",
+  "history": {
+    "summary": "Mali tarihi, Orta Çağ Afrika'sının en görkemli imparatorluklarına ev sahipliği yapmış zengin bir geçmişe sahiptir. 13. yüzyılda kurulan Mali İmparatorluğu döneminde Timbuktu kültürel ve ilmi bir merkez haline gelmiş, ardından Fransız sömürge dönemi yaşanmış ve 1960 yılında bağımsızlık kazanılmıştır.",
+    "timeline": [
+      {
+        "year": "800-1235",
+        "title": "Gana İmparatorluğu Dönemi",
+        "description": "Bölgede altın ve tuz ticaretini denetleyerek yükselen Gana İmparatorluğu, Batı Afrika'nın ilk büyük devlet yapılarından birini oluşturdu.",
+        "era": "Erken Dönem"
+      },
+      {
+        "year": "1235",
+        "title": "Mali İmparatorluğu'nun Kuruluşu",
+        "description": "Sundiata Keita'nın Kurukan Fuga Anayasası'nı ilan etmesi ve Kirina Muharebesi'ni kazanmasıyla Mali İmparatorluğu resmen kuruldu.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1324",
+        "title": "Mansa Musa'nın Hac Yolculuğu",
+        "description": "Dünyanın en zengin hükümdarlarından biri olarak kabul edilen Mansa Musa'nın Mekke ziyareti, Mali'nin zenginliğini Avrupa ve Doğu dünyasında meşhur kıldı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1464-1591",
+        "title": "Songhay İmparatorluğu Yükselişi",
+        "description": "Sonni Ali liderliğinde güçlenen Songhay İmparatorluğu bölgenin hakimiyetini ele geçirdi; 1591 Tondibi Muharebesi ile Fas sultanlığı tarafından yıkıldı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1892",
+        "title": "Fransız Sömürge Yönetimi (Fransız Sudanı)",
+        "description": "Fransa bölgeyi işgal ederek 'Fransız Sudanı' adıyla sömürge yönetimi kurdu ve yerel direnişleri zamanla bastırdı.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1960",
+        "title": "Bağımsızlık ve Modibo Keïta Dönemi",
+        "description": "Mali Federasyonu'nun dağılmasının ardından Modibo Keïta liderliğindeki Mali Cumhuriyeti bağımsızlığını ilan etti ve sosyalist politikalar izledi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1968",
+        "title": "Moussa Traoré Askeri Darbesi",
+        "description": "Teğmen Moussa Traoré liderliğindeki askeri darbe ile Keïta devrildi ve ülkede onlarca yıl sürecek tek partili askeri yönetim başladı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1991",
+        "title": "Demokrasiye Geçiş ve Üçüncü Cumhuriyet",
+        "description": "Halk ayaklanması sonrası Amadou Toumani Touré yönetiminde geçici hükümet kuruldu ve 1992'de çok partili demokratik anayasa kabul edildi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2012",
+        "title": "Kuzey Mali Çatışması ve Tuareg İsyanı",
+        "description": "Kuzeyde Tuareg ayrılıkçıları ve köktendinci grupların isyanı, askeri darbeye ve uluslararası askeri müdahalelere zemin hazırladı.",
+        "era": "Güncel Dönem"
+      },
+      {
+        "year": "2020-2021",
+        "title": "Siyasi Kriz ve Askeri Geçiş Dönemi",
+        "description": "Albay Assimi Goïta liderliğindeki askeri kanat yönetime el koyarak geçiş dönemi hükümetini kurdu ve dış politikada eksen değişikliğine gitti.",
+        "era": "Güncel Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Mali ekonomisi büyük ölçüde tarım, hayvancılık ve altın madenciliğine dayalı gelişmekte olan bir yapıya sahiptir. Afrika'nın en büyük altın üreticilerinden biri olan ülke, iklim şartlarına bağımlı pamuk üretimi ve dış yardımlarla desteklenen bir bütçe dengesi yürütmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "21.8",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "910",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık Büyüme Oranı",
+        "value": "4.2",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "3.5",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Batı Afrika CFA Frangı (XOF)",
+        "unit": "XOF",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "7.4",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "5.3",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "5.9",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Altın Madenciliği",
+      "Pamuk Üretimi ve İşleme",
+      "Hayvancılık ve Dericilik",
+      "Çimento ve İnşaat Malzemeleri",
+      "Gıda İşleme",
+      "Geleneksel Tekstil ve El Sanatları"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 4.7
+          },
+          {
+            "year": "2019",
+            "value": 4.8
+          },
+          {
+            "year": "2020",
+            "value": -1.2
+          },
+          {
+            "year": "2021",
+            "value": 3.1
+          },
+          {
+            "year": "2022",
+            "value": 3.7
+          },
+          {
+            "year": "2023",
+            "value": 4.5
+          },
+          {
+            "year": "2024",
+            "value": 4.2
+          },
+          {
+            "year": "2025",
+            "value": 4
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1962",
+        "title": "Mali Frangı'nın Basılması",
+        "description": "Bağımsızlık sonrası ekonomik egemenlik adına Ulusal Mali Frangı tedavüle sokuldu ancak ekonomik zorluklar nedeniyle CFA alanına dönüldü.",
+        "era": "Bağımsızlık Sonrası"
+      },
+      {
+        "year": "1984",
+        "title": "CFA Frangı Bölgesine Yeniden Katılım",
+        "description": "Mali, Batı Afrika Parasal Birliği'ne entegre olarak bölgesel para birimi CFA frangını yeniden kullanmaya başladı.",
+        "era": "Sermaye ve Para Reformları"
+      },
+      {
+        "year": "1994",
+        "title": "CFA Frangı Devalüasyonu",
+        "description": "Fransız frangına endeksli CFA frangının %50 devalüe edilmesi alım gücünü düşürürken ihracatı geçici olarak teşvik etti.",
+        "era": "Yapısal Uyarlanma"
+      },
+      {
+        "year": "2023",
+        "title": "Yeni Madencilik Kanunu",
+        "description": "Devletin altın madenlerindeki payını artıran ve yerel ekonomiye katkısını zorunlu kılan yeni madencilik mevzuatı yürürlüğe girdi.",
+        "era": "Güncel Ekonomik Dönüşüm"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Mali'nin dış politikası, son yıllarda geçiş yönetimi altında radikal bir değişim geçirmiştir. Batı dünyası ve Fransa ile geleneksel müttefiklik ilişkilerini zayıflatan Mali, egemenlik odaklı bir yaklaşımla Rusya ile güvenlik ortaklığını güçlendirmiş ve komşuları Nijer ve Burkina Faso ile bölgesel yeni bir ittifak kurmuştur.",
+    "alliances": [
+      {
+        "partner": "Sahel Devletleri İttifakı (AES)",
+        "relationType": "Savunma ve Bölgesel İttifak",
+        "description": "Burkina Faso ve Nijer ile birlikte kurulan örgüt, ortak savunma, terörle mücadele ve ekonomik entegrasyonu hedefler.",
+        "since": "2023"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Stratejik Güvenlik Ortaklığı",
+        "description": "Askeri teçhizat, eğitmen ve güvenlik desteği sağlamaya yönelik derinleşen ikili ilişki.",
+        "since": "2021"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Ticari ve Altyapı Ortaklığı",
+        "description": "Altyapı projeleri, köprü, yol ve kamu binaları inşasında yoğunlaşan ekonomik iş birliği.",
+        "since": "1960"
+      },
+      {
+        "partner": "Türkiye",
+        "relationType": "Savunma ve Kalkınma Ortaklığı",
+        "description": "Askeri teçhizat alımı, insani yardım ve eğitim alanlarında hızla gelişen ikili ilişkiler.",
+        "since": "2010"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Liptako-Gourma Mimarisi (AES Kurucu Antlaşması)",
+        "year": "2023",
+        "description": "Mali, Burkina Faso ve Nijer arasında kolektif savunma ve karşılıklı yardım mekanizması oluşturan antlaşma."
+      },
+      {
+        "name": "Cezayir Barış ve Uzlaşma Anlaşması",
+        "year": "2015",
+        "description": "Mali hükümeti ile kuzeydeki ayrılıkçı gruplar arasında diyalog sağlayan ancak 2024'te feshedilen antlaşma."
+      },
+      {
+        "name": "Cotonou Anlaşması",
+        "year": "2000",
+        "description": "AB ile Afrika, Karayipler ve Pasifik ülkeleri arasındaki kalkınma ve ticaret çerçeve sözleşmesi."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Fransa",
+        "relationType": "Diplomatik Kriz ve Askeri Kesinti",
+        "description": "Fransız askeri birliklerinin (Barkhane Operasyonu) ülkeden çıkarılması ve büyükelçilerin karşılıklı çekilmesiyle diplomatik ilişkiler askıya alındı.",
+        "since": "2022"
+      },
+      {
+        "partner": "ECOWAS (CEDEAO)",
+        "relationType": "Üyelikten Çekilme Süreci",
+        "description": "Askeri geçiş yönetimi nedeniyle uygulanan yaptırımlar sonrası Mali, ECOWAS örgütünden ayrılma kararını ilan etti.",
+        "since": "2022"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1960"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Aktif Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "Afrika Birliği",
+        "role": "Üyeliği Askıya Alınmış Üye",
+        "joinedYear": "1963"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Mali siyaseti, bağımsızlığından bu yana sivil ve askeri yönetimler arasında mekik dokumuştur. 2020 ve 2021 askeri müdahalelerinin ardından yürürlüğe giren 2023 Anayasası ile devlet yapısı güçlü bir cumhurbaşkanlığı sistemine dönüştürülmüş ve ulusal egemenlik ilkesi öne çıkarılmıştır.",
+    "governmentForm": "Geçiş Dönemi Askeri Yönetimi Altında Üniter Cumhuriyet",
+    "currentStructure": "Yürütme erki Geçiş Dönemi Cumhurbaşkanı ve atadığı Başbakan tarafından yürütülmektedir. Yasama görevini atamayla oluşturulan Geçiş Ulusal Konseyi (CNT) üstlenmiştir. Yargı erki ise Yüksek Mahkeme ve Anayasa Mahkemesi bünyesinde yapılandırılmıştır.",
+    "timeline": [
+      {
+        "year": "1960",
+        "title": "Birinci Cumhuriyet ve Sosyalist Tek Parti",
+        "description": "Modibo Keïta liderliğinde tek partili sosyalist devlet modeli uygulandı.",
+        "era": "Birinci Cumhuriyet"
+      },
+      {
+        "year": "1968",
+        "title": "Milli Kurtuluş Askeri Komitesi",
+        "description": "Moussa Traoré darbe ile yönetimi devraldı ve askeri rejim kurdu.",
+        "era": "Askeri Rejim"
+      },
+      {
+        "year": "1979",
+        "title": "İkinci Cumhuriyet",
+        "description": "Sivil görünümlü tek partili (UDPM) anayasal düzene geçildi.",
+        "era": "İkinci Cumhuriyet"
+      },
+      {
+        "year": "1991",
+        "title": "Demokrasiye Geçiş ve Ulusal Konferans",
+        "description": "Halk isyanı Traoré devrilip çok partili anayasal sistem inşa edildi.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1992",
+        "title": "Üçüncü Cumhuriyet'in İlanı",
+        "description": "Çok partili ilk demokratik seçimlerle Alpha Oumar Konaré cumhurbaşkanı seçildi.",
+        "era": "Üçüncü Cumhuriyet"
+      },
+      {
+        "year": "2012",
+        "title": "Askeri Müdahale ve Siyasi Kriz",
+        "description": "Kuzeydeki kriz üzerine Amadou Sanogo liderliğindeki cunta yönetime el koydu.",
+        "era": "Siyasi Kriz"
+      },
+      {
+        "year": "2020",
+        "title": "Ağustos Darbesi",
+        "description": "İbrahim Boubacar Keïta yönetimi kitlesel protestolar ve askeri müdahale sonucu devrildi.",
+        "era": "Güncel Dönüşüm"
+      },
+      {
+        "year": "2023",
+        "title": "Yeni Anayasa Referandumu",
+        "description": "Cumhurbaşkanının yetkilerini artıran ve Fransızcanın resmi dil statüsünü değiştiren yeni anayasa kabul edildi.",
+        "era": "Dördüncü Cumhuriyet / Geçiş Dönemi"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Mali'de bilimsel çalışmalar ve akademik araştırma kapasitesi çoğunlukla biyotıp, bulaşıcı hastalıklarla mücadele, kurakçıl tarım teknikleri ve Timbuktu el yazmalarının korunması gibi alanlarda yoğunlaşmaktadır. Bütçe kısıtlarına rağmen uluslararası iş birlikleriyle tıp ve hidroloji araştırmalarında bölgesel merkez niteliği taşımaktadır.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.31",
+        "unit": "%",
+        "scoreOutOf100": 28
+      },
+      {
+        "label": "Yıllık Bilimsel Yayın Sayısı",
+        "value": "820",
+        "unit": "Adet",
+        "scoreOutOf100": 32
+      },
+      {
+        "label": "Yükseköğretim Okullaşma Oranı",
+        "value": "7.8",
+        "unit": "%",
+        "scoreOutOf100": 22
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "42",
+        "unit": "Adet",
+        "scoreOutOf100": 18
+      },
+      {
+        "label": "Sıtma ve Tropikal Hastalık Araştırmacı Sayısı",
+        "value": "1,150",
+        "unit": "Kişi",
+        "scoreOutOf100": 65
+      }
+    ],
+    "notableAchievements": [
+      "Timbuktu El Yazmalarının Dijital Restorasyonu ve Kültürel Miras Arşivciliği",
+      "Sıtma Aşısı Denemelerinde Bölgesel Klinik Araştırma Liderliği (MRTC)",
+      "Kuraklığa Dayanıklı Soragum ve Mil Tohumu Islah Başarıları",
+      "Nijer Nehri Havzası Su Yönetimi ve Hidrolojik Modelleme Projeleri"
+    ],
+    "institutions": [
+      {
+        "name": "Université des Sciences, des Techniques et des Technologies de Bamako (USTTB)",
+        "type": "Devlet Üniversitesi",
+        "description": "Biyotıp, genel tıp ve fen bilimleri araştırmalarında Batı Afrika'nın önemli eğitim kurumlarından biridir."
+      },
+      {
+        "name": "Institut d'Economie Rurale (IER)",
+        "type": "Arastirma Enstitusu",
+        "description": "Tarım, kuraklık yönetimi ve hayvancılık alanlarında uygulama merkezli akademik çalışmalar yürüten kamu kuruluşu."
+      },
+      {
+        "name": "Malaria Research and Training Center (MRTC)",
+        "type": "Arastirma Enstitusu",
+        "description": "Sıtma ve bulaşıcı hastalıkların önlenmesine yönelik dünya çapında tanınan araştırmalar yürüten merkez."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:18:38.432Z"
+}

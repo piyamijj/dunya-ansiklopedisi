@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "code": "pt",
+    "iso3": "PRT",
+    "name_tr": "Portekiz",
+    "name_en": "Portugal",
+    "region": "Avrupa",
+    "capital_tr": "Lizbon",
+    "flag_emoji": "🇵🇹"
+  },
+  "overview": "Portekiz, Avrupa kıtasının en batı ucunda, İber Yarımadası üzerinde yer alan ve Atlantik Okyanusu'na uzun bir kıyı şeridi bulunan köklü bir Güney Avrupa ülkesidir. Doğuda ve kuzeyde İspanya ile kara sınırı paylaşan ülke, ayrıca Atlantik'te yer alan Azorlar ve Madeira özerk takımadalarını da bünyesinde barındırır. Tarih boyunca coğrafi keşiflerin öncülerinden biri olarak küresel ölçekte deniz aşırı bir imparatorluk kurmuş olan Portekiz, günümüzde yüksek insani gelişmişlik düzeyine sahip modern bir devlettir. Avrupa Birliği, NATO ve OECD üyesi olan ülke; zengin kültürel mirası, istikrarlı demokrasisi ve yenilenebilir enerji alanındaki yatırımlarıyla öne çıkmaktadır.",
+  "history": {
+    "summary": "Portekiz tarihi, İber Yarımadası'ndaki antik Lusitanya kabilelerinden Roma ve Vizigot hakimiyetine, ardından yüzyıllar süren Mağribi egemenliğine uzanan zengin bir geçmişe sahiptir. 1139 yılında bağımsız bir krallık olarak kurulan ülke, 15. ve 16. yüzyıllarda denizcilik alanındaki büyük atılımlarla küresel bir ticaret ve keşif imparatorluğuna dönüşmüştür. 19. ve 20. yüzyıllarda yaşanan siyasi çalkantılar, monarşinin devrilmesi ve ardından gelen onlarca yıllık otoriter Estado Novo rejiminin ardından, 1974 Karanfil Devrimi ile ülke barışçıl bir şekilde demokrasiye geçiş yapmıştır.",
+    "timeline": [
+      {
+        "year": "M.Ö. 219",
+        "title": "İber Yarımadası'nın Roma Tarafından Fethi",
+        "description": "Romalıların bölgeye gelişiyle birlikte günümüz Portekiz topraklarının büyük kısmı Lusitania eyaletine dönüştürülmüş ve bölgede Latin kültürü ile altyapı gelişmiştir.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "711",
+        "title": "Mağribi Hakimiyeti ve Emevi Yönetimi",
+        "description": "Kuzey Afrika'dan gelen Müslüman güçler İber Yarımadası'nı ele geçirerek bölgede yüzyıllar sürecek mimarı, tarımsal ve bilimsel dönüşümü başlatmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1139",
+        "title": "Portekiz Krallığı'nın Kuruluşu",
+        "description": "I. Afonso Henriques, Ourique Muharebesi sonrası kendisini Portekiz Kralı ilan etmiş ve Leon Krallığı'ndan bağımsızlığını kazanmıştır.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1249",
+        "title": "Reconquista'nın Tamamlanması",
+        "description": "Kral III. Afonso'nun Algarve bölgesini ele geçirmesiyle Portekiz'deki Mağribi yönetimi son bulmuş ve günümüz Portekiz sınırları büyük ölçüde çizilmiştir.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1415",
+        "title": "Ceuta'nın Fethi ve Keşifler Çağı",
+        "description": "Kuzey Afrika'daki Ceuta kentinin ele geçirilmesi, Prens Denizci Henrique öncülüğünde küresel deniz keşiflerinin ve Portekiz İmparatorluğu'nun başlangıcı olmuştur.",
+        "era": "Keşifler Çağı"
+      },
+      {
+        "year": "1494",
+        "title": "Tordesillas Antlaşması",
+        "description": "Portekiz ve İspanya, Papa'nın arabuluculuğunda Avrupa dışındaki yeni keşfedilen toprakları paylaşmak üzere tarihi bir antlaşma imzalamıştır.",
+        "era": "Keşifler Çağı"
+      },
+      {
+        "year": "1580-1640",
+        "title": "İber Birliği Dönemi",
+        "description": "Portekiz tahtının İspanya Habsburg hanedanına geçmesiyle iki ülke altmış yıl boyunca tek bir monarşi altında birleşmiştir.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1755",
+        "title": "Büyük Lizbon Depremi ve Pombal Reformları",
+        "description": "Yıkıcı deprem ve tsunami sonrası Lizbon, Marquis de Pombal liderliğinde modern ızgara planına göre yeniden inşa edilmiş ve devlet yapısı aydınlanmacı ilkelerle reforme edilmiştir.",
+        "era": "Aydınlanma Dönemi"
+      },
+      {
+        "year": "1822",
+        "title": "İlk Anayasa ve Brezilya'nın Bağımsızlığı",
+        "description": "Liberal devrim sonrasında Portekiz'in ilk anayasası kabul edilmiş, aynı dönemde imparatorluğun en büyük kolonisi olan Brezilya bağımsızlığını ilan etmiştir.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1910",
+        "title": "Monarşinin Yıkılışı ve Birinci Cumhuriyet",
+        "description": "5 Ekim 1910 devrimi ile Braganza Hanedanı devrilmiş ve Portekiz Birinci Cumhuriyeti kurulmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1933",
+        "title": "Estado Novo Rejiminin İlanı",
+        "description": "António de Oliveira Salazar liderliğinde milliyetçi, muhafazakar ve otoriter tek parti rejimi resmen yürürlüğe girmiştir.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1974",
+        "title": "Karanfil Devrimi",
+        "description": "Silahlı Kuvvetler Hareketi (MFA) tarafından gerçekleştirilen kansız askeri darbe, onlarca yıllık diktatörlüğü sona erdirmiş ve demokratikleşme sürecini başlatmıştır.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "1986",
+        "title": "Avrupa Ekonomik Topluluğu'na Katılım",
+        "description": "Portekiz, AET'ye (günümüz Avrupa Birliği) tam üye olarak entegrasyon sürecini hızlandırmış ve ekonomik modernleşme ivmesi kazanmıştır.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Portekiz ekonomisi, geleneksel tarım ve imalat sanayisinden hizmet odaklı, ileri teknoloji destekli ve ihracata dayalı bir yapıya dönüşmüştür. Hizmet sektörü, özellikle turizm, ağırlama ve bilgi teknolojileri ekonominin ana omurgasını oluşturmaktadır. Yenilenebilir enerji, otomotiv montaj, tekstil, şarapçılık ve mantar üretimi stratejik alanlar arasında yer alır. 2010'lardaki borç krizinin ardından uygulanan reformlar ve AB fonlarının verimli kullanımıyla birlikte ülke makroekonomik dengelerini güçlendirmiş, borç oranlarını düşürmüş ve sürdürülebilir büyüme patikasına girmiştir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "308.2",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "29,800",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "GSYİH Büyüme Oranı",
+        "value": "2.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.3",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "6.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "88.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kamu Borcunun GSYİH'ye Oranı",
+        "value": "95.4",
+        "unit": "%",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Turizm ve Otelcilik",
+      "Yenilenebilir Enerji ve Yeşil Teknolojiler",
+      "Otomotiv ve Yan Sanayi",
+      "Tekstil, Konfeksiyon ve Ayakkabı",
+      "Mantar (Kantar) Üretimi ve İşleme",
+      "Gıda ve Şarapçılık",
+      "Bilgi ve İletişim Teknolojileri"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı Trendi",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 3.2
+          },
+          {
+            "year": "2019",
+            "value": 2.7
+          },
+          {
+            "year": "2020",
+            "value": -8.3
+          },
+          {
+            "year": "2021",
+            "value": 5.7
+          },
+          {
+            "year": "2022",
+            "value": 6.8
+          },
+          {
+            "year": "2023",
+            "value": 2.3
+          },
+          {
+            "year": "2024",
+            "value": 1.9
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1986",
+        "title": "AET Üyeliği ve Altyapı Atılımı",
+        "description": "Avrupa Ekonomik Topluluğu'na katılım, Portekiz'e geniş çaplı yapısal fonlar sağlamış ve ulaşım ile sanayi altyapısında büyük bir dönüşüm başlatmıştır.",
+        "era": "Entegrasyon Dönemi"
+      },
+      {
+        "year": "1999",
+        "title": "Euro Alanına Katılım",
+        "description": "Portekiz, ortak para birimi Euro'yu kabul eden kurucu grupta yer alarak parasal entegrasyonu tamamlamıştır.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "2011",
+        "title": "IMF ve AB Kurtarma Paketi",
+        "description": "Küresel finans krizinin ardından yaşanan borç krizi sebebiyle 78 milyar Avroluk uluslararası mali yardım paketi imzalanmış ve sıkı tasarruf tedbirleri uygulanmıştır.",
+        "era": "Finansal Kriz Dönemi"
+      },
+      {
+        "year": "2017",
+        "title": "Ekonomik İyileşme ve Teknoloji Ekosistemi",
+        "description": "Turizm patlaması ve Web Summit gibi organizasyonların etkisiyle Lizbon, Avrupa'nın önemli girişimcilik ve teknoloji merkezlerinden birine dönüşmüştür.",
+        "era": "Modern Dönüşüm"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Portekiz, dış politikasında çok taraflılığı, Avrupa entegrasyonunu ve Atlantik ötesi müttefiklik ilişkilerini temel alan bir yaklaşım sergiler. Avrupa Birliği ve NATO'nun aktif bir üyesi olan ülke, dünyadaki tüm Portekizce konuşan uluslar arasında köprü görevi görmeyi amaçlayan CPLP'nin de merkezindedir. Tarihsel bağlara dayanan diplomasi anlayışı; Güney Amerika, Afrika ve Asya ile güçlü kültürel ve ikili ilişkilerin sürdürülmesini sağlar.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Siyasi ve Ekonomik Birlik",
+        "description": "Portekiz, AB içerisindeki derin bütünleşmeyi, uyum politikalarını ve Schengen alanını aktif olarak destekleyen ana akım üyelerdendir.",
+        "since": "1986"
+      },
+      {
+        "partner": "NATO",
+        "relationType": "Askeri Müttefiklik",
+        "description": "Kurucu üyeler arasında yer alan Portekiz, Kuzey Atlantik güvenliğine ve müttefik operasyonlarına katkı sunmaktadır.",
+        "since": "1949"
+      },
+      {
+        "partner": "CPLP (Portekizce Konuşan Ülkeler Topluluğu)",
+        "relationType": "Kültürel ve Diplomatik İttifak",
+        "description": "Portekizce konuşan ülkeler arasında siyasi iş birliğini, dil birliğini ve ekonomik ilişkileri geliştirmeyi hedefleyen uluslararası yapının kurucusudur.",
+        "since": "1996"
+      },
+      {
+        "partner": "İspanya",
+        "relationType": "Stratejik Komşuluk İlişkisi",
+        "description": "İber Yarımadası'ndaki tek komşusu olan İspanya ile altyapı, enerji, çevre politikaları ve ticaret alanlarında üst düzey ortaklık yürütmektedir.",
+        "since": "1139"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Windsor Antlaşması",
+        "year": "1386",
+        "description": "İngiltere ile Portekiz arasında imzalanan ve dünyada halen yürürlükte olan en eski diplomatik ve askeri ittifak antlaşmasıdır."
+      },
+      {
+        "name": "Lizbon Antlaşması",
+        "year": "2007",
+        "description": "Avrupa Birliği'nin kurumsal yapısını modernize eden ve Anayasal reformları içeren tarihi AB antlaşması Portekiz'in başkentinde imzalanmıştır."
+      },
+      {
+        "name": "Schengen Anlaşması Uygulaması",
+        "year": "1991",
+        "description": "Portekiz, Avrupa sınırlarının kaldırılması ve kişilerin serbest dolaşımını öngören düzenlemeleri kabul ederek sisteme dahil olmuştur."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "İspanya (Olivença Meselesi)",
+        "relationType": "Anlaşmazlık",
+        "description": "1801 Badajoz Antlaşması ile İspanya kontrolüne geçen Olivença kasabasının egemenliği konusunda Portekiz tarihsel hak iddiasını resmi olarak geri çekmemiş olsa da durum günümüzde ikili ilişkileri olumsuz etkilemeyen pasif bir diplomatik konudur.",
+        "since": "1801"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Aktif Üye",
+        "joinedYear": "1986"
+      },
+      {
+        "name": "NATO",
+        "role": "Kurucu Üye",
+        "joinedYear": "1949"
+      },
+      {
+        "name": "OECD",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      },
+      {
+        "name": "Portekizce Konuşan Ülkeler Topluluğu (CPLP)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1996"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Portekiz, çok partili demokratik bir yapıya ve yarı başkanlık yönetim sistemine sahiptir. Devletin başı genel oyla seçilen Cumhurbaşkanı olup, yürütme erki Anayasa uyarınca Meclis çoğunluğuna dayanan Başbakan liderliğindeki Hükümet tarafından yürütülür. Yasama organı tek kamaralı Cumhuriyet Meclisi'dir (Assembleia da República). Yargı bağımsızlığı anayasal güvence altındadır. Siyasi yelpazede merkez sol ve merkez sağ partiler tarihsel olarak ana aktörler olmakla birlikte, son yıllarda çoğulculuk artmıştır.",
+    "governmentForm": "Yarı Başkanlık Sistemi ile Yönetilen Üniter Demokratik Cumhuriyet",
+    "currentStructure": "Yürütme organı Cumhurbaşkanı ve Başbakan yönetimindeki Bakanlar Kurulu'ndan oluşur. Yasama yetkisi 230 sandalyeli Cumhuriyet Meclisi'ne aittir. Yargı erki ise Anayasa Mahkemesi, Yargıtay ve alt kademe mahkemelerce bağımsız olarak yürütülür.",
+    "timeline": [
+      {
+        "year": "1910",
+        "title": "Birinci Cumhuriyet'in İlanı",
+        "description": "Monarşinin sona ermesiyle laik ve cumhuriyetçi bir siyasal düzen kurulmuştur.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1926",
+        "title": "28 Mayıs Askeri Darbesi",
+        "description": "Siyasi istikrarsızlıklar sonrasında gerçekleşen darbe, parlamenter rejimi askıya almış ve diktatörlüğün zeminini hazırlamıştır.",
+        "era": "Otoriter Dönem"
+      },
+      {
+        "year": "1933",
+        "title": "Yeni Devlet (Estado Novo) Anayasası",
+        "description": "Korporatist ve otoriter tek parti rejimini yasallaştıran anayasa yürürlüğe girmiştir.",
+        "era": "Otoriter Dönem"
+      },
+      {
+        "year": "1974",
+        "title": "Karanfil Devrimi ve Demokratikleşme",
+        "description": "25 Nisan 1974'te gerçekleşen kansız devrimle otoriter rejim yıkılmış, sansür kaldırılmış ve siyasi tutuklular serbest bırakılmıştır.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1975",
+        "title": "Sömürgesizleşme (Decolonization) Süreci",
+        "description": "Angola, Mozambik, Gine-Bissau, Yeşil Burun Adaları ve São Tomé ve Príncipe'ye bağımsızlıkları verilmiştir.",
+        "era": "Geçiş Dönemi"
+      },
+      {
+        "year": "1976",
+        "title": "Demokratik Anayasa'nın Kabulü",
+        "description": "Temel hak ve hürriyetleri, genel oy ilkesini ve yarı başkanlık sistemini güvence altına alan modern anayasa yürürlüğe girmiştir.",
+        "era": "Demokratik Dönem"
+      },
+      {
+        "year": "1999",
+        "title": "Makao'nun Çin'e Devri",
+        "description": "Portekiz'in Asya'daki son idari toprağı olan Makao barışçıl bir protokolle Çin Halk Cumhuriyeti egemenliğine devredilmiştir.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2015",
+        "title": "Geringonça (Sol İttifak) Hükümeti",
+        "description": "Sosyalist Parti'nin sol partilerin dışarıdan desteğiyle kurduğu azınlık hükümeti, Portekiz siyasal tarihinde yeni bir uzlaşı modeli oluşturmuştur.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Portekiz, son yirmi yılda bilim, akademi ve teknolojik araştırma alanlarında önemli aşamalar kaydetmiştir. Bilim, Teknoloji ve Yükseköğretim Bakanlığı koordinasyonunda, FCT (Bilim ve Teknoloji Vakfı) aracılığıyla Ar-Ge faaliyetleri fonlanmaktadır. Yenilenebilir enerji teknolojileri, derin deniz araştırmaları, nörobilim, biyotıp ve yazılım mühendisliği alanlarında uluslararası standartlarda çalışmalar yürütülmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.73",
+        "unit": "%",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "63,500",
+        "unit": "Kişi",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "3,150",
+        "unit": "Adet",
+        "scoreOutOf100": 55
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Puanı",
+        "value": "44.8",
+        "unit": "Endeks Puanı",
+        "scoreOutOf100": 72
+      },
+      {
+        "label": "Yüksek Teknoloji İhracat Payı",
+        "value": "8.7",
+        "unit": "%",
+        "scoreOutOf100": 58
+      }
+    ],
+    "notableAchievements": [
+      "Dünyanın en gelişmiş dalga enerjisi ve yüzer rüzgar türbini tesislerinin geliştirilmesi",
+      "Champalimaud Vakfı bünyesinde nörobilim ve kanser araştırmalarında dünya çapında çığır açan keşifler",
+      "Ulusal dijital kimlik ve e-Devlet altyapısının (Via Verde ve Kartão do Cidadão) erken dönem başarılı entegrasyonu",
+      "Atlantik Uluslararası Araştırma Merkezi (AIR Centre) ile uzay ve okyanus gözlem teknolojilerine öncülük edilmesi"
+    ],
+    "institutions": [
+      {
+        "name": "Lizbon Üniversitesi",
+        "type": "Üniversite",
+        "description": "Portekiz'in en büyük ve en köklü yükseköğretim kurumu olup mühendislik, doğa bilimleri ve tıp araştırmalarında lider konumdadır."
+      },
+      {
+        "name": "Porto Üniversitesi",
+        "type": "Üniversite",
+        "description": "Uluslararası bilimsel yayın kapasitesi ve mühendislik ile biyomedikal bilimlerdeki yüksek akademik çıktısıyla tanınır."
+      },
+      {
+        "name": "Champalimaud Vakfı",
+        "type": "Araştırma Enstitüsü",
+        "description": "Lizbon'da bulunan, nörobilim ve onkoloji alanlarında uluslararası düzeyde öncü araştırmalar yürüten prestijli bir biyotıp merkezidir."
+      },
+      {
+        "name": "INESC TEC",
+        "type": "Araştırma Enstitüsü",
+        "description": "Bilgisayar bilimleri, telekomünikasyon ve yenilenebilir enerji sistemleri üzerine odaklanmış ileri teknoloji araştırma merkezidir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:07:18.244Z"
+}

@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "code": "br",
+    "iso3": "BRA",
+    "name_tr": "Brezilya",
+    "name_en": "Brazil",
+    "region": "Güney Amerika",
+    "capital_tr": "Brasilia",
+    "flag_emoji": "🇧🇷"
+  },
+  "overview": "Brezilya Federatif Cumhuriyeti, Güney Amerika kıtasının yüzölçümü ve nüfus bakımından en büyük ülkesi olup kıta topraklarının yaklaşık yarısını kaplamaktadır. Zengin biyolojik çeşitliliğe sahip Amazon Yağmur Ormanları'na ve dünyanın en büyük nehir sistemlerinden birine ev sahipliği yapmaktadır. Ülke, gelişmekte olan küresel bir güç olarak bölgesel liderliğinin yanı sıra tarım, madencilik, havacılık ve yenilenebilir enerji sektörlerindeki ekonomik ağırlığıyla dikkat çekmektedir.",
+  "history": {
+    "summary": "Brezilya tarihi, Portekiz öncesi yerli halkların varlığıyla başlar; 1500 yılında Pedro Álvares Cabral'ın kıyıya ulaşmasıyla Portekiz sömürge dönemine girmiştir. 1822'de bağımsızlığını ilan eden ülke, önce Brezilya İmparatorluğu ardından cumhuriyet rejimiyle yönetilmiş, 20. yüzyıldaki askeri rejim döneminin ardından 1985'te tekrar demokrasiye dönmüştür.",
+    "timeline": [
+      {
+        "year": "1500",
+        "title": "Pedro Álvares Cabral'ın Brezilya'ya Ulaşması",
+        "description": "Portekizli denizci Pedro Álvares Cabral, Güney Amerika kıyısına ulaşarak bölgeyi Portekiz Tacı adına talep etti. Bu olay Brezilya'nın yazılı sömürge tarihinin başlangıcı oldu.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1534",
+        "title": "Kaptanlık Sisteminin Kurulması",
+        "description": "Portekiz Kralı III. João, Brezilya topraklarını özel kişilere devredilen 15 kalıtsal kaptanlığa böldü. İdari yapının temelleri bu dönemde atıldı.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1763",
+        "title": "Başkentin Rio de Janeiro'ya Taşınması",
+        "description": "Güneydoğudaki madencilik faaliyetlerinin artması ve stratejik önem kazanması üzerine başkent Salvador'dan Rio de Janeiro'ya nakledildi.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1808",
+        "title": "Portekiz Krallık Sarayı'nın Rio de Janeiro'ya Taşınması",
+        "description": "Napolyon Savaşları sebebiyle Portekiz Kraliyet Ailesi Lizbon'dan kaçarak Rio de Janeiro'ya yerleşti ve Brezilya, Krallık statüsüne yükseltildi.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1822",
+        "title": "Bağımsızlık İlanı ve Brezilya İmparatorluğu",
+        "description": "Prens Pedro, Ipiranga Nehri kıyısında bağımsızlığı ilan etti ve I. Pedro unvanıyla Brezilya'nın ilk imparatoru oldu.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1888",
+        "title": "Köleliğin Kaldırılması (Lei Áurea)",
+        "description": "Prenses Isabel tarafından imzalanan Altın Kanun ile Brezilya'da kölelik resmi olarak tamamen kaldırıldı.",
+        "era": "İmparatorluk Dönemi"
+      },
+      {
+        "year": "1889",
+        "title": "Cumhuriyetin İlanı",
+        "description": "Askeri bir darbeyle İmparator II. Pedro tahtan indirildi ve Brezilya Birleşik Devletleri adıyla cumhuriyet rejimi kuruldu.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1930",
+        "title": "Getúlio Vargas Devrimi",
+        "description": "Getúlio Vargas önderliğindeki hareket, eski oligarşik yapıyı devirerek ülkenin modernleşme ve merkezileşme sürecini başlattı.",
+        "era": "Vargas Dönemi"
+      },
+      {
+        "year": "1960",
+        "title": "Başkentin Brasília'ya Taşınması",
+        "description": "Cumhurbaşkanı Juscelino Kubitschek'in iç bölgeleri kalkındırma vizyonu doğrultusunda sıfırdan inşa edilen Brasília yeni başkent oldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1964",
+        "title": "Askeri Darbe ve Diktatörlük Rejimi",
+        "description": "Cumhurbaşkanı João Goulart'ın devrilmesiyle başlayan ve 1985 yılına kadar süren askeri yönetim dönemi başladı.",
+        "era": "Askeri Rejim Dönemi"
+      },
+      {
+        "year": "1985",
+        "title": "Demokrasiye Geçiş",
+        "description": "'Diretas Já' kamuoyu hareketlerinin ardından sivil bir cumhurbaşkanının seçilmesiyle askeri vesayet sona erdi.",
+        "era": "Modern Demokrasi Dönemi"
+      },
+      {
+        "year": "1988",
+        "title": "Yeni Anayasanın Kabulü",
+        "description": "'Vatandaş Anayasası' olarak bilinen ileri düzeyde temel hak ve hürriyetleri garanti altına alan mevcut anayasa yürürlüğe girdi.",
+        "era": "Modern Demokrasi Dönemi"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Brezilya, Latin Amerika'nın en büyük ekonomisi olup pazar odaklı karma bir ekonomik yapıya sahiptir. Zengin doğal kaynakları, gelişmiş imalat sanayii, dünya lideri tarım sektörü ve hizmetler ağırlıklı yapısıyla küresel tedarik zincirlerinde kritik bir rol oynamaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "2.33 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "11,100",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "4.1",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "6.8",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "340 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Brezilya Reali (BRL)",
+        "unit": "BRL",
+        "year": "2025"
+      },
+      {
+        "label": "Politika Faiz Oranı",
+        "value": "11.25",
+        "unit": "%",
+        "year": "2025"
+      }
+    ],
+    "majorIndustries": [
+      "Tarım ve Biyoyakıt Üretimi",
+      "Madencilik ve Metalürji",
+      "Havacılık ve Uzay Sanayii",
+      "Otomotiv ve Ağır Sanayi",
+      "Petrol ve Doğalgaz Çıkarımı",
+      "Finans ve Bankacılık Hizmetleri"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 1.8
+          },
+          {
+            "year": "2019",
+            "value": 1.2
+          },
+          {
+            "year": "2020",
+            "value": -3.3
+          },
+          {
+            "year": "2021",
+            "value": 4.8
+          },
+          {
+            "year": "2022",
+            "value": 3
+          },
+          {
+            "year": "2023",
+            "value": 2.9
+          },
+          {
+            "year": "2024",
+            "value": 2.5
+          },
+          {
+            "year": "2025",
+            "value": 2.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1942",
+        "title": "Companhia Vale do Rio Doce'nin Kurulması",
+        "description": "Devlet eliyle madencilik ve sanayi hamlesinin en büyük adımlarından biri olarak maden devi Vale kuruldu.",
+        "era": "Devletçi Sanayileşme"
+      },
+      {
+        "year": "1968-1973",
+        "title": "Brezilya Ekonomik Mucizesi",
+        "description": "Yüksek altyapı yatırımları ve dış finansmanla yıllık ortalama %10'un üzerinde büyüme oranları yakalandı.",
+        "era": "Askeri Rejim Ekonomisi"
+      },
+      {
+        "year": "1994",
+        "title": "Plano Real (Real Planı)",
+        "description": "Maliye Bakanı Fernando Henrique Cardoso tarafından hayata geçirilen reformla hiperenflasyon kontrol altına alındı ve yeni para birimi Real tedavüle girdi.",
+        "era": "Ekonomik İstikrar Dönemi"
+      },
+      {
+        "year": "2003-2010",
+        "title": "Emtia Patlaması ve Yoksullukla Mücadele",
+        "description": "Küresel emtiaya olan yüksek talep sayesinde yakalanan ekonomik büyüme, Bolsa Família gibi programlarla milyonlarca kişiyi yoksulluktan çıkardı.",
+        "era": "Sosyo-Ekonomik Atılım"
+      },
+      {
+        "year": "2015-2016",
+        "title": "Büyük Ekonomik Resesyon",
+        "description": "Düşen emtia fiyatları ve siyasi krizlerin etkisiyle ülke tarihinin en derin ekonomik daralmalarından biri yaşandı.",
+        "era": "Kriz Dönemi"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Brezilya, çok taraflılığa, devletlerin egemenliğine ve barışçıl çözümlere dayalı dengeli bir dış politika izlemektedir. Bölgesel entegrasyonda lider rol oynarken, BRICS ve G20 gibi platformlar aracılığıyla Küresel Güney'in temsilciliğini üstlenmektedir.",
+    "alliances": [
+      {
+        "partner": "Mercosur",
+        "relationType": "Gümrük Birliği ve Ekonomik Blok",
+        "description": "Güney Amerika ülkeleri arasında serbest ticaret ve ekonomik entegrasyonu hedefleyen örgütün kurucu ve en büyük üyesidir.",
+        "since": "1991"
+      },
+      {
+        "partner": "BRICS",
+        "relationType": "Stratejik ve Ekonomik İttifak",
+        "description": "Gelişmekte olan ekonomiler arasında küresel yönetişim reformunu ve çok kutuplu dünya düzenini savunan blokta aktif rol almaktadır.",
+        "since": "2006"
+      },
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Stratejik Ortaklık",
+        "description": "Ticaret, savunma, çevre yönetimi ve demokrasi ilkeleri çerçevesinde uzun geçmişe dayanan ikili ilişkiler sürdürülmektedir.",
+        "since": "1824"
+      },
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Kapsamlı Stratejik Ortaklık",
+        "description": "Brezilya'nın en büyük ticaret ortağı olup, tarım ve maden ihracatında kritik bir pazar oluşturmaktadır.",
+        "since": "1974"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Tlatelolco Antlaşması",
+        "year": "1967",
+        "description": "Latin Amerika ve Karayipler'in nükleer silahlardan arındırılmış bölge ilan edilmesini sağlayan tarihi anlaşma."
+      },
+      {
+        "name": "Asunción Antlaşması",
+        "year": "1991",
+        "description": "Arjantin, Brezilya, Paraguay ve Uruguay arasında Mercosur ortak pazarını kuran temel antlaşma."
+      },
+      {
+        "name": "Brasilia Barış Antlaşması",
+        "year": "1998",
+        "description": "Peru ve Ekvador arasındaki sınır anlaşmazlığını çözüme kavuşturan ve Brezilya'nın garantör olduğu barış antlaşması."
+      },
+      {
+        "name": "Paris İklim Anlaşması",
+        "year": "2015",
+        "description": "Amazon forestasyonu ve sera gazı salınımını azaltma taahhütlerini içeren küresel çevre sözleşmesi."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Uruguay (Ilha Brasileira Anlaşmazlığı)",
+        "relationType": "Anlasmazlik",
+        "description": "Quaraí ve Uruguay nehirlerinin birleştiği noktada bulunan uninhabited Ilha Brasileira adasının aidiyeti konusunda diplomatik bazda çözülememiş mütevazı bir sınır iddiası mevcuttur.",
+        "since": "1934"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "1999"
+      },
+      {
+        "name": "BRICS",
+        "role": "Kurucu Üye",
+        "joinedYear": "2006"
+      },
+      {
+        "name": "Amerika Devletleri Örgütü",
+        "role": "Kurucu Üye",
+        "joinedYear": "1948"
+      },
+      {
+        "name": "Mercosur",
+        "role": "Kurucu Üye",
+        "joinedYear": "1991"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Brezilya, çok partili parlamenter temsil olanağı sunan, federatif yapıda başkanlık tipi bir cumhuriyettir. Ülkenin siyasi tarihi, demokrasi dönemleri ile askeri vesayet kesintileri arasında salınmış, 1988 Anayasası ile kurumların dengelendiği bir yapıya kavuşmuştur.",
+    "governmentForm": "Başkanlık Sistemi ile Yönetilen Federal Cumhuriyet",
+    "currentStructure": "Yürütme erki doğrudan halk tarafından seçilen Devlet Başkanı tarafından yürütülür. Yasama organı Federal Senato ve Milletvekiller Meclisi'nden oluşan çift kamaralı Ulusal Kongre'dir. Yargı erkinin en üst organı ise Yüksek Federal Mahkeme'dir (STF). Ülke 26 eyalet ve 1 federal bölgeden oluşmaktadır.",
+    "timeline": [
+      {
+        "year": "1889",
+        "title": "İlk Anayasal Cumhuriyetin Kurulması",
+        "description": "Monarşinin sona ermesiyle eyaletlere geniş özerklik tanıyan federal cumhuriyet yapısı kuruldu.",
+        "era": "Cumhuriyete Geçiş"
+      },
+      {
+        "year": "1930",
+        "title": "Getúlio Vargas'ın İktidara Gelişi",
+        "description": "Geleneksel kahve ve süt oligarşisinin hakimiyeti son buldu ve otoriter merkezci idare kuruldu.",
+        "era": "Vargas Dönemi"
+      },
+      {
+        "year": "1937",
+        "title": "Estado Novo (Yeni Devlet) Rejimi",
+        "description": "Vargas tarafından parlamentonun kapatılmasıyla otoriter bir korporatif devlet yapısı ilan edildi.",
+        "era": "Otokrasi Dönemi"
+      },
+      {
+        "year": "1945",
+        "title": "Vargas'ın Devrilmesi ve Demokratikleşme",
+        "description": "İkinci Dünya Savaşı'nın ardından askeri baskıyla Vargas istifa etti ve anayasal demokrasiye geri dönüldü.",
+        "era": "İkinci Cumhuriyet"
+      },
+      {
+        "year": "1964",
+        "title": "Askeri Müdahale",
+        "description": "Soğuk Savaş konjonktüründe gerçekleşen askeri darbe ile temel hakların kısıtlandığı bir dönem başladı.",
+        "era": "Askeri Rejim"
+      },
+      {
+        "year": "1985",
+        "title": "Sivil Yönetime Geçiş",
+        "description": "Seçiciler kurulu aracılığıyla Tancredo Neves'in seçilmesiyle askeri iktidar sivil otoriteye devredildi.",
+        "era": "Yeniden Demokratikleşme"
+      },
+      {
+        "year": "1988",
+        "title": "Vatandaş Anayasası'nın İlanı",
+        "description": "İnsan hakları, sosyal adalet ve federalizm ilkelerine dayalı çağdaş anayasa yürürlüğe kondu.",
+        "era": "Anayasal Dönem"
+      },
+      {
+        "year": "1992",
+        "title": "Fernando Collor de Mello'nun Görevden Alınması",
+        "description": "Yolsuzluk iddiaları üzerine Başkan Collor hakkında Yüce Divan (Impeachment) süreci başlatıldı ve istifa etti.",
+        "era": "Demokratik Sınav"
+      },
+      {
+        "year": "2016",
+        "title": "Dilma Rousseff'in Görevden Alınması",
+        "description": "Bütçe yasalarını ihlal ettiği gerekçesiyle Senato kararıyla Devlet Başkanı Dilma Rousseff azledildi.",
+        "era": "Siyasi Kriz Dönemi"
+      },
+      {
+        "year": "2022",
+        "title": "Luiz Inácio Lula da Silva'nın Seçimleri Kazanması",
+        "description": "Yoğun kutuplaşmanın yaşandığı seçimlerde Lula da Silva üçüncü kez devlet başkanı seçilerek iktidara geldi.",
+        "era": "Yakın Siyasi Tarih"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Brezilya, Latin Amerika'nın bilimsel araştırma ve teknolojik inovasyon merkezidir. Özellikle biyoyakıt teknolojileri, tropikal tarım araştırmaları, derin deniz petrol arama teknikleri ve ticari havacılık alanında küresel düzeyde kayda değer başarılara sahiptir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "1.21",
+        "unit": "%",
+        "scoreOutOf100": 62
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "180,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 68
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "27,500",
+        "unit": "Adet",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Yüksek Teknoloji İhracatı Payı",
+        "value": "11.5",
+        "unit": "%",
+        "scoreOutOf100": 55
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sırası",
+        "value": "49",
+        "unit": "Sıra",
+        "scoreOutOf100": 60
+      }
+    ],
+    "notableAchievements": [
+      "Embraer ile Dünyanın En Büyük 3. Ticari Uçak Üreticisi Konumuna Ulaşılması",
+      "Embrapa Tarafından Geliştirilen Tropikal Tarım Teknolojileri ve Savana Islahı",
+      "Petrobras Tarafından Derin Deniz Su Altı Petrol Çıkarma Teknolojilerinin (Pre-Salt) Geliştirilmesi",
+      "Şeker Kamışına Dayalı Biyoetanol Üretimi ve Flex-Fuel Araç Teknolojisinde Küresel Liderlik",
+      "Sirius Senkrotron Işık Kaynağı Projesi ile İleri Derece Madde Analiz Kapasitesi"
+    ],
+    "institutions": [
+      {
+        "name": "São Paulo Üniversitesi (USP)",
+        "type": "Universite",
+        "description": "Latin Amerika'nın en yüksek akademik yayın ve araştırma kapasitesine sahip lider devlet üniversitesidir."
+      },
+      {
+        "name": "EMBRAPA (Brezilya Tarımsal Araştırma Şirketi)",
+        "type": "Arastirma Enstitusu",
+        "description": "Tropikal iklimlerde tarımsal verimliliği artıran ve ülkeyi gıda ihracatçısına dönüştüren inovatif teknikler geliştiren kurumdur."
+      },
+      {
+        "name": "INPE (Ulusal Uzay Araştırmaları Enstitüsü)",
+        "type": "Uzay Ajansi",
+        "description": "Amazon biyomunun uydu takibi, iklim gözlemleri ve uzay bilimleri alanında öncü araştırma merkezidir."
+      },
+      {
+        "name": "Fiocruz (Oswaldo Cruz Vakfı)",
+        "type": "Arastirma Enstitusu",
+        "description": "Biyomedikal araştırma, aşı üretimi ve kamu sağlığı alanında Amerika kıtasının en köklü ve saygın kurumlarından biridir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:27:25.337Z"
+}

@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "code": "at",
+    "iso3": "AUT",
+    "name_tr": "Avusturya",
+    "name_en": "Austria",
+    "region": "Avrupa",
+    "capital_tr": "Viyana",
+    "flag_emoji": "🇦🇹"
+  },
+  "overview": "Avusturya, Orta Avrupa'da yer alan, denize kıyısı bulunmayan ve büyük ölçüde Alp Dağları ile kaplı bir federal cumhuriyettir. Doğu ile Batı Avrupa arasında tarihsel ve coğrafi bir köprü işlevi gören ülke, sekiz devletle sınır komşusudur ve zengin kültürel mirasıyla tanınır. Birleşmiş Milletler, AGİT ve OPEC gibi birçok uluslararası kuruluşun merkezine ev sahipliği yapan başkenti Viyana, küresel diplomaside önemli bir konuma sahiptir. Anayasal tarafsızlık ilkesini benimseyen Avusturya, yüksek yaşam standartları, gelişmiş sanayisi ve güçlü sosyal refah modeliyle Avrupa Birliği'nin önde gelen ekonomilerinden biridir.",
+  "history": {
+    "summary": "Avusturya tarihi, Antik Roma döneminden başlayarak Habsburg Hanedanı'nın Avrupa siyasetine yön verdiği görkemli bir imparatorluk geçmişine ve ardından 20. yüzyıldaki köklü rejim değişimlerine dayanmaktadır. Orta Çağ'da Kutsal Roma Cermen İmparatorluğu'nun merkez eksenlerinden biri haline gelen bölge, 19. yüzyılda Avusturya-Macaristan İmparatorluğu olarak kıtanın en büyük güçlerinden biri olmuştur. I. Dünya Savaşı sonrasında yıkılan imparatorluğun ardından kurulan cumhuriyet, İkinci Dünya Savaşı sonrası kabul edilen tarafsızlık statüsüyle modern, müreffeh bir Avrupa devletine dönüşmüştür.",
+    "timeline": [
+      {
+        "year": "M.Ö. 15",
+        "title": "Roma Hakimiyeti ve Noricum Vilayeti",
+        "description": "Roma İmparatorluğu, Tuna Nehri'nin güneyindeki Avusturya topraklarını fethederek Noricum ve Pannonia eyaletlerini kurdu. Vindobona (günümüzdeki Viyana) bu dönemde önemli bir askeri garnizon haline geldi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "976",
+        "title": "Babenberg Hanedanı ve Ostarrıchi Metni",
+        "description": "I. Leopold'un Doğu Marklığı (Ostmark) uç beyi olarak atanmasıyla Babenberg Hanedanı iktidarı başladı. 996 tarihli bir belgede geçen 'Ostarrıchi' kelimesi, Avusturya isminin bilinen ilk yazılı kaydı oldu.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1278",
+        "title": "Habsburg İktidarının Başlangıcı",
+        "description": "I. Rudolf'un Marchfeld Muharebesi'nde Bohemya Kralı II. Ottokar'ı mağlup etmesiyle Avusturya toprakları Habsburg Hanedanı'nın kontrolüne geçti. Bu gelişme, yaklaşık altı asır sürecek olan Habsburg yönetimi dönemini başlattı.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1529",
+        "title": "I. Viyana Kuşatması",
+        "description": "Kanuni Sultan Süleyman komutasındaki Osmanlı ordusu Viyana'yı kuşattı. Zorlu hava koşulları ve lojistik engeller nedeniyle savunmayı kıramayan Osmanlı gücü geri çekilmek zorunda kaldı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1683",
+        "title": "II. Viyana Kuşatması ve Kutsal İttifak",
+        "description": "Osmanlı ordusunun Viyana'ya yönelik ikinci kuşatması, Polonya Kralı Jan Sobieski liderliğindeki müttefik güçlerin müdahalesiyle püskürtüldü. Bu olay Habsburgların Güneydoğu Avrupa'ya doğru genişleme sürecini başlattı.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1804",
+        "title": "Avusturya İmparatorluğu'nun İlanı",
+        "description": "Kutsal Roma Cermen İmparatoru II. Franz, Napolyon'un Fransa İmparatorluğu'nu ilan etmesine yanıt olarak Avusturya İmparatorluğu'nu kurdu ve I. Franz unvanını aldı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1867",
+        "title": "Avusturya-Macaristan İkili Monarşisi (Ausgleich)",
+        "description": "Macar soylularının özerklik talepleri doğrultusunda imzalanan uzlaşma ile Avusturya-Macaristan İkili Monarşisi kuruldu. İki devlet ortak dış politika, savunma ve maliye sistemini paylaştı.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1914-1918",
+        "title": "I. Dünya Savaşı ve Monarşinin Yıkılışı",
+        "description": "Veliaht Prens Franz Ferdinand'ın Saraybosna'da suikasta uğramasıyla I. Dünya Savaşı patlak verdi. İttifak Devletleri safında yer alan imparatorluk, savaşın sonunda dağıldı ve Birinci Avusturya Cumhuriyeti kuruldu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1938",
+        "title": "Anschluss (Almanya'ya Katılma)",
+        "description": "Adolf Hitler liderliğindeki Nazi Almanyası, Avusturya'yı ilhak etti. Ülke, II. Dünya Savaşı'nın sonuna kadar Üçüncü Reich'ın bir parçası olarak yönetildi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1955",
+        "title": "Devlet Antlaşması ve Daimi Tarafsızlık",
+        "description": "Müttefik işgalinin ardından imzalanan Avusturya Devlet Antlaşması ile ülke tam bağımsızlığını kazandı ve parlamentoda alınan kararla daimi anayasal tarafsızlığını ilan etti.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1995",
+        "title": "Avrupa Birliği Üyeliği",
+        "description": "Avusturya, yapılan kamuoyu referandumunun ardından Avrupa Birliği'ne resmi olarak üye oldu ve bölgesel entegrasyon sürecinde aktif bir rol üstlendi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Avusturya ekonomisi; yüksek oranda sanayileşmiş yapısı, nitelikli iş gücü, gelişmiş hizmet sektörü ve güçlü ihracat kapasitesi ile tanınan son derece istikrarlı bir sosyal piyasa ekonomisidir. Ülke, hassas mühendislik, otomotiv yan sanayisi, kimya ve yenilenebilir enerji teknolojilerinde küresel pazar lideri şirketlere ev sahipliği yapmaktadır. Ayrıca zengin doğası ve kültürel mirası sayesinde turizm gelirleri gayrisafi yurtiçi hasılada kritik bir paya sahiptir. Orta ve Doğu Avrupa pazarlarıyla olan tarihsel ve ticari bağları, ülkenin bölgesel bir finans ve lojistik merkezi olmasını sağlamıştır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "542.5",
+        "unit": "Milyar USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "59,400",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "2.6",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "5.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Euro (EUR)",
+        "unit": "EUR",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "225.8",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Makine Mühendisliği ve Hassas Aletler",
+      "Otomotiv ve Yan Sanayi",
+      "Kimya ve İlaç Sanayii",
+      "Demir-Çelik ve Metalurji",
+      "Turizm ve Otelcilik",
+      "Yenilenebilir Enerji ve Çevre Teknolojileri",
+      "Bankacılık ve Sigortacılık"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.4
+          },
+          {
+            "year": "2019",
+            "value": 1.5
+          },
+          {
+            "year": "2020",
+            "value": -6.6
+          },
+          {
+            "year": "2021",
+            "value": 4.2
+          },
+          {
+            "year": "2022",
+            "value": 4.8
+          },
+          {
+            "year": "2023",
+            "value": -0.8
+          },
+          {
+            "year": "2024",
+            "value": 0.2
+          },
+          {
+            "year": "2025",
+            "value": 1.4
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1948",
+        "title": "Marshall Planı ve Yeniden Yapılanma",
+        "description": "II. Dünya Savaşı sonrası yıkıma uğrayan sanayi altyapısı, ABD yardımları ve devlet öncülüğündeki modernizasyon hamleleriyle hızla ayağa kaldırıldı.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1957",
+        "title": "Sosyal Ortaklık Modelinin Kurulması (Sozialpartnerschaft)",
+        "description": "İşçi sendikaları, işveren birlikleri ve hükümet arasında kurumsal diyalog mekanizması hayata geçirilerek uzun vadeli çalışma barışı ve ekonomik istikrar sağlandı.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1989-1991",
+        "title": "Doğu Blokunun Çöküşü ve Bölgesel Açılım",
+        "description": "Demir Perde'nin kalkmasıyla Avusturya bankaları ve şirketleri, Orta ve Doğu Avrupa ülkelerindeki özelleştirme ve yatırım süreçlerinde öncü rol üstlendi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1999/2002",
+        "title": "Euro Alanına Geçiş",
+        "description": "Avusturya Şilini tedavülden kaldırılarak ortak para birimi Euro kabul edildi; bu durum dış ticareti ve sınırlar arası yatırımları kolaylaştırdı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Avusturya dış politikası, 1955 yılından bu yana anayasal boyutta korunan daimi tarafsızlık statüsü etrafında şekillenmektedir. Askeri ittifaklara katılmayan ülke, uluslararası uyuşmazlıklarda arabuluculuk yapma ve çok taraflı diplomasiye ev sahipliği yapma misyonunu üstlenmiştir. Avrupa Birliği'nin aktif bir üyesi olan Avusturya, Batı Balkanlar'ın entegrasyonunu desteklemekte ve bölgesel güvenlik ile ekonomik iş birliğini önceliklendirmektedir. Başkent Viyana; BM, AGİT ve IAEA gibi küresel örgütlerin merkezlerine ev sahipliği yaparak ülkenin uluslararası diplomasideki özgül ağırlığını artırmaktadır.",
+    "alliances": [
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Üyelik ve Entegrasyon",
+        "description": "Avusturya, 1995'ten bu yana AB üyesidir; ortak pazar, Schengen bölgesi ve Euro Alanı politika süreçlerine tam katılım sağlamaktadır.",
+        "since": "1995"
+      },
+      {
+        "partner": "Almanya",
+        "relationType": "Stratejik ve Ekonomik İttifak",
+        "description": "Ortak dil, kültür ve tarihsel bağların yanı sıra Almanya, Avusturya'nın en büyük ticari ortağı ve bölgesel politikadaki en yakın müttefikidir.",
+        "since": "1955"
+      },
+      {
+        "partner": "Birleşmiş Milletler",
+        "relationType": "Ev Sahibi ve Diplomatik Ortak",
+        "description": "Viyana, BM'nin dört resmi merkezinden biridir. Avusturya, barış gücü misyonlarına ve silahsızlanma diplomasisine sürekli katkı vermektedir.",
+        "since": "1955"
+      },
+      {
+        "partner": "Batı Balkan Ülkeleri",
+        "relationType": "Bölgesel İş Birliği ve Destek",
+        "description": "Avusturya, tarihsel bağları bulunan Batı Balkan devletlerinin AB entegrasyon süreçlerini diplomatik ve ekonomik olarak kararlılıkla desteklemektedir.",
+        "since": "1990"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Avusturya Devlet Antlaşması (Staatsvertrag)",
+        "year": "1955",
+        "description": "İkinci Dünya Savaşı sonrasında işgalci müttefik devletler ile imzalanan antlaşma, Avusturya'nın egemenliğini tam olarak geri kazanmasını sağlamış ve tarafsızlık ilkesinin temelini atmıştır."
+      },
+      {
+        "name": "Avrupa Birliği Katılım Antlaşması",
+        "year": "1994",
+        "description": "Avusturya'nın AB'ye katılım şartlarını düzenleyen ve 1995 yılında yürürlüğe giren tarihsel entegrasyon belgesidir."
+      },
+      {
+        "name": "Schengen Anlaşması",
+        "year": "1995",
+        "description": "Ülkenin Schengen alanına katılımını düzenleyen anlaşma ile diğer üye devletlerle olan kara ve hava sınır kontrolleri kademeli olarak kaldırılmıştır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Çekya (Temelín Nükleer Santrali Tartışması)",
+        "relationType": "Sınır Ötesi Çevre ve Enerji Anlaşmazlığı",
+        "description": "Avusturya'nın nükleer enerjiden arındırılmış politikası nedeniyle, Avusturya sınırı yakınındaki Çek nükleer santralinin güvenlik standartları konusunda dönem dönem diplomatik müzakereler ve çevresel gerilimler yaşanmaktadır.",
+        "since": "1990"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Aktif Üye ve Ev Sahibi",
+        "joinedYear": "1955"
+      },
+      {
+        "name": "Avrupa Birliği",
+        "role": "Aktif Üye",
+        "joinedYear": "1995"
+      },
+      {
+        "name": "Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT)",
+        "role": "Kurucu/Ev Sahibi Üye",
+        "joinedYear": "1973"
+      },
+      {
+        "name": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1961"
+      },
+      {
+        "name": "Avrupa Konseyi",
+        "role": "Aktif Üye",
+        "joinedYear": "1956"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Avusturya, 1920 Anayasası esas alınarak yönetilen federal, parlamenter ve temsilî bir cumhuriyettir. Devletin başında doğrudan halk tarafından seçilen Cumhurbaşkanı bulunurken, yürütmenin fiili liderliği Federal Şansölye tarafından üstlenilmektedir. Ülke idari olarak dokuz eyalete (Bundesländer) bölünmüştür ve güçlü bir federalizm anlayışına sahiptir. Siyasi kültür, tarihsel olarak uzlaşmaya dayalı 'Sosyal Ortaklık' modeli ve koalisyon hükümetleri geleneği ile karakterize edilir.",
+    "governmentForm": "Federal Parlamenter Cumhuriyet",
+    "currentStructure": "Yürütme erki Cumhurbaşkanı ve Şansölye başkanlığındaki Bakanlar Kurulu'na aittir. Yasama erki iki kamaralı parlamento (Ulusal Konsey - Nationalrat ve Federal Konsey - Bundesrat) tarafından yürütülür. Yargı bağımsız olup en üst denetim organları Anayasa Mahkemesi, Yargıtay ve İdare Mahkemesi'dir.",
+    "timeline": [
+      {
+        "year": "1918",
+        "title": "Birinci Cumhuriyetin İlanı",
+        "description": "Monarşinin çöküşünün ardından Alman-Avusturya Cumhuriyeti ilan edildi, daha sonra Birinci Avusturya Cumhuriyeti adını aldı.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1920",
+        "title": "Federal Anayasanın Kabulü",
+        "description": "Hukukçu Hans Kelsen tarafından tasarlanan ilk Federal Anayasa yürürlüğe girdi. Bu metin modern Avusturya hukuk düzeninin temelini oluşturmaktadır.",
+        "era": "Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1934",
+        "title": "İç Savaş ve Otoriter Rejim (Ständestaat)",
+        "description": "Siyasi kutuplaşmalar neticesinde çıkan kısa süreli iç savaşın ardından parlamento feshedilerek otoriter bir 'Avusturya Faşizmi' rejimi kuruldu.",
+        "era": "Savaş Arası Dönem"
+      },
+      {
+        "year": "1945",
+        "title": "İkinci Cumhuriyetin Kuruluşu",
+        "description": "Viyana'nın Nazi işgalinden kurtarılmasının ardından bağımsızlık bildirisi yayınlandı ve İkinci Avusturya Cumhuriyeti tesis edildi.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1955",
+        "title": "Anayasal Tarafsızlık Yasası",
+        "description": "Parlamento, Avusturya'nın herhangi bir askeri ittifaka katılmayacağını ve yabancı askeri üslere izin vermeyeceğini öngören tarafsızlık kanununu onayladı.",
+        "era": "Savaş Sonrası Dönem"
+      },
+      {
+        "year": "1994",
+        "title": "AB Katılım Referandumu",
+        "description": "Yapılan halk oylamasında seçmenlerin %66.6'sı Avrupa Birliği'ne üyeliğe 'evet' diyerek ülkenin geleceğini AB ile birleştirdi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2000",
+        "title": "ÖVP-FPÖ Koalisyonu ve Diplomatik Tepkiler",
+        "description": "Sağ popülist FPÖ'nün hükümete girmesi üzerine AB üyesi ülkeler Avusturya'ya karşı geçici diplomatik yaptırımlar uyguladı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2019",
+        "title": "Ibiza Skandalı ve Erken Seçimler",
+        "description": "Hükümet ortağı liderinin karıştığı siyasi skandal koalisyonun çökmesine, erken seçimlere ve sonrasında ÖVP-Yeşiller koalisyonunun kurulmasına yol açtı.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Avusturya, araştırma ve geliştirmeye ayırdığı yüksek bütçeler, köklü üniversite gelenekleri ve uluslararası araştırma merkezleriyle yüksek düzeyde bir bilimsel kapasiteye sahiptir. Kuantum fiziği, tıp, malzeme bilimi ve sürdürülebilir mühendislik alanlarında küresel düzeyde öncü çalışmalar yürütülmektedir. Devlet desteği (FWF, FFG) ve özel sektör iş birlikleri sayesinde akademi ile sanayi arasında güçlü bir inovasyon ekosistemi kurulmuştur.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "3.26",
+        "unit": "%",
+        "scoreOutOf100": 90
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "94,500",
+        "unit": "Kişi",
+        "scoreOutOf100": 82
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "2,350",
+        "unit": "Adet",
+        "scoreOutOf100": 78
+      },
+      {
+        "label": "Küresel İnovasyon Endeksi Sıralaması",
+        "value": "18",
+        "unit": "Sıra",
+        "scoreOutOf100": 85
+      },
+      {
+        "label": "Yükseköğretim Mezuniyet Oranı",
+        "value": "42.5",
+        "unit": "%",
+        "scoreOutOf100": 76
+      }
+    ],
+    "notableAchievements": [
+      "Kuantum Bilgiişlem ve Kuantum Dolanıklığı Deneyleri (Anton Zeilinger, 2022 Nobel Fizik Ödülü)",
+      "Biyomedikal İlaç Araştırmaları ve Aşı Geliştirme Teknolojileri",
+      "Yenilenebilir Enerji Hidroelektrik Türbin Tasarımları ve Çevre Teknolojileri",
+      "Kayıpsız Güç İletimi ve Yüksek Hassasiyetli Otomotiv Mühendisliği Sistemleri"
+    ],
+    "institutions": [
+      {
+        "name": "Viyana Üniversitesi (Universität Wien)",
+        "type": "Universite",
+        "description": "1365 yılında kurulan, Almanca konuşulan coğrafyanın en eski ve prestijli araştırma üniversitelerinden biridir; çok sayıda Nobel Ödülü sahibine ev sahipliği yapmıştır."
+      },
+      {
+        "name": "Viyana Teknik Üniversitesi (TU Wien)",
+        "type": "Universite",
+        "description": "Mühendislik, doğa bilimleri ve bilgisayar bilimlerinde Avrupa'nın önde gelen teknik araştırma merkezlerinden biridir."
+      },
+      {
+        "name": "Avusturya Bilimler Akademisi (ÖAW)",
+        "type": "Arastirma Enstitusu",
+        "description": "Temel araştırmaları teşvik eden ve bünyesindeki enstitülerle temel bilimler, arkeoloji ve sosyal bilimlerde öncü araştırmalar yürüten ulusal kurumdur."
+      },
+      {
+        "name": "Avusturya Bilim ve Teknoloji Enstitüsü (ISTA)",
+        "type": "Arastirma Enstitusu",
+        "description": "Klosterneuburg'da yer alan, lisansüstü düzeyde disiplinler arası temel bilimsel araştırmalara odaklanan dünya standartlarında bir merkezdir."
+      },
+      {
+        "name": "Avusturya Bilim Fonu (FWF)",
+        "type": "Arastirma Enstitusu",
+        "description": "Ülkedeki temel bilimsel araştırma projelerini fonlayan ve akademik mükemmeliyeti destekleyen ana ulusal kuruluştur."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:16:53.059Z"
+}

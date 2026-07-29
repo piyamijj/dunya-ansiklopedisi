@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "code": "ir",
+    "iso3": "IRN",
+    "name_tr": "İran",
+    "name_en": "Iran",
+    "region": "Asya",
+    "capital_tr": "Tahran",
+    "flag_emoji": "🇮🇷"
+  },
+  "overview": "İran veya resmî adıyla İran İslam Cumhuriyeti, Güneybatı Asya'da, Hazar Denizi ile Basra ve Umman Körfezleri arasında yer alan son derece stratejik bir Avrasya ülkesidir. Tarih boyunca Ahameniş, Part ve Sasani gibi dünya tarihine yön veren imparatorluklara ev sahipliği yapmış olan ülke, zengin kültürel mirası ve köklü devlet geleneğiyle öne çıkar. Dünyanın en büyük kanıtlanmış doğal gaz ve petrol rezervlerinden bazılarına sahip olan İran, bölgesel bir güç ve jeopolitik açıdan kritik bir enerji kilit noktasıdır. Günümüzde teokratik anayasal cumhuriyet yapısıyla yönetilen ülke, Orta Doğu politikalarında ve küresel enerji denkleminde belirleyici bir role sahiptir.",
+  "history": {
+    "summary": "İran tarihi, M.Ö. 3000'li yıllara dayanan Elam medeniyeti ve ardından kurulan Ahameniş İmparatorluğu ile dünya tarihinin en köklü devlet geleneklerinden birini temsil eder. İslamiyet'in kabulünün ardından Türk ve Fars kültürlerinin harmanlandığı Büyük Selçuklu ve Safevi dönemleri, ülkenin mezhepsel ve kültürel kimliğini şekillendirmiştir. 20. yüzyılda petrolün keşfi, meşrutiyet hareketleri ve Pahlavi Hanedanı'nın modernleşme çabaları yaşanmış; 1979 İslam Devrimi ile rejim tamamen değişerek günümüzdeki siyasi yapı kurulmuştur.",
+    "timeline": [
+      {
+        "year": "M.Ö. 550",
+        "title": "Ahameniş İmparatorluğu'nun Kuruluşu",
+        "description": "Büyük Kiros'un Medleri ve Babillileri yenerek tarihin kaydedilmiş ilk küresel imparatorluğunu ve İnsan Hakları Bildirgesi kabul edilen Kiros Silindiri'ni ortaya çıkarması.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.Ö. 247",
+        "title": "Part (Arşaklı) İmparatorluğu",
+        "description": "Doğu ile Batı arasındaki İpek Yolu ticaretini denetleyen ve Roma İmparatorluğu'nun doğudaki en büyük rakibi haline gelen hanedanın yükselişi.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "224",
+        "title": "Sasani İmparatorluğu'nun Kurulması",
+        "description": "Zerdüştlük dinini devletin resmi inancı yapan, mimari ve idari yapıda klasik İran medeniyetinin altın çağını yaşatan devletin kuruluşu.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "651",
+        "title": "Müslümanların İran'ı Fethi",
+        "description": "Nihavend Savaşı sonrası Sasani İmparatorluğu'nun yıkılması ve İran coğrafyasının İslam kültür dairesine ve hilafet yönetimine girmesi.",
+        "era": "Orta Çağ"
+      },
+      {
+        "year": "1501",
+        "title": "Safevi Devleti ve Şiiliğin Resmi Din Olması",
+        "description": "Şah İsmail'in Tebriz'de tahta geçerek On İki İmam Şiiliğini devletin resmi mezhebi ilan etmesi ve modern İran'ın sınırları ile kimliğinin temellerini atması.",
+        "era": "Erken Modern Dönem"
+      },
+      {
+        "year": "1796",
+        "title": "Kacar Hanedanı Dönemi",
+        "description": "Ağa Muhammed Han tarafından Tahran'ın başkent yapılması ve Batılı güçlerin (İngiltere ve Rusya) bölgedeki nüfuz mücadelelerinin başladığı dönem.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1905-1911",
+        "title": "İran Meşrutiyet Devrimi",
+        "description": "Mutlak monarşiyi sınırlandırarak ülkenin ilk anayasasını ve parlamentosunu (Meclis) kuran toplumsal ve siyasi halk hareketi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1925",
+        "title": "Pahlavi Hanedanı'nın Kuruluşu",
+        "description": "Rıza Şah Pahlavi'nin merkezi ulus-devlet yapısı kurmak amacıyla başlattığı sekülerleşme ve altyapı modernleşme hamleleri.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1953",
+        "title": "Musaddık Darbesi (Ajax Operasyonu)",
+        "description": "Petrolü millileştiren Başbakan Muhammed Musaddık'ın Dış müdahaleler desteğiyle devrilmesi ve Şah Muhammed Rıza Pahlavi'nin otoritesinin pekişmesi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979",
+        "title": "İran İslam Devrimi",
+        "description": "Ayetullah Ruhullah Humeyni önderliğinde Şah rejiminin devrilmesi ve referandumla İran İslam Cumhuriyeti'nin kurulması.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1980-1988",
+        "title": "İran-Irak Savaşı",
+        "description": "Irak'ın İran topraklarını işgaliyle başlayan, sekiz yıl süren ve bölge ekonomisi ile jeopolitiğinde derin izler bırakan yıkıcı savaş.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2015",
+        "title": "Kapsamlı Ortak Eylem Planı (JCPOA)",
+        "description": "İran ile P5+1 ülkeleri arasında imzalanan, nükleer programın denetim altına alınması karşılığında ekonomik yaptırımların esnetilmesini öngören tarihi anlaşma.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "İran ekonomisi; devasa hidrokarbon rezervleri, geniş tarım sektörü ve gelişmiş hizmet alanlarıyla karma bir yapıya sahiptir. Devletin ve yarı kamusal kurumların ağır ağırlıkta olduğu ekonomi, hidrokarbon ihracatına bağımlılığı nedeniyle küresel petrol fiyat dalgalanmalarından ve uluslararası yaptırımlardan doğrudan etkilenmektedir. Son yıllarda yaptırımlara karşı dayanıklılık geliştirmek adına sanayi çeşitlendirmesi, yerli üretim ve Asya pazarlarıyla ticareti geliştirme stratejileri takip edilmektedir.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "415.4",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "4,720",
+        "unit": "USD",
+        "year": "2024"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "34.2",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "İran Riyali (IRR)",
+        "unit": "IRR",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "8.8",
+        "unit": "%",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "86.5",
+        "unit": "Milyar USD",
+        "year": "2024"
+      },
+      {
+        "label": "Yıllık İthalat",
+        "value": "63.2",
+        "unit": "Milyar USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Petrol ve Doğalgaz Çıkarımı",
+      "Petrokimya ve Rafineri",
+      "Demir-Çelik ve Madencilik",
+      "Otomotiv Sanayii",
+      "Geleneksel Dokuma ve Halıcılık",
+      "Tarım ve Gıda İşleme",
+      "İlaç ve Biyoteknoloji"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": -6
+          },
+          {
+            "year": "2019",
+            "value": -6.8
+          },
+          {
+            "year": "2020",
+            "value": 3.3
+          },
+          {
+            "year": "2021",
+            "value": 4.7
+          },
+          {
+            "year": "2022",
+            "value": 3.8
+          },
+          {
+            "year": "2023",
+            "value": 5.4
+          },
+          {
+            "year": "2024",
+            "value": 3.7
+          },
+          {
+            "year": "2025",
+            "value": 3.1
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1951",
+        "title": "Petrolün Millileştirilmesi",
+        "description": "İngiliz hakimiyetindeki petrol sanayiinin devletleştirilmesi, İran ekonomik bağımsızlığı için dönüm noktası olmuştur.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979",
+        "title": "Devletçi Ekonomi Modelinin Benimsenmesi",
+        "description": "Devrim sonrası bankaların, büyük sanayi kuruluşlarının ve dış ticaretin kamulaştırılmasıyla devlet merkezli modele geçiş.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2010",
+        "title": "Sübvansiyon Reformu Planı",
+        "description": "Enerji ve gıdadaki dolaylı devlet yardımlarının kademeli olarak kaldırılarak doğrudan nakit transferi sistemine dönüştürülmesi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "Maksimum Baskı Yaptırımları Dönemi",
+        "description": "ABD'nin nükleer anlaşmadan tek taraflı çekilmesi sonrasında finans ve enerji sektörlerine uygulanan en ağır yaptırım dalgası.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "İran dış politikasında bağımsızlık, 'Ne Doğu Ne Batı' doktrininden zamanla Asya güçleriyle stratejik ortaklığa doğru evrilmiştir. Batı dünyası ve ABD ile nükleer program ve bölgesel politikalar zemininde gerilimli bir ilişki sürdürülürken; Çin ve Rusya ile askeri, ticari ve diplomatik ilişkiler derinleştirilmiştir. Bölgesel ölçekte Direniş Eksenini destekleyen ülke, son yıllarda Suudi Arabistan ve Körfez ülkeleriyle yumuşama diplomasi adımları atmıştır.",
+    "alliances": [
+      {
+        "partner": "Çin Halk Cumhuriyeti",
+        "relationType": "Stratejik Kapsamlı Ortaklık",
+        "description": "2021 yılında imzalanan 25 yıllık stratejik işbirliği anlaşması çerçevesinde enerji, altyapı ve ticaret alanlarında derin ortaklık.",
+        "since": "2021"
+      },
+      {
+        "partner": "Rusya Federasyonu",
+        "relationType": "Askeri ve Jeopolitik İttifak",
+        "description": "Suriye krizindeki saha işbirliği, savunma sanayii tedariki ve küresel yaptırımlara karşı ortak diplomatik tutum.",
+        "since": "2015"
+      },
+      {
+        "partner": "Irak Hükümeti",
+        "relationType": "Bölgesel Müttefik",
+        "description": "Güvenlik, enerji ihracatı, dini turizm ve altyapı projeleri üzerinden geliştirilen yakın hükümetler arası ilişki.",
+        "since": "2003"
+      },
+      {
+        "partner": "Suriye",
+        "relationType": "Müttefik",
+        "description": "Orta Doğu stratejisinin temel ayaklarından biri olarak kabul edilen uzun süreli askeri ve siyasi ittifak.",
+        "since": "1979"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "Kasr-ı Şirin Antlaşması",
+        "year": "1639",
+        "description": "Osmanlı İmparatorluğu ile Safeviler arasında imzalanan ve günümüz Türkiye-İran sınırının temellerini belirleyen sınır anlaşması."
+      },
+      {
+        "name": "Türkmençay Antlaşması",
+        "year": "1828",
+        "description": "Rusya ile yapılan savaş sonrası Güney Kafkasya topraklarının Rus kontrolüne geçmesini kabul eden tarihi antlaşma."
+      },
+      {
+        "name": "Cezayir Anlaşması",
+        "year": "1975",
+        "description": "İran ve Irak arasında Şattülarap su yolundaki sınır anlaşmazlığını çözüme kavuşturan mutabakat."
+      },
+      {
+        "name": "Kapsamlı Ortak Eylem Planı (JCPOA)",
+        "year": "2015",
+        "description": "BM Daimi Üyeleri ve Almanya ile nükleer faaliyetlerin kısıtlanması karşılığında yaptırımların kaldırılması üzerine yapılan uluslararası antlaşma."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Birleşik Devletler (ABD)",
+        "relationType": "Anlaşmazlık",
+        "description": "Nükleer program, bölgesel askeri varlık ve ekonomi yaptırımlar ekseninde devam eden kırk yılı aşkın diplomatik ve siyasi kriz.",
+        "since": "1979"
+      },
+      {
+        "partner": "Birleşik Arap Emirlikleri (BAE)",
+        "relationType": "Anlaşmazlık",
+        "description": "Basra Körfezi'nde yer alan Ebû Mûsâ, Büyük Tunb ve Küçük Tunb adalarının egemenlik statüsü üzerindeki anlaşmazlık.",
+        "since": "1971"
+      },
+      {
+        "partner": "İsrail",
+        "relationType": "Anlaşmazlık",
+        "description": "Karşılıklı varlık tanımazlık, bölgesel nüfuz savaşları ve güvenlik tehdit algıları çerçevesinde yaşanan derin askeri-stratejik gerilim.",
+        "since": "1979"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "İslam İşbirliği Teşkilatı",
+        "role": "Kurucu Üye",
+        "joinedYear": "1969"
+      },
+      {
+        "name": "OPEC (Petrol İhraç Eden Ülkeler Örgütü)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1960"
+      },
+      {
+        "name": "Şanghay İşbirliği Örgütü",
+        "role": "Aktif Üye",
+        "joinedYear": "2023"
+      },
+      {
+        "name": "BRICS",
+        "role": "Aktif Üye",
+        "joinedYear": "2024"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "İran'ın siyasi sistemi, 1979 Anayasası ile kurulan teokratik ögeler ile cumhuriyetçi ögelerin harmanlandığı benzersiz bir 'Velayet-i Fakih' yapısına sahiptir. Ülkede seçimle işbaşına gelen parlamenter ve yürütme organları bulunmakla birlikte, nihai karar yetkisi dini liderlik (Rehberlik) ve atanmış teokratik denetim organlarının elindedir. Dönemsel olarak muhafazakar ve reformist siyasi akımlar arasındaki dinamikler seçim sonuçlarını ve iç politika dengelerini etkilemektedir.",
+    "governmentForm": "Teokratik Anayasal İslami Cumhuriyet",
+    "currentStructure": "Yönetimin en üst kademesinde dini lider (Rehber) yer alır; ordu ve yargının kontrolü liderdedir. Cumhurbaşkanı ve İslami Danışma Meclisi (Mecis) genel oy ile seçilir. Yasaların İslam'a ve anayasaya uygunluğunu Anayasayı Koruma Konseyi denetler.",
+    "timeline": [
+      {
+        "year": "1906",
+        "title": "İlk Anayasa ve Meclis",
+        "description": "İran tarihindeki ilk parlamenter sistem denemesi ve anayasal düzene geçiş hamlesi.",
+        "era": "Yakın Çağ"
+      },
+      {
+        "year": "1953",
+        "title": "Otoriterleşme ve Şah Rejimi",
+        "description": "Musaddık'ın devrilmesinin ardından siyasi muhalefetin bastırılması ve tek adam rejiminin güçlenmesi.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1979",
+        "title": "İslam Cumhuriyeti Anayasası",
+        "description": "Ayetullah Humeyni'nin kuramlaştırdığı Velayet-i Fakih ilkesine dayanan yeni devlet düzeninin anayasal olarak kabulü.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1989",
+        "title": "Anayasa Değişikliği ve Liderlik Değişimi",
+        "description": "Humeyni'nin vefatı sonrası Ali Hamaney'in Dini Lider seçilmesi ve Başbakanlık makamının kaldırılarak Cumhurbaşkanlığı yetkilerinin artırılması.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1997",
+        "title": "Reformist Dönemin Başlaması",
+        "description": "Muhammed Hatemi'nin Cumhurbaşkanı seçilmesiyle sivil toplum, basın özgürlüğü ve dış ilişkilerde yumuşama söylemlerinin öne çıkması.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2009",
+        "title": "Yeşil Hareket Protestoları",
+        "description": "Cumhurbaşkanlığı seçim sonuçlarına yönelik hile iddialarıyla başlayan toplumsal gösteriler ve siyasi kutuplaşma.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2022",
+        "title": "Sosyal ve Siyasi Gösteriler",
+        "description": "Mahsa Amini'nin ölümü sonrası başlayan, sosyal özgürlükler ve toplumsal talepler odaklı kitlesel eylemler.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "İran, uluslararası yaptırımlara ve ambargolara rağmen temel bilimler, mühendislik ve yüksek teknoloji alanlarında önemli bir yerli araştırma altyapısı geliştirmiştir. Özellikle nükleer teknoloji, havacılık ve uzay araştırmaları, kök hücre tedavileri ile savunma sanayii teknolojilerinde Orta Doğu'daki en yüksek bilimsel yayın ve araştırma kapasitelerinden birine sahiptir. STEM (Bilim, Teknoloji, Mühendislik, Matematik) alanındaki yükseköğrenim mezuniyet oranları ülkenin en büyük akademik gücünü oluşturur.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.85",
+        "unit": "%",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Yıllık Akademik Yayın Sayısı",
+        "value": "76,500",
+        "unit": "Adet",
+        "scoreOutOf100": 78
+      },
+      {
+        "label": "Nanoteknoloji Yayın Sıralaması",
+        "value": "4",
+        "unit": "Dünya Sırası",
+        "scoreOutOf100": 90
+      },
+      {
+        "label": "Yıllık Patent Başvurusu",
+        "value": "10,200",
+        "unit": "Adet",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "185,000",
+        "unit": "Kişi",
+        "scoreOutOf100": 68
+      }
+    ],
+    "notableAchievements": [
+      "Simurg ve Kavuşgar yerli roketleriyle uzaya canlı organizma ve yerli uydular fırlatma başarısı",
+      "Royan Enstitüsü bünyesinde kopyalama ve kök hücre teknolojilerinde elde edilen küresel ölçekli başarılar",
+      "Yüksek seviyede uranyum zenginleştirme ve tıbbi radyoizotop üretme nükleer teknoloji kapasitesi",
+      "Yerli İnsansız Hava Araçları (İHA) ve hassas güdümlü füze sistemleri teknolojisi üretimi"
+    ],
+    "institutions": [
+      {
+        "name": "Tahran Üniversitesi",
+        "type": "Universite",
+        "description": "İran'ın en eski ve en prestijli yükseköğretim kurumu olup sosyal, temel ve mühendislik bilimlerinde lider konumdadır."
+      },
+      {
+        "name": "Şerif Teknoloji Üniversitesi",
+        "type": "Universite",
+        "description": "Mühendislik ve fen bilimleri alanında ülkenin en yetkin akademik kadrosuna ve öğrenci potansiyeline sahip kurum."
+      },
+      {
+        "name": "Royan Kök Hücre Biyolojisi ve Teknolojisi Araştırma Enstitüsü",
+        "type": "Arastirma Enstitusu",
+        "description": "Kök hücre, üreme biyolojisi ve rejenaratif tıp alanlarında uluslararası başarılara imza atan tıp araştırma merkezi."
+      },
+      {
+        "name": "İran Uzay Ajansı (ISA)",
+        "type": "Uzay Ajansi",
+        "description": "İran'ın uzay programlarını, uydu geliştirme ve roket fırlatma misyonlarını yürüten devlet kurumu."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:14:01.576Z"
+}

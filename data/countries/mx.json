@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "code": "mx",
+    "iso3": "MEX",
+    "name_tr": "Meksika",
+    "name_en": "Mexico",
+    "region": "Kuzey Amerika",
+    "capital_tr": "Meksiko",
+    "flag_emoji": "🇲🇽"
+  },
+  "overview": "Meksika, Kuzey Amerika kıtasının güneyinde yer alan, zengin tarihi ve yüksek nüfusuyla bölgenin en nüfuzlu devletlerinden biridir. Kuzeyde Amerika Birleşik Devletleri, güneydoğuda Guatemala ve Belize ile komşu olan ülke; batıda Büyük Okyanus, doğuda ise Meksika Körfezi ve Karayip Denizi ile çevrilidir. Kolomb öncesi dönemde Aztek ve Maya gibi gelişmiş medeniyetlere ev sahipliği yapmış olan Meksika, günümüzde Latin Amerika'nın ikinci büyük ekonomisi ve geniş kültürel mirasa sahip federal Anayasal bir cumhuriyettir.",
+  "history": {
+    "summary": "Meksika tarihi, binlerce yıllık antik yerli uygarlıkları, 16. yüzyıldaki İspanyol fethini, 19. yüzyıldaki bağımsızlık mücadelesini ve 20. yüzyıldaki köklü devrimsel dönüşümleri kapsar. Olmek, Maya ve Aztek medeniyetlerinin bıraktığı derin izler, 1521 yılında Hernán Cortés komutasındaki İspanyolların Tenochtitlan'ı ele geçirmesiyle 300 yıllık Yeni İspanya Krallığı dönemine evrilmiştir. 1810'da başlayan bağımsızlık savaşı 1821'de zaferle sonuçlanmış; ardından siyasi istikrarsızlıklar, toprak kayıpları ve iç savaşlar yaşanmıştır. 1910 Meksika Devrimi modern devletin temellerini atmış ve ülke 21. yüzyılda çok partili demokratik bir yapıya kavuşmuştur.",
+    "timeline": [
+      {
+        "year": "M.Ö. 1200 - M.Ö. 400",
+        "title": "Olmek Uygarlığının Yükselişi",
+        "description": "Meksika Körfezi kıyılarında gelişen Olmekler, Mesoamerika'nın 'ana kültürü' olarak kabul edilir. Devasa taş kafa heykelleri, takvim sistemleri ve dinsel ritüelleriyle sonraki uygarlıklara temel oluşturmuşlardır.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "M.S. 250 - 900",
+        "title": "Klasik Maya Dönemi",
+        "description": "Meksika'nın güneydoğusunda ve Orta Amerika'da Maya kent devletleri matematik, astronomi ve mimaride altın çağını yaşadı. Palenque, Chichén Itzá ve Calakmul gibi merkezler büyük bir kültürel etki yarattı.",
+        "era": "Antik Dönem"
+      },
+      {
+        "year": "1325",
+        "title": "Tenochtitlan'ın Kuruluşu",
+        "description": "Meksikalar (Aztekler), Texcoco Gölü üzerindeki bir adada Tenochtitlan şehrini kurdu. Kısa sürede askeri ittifaklar kurarak Mesoamerika'nın en baskın imparatorluğuna dönüştüler.",
+        "era": "Kolomb Öncesi Dönem"
+      },
+      {
+        "year": "1519 - 1521",
+        "title": "İspanyol Fethi ve Tenochtitlan'ın Düşüşü",
+        "description": "Hernán Cortés önderliğindeki İspanyol güçleri ve yerel müttefikleri, Aztek Başkenti Tenochtitlan'ı kuşatarak ele geçirdi. Bu olay, Yeni İspanya Sömürge Yönetimi'nin başlangıcı oldu.",
+        "era": "Sömürge Dönemi"
+      },
+      {
+        "year": "1810 - 1821",
+        "title": "Meksika Bağımsızlık Savaşı",
+        "description": "Papaz Miguel Hidalgo'nun 'Grito de Dolores' çağrısıyla başlayan ayaklanma, 11 yıl süren çatışmaların ardından Cordoba Antlaşması ile İspanya'dan bağımsızlığın kazanılmasıyla sonuçlandı.",
+        "era": "Bağımsızlık Dönemi"
+      },
+      {
+        "year": "1846 - 1848",
+        "title": "Meksika-Amerika Savaşı",
+        "description": "Texas'ın ilhakı sonrası çıkan savaş, Guadalupe Hidalgo Antlaşması ile sona erdi. Meksika, günümüzdeki California, Nevada, Utah ve Arizona'yı kapsayan kuzey topraklarının yarısından fazlasını ABD'ye devretti.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1861 - 1867",
+        "title": "Fransız Müdahalesi ve İkinci İmparatorluk",
+        "description": "Fransa İmparatoru III. Napoléon'un desteğiyle Avusturyalı Arşidük Maximilian Meksika İmparatoru ilan edildi. Benito Juárez liderliğindeki cumhuriyetçilerin direnişiyle Fransızlar çekildi ve cumhuriyet yeniden kuruldu.",
+        "era": "19. Yüzyıl"
+      },
+      {
+        "year": "1876 - 1911",
+        "title": "Porfiriato Dönemi",
+        "description": "Porfirio Díaz'ın uzun süren otoriter yönetimi altında demiryolları inşa edildi ve sanayileşme hız kazandı; ancak toplumsal eşitsizlikler ve toprak gaspı devrimin fitilini ateşledi.",
+        "era": "Modern Öncesi Dönem"
+      },
+      {
+        "year": "1910 - 1920",
+        "title": "Meksika Devrimi",
+        "description": "Emiliano Zapata, Pancho Villa ve Francisco Madero liderliğindeki köylü ve reformcu hareketler Díaz rejimini devirdi. Çatışmalar, 1917 yılında ilerici bir anayasanın kabul edilmesiyle sonuçlandı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1929",
+        "title": "PRI'nın Kurulması ve Tek Parti Hegemonyası",
+        "description": "Devrimci güçlerin birleşmesiyle kurulan Kurumsal Devrimci Parti (PRI), kesintisiz 71 yıl boyunca Meksika hükümetini yöneterek siyasi istikrar sağlarken vesayetçi bir yapı oluşturdu.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "1994",
+        "title": "NAFTA ve Zapatista İsyanı",
+        "description": "Kuzey Amerika Serbest Ticaret Anlaşması (NAFTA) yürürlüğe girdi. Aynı gün Chiapas'ta Zapatista Ulusal Kurtuluş Ordusu (EZLN) yerli hakları için silahlı bir ayaklanma başlattı.",
+        "era": "Yakın Tarih"
+      },
+      {
+        "year": "2000",
+        "title": "Siyasi Dönüşüm ve Demokratik Geçiş",
+        "description": "Vicente Fox'un başkan seçilmesiyle PRI'nın 70 yılı aşkın iktidarı sona erdi ve Meksika'da rekabetçi çok partili demokrasi dönemi resmen tescillendi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "economy": {
+    "summary": "Meksika ekonomisi, gelişmekte olan serbest piyasa yapısıyla dünyanın en büyük 15 ekonomisinden biridir. İmalat sanayii, otomotiv, elektronik ve petrol üretimi ekonominin omurgasını oluşturmaktadır. ABD ile olan coğrafi yakınlık ve küresel tedarik zincirlerindeki yerelleşme (nearshoring) eğilimi, ülkeye doğrudan yabancı yatırım akışını artırmıştır. Yüksek ihracat kapasitesine karşın gelir adaletsizliği, kayıt dışı istihdam ve altyapı eksiklikleri temel ekonomik sınamalar arasında yer almaktadır.",
+    "indicators": [
+      {
+        "label": "GSYİH (Nominal)",
+        "value": "1.82 Trilyon",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Kişi Başına GSYİH",
+        "value": "13,900",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Enflasyon Oranı",
+        "value": "3.9",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "İşsizlik Oranı",
+        "value": "2.7",
+        "unit": "%",
+        "year": "2025"
+      },
+      {
+        "label": "Para Birimi",
+        "value": "Meksika Pezosu (MXN)",
+        "unit": "MXN",
+        "year": "2025"
+      },
+      {
+        "label": "Yıllık İhracat",
+        "value": "610 Milyar",
+        "unit": "USD",
+        "year": "2025"
+      },
+      {
+        "label": "Doğrudan Yabancı Yatırım",
+        "value": "39.5 Milyar",
+        "unit": "USD",
+        "year": "2024"
+      }
+    ],
+    "majorIndustries": [
+      "Otomotiv ve Yedek Parça İmalatı",
+      "Elektronik ve Bilgisayar Donanımı",
+      "Petrol ve Petrokimya Sanayii",
+      "Havacılık ve Uzay Ekipmanları",
+      "Tarımsal Sanayi ve İçecek Üretimi",
+      "Turizm ve Otelcilik Hizmetleri",
+      "Telekomünikasyon ve Finansal Hizmetler"
+    ],
+    "chartSeries": [
+      {
+        "name": "GSYİH Yıllık Büyüme Oranı",
+        "unit": "%",
+        "data": [
+          {
+            "year": "2018",
+            "value": 2.2
+          },
+          {
+            "year": "2019",
+            "value": -0.3
+          },
+          {
+            "year": "2020",
+            "value": -8.6
+          },
+          {
+            "year": "2021",
+            "value": 5.8
+          },
+          {
+            "year": "2022",
+            "value": 3.9
+          },
+          {
+            "year": "2023",
+            "value": 3.2
+          },
+          {
+            "year": "2024",
+            "value": 1.5
+          },
+          {
+            "year": "2025",
+            "value": 1.8
+          }
+        ]
+      }
+    ],
+    "historicalMilestones": [
+      {
+        "year": "1938",
+        "title": "Petrol Sanayiinin Millileştirilmesi",
+        "description": "Başkan Lázaro Cárdenas, yabancı petrol şirketlerinin varlıklarını kamulaştırarak devlet petrol şirketi PEMEX'i kurdu. Bu hamle ulusal egemenliğin ekonomik simgesi oldu.",
+        "era": "Devrim Sonrası Dönem"
+      },
+      {
+        "year": "1982",
+        "title": "Dış Borç Krizi ve Piyasa Reformları",
+        "description": "Meksika'nın borç yükümlülüklerini ödeyemeyeceğini açıklaması Latin Amerika borç krizini başlattı. Ülke, korumacı modelden dışa açık serbest piyasa ekonomisine geçiş yaptı.",
+        "era": "Küreselleşme Dönemi"
+      },
+      {
+        "year": "1994",
+        "title": "NAFTA'nın Başlaması ve Pezo Krizi",
+        "description": "Kuzey Amerika Serbest Ticaret Anlaşması ile ihracat odaklı büyüme ivme kazandı; ancak aynı yıl yaşanan mali dalgalanma Pezo krizine (Tequila Krizi) yol açtı.",
+        "era": "Modern Dönem"
+      },
+      {
+        "year": "2020",
+        "title": "USMCA (T-MEC) Anlaşması ve Nearshoring Eğilimi",
+        "description": "NAFTA'nın güncellenmiş hali olan USMCA yürürlüğe girdi. Çin-ABD ticaret gerilimleri sonrası küresel firmaların üretimlerini Meksika'ya kaydırması ekonomik yapıyı şekillendirdi.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "relations": {
+    "summary": "Meksika dış politikasında geleneksel olarak müdahalesizlik, ulusların kendi kaderini tayini ve anlaşmazlıkların barışçıl çözümü ilkelerini kapsayan Estrada Doktrini'ni benimser. Kuzey Amerika entegrasyonu sebebiyle ABD ve Kanada ile hayati derecede sıkı ekonomik ve güvenlik ilişkilerine sahiptir. Aynı zamanda Latin Amerika ülkeleriyle tarihsel bağlarını korumakta, Çok Taraflılık prensibi doğrultusunda BM, G20 ve Pasifik İttifakı gibi platformlarda etkin bir diplomatik rol oynamaktadır.",
+    "alliances": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Kritik Ticari ve Stratejik Ortak",
+        "description": "İki ülke arasında günlük milyarlarca dolarlık ticaret hacmi, sınır güvenliği, göç yönetimi ve uyuşturucuyla mücadele alanlarında derin ve karmaşık bir bağımlılık mevcuttur.",
+        "since": "1822"
+      },
+      {
+        "partner": "Kanada",
+        "relationType": "Kuzey Amerika Ticaret Müttefiki",
+        "description": "USMCA çerçevesinde iş birliği yapan iki ülke, doğrudan yatırımlar, iş gücü hareketliliği ve madencilik sektöründe güçlü ortaklıklara sahiptir.",
+        "since": "1944"
+      },
+      {
+        "partner": "Pasifik İttifakı",
+        "relationType": "Bölgesel Ekonomik Blok",
+        "description": "Şili, Kolombiya ve Peru ile birlikte kurulan blok; mal, hizmet, sermaye ve insanların serbest dolaşımını hedefleyen derin bir entegrasyon modelidir.",
+        "since": "2011"
+      },
+      {
+        "partner": "Avrupa Birliği",
+        "relationType": "Stratejik Ortak",
+        "description": "1997 imzalı Küresel Anlaşma çerçevesinde siyasi diyalog, serbest ticaret ve teknik iş birliğini kapsayan köklü hukuki bağlar yürütülmektedir.",
+        "since": "1960"
+      }
+    ],
+    "treaties": [
+      {
+        "name": "USMCA / T-MEC (ABD-Meksika-Kanada Anlaşması)",
+        "year": "2020",
+        "description": "NAFTA'nın yerini alan antlaşma; iş gücü standartları, otomotiv menşei kuralları ve dijital ticaret alanında Kuzey Amerika ticaretini modernize etmiştir."
+      },
+      {
+        "name": "Tlatelolco Antlaşması",
+        "year": "1967",
+        "description": "Latin Amerika ve Karayipler'in nükleer silahlardan arındırılmasını sağlayan tarihi antlaşma, Meksika diplomasisinin küresel silahsızlanmadaki en büyük başarısıdır."
+      },
+      {
+        "name": "CPTPP (Kapsamlı ve İlerici Pasifik Ötesi Ortaklık Anlaşması)",
+        "year": "2018",
+        "description": "Asya-Pasifik bölgesindeki 11 ülke ile ticaret bağlarını güçlendiren ve pazar çeşitliliği sağlayan serbest ticaret anlaşmasıdır."
+      }
+    ],
+    "disputes": [
+      {
+        "partner": "Amerika Birleşik Devletleri",
+        "relationType": "Anlasmazlik",
+        "description": "Düzensiz göçmen akışının yönetimi, sınır ötesi uyuşturucu ve silah kaçakçılığı ile Meksika'nın enerji sektöründeki devletçi politikalarının ticaret kurallarına uyumu konularında dönemsel gerilimler yaşanmaktadır.",
+        "since": "1990"
+      },
+      {
+        "partner": "Ekvador",
+        "relationType": "Anlasmazlik",
+        "description": "Nisan 2024'te Ekvador güvenlik güçlerinin Quito'daki Meksika Büyükelçiliği'ne girerek sığınma talebinde bulunan eski Devlet Başkanı Yardımcısını tutuklaması üzerine diplomatik ilişkiler kesilmiş ve konu Uluslararası Adalet Divanı'na taşınmıştır.",
+        "since": "2024"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Birleşmiş Milletler",
+        "role": "Kurucu Üye",
+        "joinedYear": "1945"
+      },
+      {
+        "name": "G20",
+        "role": "Aktif Üye",
+        "joinedYear": "2008"
+      },
+      {
+        "name": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD)",
+        "role": "Aktif Üye",
+        "joinedYear": "1994"
+      },
+      {
+        "name": "Amerikan Devletleri Örgütü (OAS)",
+        "role": "Kurucu Üye",
+        "joinedYear": "1948"
+      },
+      {
+        "name": "Dünya Ticaret Örgütü (DTÖ)",
+        "role": "Üye",
+        "joinedYear": "1995"
+      }
+    ]
+  },
+  "politics": {
+    "summary": "Meksika, üçlü erkler ayrılığına dayalı federal başkanlık tipi bir cumhuriyettir. Ülke, 31 özerk eyalet ve özerk bir başkent bölgesinden (Meksiko) oluşur. Siyasi tarih uzun süre tek parti egemenliğinde şekillenmiş olsa da, 1990'larddaki seçim reformları neticesinde adil ve rekabetçi bir demokratik sisteme geçilmiştir. Yürütmenin başı olan Devlet Başkanı, aynı zamanda hükümetin de başıdır ve altı yıllık tek bir dönem (sexenio) için seçilir.",
+    "governmentForm": "Başkanlık Sistemi ile Yönetilen Federal Anayasal Cumhuriyet",
+    "currentStructure": "Yürütme erki 6 yıllığına doğrudan halk tarafından seçilen Devlet Başkanı'na aittir. Yasama erki Senato ve Temsilciler Meclisi'nden oluşan çift kamaralı Birlik Kongresi tarafından yürütülür. Yargı erkinin en üst organı ise Ulusal Yüksek Adalet Mahkemesi'dir.",
+    "timeline": [
+      {
+        "year": "1824",
+        "title": "İlk Federal Anayasanın Kabulü",
+        "description": "Bağımsızlık sonrası Meksika Birleşik Devletleri'ni kuran ve eyalet özerkliklerini tanıyan ilk federal anayasa ilan edildi.",
+        "era": "Erken Cumhuriyet Dönemi"
+      },
+      {
+        "year": "1857",
+        "title": "Reform Anayasası ve Laiklik",
+        "description": "Benito Juárez liderliğindeki liberal reformlar, kilisenin mülkiyet ve eğitim üzerindeki gücünü kısıtlayarak devleti laikleştirdi.",
+        "era": "Reform Dönemi"
+      },
+      {
+        "year": "1917",
+        "title": "Mevcut Anayasanın Kabul Edilmesi",
+        "description": "Devrim sürecinin sonunda Querétaro'da kabul edilen anayasa, işçi hakları, toprak reformu ve laik eğitim konusunda dünyadaki en ilerici metinlerden biri oldu.",
+        "era": "Devrim Dönemi"
+      },
+      {
+        "year": "1953",
+        "title": "Kadınlara Seçme ve Seçilme Hakkı",
+        "description": "Anayasa değişikliği ile kadınlara federal seçimlerde oy kullanma ve aday olma hakkı tanındı.",
+        "era": "Modernleşme Dönemi"
+      },
+      {
+        "year": "1968",
+        "title": "Tlatelolco Öğrenci Katliamı",
+        "description": "Meksiko'daki Olimpiyat Oyunları öncesinde demokrasi talep eden öğrenci gösterilerinin kanlı bir şekilde bastırılması rejimin meşruiyetini sarstı.",
+        "era": "Toplumsal Hareketler Dönemi"
+      },
+      {
+        "year": "1990",
+        "title": "Federal Seçim Enstitüsü'nün (IFE/INE) Kurulması",
+        "description": "Seçim güvenliğini ve şeffaflığını sağlamak amacıyla bağımsız bir seçim kurulu oluşturuldu, tek parti iktidarının sonunu hazırlayan adımlardan biri atıldı.",
+        "era": "Demokratikleşme Dönemi"
+      },
+      {
+        "year": "2000",
+        "title": "İktidarın Barışçıl Değişimi",
+        "description": "Sağ-merkez parti PAN'ın adayı Vicente Fox'un başkanlığı kazanmasıyla PRI'nın 71 yıllık kesintisiz yönetimi sona erdi.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2018",
+        "title": "MORENA ve Solun İktidara Gelişi",
+        "description": "Andrés Manuel López Obrador'un büyük bir oy farkıyla seçilmesi, geleneksel siyasi partilerin hegomonyasını kırarak ülkede sol-popülist bir reform dönemi başlattı.",
+        "era": "Çağdaş Dönem"
+      },
+      {
+        "year": "2024",
+        "title": "İlk Kadın Devlet Başkanının Seçilmesi",
+        "description": "Claudia Sheinbaum, genel seçimleri kazanarak Meksika ve Kuzey Amerika tarihinin ilk kadın devlet başkanı oldu.",
+        "era": "Çağdaş Dönem"
+      }
+    ]
+  },
+  "science": {
+    "summary": "Meksika, Latin Amerika'da bilimsel araştırma ve teknoloji üretimi açısından köklü bir geleneğe sahiptir. Maya astronomisinden modern biyoteknolojiye uzanan süreçte ülke; kimya, tıp ve astrofizik alanlarında küresel katkılar sunmuştur. Ulusal Özerk Üniversite (UNAM) ve Ulusal Politeknik Enstitüsü (IPN) gibi kurumlar araştırmaların merkezinde yer alırken, devlet teşviklerinin artırılması ve özel sektör Ar-Ge yatırımlarının yükseltilmesi hedeflenmektedir.",
+    "indicators": [
+      {
+        "label": "Ar-Ge Harcamalarının GSYİH'ye Oranı",
+        "value": "0.31",
+        "unit": "%",
+        "scoreOutOf100": 35
+      },
+      {
+        "label": "Yıllık Bilimsel Makale Sayısı",
+        "value": "34,200",
+        "unit": "Adet",
+        "scoreOutOf100": 64
+      },
+      {
+        "label": "Toplam Araştırmacı Sayısı",
+        "value": "68,500",
+        "unit": "Kişi",
+        "scoreOutOf100": 58
+      },
+      {
+        "label": "Yıllık Patent Başvuruları",
+        "value": "16,100",
+        "unit": "Adet",
+        "scoreOutOf100": 52
+      },
+      {
+        "label": "Yüksek Teknoloji İhracat Payı",
+        "value": "20.8",
+        "unit": "%",
+        "scoreOutOf100": 74
+      }
+    ],
+    "notableAchievements": [
+      "Mario Molina'nın CFC gazlarının ozon tabakasına zararlarını keşfederek 1995 Nobel Kimya Ödülü'nü kazanması.",
+      "Luis Ernesto Miramontes'in 1951 yılında ilk oral doğum kontrol hapının etken maddesini sentezlemesi.",
+      "Guillermo González Camarena'nın 1940 yılında trichromatic adaptörlü erken dönem renkli televizyon sistemini icat etmesi.",
+      "Büyük Milimetrik Teleskop (GTM) projesiyle kara deliklerin ilk fotoğraflanması sürecinde yürütülen küresel iş birliği.",
+      "Meksikalı bilim insanlarının mısır genetiği ve kuraklığa dayanıklı tarım biyoteknolojisi alanındaki küresel liderliği."
+    ],
+    "institutions": [
+      {
+        "name": "Meksika Ulusal Özerk Üniversitesi (UNAM)",
+        "type": "Universite",
+        "description": "Latin Amerika'nın en büyük ve en prestijli araştırmacı üniversitelerinden biridir; tıp, astronomi, sosyal bilimler ve mühendislikte öncüdür."
+      },
+      {
+        "name": "Ulusal Politeknik Enstitüsü (IPN)",
+        "type": "Universite",
+        "description": "Mühendislik, teknoloji ve doğa bilimleri odaklı kamu üniversitesi olup ulusal sanayi altyapısına uzman yetiştirir."
+      },
+      {
+        "name": "Monterrey Teknoloji ve Yükseköğrenim Enstitüsü (ITESM)",
+        "type": "Universite",
+        "description": "Özel girişimcilik, mühendislik, biyoteknoloji ve bilgi teknolojileri alanlarında bölgenin önde gelen teknik üniversitesidir."
+      },
+      {
+        "name": "Ulusal İnsani Bilimler, Bilimler ve Teknolojiler Konseyi (CONAHCYT)",
+        "type": "Arastirma Enstitusu",
+        "description": "Ülkedeki bilimsel politikaları koordine eden, araştırmacılara burs ve kaynak sağlayan temel devlet organıdır."
+      },
+      {
+        "name": "Ulusal Astrofizik, Optik ve Elektronik Enstitüsü (INAOE)",
+        "type": "Arastirma Enstitusu",
+        "description": "Gözlemsel astronomi, optik mühendisliği ve eloktronik alanında uluslararası düzeyde projeler yürüten özerk araştırma merkezidir."
+      }
+    ]
+  },
+  "generatedAt": "2026-07-29T21:14:49.359Z"
+}
